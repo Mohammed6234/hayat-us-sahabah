@@ -63,7 +63,14 @@ The site's default "About them" filter uses `subject` only.
 4. Human review queue: disagreements, low confidence and a random 5–10% sample.
 5. Prerender one page per narration, Companion and theme for SEO.
 
-## Deploying (Cloudflare Pages)
+## Hosting on GitHub Pages
+
+`.github/workflows/pages.yml` publishes the site on every push to `main` to
+`https://mohammed6234.github.io/hayat-us-sahabah/`. One-time setup in the repo's Settings:
+**Pages → Build and deployment → Source: GitHub Actions**. On a free GitHub plan Pages needs a
+public repository; the published site is public either way.
+
+## Alternative: Cloudflare Pages
 
 The site is static: `site/` plus its generated `site/data/`. From a fresh clone, with no raw OCR needed:
 
