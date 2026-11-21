@@ -82,9 +82,10 @@ function finderHtml({ submit }) {
       <div class="field"><label for="f-person-q">Companion</label>
         <div class="combo" id="person-combo">
           <input id="f-person-q" type="text" role="combobox" aria-expanded="false" aria-controls="person-list" aria-autocomplete="list"
-            placeholder="Search a name, e.g. Abu Bakr" autocomplete="off" spellcheck="false" value="${esc(by.person.get(find.person)?.name ?? '')}">
+            placeholder="Choose or type a name" autocomplete="off" spellcheck="false" value="${esc(by.person.get(find.person)?.name ?? '')}">
           <input id="f-person" type="hidden" value="${esc(find.person)}">
           <button type="button" class="combo-clear" id="person-clear" aria-label="Clear companion"${find.person ? '' : ' hidden'}>×</button>
+          <span class="combo-caret" aria-hidden="true"></span>
           <ul id="person-list" class="combo-list" role="listbox" aria-label="Companions" hidden></ul>
         </div></div>
       <div class="field"><label for="f-theme">Theme</label>
@@ -123,46 +124,79 @@ const fold = (x) => String(x).toLowerCase().replace(/['’`]/g, '').replace(/-/g
   .replace(/aa/g, 'a').replace(/ee/g, 'i').replace(/oo/g, 'u').replace(/([bcdfgjklmnpqrstvwxz])h/g, '$1')
   .replace(/(.)\1+/g, '$1').replace(/o/g, 'u').replace(/e/g, 'i').replace(/\s+/g, ' ').trim();
 let personIndex;
+const letterOf = (name) => (name.match(/[A-Za-z]/)?.[0] ?? '#').toUpperCase();
+const index = () => (personIndex ??= D.people.filter((p) => by.personCount.get(p.id)).map((p) => ({ p, key: fold(p.name), n: by.personCount.get(p.id) })));
+
+// With nothing typed: the whole list, A–Z, with a shortcut to the most-narrated at the top.
+function browsePeople() {
+  const byName = (a, b) => a.p.name.localeCompare(b.p.name);
+  const comp = index().filter((x) => x.p.sahabi !== 'no').sort(byName);
+  const others = index().filter((x) => x.p.sahabi === 'no').sort(byName);
+  const rows = [], items = [];
+  const add = (x) => { rows.push({ i: items.length }); items.push(x.p); };
+  const group = (list) => { let cur = ''; for (const x of list) { const l = letterOf(x.p.name); if (l !== cur) { cur = l; rows.push({ head: l, cls: 'po-letter' }); } add(x); } };
+  rows.push({ head: 'Most narrations', cls: 'po-hint' });
+  comp.slice().sort((a, b) => b.n - a.n).slice(0, 12).forEach(add);
+  rows.push({ head: `All companions, A–Z (${comp.length})`, cls: 'po-hint' });
+  group(comp);
+  if (others.length) { rows.push({ head: `Others in the book, A–Z (${others.length})`, cls: 'po-hint' }); group(others); }
+  return { rows, items };
+}
 function searchPeople(q) {
-  personIndex ??= D.people.filter((p) => by.personCount.get(p.id)).map((p) => ({ p, key: fold(p.name), n: by.personCount.get(p.id) }));
   const k = fold(q);
-  if (!k) return personIndex.filter((x) => x.p.sahabi !== 'no').sort((a, b) => b.n - a.n).slice(0, 12).map((x) => x.p);
   // "ibn Abbas" finds "Abdullaah bin Abbaas": the family words are optional
   const words = k.split(' ').filter((w) => !['ibn', 'bin', 'bint', 'binti'].includes(w));
-  if (!words.length) return personIndex.sort((a, b) => b.n - a.n).slice(0, 12).map((x) => x.p);
-  return personIndex.filter((x) => words.every((w) => x.key.includes(w)))
+  if (!words.length) return [];
+  return index().filter((x) => words.every((w) => x.key.includes(w)))
     .map((x) => ({ ...x, rank: x.key.startsWith(words.join(' ')) ? 0 : x.key.split(' ').some((w) => w.startsWith(words[0])) ? 1 : 2 }))
-    .sort((a, b) => a.rank - b.rank || b.n - a.n).slice(0, 40).map((x) => x.p);
+    .sort((a, b) => a.rank - b.rank || b.n - a.n).slice(0, 60).map((x) => x.p);
 }
 function initPersonPicker() {
   const q = $('#f-person-q'), hid = $('#f-person'), list = $('#person-list'), clear = $('#person-clear');
   if (!q) return;
-  let items = [], active = 0;
+  let items = [], active = -1;
   const fire = () => hid.dispatchEvent(new Event('change', { bubbles: true }));
   const open = () => { list.hidden = false; q.setAttribute('aria-expanded', 'true'); };
   const close = () => { list.hidden = true; q.setAttribute('aria-expanded', 'false'); };
+  const opt = (p, i) => `<li role="option" id="po-${i}" data-i="${i}" aria-selected="false"><span class="po-name">${esc(p.name)}</span><span class="po-meta">${p.sahabi === 'no' ? 'not a Sahabi · ' : ''}${by.personCount.get(p.id)}</span></li>`;
+  const setActive = (i, scroll) => {
+    active = i;
+    list.querySelectorAll('li[data-i]').forEach((li) => { const on = Number(li.dataset.i) === i; li.classList.toggle('on', on); li.setAttribute('aria-selected', String(on)); });
+    const el = list.querySelector('li.on');
+    q.setAttribute('aria-activedescendant', el ? el.id : '');
+    if (el && scroll === 'key') el.scrollIntoView({ block: 'nearest' });
+    if (el && scroll === 'centre') list.scrollTop = Math.max(0, el.offsetTop - list.clientHeight / 2);
+  };
   const draw = () => {
-    items = searchPeople(hid.value ? '' : q.value);
-    active = Math.min(active, Math.max(items.length - 1, 0));
-    const head = !fold(hid.value ? '' : q.value) ? '<li class="po-hint" aria-hidden="true">Most narrations — keep typing to search all</li>' : '';
-    list.innerHTML = head + (items.length ? items.map((p, i) => `<li role="option" id="po-${i}" data-i="${i}" class="${i === active ? 'on' : ''}" aria-selected="${i === active}">
-      <span class="po-name">${esc(p.name)}</span><span class="po-meta">${p.sahabi === 'no' ? 'not a Sahabi · ' : ''}${by.personCount.get(p.id)}</span></li>`).join('')
-      : '<li class="po-hint">No companion matches. Try another spelling.</li>');
-    q.setAttribute('aria-activedescendant', items.length ? `po-${active}` : '');
+    const query = hid.value ? '' : q.value;
+    if (!fold(query)) {                       // browsing: everyone, A–Z
+      const res = browsePeople();
+      items = res.items;
+      list.innerHTML = res.rows.map((r) => (r.head !== undefined ? `<li class="${r.cls}" aria-hidden="true">${esc(r.head)}</li>` : opt(items[r.i], r.i))).join('');
+      const sel = hid.value ? items.findIndex((p, i) => p.id === hid.value && i >= 12) : -1;
+      setActive(sel, 'centre');
+    } else {                                  // searching
+      items = searchPeople(query);
+      list.innerHTML = items.length ? `<li class="po-hint" aria-hidden="true">${items.length} match${items.length === 1 ? '' : 'es'}</li>${items.map(opt).join('')}`
+        : '<li class="po-hint">No companion matches. Try another spelling.</li>';
+      setActive(items.length ? 0 : -1);
+    }
   };
   const pick = (p) => { hid.value = p.id; q.value = p.name; clear.hidden = false; close(); fire(); };
   q.addEventListener('input', () => {
     if (hid.value) { hid.value = ''; clear.hidden = true; fire(); }
-    active = 0; draw(); open();
+    draw(); open();
   });
   q.addEventListener('focus', () => { if (hid.value) q.select(); draw(); open(); });
+  q.addEventListener('click', () => { if (list.hidden) { draw(); open(); } });
   q.addEventListener('blur', close);
   q.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
-      e.preventDefault(); if (list.hidden) { draw(); open(); }
-      active = (active + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % Math.max(items.length, 1);
-      draw(); list.querySelector('.on')?.scrollIntoView({ block: 'nearest' });
-    } else if (e.key === 'Enter' && !list.hidden && items.length) { e.preventDefault(); pick(items[active]); }
+      e.preventDefault();
+      if (list.hidden) { draw(); open(); }
+      const n = items.length;
+      if (n) setActive(e.key === 'ArrowDown' ? (active + 1) % n : active < 0 ? n - 1 : (active - 1 + n) % n, 'key');
+    } else if (e.key === 'Enter' && !list.hidden && items.length && active >= 0) { e.preventDefault(); pick(items[active]); }
     else if (e.key === 'Escape') close();
   });
   // mousedown (not click) so the input does not lose focus before the pick lands
