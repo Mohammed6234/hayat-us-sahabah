@@ -62,3 +62,16 @@ The site's default "About them" filter uses `subject` only.
    constrained re-tag against the approved vocabulary with a second-opinion model.
 4. Human review queue: disagreements, low confidence and a random 5–10% sample.
 5. Prerender one page per narration, Companion and theme for SEO.
+
+## Deploying (Cloudflare Pages)
+
+The site is static: `site/` plus its generated `site/data/`. From a fresh clone, with no raw OCR needed:
+
+```
+export CLOUDFLARE_API_TOKEN=...      # token with "Cloudflare Pages: Edit"
+export CLOUDFLARE_ACCOUNT_ID=...
+npm run deploy                       # builds dist/ and uploads it as project "hayat-us-sahabah"
+```
+
+The first run creates the Pages project; the site appears at `https://hayat-us-sahabah.pages.dev`.
+Keep the project private (Cloudflare Access) or get the publisher's permission before making it public.
