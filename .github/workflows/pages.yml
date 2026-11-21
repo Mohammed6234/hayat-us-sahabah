@@ -1,4 +1,4 @@
-# Publishes site/ (plus its generated site/data/) to GitHub Pages on every push to main.
+# (Pages enabled; redeploy trigger.) Publishes site/ (plus its generated site/data/) to GitHub Pages on every push to main.
 # No build tools beyond Node: pipeline/build-site.mjs just wraps site/ into dist/.
 name: Deploy site to GitHub Pages
 
