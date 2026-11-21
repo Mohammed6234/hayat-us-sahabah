@@ -1,0 +1,531 @@
+[
+ {
+  "id": "n01241",
+  "summary": "Zaid bin Wahab reports that Ali (RA) wore a plain lower garment tied with a strip of cloth to keep away pride, and said he had bought a coarse garment for five dirhams.",
+  "people": [
+   { "id": "zaid-bin-wahab", "role": "narrator" },
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "sincerity"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01242",
+  "summary": "Mujammi bin Sam'aan Taymi reports that Ali (RA) took his sword to the market to sell it, saying he would never sell it if he had four dirhams to buy a lower garment.",
+  "people": [
+   { "id": null, "name": "Mujammi bin Sam'aan Taymi", "role": "narrator", "sahabi": "unsure" },
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "hunger-and-hardship"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Narrator has no (RA) marker and is not in the approved list, so sahabi is unsure."
+ },
+ {
+  "id": "n01243",
+  "summary": "Ali (RA) is reported riding a donkey and saying he holds the world in contempt, and separately the Prophet ﷺ wept on seeing Mus'ab bin Umayr wearing a patched shawl.",
+  "people": [
+   { "id": null, "name": "Saalih bin Abil Aswad", "role": "narrator", "sahabi": "unsure" },
+   { "id": "ali", "role": "subject" },
+   { "id": "musab-bin-umayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "hunger-and-hardship"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "merged",
+  "notes": "Two separate reports run together: Ali on the donkey (via Saalih bin Abil Aswad) and an account, by an unnamed Bedouin, of the Prophet weeping over Mus'ab. An OCR fragment 'reached me' sits between them. The Bedouin and the Jew in his story are unnamed and not tagged."
+ },
+ {
+  "id": "n01244",
+  "summary": "Umar (RA) reports that the Prophet ﷺ praised Mus'ab bin Umayr, who came in a sheepskin after giving up a pampered life for the love of Allaah.",
+  "people": [
+   { "id": "umar", "role": "narrator" },
+   { "id": "musab-bin-umayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01245",
+  "summary": "Zubayr (RA) reports that the Prophet ﷺ praised Mus'ab bin Umayr for leaving a wealthy upbringing for Allaah, foretold wealth from conquests over Persia and Rome, and warned against being at ease with this world.",
+  "people": [
+   { "id": "zubayr", "role": "narrator" },
+   { "id": "musab-bin-umayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "aakhirah", "prophethood"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01246",
+  "summary": "Khabbaab (RA) reports that all Mus'ab bin Umayr left behind was a sheet too small to cover his whole body at burial, so the Prophet ﷺ had his head covered and his feet covered with Idhkhir grass.",
+  "people": [
+   { "id": "khabbaab-bin-arat", "role": "narrator" },
+   { "id": "musab-bin-umayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury", "burial"],
+  "boundary": "ok",
+  "notes": "The text spells the narrator Khabaab; tagged as the approved Khabbaab bin Arat. The text ends with OCR debris '(2?' after a complete narration."
+ },
+ {
+  "id": "n01247",
+  "summary": "Ibn Shihaab reports that Uthmaan bin Madh'oon entered the Masjid in a shawl patched with leather, and the Prophet ﷺ wept and foretold a time of plenty, saying their present state was better.",
+  "people": [
+   { "id": "ibn-shihaab", "role": "narrator" },
+   { "id": "uthmaan-bin-madhoon", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "prophets-concern"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01248",
+  "summary": "Abdullaah bin Abbaas (RA) reports that the Prophet ﷺ wept over the body of Uthmaan bin Madh'oon, told the Sahabah to stop weeping, and said he had left the world owning nothing from it.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "uthmaan-bin-madhoon", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "kindness"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The OCR reads the name of the deceased as 'Abu Saa'ibI'; treated as Abu Saa'ib, his kunya."
+ },
+ {
+  "id": "n01249",
+  "summary": "The Prophet ﷺ prays for Uthmaan bin Madh'oon, saying that he neither took from this world nor did the world take from him.",
+  "people": [
+   { "id": "uthmaan-bin-madhoon", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["mercy-and-forgiveness", "aakhirah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Introduced as 'another narration' with no chain of narrators given."
+ },
+ {
+  "id": "n01250",
+  "summary": "No narration: the text is only the word 'Faarsi', a fragment of a heading about Hadhrat Salmaan Faarsi.",
+  "people": [],
+  "prophet": "absent",
+  "themes": [],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "A single word left by OCR from a split heading. Nothing to tag; check against the scan."
+ },
+ {
+  "id": "n01251",
+  "summary": "Atiyya bin Aamir reports seeing Salmaan Faarsi (RA) refuse more food, quoting the Prophet ﷺ that the most full in this world will be the most hungry in the Aakhirah.",
+  "people": [
+   { "id": null, "name": "Atiyya bin Aamir", "role": "narrator", "sahabi": "unsure" },
+   { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "hunger-and-hardship"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The approved 'atiyya' (unsure) may be the same man, but the text gives the full name Atiyya bin Aamir, so it is not assigned. Please check."
+ },
+ {
+  "id": "n01252",
+  "summary": "Hasan reports that Salmaan Faarsi (RA), governor of about thirty thousand Muslims, gave away his whole allowance and earned his living by weaving palm-fibre baskets.",
+  "people": [
+   { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "sadaqah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The narrator is 'Hadhrat Hasan' with no patronymic. The approved 'hasan' is listed as a Sahabi, which may not be the person meant, so it is not assigned. Please check."
+ },
+ {
+  "id": "n01253",
+  "summary": "A'mash reports that Hudhayfah offered to build Salmaan Faarsi a room just big enough to lie down and stand in, and Salmaan said it was as if Hudhayfah lived in his heart.",
+  "people": [
+   { "id": null, "name": "A'mash", "role": "narrator", "sahabi": "no" },
+   { "id": "hudhayfa", "role": "subject" },
+   { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "brotherhood"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Hudhayfah has no patronymic in the text and is tagged as the approved 'hudhayfa'."
+ },
+ {
+  "id": "n01254",
+  "summary": "Maalik bin Anas reports that Salmaan Faarsi (RA) sat in the shade, and when a man offered to build him a room, Salmaan approved the plan of a room the size of his body.",
+  "people": [
+   { "id": null, "name": "Maalik bin Anas", "role": "narrator", "sahabi": "no" },
+   { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "kindness"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "One clause is OCR-garbled ('had no room which to administer public affairs'). The man who offers the room is unnamed and not tagged."
+ },
+ {
+  "id": "n01255",
+  "summary": "No narration: the text is only the word 'Ghifaari', a fragment of a heading about Abu Dharr Ghifaari.",
+  "people": [],
+  "prophet": "absent",
+  "themes": [],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "A single word left by OCR from a split heading. Nothing to tag; check against the scan."
+ },
+ {
+  "id": "n01256",
+  "summary": "Abu Asmaa reports that Abu Dharr (RA), living in Rabdha, refused advice to move to Iraq, because the Prophet ﷺ had said light loads cross the slippery Siraat bridge more easily.",
+  "people": [
+   { "id": null, "name": "Abu Asmaa", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The unnamed woman with Abu Dharr is not tagged."
+ },
+ {
+  "id": "n01257",
+  "summary": "Abdullaah bin Khiraash reports that Abu Dharr (RA), sitting on coarse sackcloth with his wife, thanked Allaah for taking his children to the Aakhirah and preferred a humbling wife to a proud one.",
+  "people": [
+   { "id": null, "name": "Abdullaah bin Khiraash", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "marriage", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Not the approved 'masood-bin-khiraash'. The people who condole with him and suggest a softer mat are unnamed and not tagged."
+ },
+ {
+  "id": "n01258",
+  "summary": "Abu Dharr and Abu Dardaa (RA) both give up worldly comfort for the Aakhirah: Abu Dardaa gives his guests' bedding away as charity, and Umar (RA) finds him sleeping on sand with a flimsy shawl.",
+  "people": [
+   { "id": null, "name": "Ibraheem Taymi", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Muhammad bin Ka'b", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" },
+   { "id": "abu-dardaa", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "hospitality", "sadaqah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "merged",
+  "notes": "Three linked reports in one entry: Abu Dharr and an unnamed landowner (a sentence is OCR-garbled), Abu Dardaa and his guests (via Muhammad bin Ka'b), and Umar's visit, which the text says has already appeared in another chapter. The landowner and the guests are unnamed. Ibraheem Taymi is not the approved 'ibraheem' or 'muhammad-bin-ibraheem-taymi'."
+ },
+ {
+  "id": "n01259",
+  "summary": "Aflah reports that Umar (RA) sent Mu'aadh bin Afraa (RA) fine clothing, which he sold to buy and free five slaves, and when Umar sent plainer clothing instead, Mu'aadh asked again for the best Umar gave others.",
+  "people": [
+   { "id": null, "name": "Aflah", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": "muaadh-bin-afraa", "role": "subject" },
+   { "id": "abu-ayyoob-ansaari", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury", "freeing slaves"],
+  "boundary": "ok",
+  "notes": "Abu Ayyoob is named only as Aflah's patron (mawla)."
+ },
+ {
+  "id": "n01260",
+  "summary": "No narration: the text is only the word 'Ghitfaani', a fragment of a heading with no content.",
+  "people": [],
+  "prophet": "absent",
+  "themes": [],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "A single word left by OCR from a split heading (the heading reads 'The Abstinence of Hadhrat Abu (RA)'). Nothing to tag; check against the scan."
+ },
+ {
+  "id": "n01261",
+  "summary": "Jalaaj (RA) says that since accepting Islaam at the Prophet's ﷺ hands he has never filled his belly and eats only enough to sustain him; a report from Bayhaqi gives his lifespan as 120 years.",
+  "people": [
+   { "id": null, "name": "Jalaaj", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "accepting-islaam"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "merged",
+  "notes": "Two reports: Jalaaj's own statement and a separate Bayhaqi note on his lifespan. Sahabi is yes from the (RA) marker. Bayhaqi is an author, not a narrator in the chain, so not tagged."
+ },
+ {
+  "id": "n01262",
+  "summary": "Hamza bin Abdullaah bin Umar (RA) reports that Abdullaah bin Umar, though he had plenty of food, would not eat to his fill while anyone he had not yet invited was present, and told a visitor he had not eaten his fill for eighty years.",
+  "people": [
+   { "id": null, "name": "Hamza bin Abdullaah bin Umar", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": null, "name": "Ibn Mutee", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Safiyya", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "hunger-and-hardship"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Not the approved 'hamza' (Hamza bin Abdil Muttalib). Safiyya is Abdullaah bin Umar's wife and is not the approved Safiyya bint Abdul Muttalib. Ibn Mutee is not in the approved list."
+ },
+ {
+  "id": "n01263",
+  "summary": "Umar bin Hamza reports that his father Hamza asked about a conversation a man had with Abdullaah bin Umar, in which the man urged him to eat better and Abdullaah said he had not filled his belly for eighty years.",
+  "people": [
+   { "id": null, "name": "Umar bin Hamza bin Abdullaah bin Umar", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Hamza bin Abdullaah bin Umar", "role": "subject", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hunger-and-hardship", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Umar bin Hamza is not the approved 'umar' (Umar bin Khattaab). The man who spoke to Abdullaah is unnamed and not tagged."
+ },
+ {
+  "id": "n01264",
+  "summary": "Ubaydullaah bin Adi, a freed slave of Abdullaah bin Umar, reports bringing him a digestive preparation called Jawaarish, which Abdullaah refused because he had not filled his belly for forty years.",
+  "people": [
+   { "id": null, "name": "Ubaydullaah bin Adi", "role": "subject", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hunger-and-hardship", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Ubaydullaah is the one bringing the gift in his own story, so tagged as subject. Not the approved 'ubaydullaah-bin-raafi'."
+ },
+ {
+  "id": "n01265",
+  "summary": "Muhammad bin Seereen reports that when Abdullaah bin Umar was offered Jawaarish, he said he had not eaten his fill for four months, not for lack of food but because he lived as the Prophet ﷺ and the Sahabah did, sometimes eating and sometimes going hungry.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "following-the-sunnah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The unnamed man who offered the Jawaarish is not tagged."
+ },
+ {
+  "id": "n01266",
+  "summary": "Abdullaah bin Umar (RA) says that since the Prophet ﷺ was taken away he has never laid a brick on a brick or planted a single date palm.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01267",
+  "summary": "Jaabir (RA) and Suddi say that Abdullaah bin Umar alone kept the state the Prophet ﷺ left them in, and Hudhayfah (RA) says he would rather his family had no food than have worldly wealth, quoting the Prophet ﷺ that Allaah guards the believer from it.",
+  "people": [
+   { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+   { "id": null, "name": "Suddi", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Saa'idah bin Sa'd bin Hudayfah", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": "hudhayfa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "merged",
+  "notes": "Three reports in one entry: Jaabir, Suddi, and Hudhayfah's words relayed by Saa'idah. OCR reads 'Yamaan' before 'Hadhrat Saa'idah'. Hudhayfah has no patronymic and is tagged as the approved 'hudhayfa'."
+ },
+ {
+  "id": "n01268",
+  "summary": "Aa'isha (RA) reports that the Prophet ﷺ rebuked her for eating two full meals in one day, asking whether she cared for nothing but her stomach and calling it extravagance.",
+  "people": [
+   { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "family"],
+  "new_themes": ["abstinence from worldly luxury", "avoiding extravagance"],
+  "boundary": "ends-mid",
+  "notes": "The text ends on a comma inside an open quotation. The next entry in the book is a separate report, so the quotation seems to be cut off."
+ },
+ {
+  "id": "n01269",
+  "summary": "Aa'isha (RA) reports weeping at the Prophet's ﷺ deathbed, and he told her that to meet him in the Aakhirah she should live on a traveller's provisions and never mix with the affluent.",
+  "people": [
+   { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "prophets-final-illness"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01270",
+  "summary": "Urwa (RA) reports that Aa'isha (RA) patched her clothes until the patches overlapped and gave away the eighty thousand dirhams Mu'aawiya (RA) sent her by evening, after the Prophet ﷺ had advised mending clothes before replacing them.",
+  "people": [
+   { "id": "urwa", "role": "narrator" },
+   { "id": "aaisha", "role": "subject" },
+   { "id": "muaawiya", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Bare 'Urwa' and 'Mu'aawiya' are tagged to the approved entries 'urwa' and 'muaawiya' (both unsure), since the text gives no patronymic. The servant who asks about the meat is unnamed."
+ },
+ {
+  "id": "n01271",
+  "summary": "Abu Juhayfah (RA) reports that the Prophet ﷺ told him not to belch in front of others after a heavy meal, warning that those who fill themselves most in this world will suffer most hunger on Qiyaamah, after which he never ate to fill again.",
+  "people": [
+   { "id": null, "name": "Abu Juhayfah", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "hunger-and-hardship"],
+  "new_themes": ["abstinence from worldly luxury", "avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "The text ends with OCR debris: a broken Qur'an quotation ('have nothing for yourselves here') and 'Surah Ahqaaf, verse 20'. Left untagged; the narration itself is complete."
+ },
+ {
+  "id": "n01272",
+  "summary": "Hasan reports that Umar (RA) rebuked his son Abdullaah for eating meat merely because he craved it, saying that eating whatever one craves is enough to make a person extravagant.",
+  "people": [
+   { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["family", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding extravagance", "abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Hasan has the (RA) marker here but no patronymic, so he is not assigned to the approved 'hasan' (see n01252). Abdullaah is Umar's son, tagged as Abdullaah bin Umar."
+ },
+ {
+  "id": "n01273",
+  "summary": "Sa'eed bin Jubayr reports that Umar (RA), told that Yazeed bin Abu Sufyaan ate many kinds of meat, went to his evening meal, ate beside him, and warned that opposing the Prophet's ﷺ way leads away from the highest Jannah.",
+  "people": [
+   { "id": "saeed-bin-jubayr", "role": "narrator" },
+   { "id": "umar", "role": "subject" },
+   { "id": "yazeed-bin-abi-sufyaan", "role": "subject" },
+   { "id": null, "name": "Yarfa", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding extravagance", "abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Yarfa is Umar's slave who gives the alert. Not in the approved list."
+ },
+ {
+  "id": "n01274",
+  "summary": "Hasan reports that Umar (RA), passing a rubbish dump while his companions recoiled from the smell, said this is the world people aspire to and rely upon.",
+  "people": [
+   { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Hasan as in n01252: not assigned to the approved 'hasan'. The companions are unnamed."
+ },
+ {
+  "id": "n01275",
+  "summary": "Salma bin Kulthoom reports that when Abu Dardaa (RA) built a tall building in Damascus, Umar (RA) wrote from Madinah rebuking him for building like the Persians and Romans, because the Companions must set an example to others.",
+  "people": [
+   { "id": null, "name": "Salma bin Kulthoom", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dardaa", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "following-the-sunnah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "The Prophet is mentioned only as Muhammad ﷺ in Umar's address to his companions."
+ },
+ {
+  "id": "n01276",
+  "summary": "Raashid bin Sa'd reports that when Umar (RA) heard Abu Dardaa (RA) had built porches at house entrances in Hims, he wrote calling him a little builder and asking whether the decorations of the Romans and Persians were not enough for him.",
+  "people": [
+   { "id": null, "name": "Raashid bin Sa'd", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dardaa", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "following-the-sunnah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01277",
+  "summary": "Umar (RA) adds to his letter that the decorations of the Romans and Persians should be enough and orders the recipient to move from Hims to Damascus at once, which Sufyaan says was a form of punishment.",
+  "people": [
+   { "id": null, "name": "Sufyaan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "starts-mid",
+  "notes": "Starts mid-letter. The recipient is not named in this entry; he is Abu Dardaa from n01276, so not tagged here. Sufyaan is not identified and is not matched to the approved list."
+ },
+ {
+  "id": "n01278",
+  "summary": "Yazeed bin Abi Habeeb reports that Umar (RA) ordered Amr bin Al Aas (RA) to demolish the double-storey house Khaarijah bin Hudhaafah built in Egypt, because it would let him spy on his neighbours.",
+  "people": [
+   { "id": "yazeed-bin-abi-habeeb", "role": "narrator" },
+   { "id": null, "name": "Khaarijah bin Hudhaafah", "role": "subject", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": "amr-bin-al-aas", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Khaarijah is not in the approved list; the approved 'hudhayfa' and 'abdullaah-bin-hudhafa' are different people."
+ },
+ {
+  "id": "n01279",
+  "summary": "Abdullaah Roomi reports that Ummu Talq (RA) kept her roof low, citing Umar bin Khattaab's instruction to his governors not to build tall buildings, because the worst days come when people do.",
+  "people": [
+   { "id": null, "name": "Abdullaah Roomi", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Ummu Talq", "role": "subject", "sahabi": "yes" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ok",
+  "notes": "Abdullaah Roomi is not the approved 'abdullaah' (unsure). Sahabi is yes from the (RA) marker on Ummu Talq."
+ },
+ {
+  "id": "n01280",
+  "summary": "Sufyaan bin Uyayna reports that Umar (RA) told Sa'd bin Abi Waqqaas, governor of Kufa, to build only what shields him from sun and rain because this world is only a place to make do with, and the report is cut off as Umar writes to Amr bin Al Aas.",
+  "people": [
+   { "id": null, "name": "Sufyaan bin Uyayna", "role": "narrator", "sahabi": "no" },
+   { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "amr-bin-al-aas", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "aakhirah"],
+  "new_themes": ["abstinence from worldly luxury"],
+  "boundary": "ends-mid",
+  "notes": "The text is cut off mid-sentence in Umar's second letter, to Amr bin Al Aas. Only the first letter is summarised."
+ }
+]

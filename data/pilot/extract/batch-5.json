@@ -1,0 +1,165 @@
+[
+  {
+    "id": "n00041",
+    "summary": "The Prophet recites the Qur'aan to Waleed bin Mughiera and his heart softens, but Abu Jahal pressures him, and Waleed calls the Qur'aan magic, for which Surah Muddathir is revealed about him.",
+    "people": [
+      { "name": "Waleed bin Mughiera", "as_written": "Waleed bin Mughiera", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal bin Hishaam", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" },
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "da'wah to individuals", "the qur'aan", "opposition to islaam", "pride and rejecting the truth"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00042",
+    "summary": "While riding past, the Prophet calls Abu Sufyaan and Hind to Islaam, warning them of death, resurrection and Jahannam and reciting Surah Sajdah, and Abu Sufyaan defends him against Hind's charge of magic.",
+    "people": [
+      { "name": "Mu'aawiya", "as_written": "Hadhrat Mu'aawiya (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abu Sufyaan bin Harb", "as_written": "Hadhrat Abu Sufyaan (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Hind bint Utba", "as_written": "Hind", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "da'wah to family", "aakhirah and accountability", "the qur'aan", "accusation of magic"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00043",
+    "summary": "Uthmaan, who had just come from Shaam, follows Zubayr to the Prophet, and Talha and Zubayr accept Islaam after hearing the Qur'aan and the rights of Islaam.",
+    "people": [
+      { "name": "Yazeed bin Roomaan", "as_written": "Hadhrat Yazeed bin Roomaan", "role": "narrator", "sahabi": "no" },
+      { "name": "Uthmaan", "as_written": "Hadhrat Uthmaan (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Talha", "as_written": "Hadhrat Talha (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Zubayr", "as_written": "Hadhrat Zubayr (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "accepting islaam", "early muslims", "the qur'aan"],
+    "events": [],
+    "places": ["Shaam", "Ma'aan", "Zarqaa", "Makkah", "house of Arqam"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00044",
+    "summary": "Amaar bin Yaasir and Suhayb bin Sanaan, each going to meet the Prophet at Arqam's house, accept Islaam after he presents it to them, and they leave secretly after spending the day with him.",
+    "people": [
+      { "name": "Amaar bin Yaasir", "as_written": "Hadhrat Amaar bin Yaasir (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Suhayb bin Sanaan", "as_written": "Suhayb bin Sanaan", "role": "subject", "sahabi": "yes" },
+      { "name": "Arqam", "as_written": "Arqam's house", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "accepting islaam", "early converts to islaam", "secret da'wah"],
+    "events": [],
+    "places": ["Arqam's house"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00045",
+    "summary": "Sa'd bin Zurarah and Dhakwaan bin Abd Qais, who came to Makkah to have Utba settle a dispute, go to the Prophet on hearing of him and accept Islaam without going near Utba, becoming the first people of Madinah to accept Islaam.",
+    "people": [
+      { "name": "Khubayb bin Abdir Rahmaan", "as_written": "Hadhrat Khubayb bin Abdir Rahmaan", "role": "narrator", "sahabi": "no" },
+      { "name": "Sa'd bin Zurarah", "as_written": "Hadhrat Sa'd bin Zurarah (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Dhakwaan bin Abd Qais", "as_written": "Dhakwaan bin Abd Qais", "role": "subject", "sahabi": "yes" },
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba bin Rabee'ah", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "accepting islaam", "early muslims of madinah"],
+    "events": [],
+    "places": ["Makkah", "Madinah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00046",
+    "summary": "Quraysh leaders meeting behind the Kabah offer the Prophet wealth, leadership or kingship to give up his message, then demand miracles such as moving the mountains and raising the dead, and he refuses both and leaves them grieved, while his cousin Abdullaah bin Abi Umayyah also rejects him.",
+    "people": [
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba", "role": "mentioned", "sahabi": "no" },
+      { "name": "Shaybah bin Rabee'ah", "as_written": "Shaybah", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abu Sufyaan bin Harb", "as_written": "Abu Sufyaan bin Harb", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abul Bakhtari", "as_written": "Abul Bakhtari", "role": "mentioned", "sahabi": "no" },
+      { "name": "Aswad bin Abdil Muttalib bin Asad", "as_written": "Aswad bin Abdil Muttalib bin Asad", "role": "mentioned", "sahabi": "no" },
+      { "name": "Zam'ah bin Al Aswad", "as_written": "Zam'ah bin Al Aswad", "role": "mentioned", "sahabi": "no" },
+      { "name": "Waleed bin Mughiera", "as_written": "Waleed bin Mughiera", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abu Jahal bin Hishaam", "as_written": "Abu Jahal bin Hishaam", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abdullaah bin Abi Umayyah bin Mughiera", "as_written": "Abdullaah bin Abi Umayyah", "role": "subject", "sahabi": "unsure" },
+      { "name": "Umayyah bin Khalaf", "as_written": "Umayyah bin Khalaf", "role": "mentioned", "sahabi": "no" },
+      { "name": "Aas bin Waa'il", "as_written": "Aas bin Waa'il", "role": "mentioned", "sahabi": "no" },
+      { "name": "Nabeeh bin Hajjaaj", "as_written": "Nabeeh", "role": "mentioned", "sahabi": "no" },
+      { "name": "Munabbah bin Hajjaaj", "as_written": "Munabbah", "role": "mentioned", "sahabi": "no" },
+      { "name": "Rahmaan", "as_written": "a man in Yamama whose name is Rahmaan", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "opposition to islaam", "demands for miracles", "rejection of the truth", "rasulullaah's grief at their rejection"],
+    "events": [],
+    "places": ["Kabah", "Yamama"],
+    "boundary": "ok",
+    "notes": "Rahmaan is the mushrikeen's name for a man of Yamama; the text does not name him further, so treat the name as uncertain."
+  },
+  {
+    "id": "n00047",
+    "summary": "Iyaas bin Mu'aadh, a youth in a Madinah delegation, hears the Prophet and calls his message better than their purpose, and although Abul Haysim throws pebbles at him to silence him, Iyaas dies reciting the kalimah as a Muslim.",
+    "people": [
+      { "name": "Mahmood bin Labeed", "as_written": "Mahmbod bin Labeed", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abul Haysim Anas bin Raafi", "as_written": "Abul 'Haysim Anas bin Raafi", "role": "subject", "sahabi": "unsure" },
+      { "name": "Iyaas bin Mu'aadh", "as_written": "Iyaas bin Mu'aadh", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "accepting islaam", "youth in islaam", "dying as a muslim"],
+    "events": ["Bu'aath"],
+    "places": ["Makkah", "Madinah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00048",
+    "summary": "On the hill of Marwah the Prophet calls the Quraysh clans by their ancestors' names to warn his closest relatives, asks them to say Laa Ilaaha Illalaah, and Abu Lahab rejects him, so verses about Abu Lahab are revealed.",
+    "people": [
+      { "name": "Abu Lahab bin Abdul Muttalib", "as_written": "Abu Lahab bin Abdul Muttalib", "role": "subject", "sahabi": "no" },
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "da'wah to relatives", "opposition to islaam", "warning of punishment"],
+    "events": [],
+    "places": ["hill of Marwah"],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-citation after '(Surah', verse reference cut off. The opening line is the author's section summary merged into the text. Clan names Fahr, Ghaalib, Luway, Ka'b, Murrah, Kilaab, Qusay and Abd Manaaf are tribal ancestors called out as groups and are not listed as people."
+  },
+  {
+    "id": "n00049",
+    "summary": "On the hill of Safa the Prophet calls out to the Quraysh, asks whether they would believe that cavalry was about to attack from below the hill, then warns them of a severe punishment, and Abu Lahab rejects him, so verses about Abu Lahab are revealed.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Lahab bin Abdul Muttalib", "as_written": "Abu Lahab", "role": "subject", "sahabi": "no" },
+      { "name": "Abdul Muttalib", "as_written": "the family of Abdul Muttalib", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "da'wah to relatives", "opposition to islaam", "warning of punishment"],
+    "events": [],
+    "places": ["hill of Safa"],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-citation after '(Surah', verse reference cut off. Opens with the Yaa Sabaahaa call."
+  },
+  {
+    "id": "n00050",
+    "summary": "The Prophet invites tribes at the hajj markets for ten years; Maysara, after the Jews of Fidak confirm the Prophet's description from their book, meets him again at the farewell Hajj and becomes a Muslim.",
+    "people": [
+      { "name": "Abdullaah bin Ka'b bin Maalik", "as_written": "Hadhrat Abdullaah bin Ka'b bin Maalik (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Maysara", "as_written": "Maysara", "role": "subject", "sahabi": "unsure" },
+      { "name": "Abu Bakr", "as_written": "Hadhrat Abu Bakr", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["da'wah", "da'wah at hajj", "prophecy in earlier books", "accepting islaam", "those who die outside islaam"],
+    "events": ["farewell Hajj"],
+    "places": ["Ukaaz", "Majinna", "Dhil Majaaz", "Fidak", "Madinah"],
+    "boundary": "ends-mid",
+    "notes": "Text ends after 'with Hadhrat Abu Bakr'. There is also a garbled gap ('so that he However, my people are opposing me') where the rest of the request for asylum is missing from the OCR."
+  }
+]

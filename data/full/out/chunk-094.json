@@ -1,0 +1,550 @@
+[
+  {
+    "id": "n03721",
+    "summary": "Abul A'laa reports that after the Prophet passed his hand over Qataadah bin Milhaan's face, the signs of age were removed from it, so that his face kept looking oiled and reflected passers-by.",
+    "people": [
+      { "id": null, "name": "Abul A'laa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Qataadah bin Milhaan", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": ["reversal of old age"],
+    "boundary": "ok",
+    "notes": "Abul A'laa is not in the approved list and his Companion status is not stated in the text."
+  },
+  {
+    "id": "n03722",
+    "summary": "Hayyaan bin Umayr reports that the Prophet's touch on Qataadah bin Milhaan's face kept every part of his body ageing except his face, which still reflected a woman passing behind him when he died.",
+    "people": [
+      { "id": null, "name": "Hayyaan bin Umayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Qataadah bin Milhaan", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": ["reversal of old age"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03723",
+    "summary": "Naabigha Ja'di recites couplets before the Prophet, who asks where the greater heights lead and is told Jannah, and the Prophet then prays that Naabigha's teeth never fall out, and they stayed intact even past a hundred years of age.",
+    "people": [
+      { "id": null, "name": "Naabigha Ja'di", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Jaraad", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ya'la", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "aakhirah"],
+    "new_themes": ["reversal of old age", "poetry"],
+    "boundary": "merged",
+    "notes": "Three reports in one item: Naabigha's own account, Abdullaah bin Jaraad's version (the Prophet was first angry at the answer), and Ya'la's report of his teeth. Abu Layla is Naabigha's kunya, not a separate person."
+  },
+  {
+    "id": "n03724",
+    "summary": "A further narration reports that Naabigha Ja'di always had a perfect set of teeth, and each one that fell out was replaced by another so that he lived to a very old age.",
+    "people": [
+      { "id": null, "name": "Naabigha Ja'di", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": ["reversal of old age"],
+    "boundary": "ok",
+    "notes": "Naabigha is not named in this text; he is identified from the heading and the previous item."
+  },
+  {
+    "id": "n03725",
+    "summary": "Ummu Is'haaq relates that, after arriving in Madinah and learning her brother Is'haaq had been killed, the Prophet sprinkled water from his wudhu on her face, and her tears never ran down her cheeks in calamity afterwards.",
+    "people": [
+      { "id": null, "name": "Ummu Is'haaq", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Is'haaq", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Bashaar", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ummu Is'haaq's own account, and Bashaar's report of what his grandmother (unnamed, left out) said. Her husband, who killed her brother, is unnamed and left out. Is'haaq (her brother) may match the approved 'ishaaq' (?) entry but the text does not establish it, so he is not matched."
+  },
+  {
+    "id": "n03726",
+    "summary": "Ummu Is'haaq says she kept weeping over her brother's murder until the Prophet sprinkled water on her face, and Ummu Hakeem testifies that even in great tragedy her tears welled up but never fell.",
+    "people": [
+      { "id": null, "name": "Ummu Is'haaq", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Is'haaq", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Ummu Hakeem", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ummu Is'haaq's version and Ummu Hakeem's remark. Ummu Hakeem is not matched to the approved 'ummu-hakeem-bint-haarith' because the text gives no lineage; the same name recurs in n03744 for a different report."
+  },
+  {
+    "id": "n03727",
+    "summary": "Ibn Abbaas reports that when a rainstorm soaked the travelling party, Ubay bin Ka'b's du'aa kept the harm of the rain off him and Ibn Abbaas, and Umar asked why they had not prayed for the others too.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03728",
+    "summary": "Zaid bin Aslam and others narrate that when Ukaasha bin Mihsin's sword broke at Badr, the Prophet gave him a branch which became a sturdy, sparkling sword in his hand.",
+    "people": [
+      { "id": "zaid-bin-aslam", "role": "narrator" },
+      { "id": null, "name": "Ukaasha bin Mihsin", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03729",
+    "summary": "Khaythama reports several versions of Khaalid bin Waleed's du'aa turning a casket of wine into honey or vinegar after its bearer lied about what it was.",
+    "people": [
+      { "id": "khaytama", "role": "narrator" },
+      { "id": "khaalid-bin-waleed", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three narrations of one incident, each introduced as a separate report: Khaythama's, 'another narration', and 'yet another narration'. The man with the wine is unnamed."
+  },
+  {
+    "id": "n03730",
+    "summary": "Muhammad bin Is'haaq reports that Maalik Ashja'ee told the Prophet his son Awf had been taken captive, the Prophet told Awf to recite 'Laa Howla wa Laa Quwwata illaa Billaah', and Awf escaped and brought back his captors' camels.",
+    "people": [
+      { "id": "ibn-ishaaq", "role": "narrator" },
+      { "id": null, "name": "Maalik Ashja'ee", "role": "subject", "sahabi": "yes" },
+      { "id": "awf-bin-maalik-ashjaee", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["trust-in-allaah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator matched to 'ibn-ishaaq' (not sahabi), taking Muhammad bin Is'haaq to be Ibn Ishaaq. Awf's captors are unnamed. Maalik Ashja'ee (father) is not in the approved list."
+  },
+  {
+    "id": "n03731",
+    "summary": "Awf's father complained to the Prophet about his captive son's suffering, and the Prophet advised him to be patient, saying Allaah would soon create an escape for him.",
+    "people": [
+      { "id": null, "name": "Maalik Ashja'ee", "role": "subject", "sahabi": "yes" },
+      { "id": "awf-bin-maalik-ashjaee", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "trust-in-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Another narration of the same incident, with no named narrator. The footnote citing Bidaayah wan Nihaayah is a source reference and is not tagged."
+  },
+  {
+    "id": "n03732",
+    "summary": "Abbaas bin Sahl reports that when the Prophet forbade drinking the water at Hijr or leaving camp alone at night, two men who disobeyed were punished, one by a jinn and the other by a tempest, and the Prophet prayed for the one who was throttled and he was cured.",
+    "people": [
+      { "id": null, "name": "Abbaas bin Sahl bin Sa'd Saa'idi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["following-the-sunnah", "the-unseen"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The main report plus a second narration that the Banu Tay sent the second man back after the Prophet had returned to Madinah. The two disobedient men are unnamed. The Companion who rejoined the Prophet at Tabook is unnamed. Ends with OCR debris, ignored."
+  },
+  {
+    "id": "n03733",
+    "summary": "Abdullaah bin Umar reports that Jahjaa Ghifaari struck Uthmaan's knee with his staff during a sermon, and within the year Jahjaa was afflicted with a disease that ate his arm and killed him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "jahjaa-ghifaari", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03734",
+    "summary": "Another narration says Jahjaa snatched Uthmaan's stick and struck his knee so that it broke, Uthmaan went home without retaliating, and Jahjaa died of a disease in his knee before the year was out.",
+    "people": [
+      { "id": "jahjaa-ghifaari", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator not named in this item."
+  },
+  {
+    "id": "n03735",
+    "summary": "Abdul Malik bin Umayr reports that after a man mocked Sa'd bin Abi Waqqaas in verse at Qaadisiyyah, Sa'd prayed against him, and the man was struck by an arrow, lost his tongue and hand, and was killed.",
+    "people": [
+      { "id": null, "name": "Abdul Malik bin Umayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man who mocked Sa'd is unnamed and left out."
+  },
+  {
+    "id": "n03736",
+    "summary": "Another narration says that Sa'd's curse left the man's tongue and hand paralysed, an arrow struck his mouth and his hand was cut off in the battle, and when Sa'd was carried to the city gate with his wounds visible, people knew he was truly excused from fighting.",
+    "people": [
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man who mocked Sa'd and the narrator are unnamed."
+  },
+  {
+    "id": "n03737",
+    "summary": "Several narrations describe how Sa'd bin Abi Waqqaas cursed a man who reviled Ali, Talha and Zubayr, and the curse was fulfilled when a camel or the ground killed him.",
+    "people": [
+      { "id": "aamir-bin-sad", "role": "mentioned" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "talha", "role": "mentioned" },
+      { "id": "zubayr", "role": "mentioned" },
+      { "id": "qais-bin-abi-haazim", "role": "narrator" },
+      { "id": "saeed-bin-musayyab", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "duaa", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports: a cross-reference to Aamir bin Sa'd's earlier narration (so Aamir is mentioned, not a narrator here), Qais bin Abu Haazim's account, and Sa'eed bin Musayyib's account. The reviler is unnamed. The three accounts differ on how he died."
+  },
+  {
+    "id": "n03738",
+    "summary": "Ibn Showdhab reports that when Abdullaah bin Umar heard Ziyaad son of Sumayya wanted the governorship of Hijaaz, he prayed that Ziyaad be granted death without being killed, and a painful infection on his thumb killed him before the next Friday.",
+    "people": [
+      { "id": "ibn-showdhab", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Ziyaad bin Sumayya", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "khilaafah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ziyaad is identified in the text only as 'the son of Sumayya'. He is not matched to 'ubaydullaah-bin-ziyaad' or any other entry."
+  },
+  {
+    "id": "n03739",
+    "summary": "Abu Waa'il, present at Karbala, reports that a man threatened Husayn with Jahannam, and Husayn prayed that he be taken in pieces to Jahannam, after which the man's animal threw him, his foot caught in the stirrup, and only his leg was left.",
+    "people": [
+      { "id": null, "name": "Abu Waa'il (or Ibn Waa'il)", "role": "narrator", "sahabi": "unsure" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": null, "name": "Ibn Juwayra (or Ibn Juwayza)", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives the narrator as 'Ibn Waa'il or Abu Waa'il' and the man as 'Ibn Juwayra or Ibn Juwayza'. Neither is matched to an approved id ('abu-waail-shaqeeq-bin-salama' is not established by the text). The Prophet is mentioned as the intercessor."
+  },
+  {
+    "id": "n03740",
+    "summary": "Kalbi reports that Husayn cursed the man who shot an arrow that paralysed his jaw so that he could not quench his thirst, and the man drank until his stomach burst; other reports describe punishments on the men who killed Husayn and on a man who defiled his grave.",
+    "people": [
+      { "id": null, "name": "Kalbi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "ubaydullaah-bin-ziyaad", "role": "subject" },
+      { "id": "sufyaan", "role": "narrator" },
+      { "id": "amash", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports: Kalbi's account of the archer; the doorkeeper of Ubaydullah (unnamed, left out) on the flame; Sufyaan's report of the two Ju'fi men (matched to 'sufyaan' (?), which is ambiguous); and A'mash's report of the grave (the man who defiled it is unnamed). Kalbi is not in the approved list."
+  },
+  {
+    "id": "n03741",
+    "summary": "Rabee'ah bin Qusayt reports that during the Year of Jamaa'ah, when Ali's and Mu'aawiya's armies had clashed, a downpour of blood fell on the returning army, and Amr bin Al-Aas warned the people to mend their relationship with Allaah.",
+    "people": [
+      { "id": null, "name": "Rabee'ah bin Qusayt", "role": "subject", "sahabi": "unsure" },
+      { "id": "amr-bin-al-aas", "role": "subject" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Mu'aawiya is identified as Mu'aawiya bin Abi Sufyaan from the context of the clash with Ali's army."
+  },
+  {
+    "id": "n03742",
+    "summary": "Zuhri reports that Abdul Malik asked him for the sign of Husayn's martyrdom, and he answered that fresh blood was found beneath every stone lifted in Baytul Maqdas.",
+    "people": [
+      { "id": "imaam-zuhri", "role": "narrator" },
+      { "id": "abdul-malik", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03743",
+    "summary": "Zuhri reports that on the day Husayn was martyred, every stone lifted in Shaam gave way to blood.",
+    "people": [
+      { "id": "imaam-zuhri", "role": "narrator" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Fragment: 'Another narration, he says' continues the Zuhri report in n03742. Zuhri is not named in this item; he is taken from the previous item."
+  },
+  {
+    "id": "n03744",
+    "summary": "Ummu Hakeem says that for a few days after Husayn was martyred, the sky stayed the colour of a blood clot.",
+    "people": [
+      { "id": null, "name": "Ummu Hakeem", "role": "subject", "sahabi": "yes" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ummu Hakeem is not matched to an approved id (see n03726). She speaks of her own childhood experience."
+  },
+  {
+    "id": "n03745",
+    "summary": "Abu Qubayl reports that when Husayn was martyred the sun eclipsed so much that stars were visible at noon, and people thought the Last Day had come.",
+    "people": [
+      { "id": null, "name": "Abu Qubayl", "role": "narrator", "sahabi": "unsure" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The footnote in which Ibn Katheer grades the narrations as weak is editorial; Ibn Katheer is not tagged. Abu Qubayl is not matched to 'abu-qabeel' (?) since the text gives no link."
+  },
+  {
+    "id": "n03746",
+    "summary": "Maalik bin Dinaar, Ma'roof Mowsili and Aa'isha report that when Umar was martyred, an unseen voice of a jinn lamented him in couplets, and Aa'isha heard one lament recited at night.",
+    "people": [
+      { "id": null, "name": "Maalik bin Dinaar", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ma'roof Mowsili", "role": "narrator", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": ["poetry"],
+    "boundary": "merged",
+    "notes": "Three reports: Maalik bin Dinaar's (not matched to 'maalik-daar', which is a different person), Ma'roof Mowsili's, and Aa'isha's own account. The jinn are unnamed."
+  },
+  {
+    "id": "n03747",
+    "summary": "Sulaymaan bin Yasaar reports that the jinn mourned Umar's death with a set of couplets, which he quotes in full.",
+    "people": [
+      { "id": null, "name": "Sulaymaan bin Yasaar", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": ["poetry"],
+    "boundary": "ok",
+    "notes": "The text reads 'Hadhrat (RA)' with the name missing; Umar is identified from the heading and the couplets."
+  },
+  {
+    "id": "n03748",
+    "summary": "Aa'isha quotes the couplets of the jinn mourning Umar in a different order and adds a final couplet wishing Umar a meeting with his Rabb in Jannah.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": ["poetry"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03749",
+    "summary": "Ummu Salamah says the jinn were heard bewailing the death of Husayn bin Ali.",
+    "people": [
+      { "id": "umm-salama", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text cuts off mid-sentence; the fuller version of this report begins n03750."
+  },
+  {
+    "id": "n03750",
+    "summary": "Ummu Salamah says that after hearing the jinn lamenting one night, her maid learnt that Husayn had been martyred and a jinn woman recited couplets of mourning, and Maymoona reports that the jinn were also heard lamenting Husayn bin Ali.",
+    "people": [
+      { "id": "umm-salama", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "maymoona-bint-haarith", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": ["poetry"],
+    "boundary": "merged",
+    "notes": "Two reports: Ummu Salamah's account and a truncated report from Maymoona. The item ends mid-sentence. The Prophet is mentioned only as 'the demise of Rasulullaah'. The maid and the jinn woman are unnamed."
+  },
+  {
+    "id": "n03751",
+    "summary": "Abu Moosa Ash'ari dreamt that the Prophet beckoned Umar up a mountain, which he took to mean Umar would die, and when Anas advised him to write to Umar, Abu Moosa said he could not inform Umar of his own death.",
+    "people": [
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "subject" },
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "martyrdom"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03752",
+    "summary": "Katheer bin Silt reports that Uthmaan, after a nap on the day he was martyred, said he had dreamt the Prophet told him, 'You will be with us this Friday'.",
+    "people": [
+      { "id": null, "name": "Katheer bin Silt", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": "Katheer bin Silt is not matched to 'katheer' (?) or 'katheer-bin-murra' since the text gives no link."
+  },
+  {
+    "id": "n03753",
+    "summary": "Another narration adds that the day on which Uthmaan was martyred was a Friday.",
+    "people": [
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "the-unseen"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Fragment that depends on n03752. Uthmaan is not named in this item; he is taken from the previous item."
+  },
+  {
+    "id": "n03754",
+    "summary": "Uthmaan told his companions one morning that the Prophet had told him in a dream to break his fast with them, so he fasted that day and was martyred on it.",
+    "people": [
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["fasting", "martyrdom", "the-unseen"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": "The narrator is given only as 'Hadhrat (RA)' with the name missing, so is not tagged."
+  },
+  {
+    "id": "n03755",
+    "summary": "Muslim Abu Sa'eed, a freed slave of Uthmaan, reports that Uthmaan freed twenty slaves and put on trousers for the first time, then said he had dreamt of the Prophet, Abu Bakr and Umar promising he would break his fast with them the next evening, and he was martyred while reading the Qur'aan.",
+    "people": [
+      { "id": null, "name": "Muslim Abu Sa'eed", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["freeing-slaves", "martyrdom", "quraan"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": "Muslim Abu Sa'eed is not in the approved list; his Companion status is not stated."
+  },
+  {
+    "id": "n03756",
+    "summary": "Hasan or Husayn, the sons of Ali, report that their father Ali said he had complained in a dream to the Prophet about the people of Iraq, and the Prophet promised deliverance soon, and Ali passed away barely three days later.",
+    "people": [
+      { "id": null, "name": "Hasan or Husayn bin Ali", "role": "narrator", "sahabi": "yes" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "martyrdom"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": "The narrator is ambiguous between Hasan and Husayn, so neither approved id is used. The text does not say Ali was martyred here; the theme is his dream."
+  },
+  {
+    "id": "n03757",
+    "summary": "Abu Saalih reports that Ali dreamt the Prophet told him to turn round and see two men in fetters whose heads were crushed by boulders and restored each time, and the next day Ali was assassinated.",
+    "people": [
+      { "id": "abu-saalih", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "martyrdom"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": "Matched to 'abu-saalih' (not sahabi); 'abu-saalih-ghifaari' (?) is a different entry. The two men in fetters are unnamed."
+  },
+  {
+    "id": "n03758",
+    "summary": "Filfila Ju'fi reports that Hasan bin Ali said he saw in a dream the Prophet holding the Arsh, with Abu Bakr, Umar and Uthmaan each holding the one before him and blood flowing from the sky to the earth, and that when Shia present asked about Ali, Hasan said he would have loved Ali to be in that position.",
+    "people": [
+      { "id": null, "name": "Filfila Ju'fi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": ["dreams"],
+    "boundary": "ends-mid",
+    "notes": "The text ends with 'The narration continued further', and the Shia question is cut off at 'Did you not see Ali'. The Shia present are unnamed."
+  },
+  {
+    "id": "n03759",
+    "summary": "Hasan bin Ali relates a dream in which the Rabb was on the Arsh, the Prophet, Abu Bakr, Umar and Uthmaan stood in order, and blood poured from the sky, and when told of it Ali replied that Hasan was only relating what he saw.",
+    "people": [
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": ["dreams"],
+    "boundary": "merged",
+    "notes": "Three parts: Hasan's dream as he related it, Ali's reply to the person who told him, and a second narration by Hasan ('I shall not fight again') with a variant of the dream in which Uthmaan's blood is shown. The person who reported it to Ali is unnamed. Allaah is not tagged as a person."
+  },
+  {
+    "id": "n03760",
+    "summary": "Abdullaah bin Abbaas reports that in a dream the Prophet appeared dishevelled with a glass, saying it held the blood of Husayn and his companions which he had been collecting all day, and Ibn Abbaas found that day was the day Husayn was martyred.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "martyrdom"],
+    "new_themes": ["dreams"],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

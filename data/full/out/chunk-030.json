@@ -1,0 +1,551 @@
+[
+ {
+  "id": "n01161",
+  "summary": "Hakeem bin Hizaam refused the money and gifts offered by Abu Bakr, Umar, Uthmaan and Mu'aawiya, each until that ruler's death.",
+  "people": [
+   { "id": "hakeem-bin-hizaam", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" },
+   { "id": "umar", "role": "mentioned" },
+   { "id": "uthmaan", "role": "mentioned" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+   { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "Narrator is given only as 'Hadhrat urwa'; Urwa bin Zubayr is likely but not stated, so not matched. Mu'aawiya identified from context as the ruler, Mu'aawiya bin Abi Sufyaan."
+ },
+ {
+  "id": "n01162",
+  "summary": "Section heading only: Aamir bin Rabee'ah refuses land.",
+  "people": [
+   { "id": null, "name": "Aamir bin Rabee'ah", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "not-narration",
+  "notes": "Only a heading in the text. The narration itself is n01163."
+ },
+ {
+  "id": "n01163",
+  "summary": "Aamir bin Rabee'ah refuses a valley of land offered by an Arab guest, citing the revealed verse about the Day of Qiyaamah drawing near.",
+  "people": [
+   { "id": null, "name": "Aamir bin Rabee'ah", "role": "subject", "sahabi": "yes" },
+   { "id": "aslam", "role": "narrator" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-citation (Surah Ambiyaa, verse ...). The Arab guest is unnamed and left out."
+ },
+ {
+  "id": "n01164",
+  "summary": "Abu Dharr asks Uthmaan's leave to live in Rabdha and refuses the zakaah animals offered him, then rebukes Ka'b for praising a rich man's spending; a second report has him refuse money sent for his needs.",
+  "people": [
+   { "id": "abdullaah-bin-saamit", "role": "narrator" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" },
+   { "id": "uthmaan", "role": "subject" },
+   { "id": null, "name": "Ka'b", "role": "subject", "sahabi": "unsure" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "sadaqah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "merged",
+  "notes": "Two reports joined: Abu Dharr with Uthmaan and Ka'b, then a separate report of a man offering money. Ka'b is described only as a Jewish rabbi who accepted Islaam, with no fuller name, and his sahabi status is not stated."
+ },
+ {
+  "id": "n01165",
+  "summary": "Habeeb bin Maslamah sends Abu Dharr three hundred dinars, and Abu Dharr sends them back, saying he fears owning anything beyond his needs.",
+  "people": [
+   { "id": null, "name": "Abu Bakr bin Munkadir", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Habeeb bin Maslamah", "role": "subject", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "The narrator is Abu Bakr bin Munkadir, not Abu Bakr Siddeeq. Habeeb's sahabi status is not stated in the text."
+ },
+ {
+  "id": "n01166",
+  "summary": "A Quraysh man living in Shaam sends Abu Dharr three hundred dinars, and Abu Dharr refuses, quoting the Prophet on begging.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Haarith", "role": "subject", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-report at '(4!'. Haarith's full name and sahabi status are not given."
+ },
+ {
+  "id": "n01167",
+  "summary": "The Prophet warns Abu Raafi not to give all his wealth away and to keep some for his son; later, poor, Abu Raafi refuses charity, and once wealthy he regrets his riches.",
+  "people": [
+   { "id": "abu-raafi", "role": "subject" },
+   { "id": null, "name": "Abu Sulaym", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Yazeed", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "family", "self-reliance"],
+  "new_themes": ["hoarding wealth"],
+  "boundary": "ok",
+  "notes": "The closing quotation is OCR-garbled ('Ushr(1,'). The Yazeed here is not matched to any approved entry."
+ },
+ {
+  "id": "n01168",
+  "summary": "Mu'aawiya sends a hundred thousand dirhams to Abdur Rahmaan bin Abu Bakr after he refused to pledge allegiance to Yazeed; he refuses the money and dies in Makkah.",
+  "people": [
+   { "id": null, "name": "Abdul Azeez bin Abdur Rahmaan bin Auf", "role": "narrator", "sahabi": "no" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+   { "id": null, "name": "Abdur Rahmaan bin Abu Bakr", "role": "subject", "sahabi": "yes" },
+   { "id": "yazeed-bin-muaawiya", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["bayah", "sincerity", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "The narrator's full name is given here, so he is not matched to the approved 'abdul-azeez' entry, which has no nisba. Mu'aawiya identified from context as Mu'aawiya bin Abi Sufyaan."
+ },
+ {
+  "id": "n01169",
+  "summary": "Mu'aawiya asks Amr bin Al Aas to find out whether Abdullaah bin Umar would fight over the Khilaafah; Amr offers him land and wealth for his allegiance, and Abdullaah refuses, saying his Deen is not for worldly wealth.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": "amr-bin-al-aas", "role": "subject" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+   { "id": "yazeed-bin-muaawiya", "role": "mentioned" },
+   { "id": null, "name": "Maymoon", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "sincerity"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "Narrator is 'Hadhrat Maymoon' with no nisba here (see n01170). Mu'aawiya identified from context as Mu'aawiya bin Abi Sufyaan."
+ },
+ {
+  "id": "n01170",
+  "summary": "Abdullaah bin Umar, who had agreed a kitaabah contract with his slave, refuses money the slave had earned by begging and frees him for Allaah's pleasure, letting him keep the money.",
+  "people": [
+   { "id": null, "name": "Maymoon bin Mahraan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["honest-dealings", "halaal-and-haraam"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "ok",
+  "notes": "The slave is unnamed."
+ },
+ {
+  "id": "n01171",
+  "summary": "A chief in Iraq asks Abdullaah bin Ja'far to intercede with Ali for a need; after Ali grants it, the chief sends forty thousand dirhams, which Abdullaah returns, saying they do not sell their good deeds.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+   { "id": "abdullaah-bin-jafar", "role": "subject" },
+   { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["sincerity", "virtues-of-the-sahabah"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "The chief is unnamed and left out."
+ },
+ {
+  "id": "n01172",
+  "summary": "Uthmaan appoints Abdullaah bin Arqam treasurer of the Baytul Maal and pays him a large remuneration, which he refuses, saying he did the work for Allaah's pleasure.",
+  "people": [
+   { "id": null, "name": "Amr bin Dinaar", "role": "narrator", "sahabi": "no" },
+   { "id": "uthmaan", "role": "subject" },
+   { "id": null, "name": "Abdullaah bin Arqam", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["honest-dealings", "sincerity"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "The text adds a parallel report (thirty thousand, from Imaam Maalik's narration), which is left out. Abdullaah bin Arqam is not the approved 'arqam' entry."
+ },
+ {
+  "id": "n01173",
+  "summary": "During Ramadhaan, Amr bin Nu'maan bin Muqarrin refuses a bag of dirhams sent by Mus'ab bin Zubayr, saying he does not recite the Qur'aan for worldly profit, and sends it back.",
+  "people": [
+   { "id": "muaawiya-bin-qurra", "role": "narrator" },
+   { "id": null, "name": "Amr bin Nu'maan bin Muqarrin", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Mus'ab bin Zubayr", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "sincerity"],
+  "new_themes": ["refusing gifts"],
+  "boundary": "ok",
+  "notes": "The text names him Amr bin Nu'maan; the approved 'numaan-bin-muqarrin' is a different name, so left as null. Mus'ab bin Zubayr is the Ameer, not the Companion Mus'ab bin Umayr."
+ },
+ {
+  "id": "n01174",
+  "summary": "Asmaa bint Abi Bakr refuses gifts from her non-Muslim mother until Allaah revealed the verse permitting kind dealings with such relatives; the Prophet told her to accept the gifts and welcome her mother.",
+  "people": [
+   { "id": "abdullaah-bin-zubayr", "role": "narrator" },
+   { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+   { "id": null, "name": "Qutaylah bint Abdul Uzza bin Abd Sa'd", "role": "subject", "sahabi": "no" },
+   { "id": "aaisha", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness"],
+  "new_themes": ["ties with non-Muslim relatives"],
+  "boundary": "ok",
+  "notes": "Qutaylah was a Mushrik at the time."
+ },
+ {
+  "id": "n01175",
+  "summary": "Aa'isha refuses a poor woman's gift out of pity, and the Prophet tells her to accept it, return something in exchange, and humble herself.",
+  "people": [
+   { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "virtues-of-the-sahabah"],
+  "new_themes": ["humility"],
+  "boundary": "ok",
+  "notes": "The poor woman is unnamed and left out."
+ },
+ {
+  "id": "n01176",
+  "summary": "Abu Sa'eed Khudri, in poverty, is sent by his wife to ask the Prophet for help; the Prophet says Allaah grants independence to whoever asks Him for it, so he returns without asking, and the world later comes to them.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["self-reliance", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The closing parenthetical is OCR-garbled."
+ },
+ {
+  "id": "n01177",
+  "summary": "Abu Sa'eed Khudri, starving with a stone tied to his belly, goes to the Prophet on another's advice; the Prophet says he prefers those who do not depend on others, so Abu Sa'eed returns without asking and Allaah later provides abundantly.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["self-reliance", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The person who sent him (his wife or his slave) is unnamed."
+ },
+ {
+  "id": "n01178",
+  "summary": "Abdur Rahmaan bin Auf gives up asking the Prophet for a promised share; Thowbaan pledges to ask no one for anything, and Abu Umaamah reports how Thowbaan would not even ask for his fallen whip.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "thowbaan", "role": "subject" },
+   { "id": "abu-umaama", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports run together: Abdur Rahmaan's own account (after the Banu Qurayzah), Thowbaan's pledge, and Abu Umaamah's report. An Ibn Maajah citation is also in the text and is left out."
+ },
+ {
+  "id": "n01179",
+  "summary": "Abu Bakr would strike his camel to make it kneel so he could pick up its fallen rein himself, because the Prophet had told him never to ask people for anything.",
+  "people": [
+   { "id": null, "name": "Ibn Abi Mulaykah", "role": "narrator", "sahabi": "no" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["self-reliance", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01180",
+  "summary": "Eight years after Uhud, the Prophet bade farewell to the living and the dead from the pulpit, said he could see the Fountain of Kowthar, and feared the Ummah would compete for worldly things rather than revert to shirk.",
+  "people": [
+   { "id": "uqba-bin-aamir", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "martyrdom", "aakhirah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The Uhud martyrs are unnamed. Uqba reports that this was the last time he saw the Prophet."
+ },
+ {
+  "id": "n01181",
+  "summary": "Uqba bin Aamir relates a second version: the Prophet prayed the janaazah for the Uhud martyrs, said he could see his fountain and had been given the keys to the treasures of the earth, and feared worldly competition more than shirk.",
+  "people": [
+   { "id": "uqba-bin-aamir", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "martyrdom"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The text skips the middle of the report ('The rest of the ... continues until'), an abridgment in the source."
+ },
+ {
+  "id": "n01182",
+  "summary": "The Prophet, pleased that Abu Ubaydah has returned from Bahrain with wealth, tells the Ansaar he fears the world will be spread before them and destroy them as it did earlier peoples.",
+  "people": [
+   { "id": null, "name": "Amr bin Al Auf Ansaari", "role": "narrator", "sahabi": "yes" },
+   { "id": "abu-ubaydah", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The Ansaar who greeted him are unnamed. The narration ends with a stray quotation mark."
+ },
+ {
+  "id": "n01183",
+  "summary": "Abu Dharr reports that when a Bedouin complained of drought, the Prophet said he feared the worldly wealth that would be poured on his Ummah, and wished they would not wear gold.",
+  "people": [
+   { "id": "abu-dharr-ghifaari", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "hunger-and-hardship"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The Bedouin is unnamed."
+ },
+ {
+  "id": "n01184",
+  "summary": "Abu Sa'eed Khudri reports the Prophet, speaking from the pulpit, saying he feared the splendour and wealth the world would open up to them.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "steadfastness"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01185",
+  "summary": "Sa'd bin Abi Waqqaas reports the Prophet's saying that he feared prosperity for them more than hardship, because the world is sweet and tempting.",
+  "people": [
+   { "id": "sad-bin-abi-waqqaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "steadfastness"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "One phrase is OCR-garbled ('Ml of flourish')."
+ },
+ {
+  "id": "n01186",
+  "summary": "Awf bin Maalik reports the Prophet's warning that conquests over Rome and Persia will bring worldly wealth that diverts from the straight path.",
+  "people": [
+   { "id": "awf-bin-maalik-ashjaee", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-concern", "spread-of-islaam"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "Matched to the approved 'Awf bin Maalik Ash'ja'ee'; the text gives only 'Auf bin Maalik'."
+ },
+ {
+  "id": "n01187",
+  "summary": "Umar weeps while inspecting the booty from Qaadisiyyah, saying such wealth brings enmity and hatred to a nation; Abdur Rahmaan bin Auf asks why, as it is a day of joy.",
+  "people": [
+   { "id": "umar", "role": "subject" },
+   { "id": "miswar-bin-makhrama", "role": "narrator" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "OCR debris ignored."
+ },
+ {
+  "id": "n01188",
+  "summary": "When Kisra's treasures are brought to Umar, he will not deposit them in the Baytul Maal before distributing them, and he weeps, saying Allaah casts enmity between a nation given such wealth.",
+  "people": [
+   { "id": null, "name": "Ibraheem bin Abdur Rahmaan bin Auf", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Abdullaah bin Arqam Zuhri", "role": "subject", "sahabi": "yes" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "kisra", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "Sahabi status of the narrator is not stated in the text."
+ },
+ {
+  "id": "n01189",
+  "summary": "Hasan Basri reports that Umar placed Kisra's crown and bracelets before the people, gave the bracelets to Suraaqa bin Maalik, and prayed that this wealth would not be a trap for him.",
+  "people": [
+   { "id": null, "name": "Hasan Basri", "role": "narrator", "sahabi": "no" },
+   { "id": "umar", "role": "subject" },
+   { "id": "suraaqa-bin-maalik", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" },
+   { "id": "kisra", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The text says 'Hadhrat Hasan'; the heading identifies him as Hasan Basri, not the approved 'hasan'. The closing Qur'aan quotation is Surah Mu'minoon 55-56."
+ },
+ {
+  "id": "n01190",
+  "summary": "Abu Sinaan Duwali finds Umar weeping over a ring his son had taken into his mouth, because he heard the Prophet say that worldly wealth opened to a nation brings enmity until the Day of Qiyaamah.",
+  "people": [
+   { "id": null, "name": "Abu Sinaan Duwali", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["prophets-concern", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "Umar's son and the companions with him are unnamed. The text does not state Abu Sinaan's sahabi status."
+ },
+ {
+  "id": "n01191",
+  "summary": "Abdullaah bin Umar reports that Umar, after finding the public money stacked before him, asked Uthmaan and him to share it out, and wept, wishing to leave the Khilaafah with a clean record. A second report has Umar giving him gold to distribute and weeping at the test it represents.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "uthmaan", "role": "subject" },
+   { "id": null, "name": "Yarfa", "role": "subject", "sahabi": "unsure" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "merged",
+  "notes": "Two reports joined: the Yarfa and money report, then the gold report. The first report breaks off mid-sentence in the text ('nothing Another narration...'). Yarfa is Umar's slave, and the text gives no RA."
+ },
+ {
+  "id": "n01192",
+  "summary": "Abdur Rahmaan bin Auf finds Umar crying among stacked bags of money and consoles him; they agree to distribute the money, four thousand each to the Prophet's wives and two thousand to everyone else.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "khilaafah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The Prophet's wives are not named. A stray OCR fragment ('remarked,.') is ignored."
+ },
+ {
+  "id": "n01193",
+  "summary": "Abdur Rahmaan bin Auf, served food after fasting, weeps because Mus'ab bin Umayr and Hamza were martyred and shrouded in cloth too small for them, while worldly wealth has now been spread before him.",
+  "people": [
+   { "id": null, "name": "Ibraheem bin Abdur Rahmaan bin Auf", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "musab-bin-umayr", "role": "mentioned" },
+   { "id": "hamza", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["martyrdom", "aakhirah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The narrator is 'Hadhrat Ibraheem' with no nisba here. Identified from the chain in n01188 as Ibraheem bin Abdur Rahmaan bin Auf. Not matched to the approved 'ibraheem' entry."
+ },
+ {
+  "id": "n01194",
+  "summary": "Naufal bin Ayaadh reports that Abdur Rahmaan bin Auf, served bread and meat at his home, wept because the Prophet and his family never filled their bellies even with barley bread.",
+  "people": [
+   { "id": null, "name": "Naufal bin Ayaadh Hudhali", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01195",
+  "summary": "Abdur Rahmaan bin Auf asks Umm Salama whether his great wealth will destroy him; she tells him to spend it in charity, and when Umar asks whether he is among the companions the Prophet mentioned, she refuses to say.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "umm-salama", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "aakhirah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "No narrator is named. A footnote citation (Abu Ubaya and Adani, Kanzul Ummaal) runs into the end of the text and is left out."
+ },
+ {
+  "id": "n01196",
+  "summary": "Some Sahabah visit Khabbaab during his illness and tell him he will meet Muhammad at the pond; he points to his house and asks how that is possible, given the Prophet's words that a person needs only a traveller's provisions.",
+  "people": [
+   { "id": null, "name": "Yahya bin Ja'dah", "role": "narrator", "sahabi": "unsure" },
+   { "id": "khabbaab-bin-arat", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The visiting Sahabah are unnamed."
+ },
+ {
+  "id": "n01197",
+  "summary": "Sahabah visit the ill Khabbaab and say he will soon meet his brothers; he weeps, fearing that their rewards were kept for the Aakhirah while he has received worldly wealth.",
+  "people": [
+   { "id": null, "name": "Taariq bin Shihaab", "role": "narrator", "sahabi": "unsure" },
+   { "id": "khabbaab-bin-arat", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "Not matched to the approved 'taariq-bin-abdillaah' entry. The visiting Sahabah are unnamed."
+ },
+ {
+  "id": "n01198",
+  "summary": "During his illness, after seven brandings, Khabbaab says he would wish for death if the Prophet had not forbidden it, but fears the forty thousand dirhams in his house will keep him from meeting the Prophet.",
+  "people": [
+   { "id": null, "name": "Haaritha bin Mudarrib", "role": "narrator", "sahabi": "unsure" },
+   { "id": "khabbaab-bin-arat", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "The unnamed person who spoke to Khabbaab is left out."
+ },
+ {
+  "id": "n01199",
+  "summary": "Khabbaab recalls having no dirhams when he was with the Prophet and now having forty thousand beside his room; when his shroud is brought he weeps, noting that Hamza had only a small sheet.",
+  "people": [
+   { "id": "khabbaab-bin-arat", "role": "subject" },
+   { "id": "hamza", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "martyrdom"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ok",
+  "notes": "Opens as 'another similar narration' with no narrator named."
+ },
+ {
+  "id": "n01200",
+  "summary": "On his final illness Khabbaab weeps over eighty thousand dirhams, fearing his companions died poor while he has wealth, and says he wishes the world were like dung; other reports tell of Mus'ab's small shroud and the Prophet's instruction to cover the feet with idhkhir grass.",
+  "people": [
+   { "id": null, "name": "Abu Waa'il Shaqeeq bin Salamah", "role": "narrator", "sahabi": "no" },
+   { "id": "khabbaab-bin-arat", "role": "subject" },
+   { "id": null, "name": "Abu Usaama", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Qais", "role": "narrator", "sahabi": "unsure" },
+   { "id": "musab-bin-umayr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "martyrdom", "sadaqah"],
+  "new_themes": ["fear of worldliness"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-report ('(4) •'). Several reports run together: Abu Waa'il, Abu Usaama, Qais, and a Bukhaari report whose citation is left out. Abu Usaama may be Abu Umaama but is not matched; 'Qais' is not the approved 'qais' entry."
+ }
+]

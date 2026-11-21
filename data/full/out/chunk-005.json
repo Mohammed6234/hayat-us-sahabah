@@ -1,0 +1,568 @@
+[
+ {
+  "id": "n00161",
+  "summary": "Umayr bin Wahab sets out to kill the Prophet with a poisoned sword after plotting with Safwaan bin Umayyah, and Umar sees him at the Masjid and raises the alarm.",
+  "people": [
+   { "id": null, "name": "Umayr bin Wahab", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Safwaan bin Umayyah", "role": "subject", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Wahab bin Umayr", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["opposition", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Lead-in to the acceptance of Islaam in the following narrations. Themes chosen as the closest fit; the Prophet is the target but does not act here."
+ },
+ {
+  "id": "n00162",
+  "summary": "Umar drags Umayr bin Wahab to the Prophet, who reveals the secret plot and then forgives him.",
+  "people": [
+   { "id": null, "name": "Umayr bin Wahab", "role": "subject", "sahabi": "yes" },
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Safwaan bin Umayyah", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "prophethood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00163",
+  "summary": "Umayr bin Wahab accepts Islaam, asks leave to go to Makkah to call people to it, and Safwaan bin Umayyah swears never to speak to him again.",
+  "people": [
+   { "id": null, "name": "Umayr bin Wahab", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Safwaan bin Umayyah", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00164",
+  "summary": "Umayr bin Wahab invites people to Islaam in Makkah, and a large number accept at his hands.",
+  "people": [
+   { "id": null, "name": "Umayr bin Wahab", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Ibn Jareer", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Short addition to the previous account, attributed to Ibn Jareer citing Urwa. Ibn Jareer is tagged as a narrator because the sentence says he narrated it; if the review treats book citations as reference only, drop him."
+ },
+ {
+  "id": "n00165",
+  "summary": "Umar says he now loves Umayr more than some of his own children, and Umayr confronts Safwaan in the Hateem, who stays silent.",
+  "people": [
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Umayr bin Wahab", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Safwaan bin Umayyah", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Amr bin Umayyah", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["accepting-islaam", "dawah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains two reports: Urwa's on Umar's remark and the Muslims' joy, and Amr bin Umayyah's on Umayr's confrontation with Safwaan."
+ },
+ {
+  "id": "n00166",
+  "summary": "Abu Hurayrah invites his mother to Islaam, the Prophet prays for her guidance, and she accepts Islaam.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah-to-family", "accepting-islaam", "duaa"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains a second narration of the same event, with an extra prayer for Abu Hurayrah. The mother is unnamed and is not tagged."
+ },
+ {
+  "id": "n00167",
+  "summary": "Ummu Sulaym makes Islaam the condition for marrying Abu Talha, who accepts Islaam, and Anas bin Maalik performs the nikaah.",
+  "people": [
+   { "id": null, "name": "Ummu Sulaym", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Abu Talha", "role": "subject", "sahabi": "yes" },
+   { "id": "anas-bin-maalik", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["accepting-islaam", "dawah", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Opens with a heading fragment left by OCR; ignored."
+ },
+ {
+  "id": "n00168",
+  "summary": "Dimaam bin Tha'laba comes to Madinah as the representative of Banu Sa'd bin Bakr, questions the Prophet about the basics of Islaam, and accepts it.",
+  "people": [
+   { "id": null, "name": "Dimaam bin Tha'laba", "role": "subject", "sahabi": "yes" },
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "tawheed", "salaah"],
+  "new_themes": ["delegations to the Prophet"],
+  "boundary": "ok",
+  "notes": "Dimaam may be the approved entry 'dimaad'. Not matched, because the approved entry gives no lineage and the identity cannot be confirmed. Please review."
+ },
+ {
+  "id": "n00169",
+  "summary": "Dimaam bin Tha'laba returns to his tribe, rejects the idols, and the people present with him accept Islaam by that evening.",
+  "people": [
+   { "id": null, "name": "Dimaam bin Tha'laba", "role": "subject", "sahabi": "yes" },
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": null, "name": "Waaqidi", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["accepting-islaam", "spread-of-islaam", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Waaqidi appears as the source of a variant report. The Dimaam match is the same as in n00168."
+ },
+ {
+  "id": "n00170",
+  "summary": "Amr bin Murrah Juhani dreams in Makkah of a light and voices announcing the sealing of the Prophets and the destruction of idols, and tells his people.",
+  "people": [
+   { "id": null, "name": "Amr bin Murrah Juhani", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["prophethood", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet is implied ('the seal of the Ambiyaa') but not named, so prophet is absent."
+ },
+ {
+  "id": "n00171",
+  "summary": "Amr bin Murrah Juhani accepts Islaam from the Prophet, is sent back to call his tribe, and a man among them answers with verses of abuse, and Amr's curse on him is fulfilled.",
+  "people": [
+   { "id": null, "name": "Amr bin Murrah Juhani", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The speech has 'O Rifaa'ah' before 'or I should rather say O gathering of the Juhayna'. Probably a slip, so not tagged. The man who abuses Amr is unnamed."
+ },
+ {
+  "id": "n00172",
+  "summary": "Amr bin Murrah Juhani brings the members of his tribe who accepted Islaam to the Prophet, who welcomes them and has a letter of terms written, which Qais bin Shammaas scribes.",
+  "people": [
+   { "id": null, "name": "Amr bin Murrah Juhani", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Qais bin Shammaas", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "sadaqah", "salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The tribe name 'Juhayna bin Zaid' is not tagged."
+ },
+ {
+  "id": "n00173",
+  "summary": "Urwa bin Mas'ood, newly Muslim, asks the Prophet's leave to return to his people of Thaqeef to call them to Islaam, and they kill him.",
+  "people": [
+   { "id": null, "name": "Urwa bin Mas'ood", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "sacrifice", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Urwa bin Mas'ood is a different person from Urwa bin Zubayr. The narrator is identified by the text as Urwa bin Zubayr."
+ },
+ {
+  "id": "n00174",
+  "summary": "Mortally wounded by an arrow, Urwa bin Mas'ood forbids his people to take revenge for him, welcomes martyrdom and asks to be buried with the martyred Sahabah.",
+  "people": [
+   { "id": null, "name": "Urwa bin Mas'ood", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Aws bin Auf", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Ghaylaan bin Salma", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Kinaana bin Abd Yaleel", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Hakam bin Amr", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with the author's cross-reference to an earlier chapter. The Thaqeef leaders' Islaam status is not stated, so sahabi is unsure."
+ },
+ {
+  "id": "n00175",
+  "summary": "The Quraysh warn Tufayl bin Amr Dowsi against the Prophet, and he resolves not to listen to him and stops his ears with wool.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" },
+   { "id": "ibn-ishaaq", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["opposition", "dawah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Opens with the historian's introduction. The Quraysh men are unnamed."
+ },
+ {
+  "id": "n00176",
+  "summary": "Tufayl bin Amr Dowsi hears the Prophet recite at the Ka'bah, follows him home, and accepts Islaam after the Qur'aan is recited to him.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "quraan", "dawah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00177",
+  "summary": "Tufayl bin Amr Dowsi's prayer moves a light from between his eyes to the top of his whip, and it serves as a sign to his people as he approaches them.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00178",
+  "summary": "Tufayl bin Amr Dowsi invites his father and his wife to Islaam, and both accept, while the rest of his tribe is slow to respond.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah-to-family", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The father and wife are unnamed and are not tagged."
+ },
+ {
+  "id": "n00179",
+  "summary": "Tufayl bin Amr Dowsi asks the Prophet to curse the Dows tribe, but the Prophet prays for their guidance, and Tufayl later brings them to Madinah.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "prophets-concern", "hijrah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00180",
+  "summary": "Abdullaah bin Abbaas recounts Tufayl bin Amr Dowsi's Islaam, and adds that the Prophet sent him to burn an idol before he was martyred at Yamaamah.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["tawheed", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Summary account that refers back to n00176 to n00179."
+ },
+ {
+  "id": "n00181",
+  "summary": "Another account of Tufayl bin Amr Dowsi's Islaam, then of Jundub bin Amr and seventy-five Dows accepting Islaam at the Prophet's hand.",
+  "people": [
+   { "id": null, "name": "Tufayl bin Amr Dowsi", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Jundub bin Amr bin Humama bin Auf", "role": "subject", "sahabi": "yes" },
+   { "id": "abu-hurayrah", "role": "subject" },
+   { "id": "ali", "role": "mentioned" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "mentioned", "sahabi": "yes" },
+   { "id": "abu-umaama", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "accepting-islaam", "dawah-to-family"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence. Ali, Khaalid and Abu Umaama are named only in a cross-reference to earlier narrations. Contains more than one report. Tufayl's parents are not tagged beyond this."
+ },
+ {
+  "id": "n00182",
+  "summary": "During Abu Bakr's caliphate, Hishaam bin Al Aas Umawi and companions go to Jabala bin Ayham in Damascus with the invitation to Islaam, and predict the conquest of his kingdom.",
+  "people": [
+   { "id": null, "name": "Hishaam bin Al Aas Umawi", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Jabala bin Ayham Ghassaani", "role": "subject", "sahabi": "no" },
+   { "id": null, "name": "Nu'aym bin Abdillaah", "role": "mentioned", "sahabi": "yes" },
+   { "id": "moosa-bin-uqba", "role": "narrator" },
+   { "id": null, "name": "Heraclius", "role": "mentioned", "sahabi": "no" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends with 'The Hadith proceeds in detail as will be quoted ahead', so the account is cut off before its conclusion."
+ },
+ {
+  "id": "n00183",
+  "summary": "Ziyaad bin Haarith Sudaa'ee accepts Islaam, asks the Prophet to recall the army sent to his people, writes to them, and is appointed their leader and given zakaah for them.",
+  "people": [
+   { "id": null, "name": "Ziyaad bin Haarith Sudaa'ee", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Umaamah appears only in an OCR subheading, so is not tagged."
+ },
+ {
+  "id": "n00184",
+  "summary": "Bujayr bin Zuhayr accepts Islaam and writes to his brother Ka'b bin Zuhayr, who, after the Prophet orders his execution, comes to Madinah and accepts Islaam.",
+  "people": [
+   { "id": null, "name": "Abdur Rahmaan bin Ka'b", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Bujayr bin Zuhayr", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Ka'b bin Zuhayr", "role": "subject", "sahabi": "yes" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah-to-family"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends before the poem that Ka'b recites, which is quoted later. Abdur Rahmaan bin Ka'b is not matched to the approved 'abdullaah-bin-kab-bin-maalik' or 'abdur-rahmaan-al-qaari'."
+ },
+ {
+  "id": "n00185",
+  "summary": "Ka'b bin Zuhayr recites his poem Baanat Su'aad in the Prophet's Masjid, the Prophet signals the Sahabah to listen, and Bujayr's letter urging Ka'b to Islaam is also quoted.",
+  "people": [
+   { "id": "moosa-bin-uqba", "role": "narrator" },
+   { "id": null, "name": "Ka'b bin Zuhayr", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Bujayr bin Zuhayr", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah-to-family", "prophethood"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains two reports: Ka'b's recitation, and the letter from Bujayr (quoted as a second report by an unnamed narrator)."
+ },
+ {
+  "id": "n00186",
+  "summary": "Khaalid bin Waleed writes to the Persian leadership, Rustam and Mahraan, inviting them to Islaam and offering the Jizya as the alternative to war.",
+  "people": [
+   { "id": null, "name": "Abu Waa'il", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Rustam", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Mahraan", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah", "spread-of-islaam", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00187",
+  "summary": "Khaalid bin Waleed's letter to the Persian leadership at Madaa'in, offering Islaam, the Jizya or war, is read to Sha'bi and alarms the Persians in 12 AH.",
+  "people": [
+   { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah", "spread-of-islaam", "jihaad"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-word at 'W' after the date. Banu Buqayla is a tribe and is not tagged."
+ },
+ {
+  "id": "n00188",
+  "summary": "Khaalid bin Waleed sends letters to the Persian commander Hurmuz and to the Persian royal family, offering Islaam, protection for the Jizya or war, and two envoys carry them.",
+  "people": [
+   { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Hurmuz", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Uzaadhiba", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Ziyaadhiba", "role": "mentioned", "sahabi": "unsure" },
+   { "id": null, "name": "Bahman Jaadhway", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Ardsher", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Murra", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Hizqeel", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah", "spread-of-islaam", "jihaad"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains several reports: the letter to Hurmuz, a second narration with two letters to the Persian leadership, and the envoys. Murra and Hizqeel are the envoys' names as given in the text. Ibn Jareer's citation is not tagged."
+ },
+ {
+  "id": "n00189",
+  "summary": "Haarith bin Muslim Tameemi gets a town to say Laa Ilaaha Illallaah, and the Prophet rewards him with a sealed letter that Abu Bakr, Umar and Uthmaan each honour.",
+  "people": [
+   { "id": null, "name": "Haarith bin Muslim Tameemi", "role": "subject", "sahabi": "yes" },
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "uthmaan", "role": "subject" },
+   { "id": null, "name": "Muslim bin Haarith", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Abdur Rahmaan", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Umar bin Abdul Aziz", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["kalimah", "dawah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdur Rahmaan is named only as one of the narrators, with no further identity given, so he is not matched to any approved entry."
+ },
+ {
+  "id": "n00190",
+  "summary": "Ka'b bin Umayr Ghifaari is sent with fifteen men to invite people at Dhaat Itlaa in Shaam, and after they are refused, all but one are martyred.",
+  "people": [
+   { "id": null, "name": "Zuhri", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Ka'b bin Umayr Ghifaari", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "sacrifice", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Sahabah are unnamed except the leader, and the survivor is unnamed."
+ },
+ {
+  "id": "n00191",
+  "summary": "Ibn Abil Awjaa Sulami invites a large enemy force to Islaam, which they refuse, and most of his fifty men are martyred before the survivors return to Madinah.",
+  "people": [
+   { "id": null, "name": "Zuhri", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Ibn Abil Awjaa Sulami", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah-before-battle", "sacrifice", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00192",
+  "summary": "When Abu Bakr sends armies to Shaam, he walks with the commanders to see them off and gives them instructions to invite the enemy to Islaam, then to the Jizya, before fighting, and forbids harming women, children and the monks.",
+  "people": [
+   { "id": "saeed-bin-musayyab", "role": "narrator" },
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": null, "name": "Yazeed bin Abi Sufyaan", "role": "mentioned", "sahabi": "yes" },
+   { "id": "amr-bin-al-aas", "role": "mentioned" },
+   { "id": null, "name": "Shurahbeel bin Hasana", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah-before-battle", "jihaad", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet is mentioned only as 'Rasulullaah' in Abu Bakr's title."
+ },
+ {
+  "id": "n00193",
+  "summary": "Abu Bakr instructs Khaalid bin Waleed, sent against the apostates, to invite them back to Islaam, to accept any who return, and to fight only those who refuse.",
+  "people": [
+   { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["apostasy", "dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says only 'Hadhrat Urwa (RA)'. It is not stated which Urwa, so this is not matched to Urwa bin Zubayr."
+ },
+ {
+  "id": "n00194",
+  "summary": "Khaalid bin Waleed invites the nobles of Heera, led by Qabeesa and Haani, to Islaam, and when they refuse war they agree to pay seventy thousand Dirhams as Jizya.",
+  "people": [
+   { "id": null, "name": "Saalih bin Kaysaan", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Qabeesa bin Ayaas bin Hayya Taa'ee", "role": "subject", "sahabi": "no" },
+   { "id": null, "name": "Haani", "role": "subject", "sahabi": "unsure" },
+   { "id": null, "name": "Nu'maan bin Mundhir", "role": "mentioned", "sahabi": "no" },
+   { "id": "kisra", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah-before-battle", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends at 'The narration continues'. It also contains a second narration with Khaalid's invitation in full and Haani's request for a night to decide."
+ },
+ {
+  "id": "n00195",
+  "summary": "Before the Battle of Yarmook, Abu Ubaydah and four other Sahabah go to meet Tadhaaruk, Heraclius' brother, and invite him to Islaam, but the treaty does not materialise and the battle is fought.",
+  "people": [
+   { "id": "abu-ubaydah", "role": "subject" },
+   { "id": null, "name": "Yazeed bin Abi Sufyaan", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Diraar bin Azoor", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Haarith bin Hishaam", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Abu Jaryial bin Suhayl", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Tadhaaruk", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Heraclius", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator of this report is not named."
+ },
+ {
+  "id": "n00196",
+  "summary": "During the Battle of Yarmook, the Roman commander Jarja asks to meet Khaalid bin Waleed and questions him about the Prophet and the sword he was given.",
+  "people": [
+   { "id": null, "name": "Waaqidi", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Jarja", "role": "subject", "sahabi": "no" },
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah-before-battle", "prophethood", "jihaad"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends on Jarja's question. Continues in n00197. The Prophet is referred to only as 'your Nabi'."
+ },
+ {
+  "id": "n00197",
+  "summary": "Khaalid explains that the Prophet called him a sword of Allaah and that the Muslims call people to testify that there is none worthy of worship but Allaah and that Muhammad is His servant and Rasul, and Jarja asks what they call people to.",
+  "people": [
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Jarja", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["kalimah", "dawah-before-battle", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Continues the dialogue begun in n00196. The speaker label for the first line is missing from the text."
+ },
+ {
+  "id": "n00198",
+  "summary": "Khaalid answers Jarja on the Jizya, the equal standing of all believers and the reward of later converts, then Jarja accepts Islaam, prays two rakaahs and dies of wounds in the battle that day.",
+  "people": [
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Jarja", "role": "subject", "sahabi": "no" },
+   { "id": null, "name": "Ikrama bin Abi Jahal", "role": "mentioned", "sahabi": "yes" },
+   { "id": "haarith-bin-hishaam", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["accepting-islaam", "dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Continues the dialogue from n00197 with no speaker label on the first line. The Muhaamiya regiment is led by Ikrama bin Abi Jahal and Haarith bin Hishaam. Haarith bin Hishaam is tagged to the approved entry 'haarith-bin-hishaam' if the review confirms it."
+ },
+ {
+  "id": "n00199",
+  "summary": "Khaalid urges the Muslims to leave Arabia for the fertile lands of the non-Arabs and fight for them, even apart from the obligation of jihaad and da'wah.",
+  "people": [
+   { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Opens with 'Another narration', so it is a separate report from n00198."
+ },
+ {
+  "id": "n00200",
+  "summary": "Umar writes to Sa'd bin Abi Waqqaas to invite people to Islaam for three days before fighting, and sets the booty rules for those who accept Islaam before or after the battle.",
+  "people": [
+   { "id": null, "name": "Yazeed bin Abi Habeeb", "role": "narrator", "sahabi": "no" },
+   { "id": "umar", "role": "subject" },
+   { "id": "sad-bin-abi-waqqaas", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ }
+]

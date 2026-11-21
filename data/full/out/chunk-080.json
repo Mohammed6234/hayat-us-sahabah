@@ -1,0 +1,521 @@
+[
+  {
+    "id": "n03161",
+    "summary": "Abu Hurayrah and other narrators report that the Prophet ﷺ made du'aa for Hasan and Husayn, asking Allaah to love them and those who love them.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "usaama-bin-zaid", "role": "narrator" },
+      { "id": "saeed-bin-zaid", "role": "narrator" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports of the same du'aa joined, with varying wording. The narrator 'Baraa' is not identified in the text; probably Baraa bin Aazib, but not confirmed, so no id assigned."
+  },
+  {
+    "id": "n03162",
+    "summary": "Ibn Abbaas reports that the Prophet ﷺ prayed for forgiveness of the open and secret sins of Abbaas and his children, and that Allaah be their guardian after his death.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03163",
+    "summary": "Abu Hurayrah reports that the Prophet ﷺ prayed for forgiveness of Abbaas's sins, both public and private, and of any sins he or his descendants might commit until the Day of Qiyaamah.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03164",
+    "summary": "Aasim reports the Prophet ﷺ's words about Abbaas, Abu Usayd Saa'idi describes the Prophet gathering Abbaas and his household under his shawl to pray for them, and Ibn Abbaas is prayed for deep understanding of the Deen.",
+    "people": [
+      { "id": null, "name": "Aasim", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "abu-usayd-saaidi", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "maymoona-bint-haarith", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "mercy-and-forgiveness", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports joined. OCR debris ('pi xU-jj') ignored. The Aasim who narrates from his father is not identified in the text, so no id assigned."
+  },
+  {
+    "id": "n03165",
+    "summary": "A variant wording of the Prophet's du'aa asks Allaah to teach him the Qur'aan and grant him deep understanding of the Deen, and another wording asks for wisdom and the interpretation of the Qur'aan.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["duaa", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "No narrator is named and the person prayed for is not named here; 'him' is the same person as the du'aa in the previous item (Ibn Abbaas)."
+  },
+  {
+    "id": "n03166",
+    "summary": "Ibn Umar reports the Prophet ﷺ's du'aa asking Allaah to bless a person and spread the Deen through him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The person prayed for is not named in this text; the heading places it in the Abbaas section."
+  },
+  {
+    "id": "n03167",
+    "summary": "Abdullaah bin Ja'far reports that the Prophet ﷺ prayed that Allaah be the successor to Ja'far in caring for his children.",
+    "people": [
+      { "id": "abdullaah-bin-jafar", "role": "narrator" },
+      { "id": "jafar-bin-abi-taalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03168",
+    "summary": "Another report gives the Prophet ﷺ's du'aa that Allaah care for Ja'far's family and bless his son Abdullaah in trade, repeated three times.",
+    "people": [
+      { "id": "jafar-bin-abi-taalib", "role": "mentioned" },
+      { "id": "abdullaah-bin-jafar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Starts with 'Another narration'; the narrator is not named."
+  },
+  {
+    "id": "n03169",
+    "summary": "Sha'bi reports that after Ja'far was martyred at Balqaa in the Battle of Mu'ta, the Prophet ﷺ prayed that Allaah be a better successor to Ja'far's family than to any of His righteous servants.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "jafar-bin-abi-taalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "martyrdom", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03170",
+    "summary": "Abu Maysara reports that on hearing of the martyrdom of Zaid bin Haaritha, Ja'far and Abdullaah bin Rawaaha, the Prophet ﷺ spoke of them and prayed for their forgiveness.",
+    "people": [
+      { "id": null, "name": "Abu Maysara", "role": "narrator", "sahabi": "unsure" },
+      { "id": "zaid-bin-haaritha", "role": "subject" },
+      { "id": "jafar-bin-abi-taalib", "role": "subject" },
+      { "id": "abdullaah-bin-rawaaha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "martyrdom", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Maysara is not in the approved list and the text does not mark his Companion status. He may be a Tabi'i, but this is unconfirmed."
+  },
+  {
+    "id": "n03171",
+    "summary": "Uthmaan bin Affaan reports that the Prophet ﷺ prayed that Allaah forgive the family of Yaasir.",
+    "people": [
+      { "id": "uthmaan", "role": "narrator" },
+      { "id": "yaasir", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Begins with stray OCR punctuation, which is ignored."
+  },
+  {
+    "id": "n03172",
+    "summary": "Aa'isha reports a du'aa for Ammaar bin Yaasir, and Umm Salamah reports the Prophet ﷺ's du'aa for the forgiveness of Abu Salamah, the raising of his rank, Allaah being his successor among those left behind, and his grave being filled with light.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": "umm-salama", "role": "narrator" },
+      { "id": "abu-salma", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. Aa'isha's report is cut off ('The Hadith still continues further'). Abu Salamah is matched to abu-salma from context (the husband of Umm Salamah); please confirm it is not abu-salmah."
+  },
+  {
+    "id": "n03173",
+    "summary": "Usaama bin Zaid says the Prophet ﷺ placed him and Hasan bin Ali on his thighs, embraced them, and prayed that Allaah show mercy and love to both of them.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "duaa", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two wordings of the same report joined ('Another narration'). Usaama tells his own experience, so he is tagged as subject."
+  },
+  {
+    "id": "n03174",
+    "summary": "Usaama bin Zaid relates that when the Prophet's illness grew severe and he could no longer speak, the Prophet repeatedly placed his hand on him and lifted it, and Usaama understood that the Prophet was making du'aa for him.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "prophets-final-illness", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray OCR mark at the end ignored."
+  },
+  {
+    "id": "n03175",
+    "summary": "Jaabir reports the Prophet ﷺ prayed for Amr bin al-Aas's forgiveness because he always gave charity when asked; Hakeem bin Hizaam reports a du'aa for blessing in his trade; Jareer reports the Prophet ﷺ prayed that he would sit steady on a horse, and he never fell off again.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "amr-bin-al-aas", "role": "subject" },
+      { "id": "hakeem-bin-hizaam", "role": "subject" },
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports joined. The Hakeem account is about buying and selling a sacrificial animal. Jareer tells his own experience, so he is tagged as subject."
+  },
+  {
+    "id": "n03176",
+    "summary": "Jareer reports the Prophet ﷺ's remark about relieving him of Dhu Khalasa and his reply; Abdullaah bin Busr reports that the Prophet ﷺ ate at his father's house and prayed for them, after which they always saw abundant provision.",
+    "people": [
+      { "id": "jareer-bin-abdillaah", "role": "subject" },
+      { "id": "abdullaah-bin-busr", "role": "subject" },
+      { "id": null, "name": "Busr", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. The father is named only in the heading ('family of Hadhrat Busr (RA)'); the text just says 'my father', so no approved id is assigned. Dhu Khalasa is a building, not a person."
+  },
+  {
+    "id": "n03177",
+    "summary": "Nadhla bin Amr al-Ghifaari reports that the Prophet ﷺ renamed a man of the Ghifaar tribe from 'Muhaan' to 'Mukrim', and that when he led the janazah of Baraa bin Ma'roor he prayed for Allaah's special mercy and for Baraa's entry into Jannah.",
+    "people": [
+      { "id": null, "name": "Nadhla bin Amr Ghifaari", "role": "narrator", "sahabi": "yes" },
+      { "id": "baraa-bin-maroor", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "death-and-burial", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03178",
+    "summary": "Ibn Abu Qataadah reports that when the Prophet ﷺ led the janazah of Baraa bin Ma'roor on arrival in Madinah, he prayed for Allaah's forgiveness, mercy and pleasure with him.",
+    "people": [
+      { "id": null, "name": "Ibn Abu Qataadah", "role": "narrator", "sahabi": "yes" },
+      { "id": "baraa-bin-maroor", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "death-and-burial", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibn Abu Qataadah is not in the approved list. The text marks him (RA), but his identity is not confirmed."
+  },
+  {
+    "id": "n03179",
+    "summary": "Qais bin Sa'd reports that the Prophet ﷺ prayed that Allaah shower His special mercy on the family of Sa'd bin Ubaadah and forgive them.",
+    "people": [
+      { "id": "qais-bin-sad", "role": "narrator" },
+      { "id": "sad-bin-ubaadah", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03180",
+    "summary": "Abu Qataadah relates that on a journey he held up the Prophet ﷺ when he leaned from exhaustion on his animal, and the Prophet prayed that Allaah look after Abu Qataadah as he had looked after him.",
+    "people": [
+      { "id": "abu-qataadah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "kindness", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence ('We have certainly given you a lot of')."
+  },
+  {
+    "id": "n03181",
+    "summary": "Anas bin Maalik reports that when Umm Sulaym asked the Prophet ﷺ to pray for him, the Prophet prayed that Allaah grant him plenty of wealth and children and bless him in them.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "ummu-sulaym", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03182",
+    "summary": "Abu Dardaa reports that a man named Harmala said his faith was on his tongue while hypocrisy lurked in his heart, and the Prophet ﷺ prayed for him to have a tongue that makes dhikr, a grateful heart and a good ending to his affairs.",
+    "people": [
+      { "id": "abu-dardaa", "role": "narrator" },
+      { "id": null, "name": "Harmala", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr", "gratitude", "hypocrisy"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Harmala is not in the approved list and his Companion status is not marked in the text. Stray OCR debris ignored."
+  },
+  {
+    "id": "n03183",
+    "summary": "Talib reports that when he asked the Prophet ﷺ to pray for him, the Prophet waited for permission and then prayed three times for Allaah's forgiveness and mercy on him.",
+    "people": [
+      { "id": null, "name": "Talib", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Talib is not in the approved list; the text marks him (RA)."
+  },
+  {
+    "id": "n03184",
+    "summary": "Abu Moosa reports that the Prophet ﷺ prayed that Allaah elevate his little servant Abu Aamir above most people on the Day of Qiyaamah; Hassaan bin Shaddaad reports that his mother brought him to the Prophet for a du'aa that he become big and good, and the Prophet prayed for her and the child.",
+    "people": [
+      { "id": "abu-moosa-ashari", "role": "narrator" },
+      { "id": null, "name": "Abu Aamir", "role": "subject", "sahabi": "unsure" },
+      { "id": null, "name": "Hassaan bin Shaddaad", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. Abu Aamir is not matched to an approved id: the vocabulary entry abu-aamir is marked not sahabi and may be a different man. Hassaan tells his own experience, so he is tagged as subject. His mother is not named."
+  },
+  {
+    "id": "n03185",
+    "summary": "Abu Hurayrah reports that the Prophet ﷺ prayed in salaah for Salamah bin Hishaam, Ayaash bin Abu Rabee'ah, Waleed bin Waleed and other oppressed Muslims in Makkah to be rescued, and cursed the Mudhar tribe with drought.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "salama-bin-hishaam-bin-mughiera", "role": "subject" },
+      { "id": "ayaash-bin-abi-rabeeah", "role": "subject" },
+      { "id": "waleed-bin-waleed", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "opposition", "hijrah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two accounts joined. The second is cut off mid-sentence ('afflicted during the'). Salamah bin Hishaam is matched to salama-bin-hishaam-bin-mughiera from the name alone; please check."
+  },
+  {
+    "id": "n03186",
+    "summary": "Qaz'ah reports that Abdullaah bin Umar, bidding him farewell, recited the Prophet ﷺ's words placing his Deen, his trustworthiness and the results of his deeds in Allaah's custody.",
+    "people": [
+      { "id": null, "name": "Qaz'ah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "trust-in-allaah"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "Stray OCR debris ignored. Qaz'ah is not in the approved list and his Companion status is not marked in the text."
+  },
+  {
+    "id": "n03187",
+    "summary": "Another narration says that Abdullaah bin Umar would call anyone setting out on a journey close to him and recite that same farewell du'aa.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "trust-in-allaah"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "The narrator is not named. The du'aa itself is given in the previous item."
+  },
+  {
+    "id": "n03188",
+    "summary": "Anas reports that a Companion asked the Prophet ﷺ for a provision of du'aa before a journey, and the Prophet prayed that Allaah make Taqwa his provision, forgive his sins and make good easy for him wherever he went.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "taqwa"],
+    "new_themes": ["travel"],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence ('wherever you may'). The Companion who asked is not named, so no id is assigned."
+  },
+  {
+    "id": "n03189",
+    "summary": "Qataadah Rahaawi says that the Prophet ﷺ appointed him leader of his people and bade him farewell; Abu Hurayrah reports that the Prophet ﷺ advised a man to keep Taqwa and say Allaahu Akbar when climbing a slope, and prayed that his journey be shortened and made easy.",
+    "people": [
+      { "id": null, "name": "Qataadah Rahaawi", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "taqwa", "dhikr"],
+    "new_themes": ["travel"],
+    "boundary": "merged",
+    "notes": "Two reports joined. The man in Abu Hurayrah's report is not named. Qataadah Rahaawi is not in the approved list; the text marks him (RA)."
+  },
+  {
+    "id": "n03190",
+    "summary": "Abu Umaamah reports that when the Prophet ﷺ finished eating and lifted the tablecloth, he would praise Allaah with abundant, pure and blessed praise.",
+    "people": [
+      { "id": "abu-umaama", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "eating-and-drinking", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray OCR debris ignored."
+  },
+  {
+    "id": "n03191",
+    "summary": "Abu Sa'eed Khudri reports that whenever the Prophet ﷺ ate or drank, he praised Allaah for providing food and drink and for making him one of the Muslims.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "eating-and-drinking", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray OCR debris ignored."
+  },
+  {
+    "id": "n03192",
+    "summary": "Abu Sa'eed Khudri reports that whenever the Prophet ﷺ wore a new garment he named it and recited a du'aa praising Allaah and asking for the good of the garment and protection from its evil.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "clothing", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03193",
+    "summary": "Talha reports that when the Prophet ﷺ sighted the new moon he asked Allaah to let it rise over them with good fortune, Imaan, safety and Islaam.",
+    "people": [
+      { "id": "talha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": ["sighting the new moon"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03194",
+    "summary": "Ibn Umar quotes a different wording of the new moon du'aa, asking Allaah to let the moon rise over them with peace, security, serenity and Islaam.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": ["sighting the new moon"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03195",
+    "summary": "Raafi bin Khadeej reports that when the Prophet ﷺ saw the new moon he called it the moon of good and virtue, and recited a du'aa three times for the good of that month and protection from its evil.",
+    "people": [
+      { "id": "raafi-bin-khadeej", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": ["sighting the new moon"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03196",
+    "summary": "Ibn Umar reports that when the Prophet ﷺ heard thunderclaps he asked Allaah not to let His wrath kill them or His punishment destroy them, but to grant them safety before that.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "fear-of-allaah"],
+    "new_themes": ["weather and storms"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03197",
+    "summary": "Aa'isha reports that whenever the wind blew violently the Prophet ﷺ asked Allaah for its good, the good in it and the good it was sent for, and sought protection from its evil.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "fear-of-allaah"],
+    "new_themes": ["weather and storms"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03198",
+    "summary": "Aa'isha reports that when the Prophet ﷺ noticed a cloud forming on the horizon he would leave what he was doing, even shorten his salaah, seek protection from its evil, and ask Allaah for a pleasant downpour if it rained.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "fear-of-allaah", "salaah"],
+    "new_themes": ["weather and storms"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03199",
+    "summary": "Aa'isha reports that when the Prophet ﷺ noticed a dense cloud he would leave what he was doing, even salaah, seek Allaah's protection from the punishment it was sent with, and ask for a beneficial downpour if it rained.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "fear-of-allaah", "salaah"],
+    "new_themes": ["weather and storms"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03200",
+    "summary": "Salama bin Akwa reports that when the wind blew fiercely the Prophet ﷺ asked Allaah to make it a fruitful wind and not a destructive one.",
+    "people": [
+      { "id": "salama-bin-akwa", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "fear-of-allaah"],
+    "new_themes": ["weather and storms"],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

@@ -1,0 +1,561 @@
+[
+ {
+  "id": "n01481",
+  "summary": "Uthmaan forbade his men, who were ready to fight the rebels besieging him, from fighting, and Sa'eed bin Al Aas then went out to fight and was fatally wounded.",
+  "people": [
+    { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Abdullaah bin Saa'idah", "role": "narrator", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "saeed-bin-al-aas", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "mentioned" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "abdullaah-bin-zubayr", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "merged",
+  "notes": "Two reports joined: Ibn Seereen's opening and Abdullaah bin Saa'idah's report of Sa'eed bin Al Aas (no closing quote after Ibn Seereen's words). Vocabulary marks saeed-bin-al-aas as not a Sahabi, but the text calls him Hadhrat (RA); please check."
+ },
+ {
+  "id": "n01482",
+  "summary": "Sa'd bin Abi Waqqaas refused his son Aamir's urging to join the fighting unless he was given a sword that spares believers, and quoted the Prophet on loving the inconspicuous person who has taqwa.",
+  "people": [
+    { "id": null, "name": "Aamir bin Sa'd bin Abi Waqqaas", "role": "subject", "sahabi": "unsure" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "fear-of-allaah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01483",
+  "summary": "Asked why he did not take up arms though he was among the consultative assembly and more deserving of the Khilaafah, Sa'd bin Abi Waqqaas said he would fight only with a sword that could tell a believer from an unbeliever.",
+  "people": [
+    { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed."
+ },
+ {
+  "id": "n01484",
+  "summary": "Usaama bin Zaid and Sa'd bin Abi Waqqaas each said they would never fight anyone who recites the kalimah, and when challenged with the verse on fighting, they replied that they had fought until corruption ended.",
+  "people": [
+    { "id": null, "name": "Ibraheem Taymi", "role": "narrator", "sahabi": "no" },
+    { "id": "usaama-bin-zaid", "role": "subject" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "kalimah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "Ibraheem Taymi is not in the vocabulary; muhammad-bin-ibraheem-taymi is a different person. The third man who challenged them is unnamed."
+ },
+ {
+  "id": "n01485",
+  "summary": "Two men asked Abdullaah bin Umar why he did not join the fighting in Abdullaah bin Zubayr's time, and he answered that Allaah had made his brother's blood haraam to spill and that the fighters were spreading corruption.",
+  "people": [
+    { "id": "naafi", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "abdullaah-bin-zubayr", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "halaal-and-haraam"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "The two men who asked are unnamed."
+ },
+ {
+  "id": "n01486",
+  "summary": "Abdullaah bin Umar explained to questioners why he did not fight, and gave his view of Uthmaan (forgiven by Allaah) and Ali (the Prophet's cousin and son-in-law).",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "uthmaan", "role": "mentioned" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["jihaad", "khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "merged",
+  "notes": "Three reports run together ('Another narration states', 'Yet another narration states'). The questioners are unnamed. OCR debris throughout (e.g. 'Jplj V-J8PJ'), and the last sentence ('The narration thenproceedsliketheone') is cut off, so the final part is not a full report."
+ },
+ {
+  "id": "n01487",
+  "summary": "Abdullaah bin Umar told a questioner that the 'corruption' in the verse means fighting the Mushrikeen, unlike the fighting of his own day over land.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "quraan"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed and the narrator of this short report is not given."
+ },
+ {
+  "id": "n01488",
+  "summary": "Abdullaah bin Safwaan asked Abdullaah bin Umar why he would not pledge allegiance to Abdullaah bin Zubayr, and Ibn Umar replied that he would not pledge while the people's swords dripped with Muslim blood.",
+  "people": [
+    { "id": null, "name": "Abul Aaliya Baraa", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Abdullaah bin Safwaan", "role": "subject", "sahabi": "yes" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "abdullaah-bin-zubayr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["bayah", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR damage: a sentence fragment ('them out from the land of the Arabs...') is out of place just before 'I do not like to fight people who recite...'. The accusers are unnamed."
+ },
+ {
+  "id": "n01489",
+  "summary": "Asked why he prayed with factions who were killing one another, Abdullaah bin Umar said he answers the call to salaah and to success, but refuses a call to kill his Muslim brother.",
+  "people": [
+    { "id": "naafi", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "abdullaah-bin-zubayr", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed."
+ },
+ {
+  "id": "n01490",
+  "summary": "Abul Ghareef recounts that Hasan bin Ali's frontline forces were furious at his truce with Mu'aawiya, and that Hasan told a man who called him a humiliator of the Mu'mineen that he had only disliked killing them for land.",
+  "people": [
+    { "id": null, "name": "Abul Ghareef", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Abu Umrata", "role": "mentioned", "sahabi": "unsure" },
+    { "id": null, "name": "Abu Aamir Sufyaan bin Layl", "role": "subject", "sahabi": "unsure" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "Abul Ghareef tells of his own time in the frontline forces."
+ },
+ {
+  "id": "n01491",
+  "summary": "Hasan bin Ali addressed the people after the truce with Mu'aawiya, saying he had given up his claim to rule to save the Ummah's lives, and Amr bin Al Aas remarked to Mu'aawiya that this was exactly what he wanted.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+    { "id": "amr-bin-al-aas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "sacrifice"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "'Hadhrat Amr (RA)' is taken as Amr bin Al Aas from context (Mu'aawiya's adviser); the text gives no surname. A footnote from Abu Nu'aym's Hilya is embedded in Hasan's speech."
+ },
+ {
+  "id": "n01492",
+  "summary": "Jubayr bin Nufayr asked Hasan bin Ali about the claim that he wanted the Khilaafah, and Hasan answered that he gave up the post for Allaah's pleasure to save the Ummah's blood.",
+  "people": [
+    { "id": "jubayr-bin-nufayr", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "sacrifice"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01493",
+  "summary": "When Marwaan asked Ayman bin Khuraym Asadi to fight beside him against Dahhaak bin Qais, Ayman refused unless given a guarantee of freedom from Jahannam, and recited verses saying he would gain nothing from fighting another Muslim for no reason.",
+  "people": [
+    { "id": null, "name": "Aamir Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "marwaan", "role": "subject" },
+    { "id": null, "name": "Ayman bin Khuraym Asadi", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Dahhaak bin Qais", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "khilaafah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ends-mid",
+  "notes": "Ends mid-couplet: the poem is cut off. Ayman's father and uncle, who fought at Badr, are unnamed and not tagged."
+ },
+ {
+  "id": "n01494",
+  "summary": "A messenger from Ali asked Hakam bin Amr to help him in the matter of the Khilaafah, and Hakam replied that a friend had advised that in such times it is best to take up a wooden sword, which he had done.",
+  "people": [
+    { "id": "ali", "role": "subject" },
+    { "id": "hakam-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "Hakam's 'good friend who was your cousin' is probably the Prophet, but is not named, so prophet is set to absent."
+ },
+ {
+  "id": "n01495",
+  "summary": "Abu Ash'ath San'aani reports that Yazeed bin Mu'aawiya sent him to Abdullaah bin Abi Awfa, who said the Prophet told him to break his sword and submit to being killed rather than fight Muslims.",
+  "people": [
+    { "id": null, "name": "Abu Ash'ath San'aani", "role": "narrator", "sahabi": "unsure" },
+    { "id": "yazeed-bin-muaawiya", "role": "subject" },
+    { "id": "abdullaah-bin-abi-awfa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "khilaafah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "'Abul Qaasim' is the Prophet's kunya, used in the text, so prophet is set to subject."
+ },
+ {
+  "id": "n01496",
+  "summary": "Muhammad bin Maslamah recounts the Prophet's command to break his sword and stay at home rather than fight when Muslims fight Muslims, and says he did so after Uthmaan was martyred.",
+  "people": [
+    { "id": "muhammad-bin-maslama", "role": "subject" },
+    { "id": "uthmaan", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "martyrdom"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "merged",
+  "notes": "Two reports run together: the Prophet's command about the boulder in Harrah, then the gift of the sword with the same instruction."
+ },
+ {
+  "id": "n01497",
+  "summary": "At Hudhayfah's funeral a man recalled his words that if Muslims fought one another he would go home and let any attacker take his sins along with his own.",
+  "people": [
+    { "id": null, "name": "Rib'ee", "role": "narrator", "sahabi": "unsure" },
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["jihaad", "khilaafah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ends-mid",
+  "notes": "Text ends mid-quote. Rib'ee is not matched to ribee-bin-aamir because nothing in the text confirms it. Hudhayfah is taken as Hudhayfah bin Yamaan from the context (the fitnah report). The man quoting him at the funeral is unnamed."
+ },
+ {
+  "id": "n01498",
+  "summary": "Waa'il bin Hujar recounts being welcomed by the Prophet, and later refusing to fight in the strife after Mu'aawiya summoned him, citing the Prophet's warning about tribulations and declining governorship.",
+  "people": [
+    { "id": null, "name": "Waa'il bin Hujar", "role": "subject", "sahabi": "yes" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+    { "id": null, "name": "Busr bin Artaat", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Abdur Rahmaan bin Ummul Hakam", "role": "subject", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "uthmaan", "role": "mentioned" },
+    { "id": "ali", "role": "mentioned" },
+    { "id": "muhammad-bin-maslama", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["delegations", "khilaafah", "hijrah"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ok",
+  "notes": "Long single report with page-number debris ('424 (Vol-2)') and a stray '!)' at the end. Busr bin Artaat's status as a Sahabi is unclear and he is not in the vocabulary."
+ },
+ {
+  "id": "n01499",
+  "summary": "Abul Minhaal recounts how his father asked Abu Barzah Aslami about the conflict between Marwaan, Ibn Zubayr and the Qurraa in Basrah, and Abu Barzah condemned all sides as fighting for worldly gain and advised withdrawal.",
+  "people": [
+    { "id": null, "name": "Abul Minhaal", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Ibn Ziyaad", "role": "mentioned", "sahabi": "no" },
+    { "id": null, "name": "Yazeed", "role": "mentioned", "sahabi": "unsure" },
+    { "id": "marwaan", "role": "subject" },
+    { "id": "abdullaah-bin-zubayr", "role": "subject" },
+    { "id": "abu-barzah", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "jihaad"],
+  "new_themes": ["refraining from fighting Muslims"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence ('...whose backs are not burdened by the blood of'). Yazeed is named only as 'Yazeed', so he is not matched to yazeed-bin-muaawiya. The father is unnamed."
+ },
+ {
+  "id": "n01500",
+  "summary": "Thamar bin Attiyya reports that Hudhayfah told a man that if he killed the worst of sinners he would be an even worse sinner himself.",
+  "people": [
+    { "id": null, "name": "Thamar bin Attiyya", "role": "narrator", "sahabi": "unsure" },
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["halaal-and-haraam", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man addressed is unnamed."
+ },
+ {
+  "id": "n01501",
+  "summary": "Umar asked Anas how his men besieged cities, and when Anas said a shield-bearer would be killed by thrown rocks, Umar said he would never be pleased to take a city of four thousand warriors at the cost of one Muslim's life.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "kindness"],
+  "new_themes": ["value of a Muslim's life"],
+  "boundary": "ok",
+  "notes": "OCR debris '®' at the end."
+ },
+ {
+  "id": "n01502",
+  "summary": "Umar said that rescuing a single Muslim from the unbelievers is more precious to him than control of the whole Arabian peninsula.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["kindness", "jihaad"],
+  "new_themes": ["value of a Muslim's life"],
+  "boundary": "ok",
+  "notes": "Very short report; the occasion for the words is not given."
+ },
+ {
+  "id": "n01503",
+  "summary": "Abul Hasan, who fought at Badr, recounts that the Prophet asked how a Companion would answer for frightening a believer after another Companion hid the first one's shoes as a joke.",
+  "people": [
+    { "id": null, "name": "Abul Hasan", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": ["not frightening a Muslim"],
+  "boundary": "ok",
+  "notes": "The Companion who hid the shoes is unnamed. Abul Hasan is not in the vocabulary."
+ },
+ {
+  "id": "n01504",
+  "summary": "Aamir bin Rabee'ah reports that when a Companion hid another's shoes in jest, the Prophet said that frightening a Muslim is a great injustice.",
+  "people": [
+    { "id": "aamir-bin-rabeeah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": ["not frightening a Muslim"],
+  "boundary": "ok",
+  "notes": "The two Companions are unnamed."
+ },
+ {
+  "id": "n01505",
+  "summary": "Nu'maan bin Basheer and Layla each report that the Prophet rebuked Companions who startled a sleeping traveller on a journey, saying it is not permissible to frighten a Muslim.",
+  "people": [
+    { "id": "numaan-bin-basheer", "role": "narrator" },
+    { "id": null, "name": "Layla", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": ["not frightening a Muslim"],
+  "boundary": "merged",
+  "notes": "Two reports joined ('Hadhrat (RA) Layla reports'); the narrator's name is garbled in the OCR, so Layla is taken as written and not matched to layla-ghifaariyya. The Companions and the sleeping man are unnamed."
+ },
+ {
+  "id": "n01506",
+  "summary": "Sulaymaan bin Surad reports that the Prophet rebuked Companions who took away a Bedouin's rope during salaah, saying whoever believes in Allaah should never frighten a Muslim.",
+  "people": [
+    { "id": null, "name": "Sulaymaan bin Surad", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": ["not frightening a Muslim"],
+  "boundary": "ok",
+  "notes": "The Bedouin and the Companions who took the rope are unnamed."
+ },
+ {
+  "id": "n01507",
+  "summary": "Aa'isha reports that when Usaama bin Zaid fell and cut his head, the Prophet licked the blood from the wound himself, and said that had Usaama been a girl he would have adorned and married her off.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "usaama-bin-zaid", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "virtues-of-the-sahabah"],
+  "new_themes": ["not belittling a Muslim"],
+  "boundary": "ok",
+  "notes": "Aa'isha is both narrator and a participant in the story."
+ },
+ {
+  "id": "n01508",
+  "summary": "Ataa bin Yasaar reports that the Prophet washed and kissed the smallpox-stricken Usaama bin Zaid, after which Aa'isha vowed never to distance him, while Urwa says the people of Yemen reverted to kufr because they looked down on Usaama.",
+  "people": [
+    { "id": "ataa-bin-yasaar", "role": "narrator" },
+    { "id": "usaama-bin-zaid", "role": "subject" },
+    { "id": "aaisha", "role": "subject" },
+    { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ibn-sad", "role": "narrator" },
+    { "id": null, "name": "Yazeed bin Haaroon", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["apostasy", "kindness", "virtues-of-the-sahabah"],
+  "new_themes": ["not belittling a Muslim"],
+  "boundary": "merged",
+  "notes": "Three reports joined: Ataa's and Aa'isha's account of the smallpox, Urwa's account of Arafah and Yemen, and Ibn Sa'd's question to Yazeed bin Haaroon. 'Urwa' is not matched to Urwa bin Zubayr because the text does not say which. The sentence at the end is not closed."
+ },
+ {
+  "id": "n01509",
+  "summary": "Urwa reports that after the Prophet's passing the people of Yemen reverted to kufr because they looked down on Usaama bin Zaid.",
+  "people": [
+    { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "usaama-bin-zaid", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["apostasy", "virtues-of-the-sahabah"],
+  "new_themes": ["not belittling a Muslim"],
+  "boundary": "ok",
+  "notes": "Urwa is not matched to Urwa bin Zubayr (see n01508)."
+ },
+ {
+  "id": "n01510",
+  "summary": "Hasan reports that Umar rebuked Abu Moosa Ash'ari for giving gifts to the Arab Muslims but none to the non-Arab slaves, saying it is enough evil for a man to look down on his Muslim brother.",
+  "people": [
+    { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-moosa-ashari", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["justice", "brotherhood"],
+  "new_themes": ["not belittling a Muslim"],
+  "boundary": "ok",
+  "notes": "The narrator 'Hasan' is not matched to Hasan bin Ali; he may be Hasan al-Basri (hasan-bin-abil-hasan), but the text does not say so."
+ },
+ {
+  "id": "n01511",
+  "summary": "Aa'idh bin Umar reports that Salmaan, Suhayb and Bilaal made a remark about Abu Sufyaan that angered Abu Bakr, and the Prophet warned that angering them would anger Allaah, so Abu Bakr went back to ask whether he had angered them.",
+  "people": [
+    { "id": null, "name": "Aa'idh bin Umar", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-sufyaan", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "suhayb", "role": "subject" },
+    { "id": "bilaal", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "kindness"],
+  "new_themes": ["not angering a Muslim"],
+  "boundary": "ok",
+  "notes": "The text describes Abu Sufyaan as 'not yet a Muslim' at the time, which fits the vocabulary entry abu-sufyaan."
+ },
+ {
+  "id": "n01512",
+  "summary": "Suhayb reports that after he said a Mushrik prisoner's neck would make a perfect place for a sword, Abu Bakr was angry, and the Prophet told Abu Bakr that hurting Suhayb would have hurt Allaah and His Rasool.",
+  "people": [
+    { "id": "suhayb", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "kindness"],
+  "new_themes": ["not angering a Muslim"],
+  "boundary": "ok",
+  "notes": "The prisoner is unnamed."
+ },
+ {
+  "id": "n01513",
+  "summary": "Umar reports that the Prophet forbade cursing a man called Abdullaah, nicknamed Himaar, who was lashed repeatedly for drinking wine, because he loves Allaah and His Rasool.",
+  "people": [
+    { "id": "umar", "role": "narrator" },
+    { "id": null, "name": "Abdullaah (nicknamed Himaar)", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "kindness"],
+  "new_themes": ["not cursing a Muslim"],
+  "boundary": "ends-mid",
+  "notes": "Ends mid-sentence; the report continues in the next narration. Abdullaah Himaar is not in the vocabulary. The man in the crowd who cursed him is unnamed."
+ },
+ {
+  "id": "n01514",
+  "summary": "Another report says that Himaar gave the Prophet butter and honey, and when the seller came to collect unpaid, the Prophet smiled and ordered him paid.",
+  "people": [
+    { "id": null, "name": "Abdullaah (nicknamed Himaar)", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["honest-dealings", "kindness"],
+  "new_themes": ["not cursing a Muslim"],
+  "boundary": "ends-mid",
+  "notes": "The narrator is not named. The text refers back to the previous narration for the rest of the report, so this one is cut off."
+ },
+ {
+  "id": "n01515",
+  "summary": "Zaid bin Aslam reports that when someone cursed Ibn Nu'maan for repeated drinking and lashing, the Prophet told them not to curse him, because he loves Allaah and His Rasool.",
+  "people": [
+    { "id": "zaid-bin-aslam", "role": "narrator" },
+    { "id": null, "name": "Ibn Nu'maan", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "kindness"],
+  "new_themes": ["not cursing a Muslim"],
+  "boundary": "ok",
+  "notes": "Ibn Nu'maan is not matched to any vocabulary entry, since the text gives no fuller name."
+ },
+ {
+  "id": "n01516",
+  "summary": "Abu Hurayrah reports that the Prophet stopped Companions from cursing a drinker they had lashed, and the same narration records Umar's vow to cut out his son Abdullaah's tongue for swearing Miqdaad.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "salama-bin-akwa", "role": "narrator" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "miqdaad-bin-amr", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Bahiy", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood", "virtues-of-the-sahabah"],
+  "new_themes": ["not cursing a Muslim"],
+  "boundary": "merged",
+  "notes": "Four reports run together: Abu Hurayrah, Salamah bin Akwa, Umar's vow, and Bahiy's account. Salamah's report is cut off mid-sentence and seems to be missing text ('when you started replying...'). OCR debris '(1 !' and 'W' is also present."
+ },
+ {
+  "id": "n01517",
+  "summary": "Anas reports that when someone spoke ill of another in the Prophet's presence, the Prophet told him to stand up and leave, because his testimony of faith was worthless and he had mocked the Qur'aan by doing what it forbids.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "The man who spoke ill, and the one he spoke about, are unnamed."
+ },
+ {
+  "id": "n01518",
+  "summary": "Taariq bin Shihaab reports that when someone spoke ill of Khaalid bin Waleed to Sa'd, Sa'd told him to stop, saying their dispute should not spill into their Deen.",
+  "people": [
+    { "id": null, "name": "Taariq bin Shihaab", "role": "narrator", "sahabi": "unsure" },
+    { "id": "khaalid-bin-waleed", "role": "mentioned" },
+    { "id": null, "name": "Sa'd", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "virtues-of-the-sahabah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "Which Sa'd is meant is not stated, so he is not matched to a vocabulary entry. The person who spoke ill is unnamed."
+ },
+ {
+  "id": "n01519",
+  "summary": "Abu Hurayrah reports that the Prophet likened backbiting a Muslim who had been stoned for adultery to eating a dead animal, and Ibnul Murtkadir reports that the Prophet told someone who said a stoned woman's deeds were destroyed that the punishment had cleansed her, while he would be called to account for his words.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": null, "name": "Ibnul Murtkadir", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "mercy-and-forgiveness"],
+  "new_themes": ["backbiting"],
+  "boundary": "merged",
+  "notes": "Two reports run together: Abu Hurayrah's (the Companion from the Banu Aslam tribe) and Ibnul Murtkadir's (the stoned woman). The man and the woman are unnamed, and Ibnul Murtkadir is not in the vocabulary."
+ },
+ {
+  "id": "n01520",
+  "summary": "Aa'isha reports that the Prophet rebuked her for remarking that Safiyya was short, saying such words would spoil the ocean, and also that he disliked her imitating someone even for great wealth.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": null, "name": "Safiyya", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "family"],
+  "new_themes": ["backbiting"],
+  "boundary": "merged",
+  "notes": "Two reports run together ('Aa'isha also reports...'). Safiyya is probably Safiyya bint Huyayy, the Prophet's wife, but the text gives no full name, so she is not matched to safiyya-bint-abdul-muttalib."
+ }
+]

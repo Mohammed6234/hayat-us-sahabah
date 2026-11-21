@@ -1,0 +1,529 @@
+[
+ {
+  "id": "n03982",
+  "summary": "Abu Dardaa says a person stays youthful in his love for this world even in old age, and gives three rules: never complain of calamities, never speak of your illness, never claim spiritual purity.",
+  "people": [
+   { "id": "abu-dardaa", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["zuhd", "patience", "taqwa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03985",
+  "summary": "Abu Dardaa writes to a companion that only what one sends ahead for the Aakhirah is truly one's own, so one should spend for oneself rather than hoard for heirs; he also writes to Maslamah that Allaah makes all creation love the person whose actions conform to His commands.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-muhammad", "role": "narrator" },
+   { "id": "abu-dardaa", "role": "subject" },
+   { "id": "maslamah-bin-mukhallad", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "zuhd", "sadaqah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two letters of Abu Dardaa in one section: to an unnamed companion, and to Maslamah bin Mukhallad. The ﷺ after the narrator's name is not the Prophet and was ignored."
+ },
+ {
+  "id": "n03989",
+  "summary": "Abu Dharr says people are born to die and buildings are built to fall, that people chase what ends while neglecting what lasts, and that death and poverty are the two things people dislike.",
+  "people": [
+   { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["zuhd", "aakhirah", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03990",
+  "summary": "Hibbaan bin Abi Jabalah reports that Abu Dharr and Abu Dardaa both said people are born to die and build to ruin, chase what ends while neglecting what lasts, and dislike three things: death, illness and poverty.",
+  "people": [
+   { "id": "hibbaan-bin-abi-jabalah", "role": "narrator" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" },
+   { "id": "abu-dardaa", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["zuhd", "aakhirah", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Near-duplicate of n03989 with 'illness' added to the list of dislikes."
+ },
+ {
+  "id": "n03994",
+  "summary": "Hudhayfah warns against the trials of temptation, which sweep away anyone who tries to stand against them alone, and says that when such trials come one should stay at home, break one's swords and cut one's bowstrings.",
+  "people": [
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Only one approved theme clearly fits the text, so only one was given."
+ },
+ {
+  "id": "n03995",
+  "summary": "Hudhayfah says the trials of life have periods of calm and periods of upheaval, and that if one can choose to die during the calm, one should do so.",
+  "people": [
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03997",
+  "summary": "Several sayings of Hudhayfah: trials wear a person down more than pure wine does; in the time of trial only one who calls on Allaah like a drowning man is safe; and the best person takes from both this world and the Aakhirah, as reported by A'mash.",
+  "people": [
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" },
+   { "id": "amash", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "zuhd", "aakhirah", "duaa"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three separate reports: an unnamed 'another narration', an unnamed 'yet another narration', and A'mash's report."
+ },
+ {
+  "id": "n04007",
+  "summary": "Wahab bin Kaysaan reports Abdullaah bin Zubayr's letter of advice: the people of taqwa show patience in adversity, contentment with Allaah's decree, gratitude for blessings and submission to the Qur'aan; and a ruler attracts whatever is popular with him, truth or falsehood.",
+  "people": [
+   { "id": "wahab-bin-kaysaan", "role": "narrator" },
+   { "id": "abdullaah-bin-zubayr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["taqwa", "patience", "qadr", "gratitude", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04015",
+  "summary": "Abdullaah bin Busr says the people of taqwa are simple, the scholars are leaders, sitting in their company is worship, time shortens life while deeds are recorded, so one should prepare provisions for the return to Allaah.",
+  "people": [
+   { "id": "abdullaah-bin-busr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["taqwa", "seeking-knowledge", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04018",
+  "summary": "Ibn Abbaas says the angels at Badr wore white turbans and only added to the Muslims' strength; Abu Raafi, freed slave of the Prophet, tells how Abu Lahab, who sent a substitute to Badr, struck him when news of the defeat arrived, how Ummu Fadhl hit Abu Lahab with a tent pole, and how Abu Lahab died of a plague within seven days.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "ikrimah", "role": "narrator" },
+   { "id": "abu-raafi", "role": "subject" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+   { "id": "ummul-fadhl-bint-haarith", "role": "subject" },
+   { "id": "abu-lahab", "role": "subject" },
+   { "id": "abu-sufyaan-bin-haarith-bin-abdil-muttalib", "role": "subject" },
+   { "id": "aas-bin-hishaam-bin-mughiera", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "miracles-and-blessings", "opposition", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports: Ibn Abbaas on the angels, Ikrimah's report of Abu Raafi, and Abu Raafi's own account with its later addition. Abu Sufyaan bin Haarith is the same man the text calls Mughiera."
+ },
+ {
+  "id": "n04034",
+  "summary": "Haarith bin Simma says the Prophet told him the angels were fighting beside Abdur Rahmaan bin Auf at Badr; Abdur Rahmaan, standing among seven fallen enemies, said he had killed only two of them himself.",
+  "people": [
+   { "id": "haarith-bin-simma", "role": "subject" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "artaat-bin-abd-shurahbeel", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "miracles-and-blessings", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04045",
+  "summary": "Anas says Ubay bin Ka'b resolved to praise Allaah in the Masjid, then heard an unseen voice behind him saying words of praise and repentance, and reported it to the Prophet, who said it was Jibra'eel.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "duaa", "dhikr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04054",
+  "summary": "Abdullaah bin Umar reports the Prophet saying that seventy thousand angels came down for the funeral of Sa'd bin Muaadh, and that if anyone could be saved from the squeezing of the grave it would have been Sa'd.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "narrator" },
+   { "id": "sad-bin-muaadh", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "the-unseen", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Parallel to n04055, from a different narrator."
+ },
+ {
+  "id": "n04055",
+  "summary": "Sa'd bin Ibraheem reports that some hypocrites mocked how light Sa'd bin Muaadh's bier was, and the Prophet said seventy thousand angels had come down for his funeral.",
+  "people": [
+   { "id": "sad-bin-ibraheem", "role": "narrator" },
+   { "id": "sad-bin-muaadh", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "the-unseen", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Parallel to n04054, from a different narrator."
+ },
+ {
+  "id": "n04072",
+  "summary": "Naafi bin Aasim says that the man who injured the Prophet's face was Abdullaah bin Qami'ah, and Allaah sent a ram that gored him to death.",
+  "people": [
+   { "id": "naafi-bin-aasim", "role": "narrator" },
+   { "id": "abdullaah-bin-qamiah", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "opposition", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04077",
+  "summary": "Abu Bakr bin Muhammad bin Amr bin Hazam reports that Sa'eed bin Zaid called on Allaah against a woman named Arwa who falsely claimed he had wronged her; a flood then showed the boundary in his favour, and within a month Arwa went blind and fell into her well.",
+  "people": [
+   { "id": "abu-bakr-bin-muhammad-bin-amr-bin-hazam", "role": "narrator" },
+   { "id": "marwaan", "role": "mentioned" },
+   { "id": "saeed-bin-zaid", "role": "subject" },
+   { "id": null, "name": "Arwa", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["duaa", "miracles-and-blessings", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Arwa is named with no patronymic. The list has two candidates (Arwa bint Uwais and Arwa bint Abdil Muttalib), so she is left unlinked rather than guessed. The closing comment by Abu Bakr bin Muhammad is part of the same report."
+ },
+ {
+  "id": "n04081",
+  "summary": "Mahmood bin Labeed reports from Qataadah that his eye was knocked out at Uhud and fell onto his cheek, and the Prophet put it back in its socket, after which it became the better of his two eyes.",
+  "people": [
+   { "id": "mahmood-bin-labeed", "role": "narrator" },
+   { "id": "qataadah-bin-numaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "jihaad", "illness-and-cure"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04086",
+  "summary": "Habeeb bin Fuwayk reports that his father's eyes turned completely white after his leg fell on a snake's egg, and that when the Prophet applied saliva to the eyes his father could see at once.",
+  "people": [
+   { "id": "habeeb-bin-fuwayk", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "illness-and-cure"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The father, the main subject, is unnamed in the text, so he is not listed."
+ },
+ {
+  "id": "n04094",
+  "summary": "Ali tells people not to question Umar for calling out 'O Saariyah' in his sermon, since Umar always has a valid reason; Umar says the idea of using the mountain for defence came to his heart and he spoke hoping one of Allaah's servants would convey it to the army.",
+  "people": [
+   { "id": "ali", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "saariyah", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings", "jihaad", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrations: Ali's answer to the people who asked, and a separate narration of Umar's own explanation. The people who asked are unnamed."
+ },
+ {
+  "id": "n04107",
+  "summary": "A narration from Baraa says that Sawaad bin Qaarib was in India when a Jinn came to him; Muhammad bin Ka'b reports that Sawaad, having heard the call of Islaam, went to Madinah after the Prophet had migrated, recited verses to the Prophet, who smiled and called him successful.",
+  "people": [
+   { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" },
+   { "id": "sawaad-bin-qaarib", "role": "subject" },
+   { "id": "muhammad-bin-kab", "role": "narrator" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "the-unseen", "prophethood"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with 'the rest of the narration is like the one above', so the Jinn's advice and the couplets are not in this section. 'Hadhrat Baraa' matches more than one Companion in the list (Baraa bin Aazib, Baraa bin Maalik), so he is left unlinked."
+ },
+ {
+  "id": "n04141",
+  "summary": "Zaid bin Khaarija's corpse speaks after death: it praises the one in the middle of three rulers as one who never feared blame, says Uthmaan will be Ameer and that strife will follow, urges obedience to the ruler, calls for Abdullaah bin Rawaaha, asks after his father Khaarija, and recites a verse on Jahannam.",
+  "people": [
+   { "id": "zaid-bin-khaarija", "role": "subject" },
+   { "id": "uthmaan", "role": "mentioned" },
+   { "id": "abdullaah-bin-rawaaha", "role": "mentioned" },
+   { "id": "khaarija-bin-zaid", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "khilaafah", "avoiding-fitnah", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several parts: the corpse's speech, the prophecy about Uthmaan, and a separate 'another narration' line. The verse is Surah Ma'aarij 70:15-18. The 'one in the middle' is not named in the text. Sa'd, also named, is not listed."
+ },
+ {
+  "id": "n04144",
+  "summary": "Another narration identifies the old, blind woman in the story as Ummu Saa'ib.",
+  "people": [
+   { "id": "ummu-saaib", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "A one-sentence fragment. The story it identifies (a woman from the Muhaajireen and her son) is not in this section, and the theme is taken from the heading only."
+ },
+ {
+  "id": "n04157",
+  "summary": "Dahhaak reports that the Prophet sent Miqdaad and Zubayr to take Khubayb bin Adi's body down from the pole; the body was still fresh, Zubayr had to leave it when the Mushrikeen closed in, and the ground took it in, which is why Khubayb was called the one the ground took in.",
+  "people": [
+   { "id": "dahhaak", "role": "narrator" },
+   { "id": "miqdaad-bin-amr", "role": "subject" },
+   { "id": "zubayr", "role": "subject" },
+   { "id": "khubayb-bin-adi", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "martyrdom", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04159",
+  "summary": "Abu Hurayrah reports that the Companions buried Alaa bin Hadhrami in soft sand, went back to protect the body from wild animals and could not find it, then dug a grave without a recess and could not find that grave again.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "subject" },
+   { "id": "alaa-bin-hadhrami", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrations from Abu Hurayrah, then a citation line naming Ibn Kathir, Abu Nu'aym and Bayhaqi (references, not listed). The name Alaa is not in the narration text itself; it comes from the section heading."
+ },
+ {
+  "id": "n04165",
+  "summary": "Safeenah says that after a shipwreck he and his companions lost their way, and a lion walked ahead of him to the main road, then nudged him as if to bid them farewell.",
+  "people": [
+   { "id": "safeenah", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["miracles-and-blessings", "travel"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04176",
+  "summary": "Abu Bakr sent Alaa bin Hadhrami to fight the apostates in Bahrain; the lost camels came back with their loads, Allaah provided a pond of water, and Alaa led the army on foot across the gulf to defeat the enemy and return, all within a single day.",
+  "people": [
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": "alaa-bin-hadhrami", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings", "apostasy", "jihaad"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several narrations of the same campaign are combined ('another narration', 'there is also a narration'). No narrator is named."
+ },
+ {
+  "id": "n04179",
+  "summary": "Abu Uthmaan Nahdi tells how Gharqadah slipped from his horse while the Muslims crossed the Tigris and was pulled out by Qa'qaa bin Amr, and how a lost cup was returned; Umayr Saa'idi reports that Sa'd led the army across in pairs with mounds appearing to rest on; and Qais bin Abu Haazim says the deepest part reached only a horseman's reins.",
+  "people": [
+   { "id": "abu-uthmaan-nahdi", "role": "narrator" },
+   { "id": "gharqadah", "role": "subject" },
+   { "id": "qaqaa-bin-amr", "role": "subject" },
+   { "id": "umayr-saaidi", "role": "narrator" },
+   { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+   { "id": "salmaan-faarsi", "role": "mentioned" },
+   { "id": "qais-bin-abi-haazim", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings", "jihaad"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three narrators: Abu Uthmaan Nahdi, Umayr Saa'idi and Qais bin Abu Haazim, who tells his own experience. The swimmer, the owner of the cup and the soldier are unnamed."
+ },
+ {
+  "id": "n04180",
+  "summary": "Habeeb bin Suhbaan reports that Hujr bin Adi asked what kept the Muslims from crossing the Tigris, recited a verse on the fixed time of death, plunged in on his horse, and the others followed until the enemy fled calling them madmen.",
+  "people": [
+   { "id": "habeeb-bin-suhbaan", "role": "narrator" },
+   { "id": "hujr-bin-adi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["courage", "jihaad", "qadr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04181",
+  "summary": "Habeeb bin Suhbaan reports that when the Persians saw the Muslims crossing the Tigris on the day Madaa'in was conquered, they called them mad devils and said they were fighting Jinn, and so they were defeated.",
+  "people": [
+   { "id": "habeeb-bin-suhbaan", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text reads 'Habeeb bin Suhbaan Abu Maalik narrates'. The second name may be a second narrator or an OCR join, so only Habeeb is listed."
+ },
+ {
+  "id": "n04192",
+  "summary": "Hamzah bin Amr says that when hypocrites made the Prophet's camel bolt at Tabook and his luggage fell, all five of his fingers lit up so he could pick up the whip, rope and other items.",
+  "people": [
+   { "id": "hamzah-bin-amr-aslami", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["miracles-and-blessings", "hypocrisy", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04200",
+  "summary": "Maalik Daar reports that in Umar's time of drought a man went to the Prophet's grave, saw him in a dream saying rain would soon come and Umar should keep using his judgement; when told, Umar wept and said he was doing all he could.",
+  "people": [
+   { "id": "maalik-daar", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "khilaafah", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who went to the grave is unnamed."
+ },
+ {
+  "id": "n04208",
+  "summary": "Baraa bin Aazib says that the fourteen hundred people at Hudaybiyyah drew all the water from its well, then the Prophet sat on the rim, made du'aa, gargled and spat into the well, and soon there was enough water for all of them and their animals.",
+  "people": [
+   { "id": "baraa-bin-aazib", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "hudaybiyyah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with a cross-reference to an earlier passage about the Treaty of Hudaybiyyah."
+ },
+ {
+  "id": "n04209",
+  "summary": "Jaabir bin Abdullaah reports that during Hudaybiyyah the Companions had no water except what was in the Prophet's leather bag; when he put his hand in it, water flowed between his fingers, and Baraa said it would have been enough for a hundred thousand.",
+  "people": [
+   { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+   { "id": "baraa-bin-aazib", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "hudaybiyyah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04218",
+  "summary": "Abu Hurayrah and Abu Sa'eed Khudri report that during the hunger of Tabook the Companions asked to slaughter their water camels for food and oil; the Prophet permitted it, Umar intervened, and the narration then breaks off.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "narrator" },
+   { "id": "abu-saeed-khudri", "role": "narrator" },
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Abu Amrah", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "jihaad", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Breaks off at Umar's intervention. The rest is 'like the one above narrated by Abu Amrah', which is not in this section. Abu Amrah is not confidently linked to a list entry."
+ },
+ {
+  "id": "n04224",
+  "summary": "Waathila bin Asqa tells how, when the men of Suffa were hungry, the Prophet asked Aa'isha for her bread, made thareed with his own hands so that it multiplied, and fed groups of ten until all were full with the plate still full; a second narration gives twenty men and says bread and milk were served.",
+  "people": [
+   { "id": "waathila-bin-asqa", "role": "subject" },
+   { "id": "aaisha", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "ahl-us-suffa", "hunger-and-hardship", "eating-and-drinking"],
+  "new_themes": ["sustenance from Allaah"],
+  "boundary": "merged",
+  "notes": "Main account plus a separate 'another similar narration' (twenty men, bread and milk)."
+ },
+ {
+  "id": "n04227",
+  "summary": "Yahya bin Sa'eed reports that Ummu Shareek Dowsiyyah, fasting and thirsty on her migration after a Jewish couple refused her a drink, found a bucket of water in the night and drank from it; she had a small container of butter, and the narration goes on to describe its blessings.",
+  "people": [
+   { "id": "yahya-bin-saeed", "role": "narrator" },
+   { "id": "ummu-shareek-dowsiyyah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["miracles-and-blessings", "hijrah", "fasting"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The narration continues beyond this section ('describes the blessings in the butter'). The Jewish couple are unnamed."
+ },
+ {
+  "id": "n04237",
+  "summary": "Anas says his mother Ummu Sulaym asked the Prophet to pray for him; the Prophet prayed for his wealth and children and for blessing in them, and Anas says he has buried a hundred and twenty-five children and his orchards bear fruit twice a year.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "subject" },
+   { "id": "ummu-sulaym", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "duaa", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n04249",
+  "summary": "A narration says that someone asked the Prophet whether he received food from Jannah.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "the-unseen"],
+  "new_themes": ["sustenance from Allaah"],
+  "boundary": "ends-mid",
+  "notes": "One sentence. The Prophet's answer is not in this section."
+ },
+ {
+  "id": "n04254",
+  "summary": "A narration of a Sahabi and his wife: she prays for provision for what they can grind, knead and bake, the bowl fills with bread and the grindstone grinds by itself; when her husband stops it, the Prophet says had he left it, it would have gone on grinding until the Day of Qiyaamah.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["duaa", "miracles-and-blessings", "hunger-and-hardship"],
+  "new_themes": ["sustenance from Allaah"],
+  "boundary": "starts-mid",
+  "notes": "Opens with 'Another narration states', so the start of the story is missing. The husband and wife are unnamed in this section."
+ },
+ {
+  "id": "n04255",
+  "summary": "Abu Hurayrah reports that a poor Ansaari's wife, with no food in the house, ground grain and lit the oven so the neighbours would think they had food; on the husband's return they found the grindstone turning, flour everywhere and the oven full of bread, and the Prophet said had the husband left it, it would have gone on grinding for his whole life.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["miracles-and-blessings", "hunger-and-hardship"],
+  "new_themes": ["sustenance from Allaah"],
+  "boundary": "merged",
+  "notes": "The closing sentence ('It is also reported...') is a variant of the Prophet's remark. The Ansaari and his wife are unnamed."
+ }
+]

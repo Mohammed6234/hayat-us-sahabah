@@ -1,0 +1,531 @@
+[
+  {
+    "id": "n01360",
+    "summary": "Umar finds Rasulullah lying on a coarse mat that had marked his side, and Rasulullah says his luxuries are postponed to the Aakhirah while this world is like a traveller's brief shade.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "aakhirah", "prophets-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Umar's own account, then 'According to yet another narration' a second report of the same visit."
+  },
+  {
+    "id": "n01362",
+    "summary": "Anas reports that Rasulullah wore woollen clothing and patched shoes and ate coarse barley, and Hasan explains what Bashi was.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Hasan", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "prophets-character", "clothing", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives only 'Hadhrat Hasan'. Probably Hasan al-Basri (not a Companion), but not certain, so left unidentified. Not matched to hasan-bin-ali or hasan-bin-abil-hasan."
+  },
+  {
+    "id": "n01380",
+    "summary": "Humayd bin Hilaal reports that Hafs bin Abul Aas would not eat Umar's plain food, and Umar explains that he avoids luxury out of fear it would reduce his good deeds on the Day of Qiyaamah.",
+    "people": [
+      { "id": "humayd-bin-hilaal", "role": "narrator" },
+      { "id": "hafs-bin-abul-aas", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01383",
+    "summary": "Utba bin Farqad brings Umar a basket of sweetmeats, which Umar refuses after asking whether every Muslim has one, and then they share a plain meal of coarse bread and tough meat.",
+    "people": [
+      { "id": "utba-bin-farqad", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "eating-and-drinking", "hospitality"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01391",
+    "summary": "Shurahbeel bin Muslim says that Uthmaan served rich meals to guests but ate only vinegar and olive oil at home.",
+    "people": [
+      { "id": "shurahbeel-bin-muslim", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "hospitality", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01433",
+    "summary": "Yahya bin Sa'eed reports that Umar rebuked Jaabir bin Abdullaah for buying meat for his family, quoting the verse about using up one's good things in worldly life, and a second report has Jaabir describing how Umar kept repeating his excuse.",
+    "people": [
+      { "id": "yahya-bin-saeed", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "enjoining-good", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Yahya bin Sa'eed's account, then 'In another narration' Jaabir's own account."
+  },
+  {
+    "id": "n01446",
+    "summary": "Salmaan asks Abu Bakr for advice, and Abu Bakr tells him to fear Allaah, take from conquests only what he needs, and never break the protection given by Allaah.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "zuhd", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01488",
+    "summary": "Abbaas claims land in Bahrain that Rasulullah granted him, Umar does not rule in his favour despite Mughiera's testimony, and Umar then says he was happier at Abbaas's acceptance of Islaam than he would have been at his own father's.",
+    "people": [
+      { "id": "muhammad-bin-ali-bin-husayn", "role": "narrator" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "mughiera-bin-shuba", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["justice", "love-for-the-prophet", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator 'Muhammad bin Ali' matched to muhammad-bin-ali-bin-husayn. abu-jafar-muhammad-bin-ali may be the same person; the text gives no lineage, so please check."
+  },
+  {
+    "id": "n01493",
+    "summary": "Usaama bin Shareek says that when he came to Rasulullah, his companions sat around him so still that it seemed birds were perched on their backs.",
+    "people": [
+      { "id": "usaama-bin-shareek", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01525",
+    "summary": "Abdullaah bin Abbaas reports that when Rasulullah heard the Ansaar weeping for fear of his death, he spoke from the pulpit, foretelling that the Ansaar would dwindle to little more than salt in food and advising that their good be accepted and their faults overlooked.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "weeping-and-grief", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01544",
+    "summary": "After Rasulullah passed away, Abu Bakr and Umar visit Ummu Ayman, who weeps because revelation from the heavens has ended, and a second report says she wept bitterly for the same reason.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ummu-ayman", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["prophets-final-illness", "weeping-and-grief", "prophethood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Anas's account of the visit, then 'Another narration' of Ummu Ayman's weeping."
+  },
+  {
+    "id": "n01547",
+    "summary": "Anas reports Faatima's grief when Rasulullah fell ill and after his death, including her words about Jibra'eel informing them and her question to Anas about throwing sand over him.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "weeping-and-grief", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01587",
+    "summary": "Aa'isha reports that Rasulullah prayed at night in a room made of mats during Ramadhaan, and told the Sahabah to take on only the deeds they can keep up, since the most beloved deeds to Allaah are the consistent ones.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "nafl-salaah", "steadfastness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Main report plus a short second report ('Another narration adds') that the family of Muhammad kept to their deeds consistently."
+  },
+  {
+    "id": "n01595",
+    "summary": "Abu Bakr vows that he will not recall the army Rasulullah sent out under Usaama bin Zaid nor untie a flag Rasulullah tied, and in a second report says he would send it even if he were the only one left in Madinah.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "usaama-bin-zaid", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "khilaafah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports. The second swears by 'the Being Who controls the life of Abu Bakr', which looks like a transcription slip in the source; left as printed."
+  },
+  {
+    "id": "n01603",
+    "summary": "Bakr bin Abdullaah reports that Abdullaah bin Abbaas told a Bedouin why his family serves nabeedh on Hajj, recalling that Rasulullah came to them with Usaama bin Zaid, drank it and praised it.",
+    "people": [
+      { "id": "bakr-bin-abdullaah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "usaama-bin-zaid", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["eating-and-drinking", "hajj", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Bedouin is unnamed. The 'family of Mu'aawiya' who serve water and honey is not tagged because the text does not say which Mu'aawiya."
+  },
+  {
+    "id": "n01610",
+    "summary": "Aa'isha says that no one followed the footsteps of Rasulullah on his journeys, at every stop, as closely as Abdullaah bin Umar did.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "virtues-of-the-sahabah", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01648",
+    "summary": "Usaama bin Zaid reports that on a raid he killed a man who had recited the Kalimah, and Rasulullah rebuked him until he wished he had only become Muslim that day.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "muslim-rights", "kalimah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01663",
+    "summary": "Abu Umaamah reports that Uthmaan, while under siege, said he had been threatened with death although Rasulullah said blood is lawful to shed only for three reasons, none of which applied to him.",
+    "people": [
+      { "id": "abu-umaamah", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["avoiding-fitnah", "muslim-rights", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text does not say which Abu Umaamah it is; the id is the approved entry abu-umaamah. An editorial source footnote is embedded in the text and was ignored."
+  },
+  {
+    "id": "n01669",
+    "summary": "Zaid bin Thaabit tells Uthmaan that the Ansaar at his door offer to help him, and Uthmaan refuses them permission to fight if they intend to fight.",
+    "people": [
+      { "id": "zaid-bin-thaabit", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01717",
+    "summary": "Aa'isha reports that Rasulullah told her to spit out a piece of meat after she remarked on a woman's long hem, and Zaid bin Aslam reports that in his final illness Rasulullah rebuked his wives for winking at Safiyya's sincere wish to share his suffering.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "zaid-bin-aslam", "role": "narrator" },
+      { "id": "safiyya-bint-huyay", "role": "subject" },
+      { "id": "zaynab-bint-jahash", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["muslim-rights", "good-character", "prophets-final-illness"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens mid-story: 'Rasulullah ... kept away from her' has no named antecedent, and the text also joins a second and third report. Zaynab is identified as Zaynab bint Jahash only from context (wives of the Prophet), so please check."
+  },
+  {
+    "id": "n01726",
+    "summary": "Abdur Rahmaan bin Awf reports that on a night patrol he and Umar came to a house where people were drinking wine, and Umar, recalling the Quranic ban on spying, went away and turned a blind eye.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "rabeeah-bin-umayyah-bin-khalaf", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The house is named as belonging to Rabee'ah bin Umayyah bin Khalaf; the approved entry is marked as Companion-unsure."
+  },
+  {
+    "id": "n01732",
+    "summary": "Sha'bi reports that a man asked Umar how to treat his daughter, who had been buried alive in ignorance, then rescued, converted and repented, and Umar told him to keep her past hidden and marry her as he would any chaste Muslim woman.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["mercy-and-forgiveness", "marriage", "muslim-rights"],
+    "new_themes": ["repentance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01746",
+    "summary": "Abdullaah bin Amr asks Sa'd how he has earned his reward, and Sa'd replies that he never sleeps with ill-feeling towards any Muslim, which Abdullaah says is beyond what he can manage.",
+    "people": [
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "abdullaah-bin-amr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "good-character", "virtues-of-the-sahabah"],
+    "new_themes": ["freedom from jealousy and ill-feeling"],
+    "boundary": "starts-mid",
+    "notes": "Opens mid-story with 'Another narration names the Sahabi as Hadhrat Sa'd', and joins two variant reports. The Sahabi is identified only by the bare name Sa'd and the heading, which mentions glad tidings of Jannah; the id sad-bin-abi-waqqaas is a guess, so please check."
+  },
+  {
+    "id": "n01756",
+    "summary": "Abdullaah bin Umar reports that Abu Bakr asked Umar's forgiveness after a heated exchange, Umar refused, and Rasulullah praised Abu Bakr and ordered every door to the Masjid sealed except his.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "muslim-rights", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01764",
+    "summary": "Thumaamah ibn Hazan reports that Umar stopped on his donkey to listen to a woman who spoke to him harshly, justifying this by the Quranic verse that Allaah heard a woman who complained to Him about her husband.",
+    "people": [
+      { "id": "thumaamah-ibn-hazan", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["humility", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01779",
+    "summary": "Abu Hurayrah reports that when the room was full, Rasulullah threw his garment to Jareer bin Abdullaah to sit on, and told his Companions to honour a prominent person who comes to them.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01782",
+    "summary": "Abu Raashid reports that he went to Rasulullah with a hundred men of his tribe, was taught the Muslim greeting, accepted Islaam, and was honoured with a seat beside Rasulullah and gifts of the Prophet's shawl, shoes and staff.",
+    "people": [
+      { "id": "abu-raashid-habraani", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "hospitality", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text calls him 'Abu Raashid bin Abdur Rahmaan' and Rasulullah names him 'Abu Raashid bin Abdullaah'; the id is the approved entry. The OCR garbles the greeting ('Jut'), so its exact wording is unclear."
+  },
+  {
+    "id": "n01784",
+    "summary": "Someone asks why Rasulullah gave Uyaynah and Aqra a hundred camels each and not Ju'ayl, and Rasulullah replies that Ju'ayl is better but that he gives to win the hearts of the others, entrusting Ju'ayl to his Imaan.",
+    "people": [
+      { "id": "uyayna-fazaari", "role": "mentioned" },
+      { "id": "aqra-bin-haabis", "role": "mentioned" },
+      { "id": "juayl-bin-suraaqa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "prophets-concern"],
+    "new_themes": ["winning over the hearts of leaders"],
+    "boundary": "ok",
+    "notes": "The person who raised the question is unnamed."
+  },
+  {
+    "id": "n01807",
+    "summary": "Abu Abdullaah Jadali reports that Ummu Salamah rebuked those who reviled Ali, asking how Rasulullah could be reviled when Ali, whom he loved, was reviled.",
+    "people": [
+      { "id": "abu-abdullaah-jadali", "role": "narrator" },
+      { "id": "umm-salama", "role": "subject" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+    "new_themes": ["honouring the Prophet's household"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01832",
+    "summary": "Abul Bakhtari reports that Ali was asked whether those who fought him at the Battle of Jamal were mushrikeen or munaafiqeen, and Ali replied that they were simply brothers who had rebelled against them.",
+    "people": [
+      { "id": "abul-bakhtari", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01841",
+    "summary": "Hasan reports that Umar angrily summoned people who claimed Umar was better than Abu Bakr, and told them that he wished he could reach a place in Jannah from where he could see Abu Bakr at the furthest point of his sight.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "khilaafah", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Hasan' is not identified; probably Hasan al-Basri (not a Companion). The group who made the claim are unnamed."
+  },
+  {
+    "id": "n01866",
+    "summary": "Anas reports that when Umar's consultative assembly met after his death, Abu Talha warned that each of them seemed to want the Khilaafah for himself or to pass it on, and said that every Muslim home had suffered by Umar's death.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-talha", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "consultation"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01890",
+    "summary": "Zubayr reports that Rasulullah stayed in sajdah while Hasan bin Ali climbed on his back, did not make him get down until he got down himself, and sometimes parted his legs so the child could pass through.",
+    "people": [
+      { "id": "zubayr", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "kindness", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01893",
+    "summary": "Abu Qataadah reports that Rasulullah carried his granddaughter Umaamah bint Abil Aas on his shoulders while praying, setting her down for ruku and lifting her again when he stood.",
+    "people": [
+      { "id": "abu-qataadah", "role": "narrator" },
+      { "id": "umaamah-bint-abil-aas", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "kindness", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01913",
+    "summary": "Anas reports that when a tree came between them during a journey with Rasulullah, they would greet each other with Salaam as soon as they were back together.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["muslim-rights", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01930",
+    "summary": "Aa'isha reports that when Zaid bin Haaritha arrived in Madinah, Rasulullah rushed out in excitement, embraced him and kissed him.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "zaid-bin-haaritha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01932",
+    "summary": "Hasan reports that Umar would sigh through the night when he thought of a companion, and after Fajr would hurry to embrace that companion as soon as he met him.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["brotherhood", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Hasan' is not identified; probably Hasan al-Basri (not a Companion)."
+  },
+  {
+    "id": "n01938",
+    "summary": "Ka'b bin Maalik reports that after the verses confirming his forgiveness for staying behind from the Tabook expedition were revealed, he went to Rasulullah and kissed his hands.",
+    "people": [
+      { "id": "kab-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["mercy-and-forgiveness", "love-for-the-prophet", "jihaad"],
+    "new_themes": ["repentance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01954",
+    "summary": "Abu Mijlaz reports that when Mu'aawiya came out while Abdullaah bin Zubayr stayed seated and Abdullaah bin Aamir stood, Mu'aawiya quoted Rasulullah that whoever likes people to stand for him should prepare a house in Jahannam.",
+    "people": [
+      { "id": "abu-mijlaz", "role": "narrator" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "abdullaah-bin-aamir", "role": "subject" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["humility", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says only 'Hadhrat Mu'aawiya'. Matched to Mu'aawiya bin Abi Sufyaan from context (Ibn Aamir and Ibn Zubayr were his contemporaries), so please check. Abdullaah bin Aamir: the approved entry is marked Companion-unsure."
+  },
+  {
+    "id": "n01969",
+    "summary": "Salmaan Faarsi advises that a gift or meal from a friend, neighbour or relative who works for the state should be accepted, since any sin in unlawful earnings falls on the giver.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "hospitality"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

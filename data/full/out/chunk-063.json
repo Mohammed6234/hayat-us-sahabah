@@ -1,0 +1,525 @@
+[
+  {
+    "id": "n02481",
+    "summary": "Abdullaah bin Umar reports why the Masjid was called Masjidul Fadeekh, since the Prophet drank Fadeekh there, and the author lists other events that took place in the Masjid.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "mentioned" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "dimaam-bin-thalaba", "role": "mentioned" },
+      { "id": "kab-bin-zuhayr", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["the masjid and its uses"],
+    "boundary": "merged",
+    "notes": "Two Fadeekh reports, then an editorial list of events in the Masjid that refer back to other chapters. The list is cross-reference, not separate narrations."
+  },
+  {
+    "id": "n02482",
+    "summary": "Abu Sa'eed Khudri is with the Prophet when they enter the Masjid and see a man sitting with his fingers interlaced, which the Prophet forbids as prompted by Shaytaan.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": "Heading text is mixed into the opening sentence (OCR debris) and is ignored. The unnamed freed slave who is the first narrator is not listed."
+  },
+  {
+    "id": "n02483",
+    "summary": "Abu Bakr reports that the Prophet barred anyone who had eaten garlic or onions from coming near the Masaajid, and Umar repeats this in a Jumu'ah lecture, advising that the smell be cooked out first.",
+    "people": [
+      { "id": "abu-bakr", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["eating-and-drinking", "salaah"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ends-mid",
+    "notes": "Umar's speech is cut off before its last sentence ends."
+  },
+  {
+    "id": "n02484",
+    "summary": "The Prophet forbids spitting in front of or to the right of a person praying, and Umar rebukes two men from Taa'if for raising their voices in the Masjid after Saa'ib brings them to him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "saaib-bin-yazeed", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "merged",
+    "notes": "Several reports joined. The Abu Hurayrah report and the Umar story are cut mid-sentence, and the pebble-throwing sentence is unclear in the OCR, so who was pebbled is not certain."
+  },
+  {
+    "id": "n02485",
+    "summary": "Sa'eed bin Ibraheem reports from his father that Umar told someone talking loudly in the Masjid to remember where they were, since Umar disliked loud speech there.",
+    "people": [
+      { "id": null, "name": "Sa'eed bin Ibraheem", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": "The father is not named in the text."
+  },
+  {
+    "id": "n02486",
+    "summary": "Abdullaah bin Umar, Saalim and others report that Umar forbade noise, raised voices and futile talk in the Masjid, and had a platform built beside it for anyone who wanted to make noise.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Saalim", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "merged",
+    "notes": "Several reports joined ('Another narration', 'It is reported', Saalim). The list has 'saalim' (yes) and 'saalim-bin-abdullaah-bin-umar' (no); the text does not say which Saalim, so the name is left unmatched. OCR errors ('Dc refrain', 'announce')."
+  },
+  {
+    "id": "n02487",
+    "summary": "Taariq bin Shihaab reports that Umar had a man who was brought before him for a crime taken out of the Masjid before he was beaten.",
+    "people": [
+      { "id": "taariq-bin-shihaab", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["justice", "salaah"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02488",
+    "summary": "Abdullaah bin Mas'ood sees people leaning against the Masjid wall facing the Qibla between the Adhaan and Iqaamah of Fajr and tells them not to block the angels' salaah.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02489",
+    "summary": "Abdullaah bin Aamir Alhaani reports that Haabis bin Sa'd Taa'ee, a Sahabi, told people praying at the front of the Masjid before dawn that they should be driven off because they were showing off.",
+    "people": [
+      { "id": "abdullaah-bin-aamir", "role": "narrator" },
+      { "id": null, "name": "Haabis bin Sa'd Taa'ee", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "sincerity"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": "The text does not say who drove them off. Haabis's remark that the angels pray at the front before dawn is also included."
+  },
+  {
+    "id": "n02490",
+    "summary": "Murrah Hamdaani planned to pray behind every pillar in the Masjid of Kufa, and Abdullaah bin Mas'ood said that someone who knew Allaah was at the nearest pillar would not pass it without completing his salaah there.",
+    "people": [
+      { "id": null, "name": "Murrah Hamdaani", "role": "subject", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "fear-of-allaah"],
+    "new_themes": ["manners in the masjid"],
+    "boundary": "ok",
+    "notes": "Murrah Hamdaani is a Tabi'i on the usual reading, so sahabi is set to no."
+  },
+  {
+    "id": "n02491",
+    "summary": "Abu Umayr bin Anas reports from his Ansaar uncles that the Prophet, troubled about calling people to salaah, rejected a flag, the trumpet and the bell, and that Abdullaah bin Zaid was then shown the Adhaan in a dream.",
+    "people": [
+      { "id": null, "name": "Abu Umayr bin Anas", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zaid", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-concern"],
+    "new_themes": ["adhaan"],
+    "boundary": "ends-mid",
+    "notes": "The text says 'The Hadith still continues further', so the narration is cut off. The uncles are unnamed. The list has 'abu-umayr' (unsure), which may or may not be this man; the fuller name is kept here."
+  },
+  {
+    "id": "n02492",
+    "summary": "Abu Sheikh reports Abdullaah bin Zaid's account of the Prophet's worry about calling people to salaah, the rejected bell and trumpet, and the Adhaan he saw in a dream, and Anas adds that someone once called out in the streets.",
+    "people": [
+      { "id": null, "name": "Abu Sheikh", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-zaid", "role": "subject" },
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-concern"],
+    "new_themes": ["adhaan"],
+    "boundary": "ends-mid",
+    "notes": "The text ends with 'The Hadith continues further', so the narration is cut off."
+  },
+  {
+    "id": "n02493",
+    "summary": "Naafi bin Jubayr, Urwa bin Zaid bin Aslam and Sa'eed bin Musayyab report that before the Adhaan, the call 'As salaatu jaami'ah' was used to gather people for salaah and for important announcements.",
+    "people": [
+      { "id": null, "name": "Naafi bin Jubayr", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Urwa bin Zaid bin Aslam", "role": "narrator", "sahabi": "no" },
+      { "id": "saeed-bin-musayyab", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "prophets-concern"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": "Three chain narrators give one report. 'Naafi bin Jubayr' is not in the list; 'naafi' (no) is a different man."
+  },
+  {
+    "id": "n02494",
+    "summary": "Sa'd Qaradh reports that when the Prophet came to Quba without Bilaal, Sa'd climbed a date palm and called the Adhaan to bring Muslims quickly, and the Prophet approved, telling him to call it whenever Bilaal was not with him.",
+    "people": [
+      { "id": null, "name": "Sa'd Qaradh", "role": "subject", "sahabi": "yes" },
+      { "id": "bilaal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "love-for-the-prophet"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": "Sa'd Qaradh is not in the approved list."
+  },
+  {
+    "id": "n02495",
+    "summary": "Sa'd bin Abi Waqqaas, Abdullaah bin Mas'ood and Umar each praise the reward of the Mu'adhin, Umar quotes the Prophet praying for them, and Aa'isha links a Qur'aanic verse to the Mu'adhin.",
+    "people": [
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "aakhirah"],
+    "new_themes": ["adhaan"],
+    "boundary": "merged",
+    "notes": "Four separate statements joined together. The verse in Aa'isha's passage is garbled by OCR, so only her explanation is clear."
+  },
+  {
+    "id": "n02496",
+    "summary": "Umar says that if he were a Mu'adhin he would not mind missing Hajj or Umrah apart from the Fardh Hajj, because the angels would call the Adhaan themselves if they came down to earth.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02497",
+    "summary": "Qais bin Abi Haazim reports that when he went to Umar and was told their slaves called the Adhaan, Umar called this a grave deficiency and said he would rather be a Mu'adhin than Khalifah.",
+    "people": [
+      { "id": "qais-bin-abi-haazim", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "slaves-and-servants"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": "Qais bin Abi Haazim is an unsure entry in the approved list. The slaves are unnamed."
+  },
+  {
+    "id": "n02498",
+    "summary": "Ali says he regrets not asking the Prophet to appoint Hasan and Husayn as Mu'adhins, and Abdullaah bin Mas'ood says he does not approve of appointing blind men or Qur'aan scholars to call the Adhaan.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "mentioned" },
+      { "id": "husayn-bin-ali", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["adhaan"],
+    "boundary": "merged",
+    "notes": "Two separate statements from Ali and Ibn Mas'ood."
+  },
+  {
+    "id": "n02499",
+    "summary": "Yahya Bakkaa reports that Abdullaah bin Umar told a man who loved him for Allaah's sake that he disliked him for Allaah's sake, because the man sang the Adhaan and took payment for it.",
+    "people": [
+      { "id": null, "name": "Yahya Bakkaa", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "honest-dealings"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": "The man is not named."
+  },
+  {
+    "id": "n02500",
+    "summary": "The Prophet sends Khaalid bin Sa'eed to Yemen with orders to take prisoner the people of any town where the Adhaan is not called, Amr bin Ma'dikarib gets Khaalid to release the Banu Zubayd, and Talha reports Abu Bakr's order to his commanders against the apostates.",
+    "people": [
+      { "id": "khaalid-bin-saeed", "role": "subject" },
+      { "id": "amr-bin-madikarib", "role": "subject" },
+      { "id": null, "name": "Talha bin Abdullaah bin Abdur Rahmaan bin Abu Bakr", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "apostasy"],
+    "new_themes": ["adhaan"],
+    "boundary": "merged",
+    "notes": "Two separate reports: the Khaalid episode and Abu Bakr's instruction to his commanders, joined by the compiler. Talha is not in the list; 'Talha bin Ubaydillaah' is a different man."
+  },
+  {
+    "id": "n02501",
+    "summary": "Zuhri reports that Abu Bakr, sending armies against the apostates, told them to hold off if they heard the Adhaan, because the Adhaan is a sign of Imaan.",
+    "people": [
+      { "id": "imaam-zuhri", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "apostasy"],
+    "new_themes": ["adhaan"],
+    "boundary": "ok",
+    "notes": "Garbled OCR in the heading text ('5S5.l2ffiSg') is ignored."
+  },
+  {
+    "id": "n02502",
+    "summary": "Ali reports that when the time for salaah came and the Prophet saw few people, he stayed seated and did not lead the salaah until a substantial gathering had come.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02503",
+    "summary": "Abdullaah bin Abi Awfa reports that the Prophet would wait until he heard the sound of people's shoes before he began the salaah.",
+    "people": [
+      { "id": "abdullaah-bin-abi-awfa", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02504",
+    "summary": "Umar reports that the Prophet, busy sending an army until about half the night had passed, came out to those still waiting for salaah and told them they were in salaah for as long as they were waiting.",
+    "people": [
+      { "id": "umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02505",
+    "summary": "Abdullaah bin Amr reports that the Prophet told those who stayed seated after Maghrib that their Rabb boasts of them to the angels, and Abu Umaamah Thaqafi reports Mu'aawiya telling people to stay seated after Zuhr, citing the same saying of the Prophet.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" },
+      { "id": null, "name": "Abu Umaamah Thaqafi", "role": "narrator", "sahabi": "yes" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "merged",
+    "notes": "The first report is cut off mid-sentence ('waiting for the'), and Abu Umaamah's report follows without a break. Mu'aawiya is read as Mu'aawiya bin Abi Sufyaan from context (he leads the Zuhr and Asr salaah); Mu'aawiya bin Haydah and Mu'aawiya bin Qurra are other entries. 'Abu Umaamah Thaqafi' may or may not be the approved 'abu-umaama' (yes), so it is left unmatched."
+  },
+  {
+    "id": "n02506",
+    "summary": "Anas and Abu Hurayrah report that the Prophet told people waiting for Isha that they are in salaah while they wait, and that the angels keep praying for them until they leave their place or break wudhu.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "merged",
+    "notes": "Three reports in one item. The unnamed narrator who asks how wudhu breaks is not listed."
+  },
+  {
+    "id": "n02507",
+    "summary": "Jaabir bin Abdullaah reports that the Prophet said making wudhu in difficult conditions, walking often to the Masjid and waiting from one salaah to the next wipe out sins and count as guarding the borders.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02508",
+    "summary": "Dawood bin Saalih reports Abu Salamah's explanation, citing Abu Hurayrah, that waiting for salaah one after another was how the Companions guarded the borders in the Prophet's time, when there was no war.",
+    "people": [
+      { "id": null, "name": "Dawood bin Saalih", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "jihaad"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": "Abu Salamah is matched to the unsure entry 'abu-salma-bin-abdir-rahmaan', not to 'abu-salma' (Abu Salma bin Abdil Asad), since the text names his father as Abdur Rahmaan. The verse 3:200 is cited only in part."
+  },
+  {
+    "id": "n02509",
+    "summary": "Anas says that the verse about the sides parting from the beds refers to waiting for the Isha salaah.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["waiting for salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02510",
+    "summary": "Ibn Ummu Maktoom asks the Prophet to let him pray at home because he is blind and far from the Masjid, and the Prophet tells him to come if he can hear the Adhaan or Iqaamah, and says he had considered burning the houses of those who do not come to salaah.",
+    "people": [
+      { "id": "ibn-ummu-maktoom", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-concern"],
+    "new_themes": ["congregational salaah"],
+    "boundary": "merged",
+    "notes": "Two narrations. The text calls him 'Amr bin Ummu Maktoom' in the first, matched here to 'ibn-ummu-maktoom' because the two names belong to the same man; this is not confirmed by the vocabulary."
+  },
+  {
+    "id": "n02511",
+    "summary": "Abdullaah bin Mas'ood says that a Muslim who wants to meet Allaah as a Muslim should pray the Fardh salaahs in congregation where the Adhaan is called, because missing them forsakes the Sunnah of the Prophet, and that in his time only hypocrites or the very sick missed congregational salaah.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["congregational salaah"],
+    "boundary": "merged",
+    "notes": "Several versions of the same statement from Ibn Mas'ood, joined by 'Another narration' and 'A narration states'."
+  },
+  {
+    "id": "n02512",
+    "summary": "Mu'aadh bin Jabal says that the five Fardh salaahs should be prayed where the Adhaan is called, following the Prophet's practice, and that one should not claim a place at home for salaah, and the text breaks off into a footnote.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["congregational salaah"],
+    "boundary": "ends-mid",
+    "notes": "The sentence is cut, and a footnote citing Ahmad (Targheeb wat Tarheeb) is mixed into the text, so the end of the statement is missing."
+  },
+  {
+    "id": "n02513",
+    "summary": "Ummu Dardaa reports that her husband Abu Dardaa came home angry because people were starting to pray apart from congregation, and Naafi reports that Abdullaah bin Umar, when he missed the Isha salaah in congregation, stayed in worship through the night.",
+    "people": [
+      { "id": "ummu-dardaa", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["congregational salaah"],
+    "boundary": "merged",
+    "notes": "Three reports joined: Ummu Dardaa, Naafi, and a further narration about Ibn Umar missing any congregational salaah."
+  },
+  {
+    "id": "n02514",
+    "summary": "Ambasah bin Azhar reports that a newly married man usually stayed indoors for a few days and did not go out for Fajr, but when Haarith bin Hassaan went out for Fajr on his wedding night and was taunted, he said that a wife who kept him from congregational Fajr would be a terrible woman.",
+    "people": [
+      { "id": null, "name": "Ambasah bin Azhar", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Haarith bin Hassaan", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "marriage"],
+    "new_themes": ["congregational salaah"],
+    "boundary": "ok",
+    "notes": "Haarith bin Hassaan is not in the approved list. The taunter is unnamed."
+  },
+  {
+    "id": "n02515",
+    "summary": "Baraa bin Aazib narrates that the Prophet went along the rows straightening chests and shoulders, and warned that disorder in the rows brings disunity to the hearts, while Allaah shows special mercy to the first row.",
+    "people": [
+      { "id": "baraa-bin-aazib", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02516",
+    "summary": "Baraa bin Aazib reports that the Prophet walked between the rows, touching chests and shoulders to straighten them, and said not to stand in disarray.",
+    "people": [
+      { "id": "baraa-bin-aazib", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02517",
+    "summary": "Jaabir bin Samurah narrates that the Prophet asked the Sahabah why they did not form rows as the angels do, the angels completing the front rows first and standing close together.",
+    "people": [
+      { "id": "jaabir-bin-samura", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02518",
+    "summary": "Jaabir bin Samurah narrates that the Prophet motioned them to sit during salaah and asked what prevented them from forming rows as the angels do.",
+    "people": [
+      { "id": "jaabir-bin-samura", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "ok",
+    "notes": "The narration says the rest is similar to the one above, so only this part is given."
+  },
+  {
+    "id": "n02519",
+    "summary": "Nu'maan bin Basheer says that the Prophet straightened the rows as meticulously as an arrow, and on seeing one man's chest standing out he warned that Allaah would cast disunity between them unless they straightened their rows.",
+    "people": [
+      { "id": "numaan-bin-basheer", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02520",
+    "summary": "Nu'maan bin Basheer adds that he then saw each man touch his shoulder, knee and ankle against the man beside him when the rows were straightened.",
+    "people": [
+      { "id": "numaan-bin-basheer", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "avoiding-fitnah"],
+    "new_themes": ["straightening the rows"],
+    "boundary": "starts-mid",
+    "notes": "This continues the previous report ('Another narration states'), so it begins without the setting."
+  }
+]

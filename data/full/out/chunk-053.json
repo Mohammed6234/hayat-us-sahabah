@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "n02081",
+    "summary": "Abdullaah bin Abbaas reports Abu Bakr, on the day he became Khalifah, recounting the Prophet's explanation of the verse Take care of your own selves: when evil is tolerated in a community, Allaah will punish them all and their du'aas will not be accepted.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "fear-of-allaah",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02082",
+    "summary": "Abu Bakr says that when people commit evil while stronger people who could stop them do not, Allaah will engulf them all in a calamity that will not be lifted.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "fear-of-allaah",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02083",
+    "summary": "Umar asks the people why they do not oppose a fool who dishonours others, and warns that if they stay silent out of fear they will be unable to bear witness for the Ambiyaa on the Day of Qiyaamah.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "muslim-rights",
+      "fear-of-allaah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02084",
+    "summary": "Uthmaan says to enjoin good and forbid evil before the worst among the people are given authority over them, since even the best will then have their du'aas rejected.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "muslim-rights",
+      "fear-of-allaah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02085",
+    "summary": "Ali urges the people to enjoin good and forbid evil or the worst will rule them, and in a sermon warns that earlier nations were destroyed when their religious scholars failed to forbid their sins.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "muslim-rights",
+      "fear-of-allaah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "merged",
+    "notes": "Joins three reports: Ali's saying, another narration, and a sermon. A stray OCR fragment (bin Mansoor and others, all reporting from reliable sources) sits mid-sentence and was ignored; the reference it may point to (a chain of narrators) is not tagged."
+  },
+  {
+    "id": "n02086",
+    "summary": "Ali divides jihaad into three kinds, with the hand, the tongue and the heart, and says the jihaad of the hand will disappear first.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02087",
+    "summary": "Ali says the jihaad of the hands, then the tongue, then the heart will vanish, and a heart that cannot recognise good or reject evil will be turned upside down.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02088",
+    "summary": "Idrees Shaybaani tells Abdullaah bin Mas'ood that whoever does not enjoin good and forbid evil is destroyed, and Ibn Mas'ood replies that one whose heart does not recognise good and reject evil is already destroyed, then describes three types of people who do good.",
+    "people": [
+      {
+        "id": null,
+        "name": "Idrees bin Uroob Shaybaani",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Combines an exchange with Idrees and a saying of Ibn Mas'ood. Cut off mid-quote after 'recognises the truth with his heart,'. The footnote mark (a stray symbol) was ignored."
+  },
+  {
+    "id": "n02089",
+    "summary": "Abdullaah bin Mas'ood says to wage jihaad against the hypocrites with the tongue, and if nothing else is possible, at least to frown at them.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hypocrisy",
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02090",
+    "summary": "Abdullaah bin Mas'ood says that disliking an evil you cannot change is enough for Allaah, that approving of an evil done in your absence is like witnessing it, and that many evils will come in the future.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "muslim-rights",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "merged",
+    "notes": "Several sayings of Ibn Mas'ood joined by 'another narration' and 'it was also'; all attributed to him."
+  },
+  {
+    "id": "n02091",
+    "summary": "Abdullaah bin Mas'ood says the righteous will die first, leaving behind doubtful people who can neither recognise good nor reject evil.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "avoiding-fitnah",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02092",
+    "summary": "Abur Ruqaad recalls a gathering addressed by Hudhayfah, who warned that unless people enjoin good and forbid evil, Allaah will set the worst over them and their du'aas will go unanswered, and who said a time will come when the best people are those who do neither.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abur Ruqaad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "hudhayfah",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "avoiding-fitnah",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "merged",
+    "notes": "Joins the gathering account and an 'in another narration' saying of Hudhayfah. Tagged as hudhayfah because the text gives no patronymic; the vocabulary also has hudhayfa-bin-yamaan, so check this if the narrator is meant to be Hudhayfah bin al-Yamaan. Trailing OCR debris ignored."
+  },
+  {
+    "id": "n02093",
+    "summary": "Adi bin Haatim says that what is good today will be called evil in times to come and the reverse, and that people stay on the right path only while they do not call good evil and scholars keep speaking the truth.",
+    "people": [
+      {
+        "id": "adi-bin-haatim",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "avoiding-fitnah",
+      "seeking-knowledge"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02094",
+    "summary": "Abu Dardaa says he advises people to do something he does not practise himself, hoping to be rewarded by Allaah for the advice.",
+    "people": [
+      {
+        "id": "abu-dardaa",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "sincerity",
+      "humility"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Very short saying; the themes are inferred from the one sentence."
+  },
+  {
+    "id": "n02095",
+    "summary": "Abdullaah bin Umar reports that whenever Umar meant to forbid the people something, he first warned his own family that anyone of them who did it would receive double the punishment.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "family",
+      "khilaafah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02096",
+    "summary": "Ibn Shihaab reports that Hishaam bin Hakeem and some men enjoined good and forbade evil together, and Umar used to say that evil would not happen while he and Hishaam were alive.",
+    "people": [
+      {
+        "id": "ibn-shihaab",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Hishaam bin Hakeem bin Hizaam",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "muslim-rights",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02097",
+    "summary": "Abu Ja'far Khatmi reports that his grandfather, the Sahabi Umayr bin Habeeb, advised his son to avoid foolish company and to be patient with the harm that comes from enjoining good and forbidding evil.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Ja'far Khatmi",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Umayr bin Habeeb bin Khumaasha",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "family",
+      "patience"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": "The son who receives the advice is unnamed and not tagged."
+  },
+  {
+    "id": "n02098",
+    "summary": "Abdul Azeez reports that Abu Bakrah led the funeral prayer for his wife over her brothers' objections, fell when people pushed him at the grave, and told his children he feared living in a time when he could not enjoin good and forbid evil.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdul Azeez bin Abu Bakrah",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "abu-bakrah",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "death-and-burial",
+      "family",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": "Not the same entry as abdul-azeez in the vocabulary, which is a different unnamed Abdul Azeez. The wife and her brothers are unnamed and not tagged."
+  },
+  {
+    "id": "n02099",
+    "summary": "Ali bin Zaid reports that Hajjaaj threatened Anas bin Maalik for supporting rival factions, and Anas answered calmly and left, saying he had held back only for the sake of his children.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ali bin Zaid",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "hajjaaj",
+        "role": "subject"
+      },
+      {
+        "id": "anas-bin-maalik",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      },
+      {
+        "id": "abdullaah-bin-zubayr",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Ibnul Ash'ath",
+        "role": "mentioned",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "patience",
+      "family"
+    ],
+    "new_themes": [
+      "enjoining good and forbidding evil"
+    ],
+    "boundary": "ok",
+    "notes": "Ibnul Ash'ath is the rebel leader Hajjaaj accuses Anas of siding with; not in the vocabulary. Ibn Zubayr is tagged as abdullaah-bin-zubayr."
+  },
+  {
+    "id": "n02100",
+    "summary": "Abdullaah bin Umar says he held back from objecting to a speech by Hajjaaj, recalling the Prophet's saying that a Mu'min should not humiliate himself by taking on what he cannot bear.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      },
+      {
+        "id": "hajjaaj",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "patience",
+      "good-character"
+    ],
+    "new_themes": [
+      "avoiding self-humiliation"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02101",
+    "summary": "Umar says that keeping to oneself is a way to escape bad company, and another narration has him urging people to take their full share of keeping to themselves.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "avoiding-fitnah",
+      "zuhd"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "merged",
+    "notes": "Two sayings of Umar joined by 'in another narration'."
+  },
+  {
+    "id": "n02102",
+    "summary": "Mu'aafaa bin Imraan reports that Umar, passing people who were following an arrested man, said there is no welcome for faces that appear only at times of evil.",
+    "people": [
+      {
+        "id": null,
+        "name": "Mu'aafaa bin Imraan",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "avoiding-fitnah",
+      "good-character"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02103",
+    "summary": "Adasah Taa'ee reports that when Abdullaah bin Mas'ood received a bird brought from a far-off place, he wished he could be somewhere he need not speak to anyone, and no one would speak to him, until he met Allaah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Adasah Taa'ee",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": "Adasah is the narrator telling his own part of the story, so tagged as subject."
+  },
+  {
+    "id": "n02104",
+    "summary": "Qaasim reports that Abdullaah bin Mas'ood advised a man who asked for counsel to stay indoors, guard his tongue and weep over his sins.",
+    "people": [
+      {
+        "id": null,
+        "name": "Qaasim",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "fear-of-allaah",
+      "good-character"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": "The text gives only Qaasim, without a patronymic, so no vocabulary id was assigned. The man who asked is unnamed."
+  },
+  {
+    "id": "n02105",
+    "summary": "Ismaa'eel bin Abu Khaalid reports that Abdullaah bin Mas'ood advised his son Abu Ubaydah to keep taqwa, stay indoors and weep over his sins.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ismaa'eel bin Abu Khaalid",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      },
+      {
+        "id": "abu-ubaydah-bin-masood",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "family",
+      "taqwa"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": "Abu Ubaydah is taken to be the son Abu Ubaydah bin Mas'ood; the text says only 'Abu ubaydah'."
+  },
+  {
+    "id": "n02106",
+    "summary": "Hudhayfah says he wishes he had someone to manage his affairs so he could lock his door and meet no one until he dies, and Abdullaah bin Abbaas says that people are the ones who corrupt people, so he would rather be where he has no friends.",
+    "people": [
+      {
+        "id": "hudhayfah",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "avoiding-fitnah",
+      "zuhd"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "merged",
+    "notes": "Two sayings, of Hudhayfah and of Ibn Abbaas. The section heading names Abu Jahm and Abu Dardaa, but neither appears in this narration. Hudhayfah is tagged as hudhayfah (no patronymic in the text); see the note on n02092."
+  },
+  {
+    "id": "n02107",
+    "summary": "Yahya bin Sa'eed reports that Abu Jahm bin Haarith did not mix with his fellow Ansaar, and when this was mentioned to him he said people are worse than solitude.",
+    "people": [
+      {
+        "id": "yahya-bin-saeed",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Abu Jahm bin Haarith bin Simma",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": "Not the same entry as haarith-bin-simma, who is his father in the vocabulary."
+  },
+  {
+    "id": "n02108",
+    "summary": "Abu Dardaa says a Muslim's best place of seclusion is his home, where he keeps his self, eyes and private parts under control, and warns against marketplace gatherings that lead to negligence and idle talk.",
+    "people": [
+      {
+        "id": "abu-dardaa",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "modesty",
+      "zuhd"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02109",
+    "summary": "Abdullaah bin Amr finds Mu'aadh bin Jabal talking to himself at his door, and Mu'aadh explains that Shaytaan urges him to leave home, while the Prophet said those who go out for good causes, or who stay home without backbiting, are under Allaah's protection.",
+    "people": [
+      {
+        "id": "abdullaah-bin-amr",
+        "role": "subject"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "muslim-rights",
+      "visiting-the-sick"
+    ],
+    "new_themes": [
+      "keeping to oneself"
+    ],
+    "boundary": "ok",
+    "notes": "Shaytaan is not tagged as a person. Abu Abdur Rahmaan is Mu'aadh's kunya."
+  },
+  {
+    "id": "n02110",
+    "summary": "Abdullaah bin Ubayd reports that Umar, seeing Ahnaf in a new garment bought for twelve dirhams, told him six would have been enough and the rest should go to a good cause.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdullaah bin Ubayd",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "ahnaf-bin-qais",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "generosity"
+    ],
+    "new_themes": [
+      "contentment"
+    ],
+    "boundary": "ok",
+    "notes": "Not the same entry as abdullaah-bin-ubay, who is Ibn Ubay in the vocabulary."
+  },
+  {
+    "id": "n02111",
+    "summary": "Hasan Basri reports that Umar wrote to Abu Moosa Ash'ari to be content with the provision he receives, since Allaah gives some people more and tests the wealthy by whether they are grateful.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hasan Basri",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-moosa-ashari",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "trust-in-allaah"
+    ],
+    "new_themes": [
+      "contentment"
+    ],
+    "boundary": "ok",
+    "notes": "Possibly the same man as hasan-bin-abil-hasan in the vocabulary (no); left untagged because the text does not give that name."
+  },
+  {
+    "id": "n02112",
+    "summary": "Abu Ja'far reports that Ali ate dry dates and drank water, then said that whoever's stomach leads them into the Fire is far from Allaah's mercy, and recited a couplet on the regret that follows indulging one's appetites.",
+    "people": [
+      {
+        "id": "abu-jafar",
+        "role": "narrator"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "hunger-and-hardship"
+    ],
+    "new_themes": [
+      "contentment"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02113",
+    "summary": "Sha'bi reports that Ali advised not to worry about the next day's food, since sustenance is assured, and warned that wealth beyond one's needs is held in trust for someone else.",
+    "people": [
+      {
+        "id": "aamir-shabi",
+        "role": "narrator"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "trust-in-allaah"
+    ],
+    "new_themes": [
+      "contentment"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02114",
+    "summary": "Sa'd bin Abi Waqqaas advises his son that independence must be sought through contentment, because wealth without contentment never makes a person independent.",
+    "people": [
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "family"
+    ],
+    "new_themes": [
+      "contentment"
+    ],
+    "boundary": "ok",
+    "notes": "The son is unnamed and not tagged."
+  },
+  {
+    "id": "n02115",
+    "summary": "Jaabir bin Samurah, or another Sahabi, reports that the young Prophet gave up goat-herding for trade with camels, that Khadeeja's sister praised his modesty and character, and that Khadeeja then sought to marry him and afterwards sent gifts.",
+    "people": [
+      {
+        "id": "jaabir-bin-samura",
+        "role": "narrator"
+      },
+      {
+        "id": "khadeeja",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "prophets-character",
+      "modesty"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins the trading and proposal account with a variant narration at the end. Narrator is uncertain ('Jaabir bin Samurah or another Sahabi'). Some OCR gaps in the proposal lines. The Prophet's trading partner, Khadeeja's sister and her father are unnamed here and not tagged."
+  },
+  {
+    "id": "n02116",
+    "summary": "Abdullaah bin Abbaas reports that the Prophet described how Khadeeja got her father drunk and then persuaded him to marry her to the Prophet, and that when he sobered up and objected to marrying the orphan of Abu Taalib, she talked him round.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": "khadeeja",
+        "role": "subject"
+      },
+      {
+        "id": "abu-taalib",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "family"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Khadeeja's father and the Quraysh guests are unnamed and not tagged."
+  },
+  {
+    "id": "n02117",
+    "summary": "Nafeesah reports that Khadeeja, a wealthy and noble woman, sent her to ask the Prophet whether he would marry, and that Khadeeja's uncle Amr bin Asad arranged the marriage when the Prophet was twenty-five and Khadeeja forty.",
+    "people": [
+      {
+        "id": null,
+        "name": "Nafeesah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "khadeeja",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Amr bin Asad",
+        "role": "subject",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "prophets-character"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Nafeesah relates her own part in the proposal, so she is tagged as subject. The Prophet's uncles who attended are unnamed."
+  },
+  {
+    "id": "n02118",
+    "summary": "Aa'isha reports that after Khadeeja died, Khowla bint Hakeem proposed to the Prophet on behalf of Aa'isha and Sauda, that Abu Bakr at first doubted the match, and that the Prophet's answer of Islamic brotherhood settled it and the marriage was arranged.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Khowla bint Hakeem bin Awqas",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "uthmaan-bin-madhoon",
+        "role": "mentioned"
+      },
+      {
+        "id": "ummu-roomaan",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "sauda-bint-zamah",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "family"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Uthmaan bin Madh'oon is named as Khowla's husband. Sauda's proposal is continued in n02119."
+  },
+  {
+    "id": "n02119",
+    "summary": "Abu Bakr withdraws his promise of Aa'isha to Mut'im bin Adi's son after Mut'im's wife objects, and then marries her to the Prophet; Khowla then proposes Sauda bint Zam'ah, whose brother Abd bin Zam'ah later regrets his grief, and Aa'isha describes her wedding in Madinah.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Mut'im bin Adi",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": "jubayr-bin-mutim",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Khowla bint Hakeem bin Awqas",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "ummu-roomaan",
+        "role": "subject"
+      },
+      {
+        "id": "sauda-bint-zamah",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abd bin Zam'ah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "sad-bin-ubaadah",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "family"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Begins mid-story ('Another narration states at the end...'), continuing n02118, and contains several separate reports (Mut'im, Sauda, Aa'isha's own account). The two ages given for Aa'isha at marriage are variant readings and are not tagged. Mut'im's wife and Sauda's father are unnamed and not tagged."
+  },
+  {
+    "id": "n02120",
+    "summary": "Abdullaah bin Umar reports that after Khunays bin Hudhaafah died, Umar offered Hafsah first to Uthmaan and then to Abu Bakr, both of whom held back, until the Prophet proposed to her himself and then gave his daughter to Uthmaan.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "hafsa",
+        "role": "subject"
+      },
+      {
+        "id": "khunays-bin-hudhaafah-sahmi",
+        "role": "mentioned"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "family"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins the main report with an 'another narration' variant. OCR debris ('(1 >') ignored. The Prophet's daughter is unnamed and not tagged."
+  }
+]

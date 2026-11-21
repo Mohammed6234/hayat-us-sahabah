@@ -1,0 +1,550 @@
+[
+  {
+    "id": "n00027",
+    "summary": "Khaalid bin Sa'eed accepted Islaam after a dream, was beaten and cut off by his father for it, and then stayed constantly with the Prophet.",
+    "people": [
+      { "id": "khaalid-bin-saeed", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "saeed-bin-al-aas", "role": "subject" },
+      { "id": null, "name": "Raafi", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "dawah-to-family", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Father is named as Sa'eed bin Al Aas bin Umayyah (also called Abu Uhayha), matched to saeed-bin-al-aas, status unsure. Raafi is the family slave. The second report has an OCR gap ('accompanied (RA)')."
+  },
+  {
+    "id": "n00052",
+    "summary": "Waabisa reports how the Prophet invited the Banu Abs to Islaam near Mina, and how Maysara bin Masrooq later accepted Islaam after the Jews described the Prophet.",
+    "people": [
+      { "id": "waabisah", "role": "narrator" },
+      { "id": "zaid-bin-haaritha", "role": "mentioned" },
+      { "id": null, "name": "Maysara bin Masrooq Absi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "dawah-at-hajj", "accepting-islaam", "prophethood"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-sentence after 'good standing with Hadhrat Abu Bakr'. Maysara is not in the approved list (the approved maysara entry is a different, unclear-status name). The Jews are unnamed."
+  },
+  {
+    "id": "n00055",
+    "summary": "Zuhri reports that the Prophet invited the Banu Aamir and then the Kindah tribe, and both refused; Bajeera bin Firaas objected that kingship would go to others, and an old man of the Banu Aamir later said the Prophet's claim was true.",
+    "people": [
+      { "id": "imaam-zuhri", "role": "narrator" },
+      { "id": null, "name": "Bajeera bin Firaas", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Mulay", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "dawah-at-hajj", "prophethood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: the Banu Aamir account and the Kindah account. 'Hadhrat ?uhri' is OCR for Zuhri. The old man is unnamed."
+  },
+  {
+    "id": "n00230",
+    "summary": "Jareer bin Abdullaah pledged to the Prophet to establish salaah, pay zakaah and wish well for every Muslim.",
+    "people": [
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["bayah", "salaah", "zakaah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00231",
+    "summary": "Jareer asked the Prophet to state the conditions of the pledge, and he set out worship of Allaah alone, salaah, zakaah, wishing well for Muslims and rejecting shirk.",
+    "people": [
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["bayah", "tawheed", "salaah", "zakaah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00232",
+    "summary": "When Jareer came to pledge, the Prophet asked him to commit to surrendering to Allaah and wishing well for every Muslim, and Jareer accepted as far as he was able.",
+    "people": [
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["bayah", "muslim-rights", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR debris pastes a stray heading into the middle of a sentence ('under the subheading Hadhrat Ziyaad bin Haarith Sudaa'ee Sends a Letter...'). It is ignored; Ziyaad is not tagged."
+  },
+  {
+    "id": "n00283",
+    "summary": "Abu Jahal harassed the Prophet at Safa, and Hamza, angered on hearing of it, struck Abu Jahal with his bow in the Masjidul Haraam and then accepted Islaam, which strengthened the Muslims.",
+    "people": [
+      { "id": "hamza", "role": "subject" },
+      { "id": "abu-jahal", "role": "subject" },
+      { "id": null, "name": "Ya'qoob bin Utba", "role": "narrator", "sahabi": "unsure" },
+      { "id": "muhammad-bin-kab", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "courage", "accepting-islaam", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports of the same incident: Ya'qoob bin Utba, then Muhammad bin Ka'b Qurazi (matched to the approved muhammad-bin-kab by name; check that identity). The wife of Hamza is unnamed."
+  },
+  {
+    "id": "n00304",
+    "summary": "Zubayr bin Awwaam accepted Islaam at eight years old, and his uncle hung him over smoke and urged him to return to kufr, which he refused.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Abul Aswad", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["sacrifice", "opposition", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Abul Aswad' is ambiguous: the approved list has abul-aswad-daly and abul-aswad-duwali, and the text gives no nisba, so it is left as null. The uncle is unnamed."
+  },
+  {
+    "id": "n00305",
+    "summary": "Hafs bin Khaalid reports an old man from Mosul who saw Zubayr's body covered in sword scars, each received alongside the Prophet in the path of Allaah.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Hafs bin Khaalid", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "sacrifice", "courage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The old man from Mosul is unnamed, so he is not listed."
+  },
+  {
+    "id": "n00306",
+    "summary": "Zubayr told Ali bin Zaid that his chest bore scars shaped like eyes, made by arrows and spears.",
+    "people": [
+      { "id": "ali-bin-zaid", "role": "narrator" },
+      { "id": "zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Very short; it reads like part of the account in n00305 but is complete as given."
+  },
+  {
+    "id": "n00326",
+    "summary": "Abu Dharr declared his Islaam openly in the Masjidul Haraam, was beaten until he looked like a red idol, and was told by the Prophet to return to his people until he heard of victory.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["courage", "opposition", "sacrifice"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Dharr's own account and 'Another narration'. The opening is garbled OCR and a sentence begins mid-way ('Rasulullaah who taught him about Islaam'), so some text seems to be missing."
+  },
+  {
+    "id": "n00374",
+    "summary": "Asmaa bint Abi Bakr recounts how, hungry and expecting a child, she asked a Jewish neighbour for fire and was finally sent a plate of food by the neighbour's husband.",
+    "people": [
+      { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+      { "id": "zubayr", "role": "mentioned" },
+      { "id": "abu-salma", "role": "mentioned" },
+      { "id": null, "name": "Khadeeja", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["hunger-and-hardship", "duaa", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Khadeeja is Asmaa's daughter, so it is not matched to the approved khadeeja (the Prophet's wife). The Jewish neighbour and her husband are unnamed."
+  },
+  {
+    "id": "n00375",
+    "summary": "A Sahabi tells his son about the Battle of Khandaq, when hunger and cold stopped anyone volunteering until the Prophet called on Hudhayfa, and Abdullaah bin Mas'ood reports the Prophet promising that each person would soon have a dish morning and evening.",
+    "people": [
+      { "id": null, "name": "Abu Jihaad", "role": "narrator", "sahabi": "yes" },
+      { "id": "hudhayfa-bin-yamaan", "role": "mentioned" },
+      { "id": "abdullaah-bin-masood", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["hunger-and-hardship", "jihaad", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: the Khandaq account, which breaks off inside the Prophet's quoted call ('O Hudhayfa (come forward for the'), and Abdullaah bin Mas'ood's report on hunger. The son is unnamed. Hudhayfa is matched by the approved id hudhayfa-bin-yamaan (called by the Prophet; the detail is left to a later chapter)."
+  },
+  {
+    "id": "n00382",
+    "summary": "Ibn Abbaas reports that the Sahabah dug the trench with stones tied to their stomachs from hunger, and Aamir recalls how a single date was shared out on an expedition.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Aamir", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hunger-and-hardship", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined: Ibn Abbaas, an unnamed report giving 800 men at the trench, and Aamir's expedition story. Aamir (RA in the text) matches several approved aamir-bin-... entries and no plain aamir, so it is left as null."
+  },
+  {
+    "id": "n00489",
+    "summary": "After the Battle of Hunayn the Ansaar felt hurt at the distribution of booty, and the Prophet gathered them, reminded them of Allaah's favour, and told them he would return home with them rather than with the goats and camels.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "sad-bin-ubaadah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Footnote OCR debris (references to Bukhari, Al Bidaaya, Kanzul Ummaal) sits inside the text and is ignored. The Ansaar and Muhaajireen are groups, not tagged."
+  },
+  {
+    "id": "n00497",
+    "summary": "Usayd bin Hudhayr asked the Prophet to remember needy Ansaar families, who received a share of the Khaybar barley and dates; later Umar gave Usayd a garment, and Usayd recalled the Prophet's warning that others would be preferred over the Ansaar.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "usayd-bin-hudhayr", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "generosity", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins at least two reports (Anas, then Usayd's second account about families from Banu Zafar and Banu Mu'aawiya). The last sentence is cut off mid-quote ('during your'). The youth from Quraysh and the Badr companion are unnamed."
+  },
+  {
+    "id": "n00519",
+    "summary": "The Prophet appointed Usaama bin Zaid to lead an army against Ubna, rebuked those who objected to the young commander, and insisted the army leave even while he was ill.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "subject" },
+      { "id": "buraydah-bin-khusayb", "role": "mentioned" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "mentioned" },
+      { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+      { "id": "saeed-bin-zaid", "role": "mentioned" },
+      { "id": "qataadah-bin-numaan", "role": "mentioned" },
+      { "id": "salamah-bin-aslam", "role": "mentioned" },
+      { "id": "ayaash-bin-abi-rabeeah", "role": "subject" },
+      { "id": "ummu-ayman", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "zaid-bin-haaritha", "role": "mentioned" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+      { "id": "habeebah-bint-khaarija", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["khilaafah", "jihaad", "prophets-final-illness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR drops the Prophet's name in places ('was extremely ill', 'was given medicine'). The wife of Abu Bakr is written only as 'Bint Khaarijah'; mapped to habeebah-bint-khaarija by inference, so check it. Burayda is the approved buraydah-bin-khusayb."
+  },
+  {
+    "id": "n00557",
+    "summary": "Umar says he would have preferred to meet Allaah except for three things: walking in the path of Allaah, prostrating to Allaah, and sitting with people who choose their words as the best dates are selected.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "salaah", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00558",
+    "summary": "Umar tells the people to perform Hajj, which Allaah has commanded, but says Jihaad is even more virtuous.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "hajj"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00559",
+    "summary": "Abdullaah bin Umar says he was refused for Badr as too young and wept all night until he was accepted the next year, and he admits the Muslims turned their backs at Uhud but that Allaah forgave them.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "youth", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is not named in the text (OCR gaps before 'thought' and 'accepted'), so the mention is inferred. The questioner is unnamed."
+  },
+  {
+    "id": "n00560",
+    "summary": "Anas reports that Umar gave a man who wanted to go on Jihaad a mount and provisions, and the man, refusing the gold and silver in the treasury, prayed for Umar's reward.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "generosity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man who asked for transport is unnamed."
+  },
+  {
+    "id": "n00573",
+    "summary": "Abu Talha, reciting the verse calling believers to march light or heavy, insisted on joining the naval expedition despite his age, and his body was found undecayed when buried on an island after seven days at sea.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-talha", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "sacrifice", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet's name is missing from the sons' speech (OCR gap), so the mention is inferred. The sons are unnamed. The heading is garbled OCR."
+  },
+  {
+    "id": "n00574",
+    "summary": "Abu Ayyoob Ansaari, who missed only one campaign after Badr, asked Yazeed bin Mu'aawiya to carry his body as far into enemy land as possible and bury him there.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" },
+      { "id": "yazeed-bin-muaawiya", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "martyrdom", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives Muhammad bin Seereen (RA), but he is generally regarded as a Successor, so status is unsure. He is not in the approved list. The Prophet is mentioned only as 'present at the Battle of Badr with'."
+  },
+  {
+    "id": "n00575",
+    "summary": "Abu Dhabyaan reports that in Mu'aawiya's time Abu Ayyoob asked his companions to bury him in front of the enemy lines on campaign, and the report continues.",
+    "people": [
+      { "id": "abu-dhabyaan", "role": "narrator" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "death-and-burial", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text says the narration still continues; it is cut off. The teachers Abu Dhabyaan cites are unnamed. Mu'aawiya is matched to muaawiya-bin-abi-sufyaan as the caliph."
+  },
+  {
+    "id": "n00599",
+    "summary": "Ahmar, the freed slave of Umm Salama, ferried people across a stream on an expedition, and the Prophet remarked that he was a ship that day.",
+    "people": [
+      { "id": null, "name": "Ahmar", "role": "subject", "sahabi": "yes" },
+      { "id": "umm-salama", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "travel", "selflessness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The opening sentence reads 'Ahmaf' (OCR) and the heading reads 'Ahmar'; read as Ahmar. Not in the approved list."
+  },
+  {
+    "id": "n00600",
+    "summary": "Mujaahid recounts that Abdullaah bin Umar held his stirrup and straightened his clothes on journeys, and when Mujaahid objected, Ibn Umar called him straitened in personality.",
+    "people": [
+      { "id": null, "name": "Mujaahid", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["selflessness", "humility", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives (RA), but the Mujaahid who accompanied Ibn Umar is usually identified as a Successor, so status is unsure. He is not in the approved list."
+  },
+  {
+    "id": "n00601",
+    "summary": "Abu Dardaa says that on journeys with the Prophet in extreme heat, only the Prophet and Abdullaah bin Rawaaha fasted.",
+    "people": [
+      { "id": "abu-dardaa", "role": "narrator" },
+      { "id": "abdullaah-bin-rawaaha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["fasting", "jihaad", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00602",
+    "summary": "Abu Sa'eed Khudri reports that on expeditions in Ramadhaan, those who fasted and those who did not each accepted the other's choice without resentment.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["fasting", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Continues the previous narration as 'another narration'."
+  },
+  {
+    "id": "n00611",
+    "summary": "The Prophet sent Abdullaah bin Unays to kill Khaalid bin Sufyaan, who was mustering forces against him; Abdullaah prayed Asr while walking to him, killed him, and was given a staff as a token for the Day of Qiyaamah.",
+    "people": [
+      { "id": "abdullaah-bin-unays", "role": "subject" },
+      { "id": null, "name": "Khaalid bin Sufyaan bin Nubay", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "jihaad", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Khaalid is not in the approved list (the approved khaalid-bin-... entries do not match). Text ends with OCR debris (\"'])\"). The Banu Hudhayl tribe is not tagged."
+  },
+  {
+    "id": "n00612",
+    "summary": "Urwa reports that the Muslims at Yarmook were known for night worship and day fighting, and Hind bint Utba, once hostile, admits she had never seen Allaah worshipped as the Muslims worshipped that night.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "qubuqalaar", "role": "subject" },
+      { "id": null, "name": "Heraclius", "role": "subject", "sahabi": "no" },
+      { "id": "abu-ishaaq", "role": "narrator" },
+      { "id": "hind-bint-utba", "role": "subject" },
+      { "id": "abu-sufyaan", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "nafl-salaah", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports: Urwa, a longer narration of Abu Is'haaq, and a cross-reference to the Hind passage in another chapter. Heraclius is named in the text and is not matched to the approved caesar entry. The spy is unnamed. Urwa is not in the approved list."
+  },
+  {
+    "id": "n00677",
+    "summary": "Anas reports the Prophet's words about Baraa bin Maalik, who, when the Muslims were losing at Tustar and asked him to make a vow, prayed for the enemy's shoulders and was then martyred.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "baraa-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray OCR debris ('498 (Vd-p') in the first sentence is ignored."
+  },
+  {
+    "id": "n00678",
+    "summary": "Baraa bin Maalik made vows at two battles, asking Allaah for the enemy's shoulders; the Muslims won at the first, and after the second, at the bridge of Sus, he was martyred.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "baraa-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00679",
+    "summary": "Humayd bin Abdur Rahmaan reports that Humama, who prayed to Allaah for martyrdom or death in His path, died at Isfahan in Umar's caliphate, and Abu Moosa testified that he was a martyr.",
+    "people": [
+      { "id": "humayd-bin-abdur-rahmaan-himyari", "role": "narrator" },
+      { "id": "humama", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abu-moosa-ashari", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00680",
+    "summary": "A narration cited to Imaam Ahmad adds Humama's prayer and says he died of a stomach illness at Isfahan, and Abu Moosa declared him a martyr on what he had heard from the Nabi.",
+    "people": [
+      { "id": "humama", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": null, "name": "Affaan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["martyrdom", "duaa", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Imaam Ahmad is the citation for this report, not a narrator in its chain, so he is not listed. Affaan is named as a narrator in the chain and is not in the approved list."
+  },
+  {
+    "id": "n00737",
+    "summary": "Sa'eed bin Musayyib reports that Zubayr bin Awwaam was the first to draw a sword for Allaah, going out in Makkah with it when he heard the Prophet had been killed, and the Prophet prayed for him.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Asadi", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["courage", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The poem is attributed to 'Asadi', who is not in the approved list. The poem's translation is loose."
+  },
+  {
+    "id": "n00766",
+    "summary": "At the Battle of Yamaamah, Baraa bin Maalik had himself thrown over the orchard wall, opened the gate for the Muslims, and they then killed Musaylama.",
+    "people": [
+      { "id": "baraa-bin-maalik", "role": "subject" },
+      { "id": "musaylama", "role": "subject" },
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "courage", "apostasy"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Begins mid-story ('Battle of Yamaamah until they were forced to take refuge in an orchard'). The second paragraph is a separate report from Muhammad bin Seereen about the same incident. Status unsure, as in n00574."
+  },
+  {
+    "id": "n00769",
+    "summary": "Fragment: only the word 'Yaasir' remains, so no narration can be tagged.",
+    "people": [],
+    "prophet": "absent",
+    "themes": [],
+    "new_themes": [],
+    "boundary": "not-narration",
+    "notes": "OCR leaves a single word, most likely part of a heading. No people or themes are tagged because the text supports none."
+  },
+  {
+    "id": "n00770",
+    "summary": "Abdullaah bin Umar reports that at the Battle of Yamaamah, Ammaar bin Yaasir called out to the Muslims not to flee from Jannah, and fought fiercely even with his ear cut.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "courage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00771",
+    "summary": "At Siffeen beside Ali, Abu Abdur Rahmaan Sulami reports Ali's raids and Ammaar's call to fight for Jannah, and that Haashim bin Utba took up the banner and fought in the valley.",
+    "people": [
+      { "id": "abu-abdur-rahmaan-sulami", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": null, "name": "Haashim bin Utba", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "courage", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is mentioned only inside Ammaar's quoted verse ('Muhammad and his group'). Haashim bin Utba is named in the text as a Companion; he is not matched to the approved haashim or abu-haashim-bin-utba-bin-rabeeah entries, so he is left as null. OCR damage in the quoted lines."
+  },
+  {
+    "id": "n00772",
+    "summary": "In another narration, Abu Abdur Rahmaan Sulami says Ammaar followed Haashim bin Utba into the valleys of Siffeen, both were martyred in the attack, and Ali's army then charged as one man.",
+    "people": [
+      { "id": "abu-abdur-rahmaan-sulami", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": null, "name": "Haashim bin Utba", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "courage", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is mentioned only inside the quoted verse ('Muhammad ﷺ and his group'). Ends with OCR debris (''*). Haashim is left as null, as in n00771."
+  }
+]

@@ -1,0 +1,1296 @@
+[
+ {
+  "id": "n02881",
+  "summary": "Muhammad bin Seereen reports that Abu Bakr was the most careful of all not to pass a verdict without knowledge, and that when no verse or Hadith applied he practised ijtihaad, asking Allaah's forgiveness if he was wrong.",
+  "people": [
+   {
+    "id": null,
+    "name": "Muhammad bin Seereen",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "ijtihaad"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02882",
+  "summary": "Shurayh reports Umar's letter to him: judge by the Book of Allaah, then by the Prophet's directives, then by the unanimous view of the scholars, and if none of these applies, either practise ijtihaad or refrain, with Umar advising refraining.",
+  "people": [
+   {
+    "id": null,
+    "name": "Shurayh",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [
+   "ijtihaad",
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": "Umar's letter to a judge. Shurayh is a Tabi'i and is not in the approved list."
+ },
+ {
+  "id": "n02883",
+  "summary": "Abdullaah bin Mas'ood says a judge should rule by the Qur'aan, then by the Prophet's practice, then by the verdicts of the righteous scholars, and otherwise practise ijtihaad firmly, never speaking in doubt, since the clearly lawful and the clearly unlawful are plain and doubtful matters should be avoided.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "halaal-and-haraam"
+  ],
+  "new_themes": [
+   "ijtihaad"
+  ],
+  "boundary": "ends-mid",
+  "notes": "The text ends mid-sentence ('forsake that which gives you doubts for that which does'). The second paragraph ('Another narration adds') is a continuation of the same statement."
+ },
+ {
+  "id": "n02884",
+  "summary": "Abdullaah bin Abu Yazeed reports that Ibn Abbaas gave his answers in order: from the Qur'aan first, then from the Prophet's sayings, then from the statements of Abu Bakr or Umar, and only then by ijtihaad.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Abu Yazeed",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "quraan",
+   "following-the-sunnah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "ijtihaad"
+  ],
+  "boundary": "ok",
+  "notes": "The text has a dropped word ('Rasulullaah Hadhrat Abu Bakr (RA)'). 'Hadhrat Abu (RA)' is read as Abu Bakr."
+ },
+ {
+  "id": "n02885",
+  "summary": "Ibn Abbaas says that when a command was confirmed by corroborating evidence they would not place anything else on a par with it and would readily practise it.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "following-the-sunnah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Short standalone statement. 'Corroboration' is the translator's word and its exact sense is unclear."
+ },
+ {
+  "id": "n02886",
+  "summary": "Masrooq reports that when he asked Ubay bin Ka'b about a matter that had not yet happened, Ubay asked for respite until it happened so that they could then practise ijtihaad.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "ijtihaad",
+   "avoiding speculative questions"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02887",
+  "summary": "Abdur Rahmaan bin Abu Layla says he met 120 Sahabah in the Masjid, and each one, whether narrating a Hadith or giving a Fatwa, wished that a fellow Sahabi had done it instead.",
+  "people": [
+   {
+    "id": "abdur-rahmaan-bin-abu-layla",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "selflessness",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": "The vocab has two entries for this name, abdur-rahmaan-bin-abi-layla and abdur-rahmaan-bin-abu-layla; the second is used because it matches the book's spelling."
+ },
+ {
+  "id": "n02888",
+  "summary": "Ibn Mas'ood and Ibn Abbaas say that only a madman would issue a Fatwa on everything he is asked, and Hudhayfah says only three kinds of people should issue Fataawaa: one who knows which verses abrogate and which are abrogated, a leader with no alternative, and a pretentious fool.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "hudhayfa-bin-yamaan",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": "'Hudhayfah' is linked to hudhayfa-bin-yamaan by assumption. The vocab also has hudhayfa-bin-mihsin, so please confirm."
+ },
+ {
+  "id": "n02889",
+  "summary": "Muhammad bin Seereen reports that Umar told Abu Mas'ood Uqba that he had heard he was issuing Fataawaa to people, and warned him of the burden that goes with it.",
+  "people": [
+   {
+    "id": null,
+    "name": "Muhammad bin Seereen",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Mas'ood Uqba bin Umar",
+    "role": "subject",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "khilaafah"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": "The text is garbled ('The person blessed with the privileges (of bear its burden...'), so the wording is uncertain. The text says 'Uqba bin Umar', which may be an error for Uqba bin Amr. Abu Mas'ood Ansaari (abu-masood-ansaari) is the likely match, but it is not linked here."
+ },
+ {
+  "id": "n02890",
+  "summary": "Umar adds that Abu Mas'ood is not a governor, so he need not issue Fataawaa.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "khilaafah"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Continues n02889. The addressee is not named in this item; 'you' is Abu Mas'ood."
+ },
+ {
+  "id": "n02891",
+  "summary": "Abu Minhaal reports that Zaid bin Arqam and Baraa each sent him to ask the other about selling gold and silver, and Abu Husayn says that people now issue Fataawaa on matters which, had they been put to Umar, he would have taken to the veterans of Badr.",
+  "people": [
+   {
+    "id": "abul-minhaal",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   },
+   {
+    "id": "baraa-bin-aazib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-husayn",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "halaal-and-haraam"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "merged",
+  "notes": "Two separate reports (Abu Minhaal's and Abu Husayn's). The text says the narration 'goes on further to discuss trading in gold and silver', but that discussion is not in this item. 'Baraa' is unqualified in the text and is linked to baraa-bin-aazib by assumption."
+ },
+ {
+  "id": "n02892",
+  "summary": "Abdullaah bin Umar names Abu Bakr and Umar as the only ones who issued Fataawaa in the Prophet's time, while Qaasim bin Muhammad names Abu Bakr, Umar, Uthmaan and Ali, and Fudhayl bin Abu Abdullaah bin Dinaar names Abdur Rahmaan bin Auf, Abu Bakr, Umar and Uthmaan.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "qaasim-bin-muhammad",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Fudhayl bin Abu Abdullaah bin Dinaar",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "who issued fataawaa"
+  ],
+  "boundary": "merged",
+  "notes": "Three reports: Abdullaah bin Umar's answer, Qaasim's report and Fudhayl's report. The father in Fudhayl's chain is not listed."
+ },
+ {
+  "id": "n02893",
+  "summary": "Abu Attiyya Hamdaani reports that when a man had already asked Abu Moosa, Ibn Mas'ood gave a contrary answer and left, and Abu Moosa then told people not to ask him anything while this great scholar was present.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Attiyya Hamdaani",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "humility",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "caution in issuing fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": "The vocab has abu-atiyya (yes), which may be a different person, so this narrator is left unlinked. The quotation marks in the text are unbalanced."
+ },
+ {
+  "id": "n02894",
+  "summary": "Sahl bin Abu Khaythamah reports that in the Prophet's time three Muhaajir Sahabah (Umar, Uthmaan and Ali) and three Ansaar Sahabah (Ubay bin Ka'b, Mu'aadh bin Jabal and Zaid bin Thaabit) were authorised to issue Fataawaa.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sahl bin Abu Khaythamah",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "who issued fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02895",
+  "summary": "Masrooq reports that the Sahabah who issued Fataawaa were Umar, Ali, Ibn Mas'ood, Zaid bin Thaabit, Ubay bin Ka'b and Abu Moosa Ash'ari.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "subject"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "who issued fataawaa"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02896",
+  "summary": "Qabeesah reports that Zaid bin Thaabit held the posts of judge, Fatwa, Qiraa'ah and inheritance in Madinah under Umar, Uthmaan and Ali, and after them until his death in 45 AH; Ataa bin Yasaar reports that Umar and Uthmaan consulted Ibn Abbaas, who issued Fataawaa until he died; Ziyaad bin Meenaa lists the Madinah Fatwa-givers; and Qaasim reports that his aunt Aa'isha issued Fataawaa after Abu Bakr's time.",
+  "people": [
+   {
+    "id": "qabeesah-bin-dhuwayb",
+    "role": "narrator"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "ataa-bin-yasaar",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-saeed-khudri",
+    "role": "subject"
+   },
+   {
+    "id": "abu-hurayrah",
+    "role": "subject"
+   },
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-amr",
+    "role": "subject"
+   },
+   {
+    "id": "raafi-bin-khadeej",
+    "role": "subject"
+   },
+   {
+    "id": "salama-bin-akwa",
+    "role": "subject"
+   },
+   {
+    "id": "abu-waaqid-laythi",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Buhaynah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Ziyaad bin Meenaa",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "qaasim-bin-muhammad",
+    "role": "narrator"
+   },
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge",
+   "khilaafah"
+  ],
+  "new_themes": [
+   "who issued fataawaa"
+  ],
+  "boundary": "merged",
+  "notes": "Four reports: Qabeesah, Ataa, Ziyaad and Qaasim. The text says 'Abdullaah Amr bin Al Aas', read as Abdullaah bin Amr (abdullaah-bin-amr). Abdullaah bin Buhaynah and Ziyaad bin Meenaa are not in the vocab. The text has OCR debris (''')."
+ },
+ {
+  "id": "n02897",
+  "summary": "Abu Dharr says the Prophet left the Sahabah with so much knowledge that even the flutter of a bird's wings in the sky would remind them of something he had taught.",
+  "people": [
+   {
+    "id": "abu-dharr-ghifaari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02898",
+  "summary": "Another narration quotes the Prophet saying that everything which brings a person closer to Jannah and further from Jahannam has been explained to the Sahabah.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Continues the report in n02897. No narrator is named in this item."
+ },
+ {
+  "id": "n02899",
+  "summary": "Amr bin Al Aas says he learnt a thousand similitudes from the Prophet, and Aa'isha reports that when the Sahabah disagreed her father Abu Bakr settled the matter with Hadiths on where a Nabi is buried and on the inheritance of the Prophets.",
+  "people": [
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah",
+   "prophets-final-illness"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Amr's short statement and Aa'isha's longer narration. The Amr line is fragmentary in the text."
+ },
+ {
+  "id": "n02900",
+  "summary": "Abu Waa'il reports that Ibn Mas'ood said Umar's knowledge would outweigh all the knowledge on earth, and Ibraheem reports Ibn Mas'ood saying that nine-tenths of knowledge left the world with Umar's death, and Ibn Mas'ood described Umar as the one who knew Allaah best and understood the Deen most deeply.",
+  "people": [
+   {
+    "id": "abu-waail-shaqeeq-bin-salama",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "amash",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports (Abu Waa'il, A'mash and Ibraheem, plus a lengthy narration about Umar's death). Ibraheem is not the same person as ibraheem-taymi and is left unlinked. Abu Waa'il is linked to abu-waail-shaqeeq-bin-salama by assumption (the common identification)."
+ },
+ {
+  "id": "n02901",
+  "summary": "Hudhayfah says the knowledge of everyone else is, compared with Umar's, like what could be buried in a small hole, and a man from Madinah says that learned scholars seemed like children before Umar.",
+  "people": [
+   {
+    "id": "hudhayfa-bin-yamaan",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two statements: Hudhayfah's and an unnamed Madinan man's. 'Hudhayfah' is linked to hudhayfa-bin-yamaan by assumption."
+ },
+ {
+  "id": "n02902",
+  "summary": "Abu Is'haaq reports that when the Prophet married Faatima to Ali, she objected that he had weak eyesight and a large stomach, and the Prophet replied that Ali was the first of his companions to accept Islaam, the most knowledgeable and the most tolerant.",
+  "people": [
+   {
+    "id": "abu-ishaaq",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "faatima",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "marriage",
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The second paragraph is another narration of the same event, with the Prophet speaking to Faatima directly. The text's '1 have' is OCR for 'I have'."
+ },
+ {
+  "id": "n02903",
+  "summary": "Ali says he knows precisely about which occasion, place and person every verse of the Qur'aan was revealed for, because his Rabb gave him a perceptive heart and an eloquent tongue.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02904",
+  "summary": "Sa'eed bin Musayyab reports that Umar used to seek Allaah's protection against any intricate problem that had to be resolved without Ali's help.",
+  "people": [
+   {
+    "id": "saeed-bin-musayyab",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02905",
+  "summary": "Masrooq reports Ibn Mas'ood's claim to know the occasion of revelation of every chapter of the Qur'aan and Masrooq's own comparison of the Sahabah to dams and Ibn Mas'ood to an ocean; Zaid bin Wahab and Asad bin Wadaa'ah report that Umar called Ibn Mas'ood a coffer filled with knowledge of the Deen and preferred sending him to the people of Qaadisiyyah over keeping him in Madinah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-wahab",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Asad bin Wadaa'ah",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports (Masrooq's, Zaid bin Wahab's and Asad's). Masrooq is not in the vocab, so he is left unlinked. His own comparison of the Sahabah is given as a subject."
+ },
+ {
+  "id": "n02906",
+  "summary": "Abul Bakhtari reports that some men asked Ali about the Sahabah, and Ali described the knowledge of Ibn Mas'ood, Abu Moosa, Ammaar, Hudhayfah, Abu Dharr and Salmaan, and then described his own: whenever he asked the Prophet he received an answer, and when he was silent the Prophet informed him.",
+  "people": [
+   {
+    "id": "abul-bakhtari",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   },
+   {
+    "id": "ammaar-bin-yaasir",
+    "role": "subject"
+   },
+   {
+    "id": "hudhayfa-bin-yamaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-dharr-ghifaari",
+    "role": "subject"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The men who asked are unnamed. Hudhayfah is linked to hudhayfa-bin-yamaan, which fits the description of him knowing the hypocrites."
+ },
+ {
+  "id": "n02907",
+  "summary": "Ibn Mas'ood says Mu'aadh bin Jabal was an Ummah, Qaanit and Haneef, and not one of the Mushrikeen; when the narrator doubted this against the Qur'aan's description of Ibraheem, Ibn Mas'ood explained that Ummah means one who teaches good and Qaanit one who obeys Allaah and His Rasool, and that this described Mu'aadh.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem (Prophet)",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "quraan",
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator who questioned the statement is unnamed. The Qur'aan verses (Surah Nahl 16:120-121) are quoted. Ibraheem is a Prophet and is not in the vocab."
+ },
+ {
+  "id": "n02908",
+  "summary": "Masrooq says that after examining the Sahabah he found all their knowledge in six of them, and then found that all of it could be found in Ali and Ibn Mas'ood alone.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "mentioned"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02909",
+  "summary": "Masrooq says that on arriving in Madinah and asking about the Sahabah, he found that Zaid bin Thaabit was among those with the most profound knowledge.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Continues the Masrooq reports of n02908."
+ },
+ {
+  "id": "n02910",
+  "summary": "Masrooq reports that Ibn Mas'ood said that if Ibn Abbaas were their age none of them could equal a tenth of his knowledge, and Mujaahid reports that Ibn Abbaas was called an ocean because of how much he knew.",
+  "people": [
+   {
+    "id": null,
+    "name": "Masrooq",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Mujaahid",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports. Ibn Mas'ood's praise of Ibn Abbaas as an excellent commentator of the Qur'aan is quoted as 'another narration'."
+ },
+ {
+  "id": "n02911",
+  "summary": "Layth bin Abu Sulaym asks Tawoos why he follows Ibn Abbaas, and Tawoos says seventy Sahabah preferred Ibn Abbaas's opinion; Aamir reports his father Sa'd bin Abi Waqqaas praising Ibn Abbaas and Umar deferring to him; Abu Zinaad reports Umar's visit during Ibn Abbaas's fever; Talha praises his understanding; and Ubay bin Ka'b predicts he will become the most learned of the Ummah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Layth bin Abu Sulaym",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "taaoos",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "aamir-bin-sad-bin-abi-waqqaas",
+    "role": "narrator"
+   },
+   {
+    "id": "sad-bin-abi-waqqaas",
+    "role": "subject"
+   },
+   {
+    "id": "abu-zinaad",
+    "role": "narrator"
+   },
+   {
+    "id": "talha",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Ubay bin Ka'b",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several separate reports. Layth is not in the vocab. Muhammad bin Ubay bin Ka'b is a different person from muhammad-bin-kab."
+ },
+ {
+  "id": "n02912",
+  "summary": "Tawoos says Ibn Abbaas towered above others in knowledge as a tall palm tree towers above shorter ones.",
+  "people": [
+   {
+    "id": "taaoos",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02913",
+  "summary": "Abu Waa'il reports that when Ibn Abbaas was Ameer of Hajj and recited and commented on Surah Noor, his companion said even the Turks would accept Islaam; Umar praised Ibn Abbaas's answer to a question sent by Ya'la bin Umayyah from Yemen; and Ataa reports that Ibn Abbaas gave each group of questioners - on poetry, ancestry, Arab battles and history - a full answer.",
+  "people": [
+   {
+    "id": "abu-waail-shaqeeq-bin-salama",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "yala-bin-munyah",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Ataa",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports. 'Ataa' is bare in the text and could be Ataa bin Abi Rabaah, Ataa bin Yasaar or Ataa bin Saaib, so it is left unlinked. Ya'la bin Umayyah is linked to yala-bin-munyah by assumption. The text's 'Hadhrat Abu Waa'il' is linked to the Shaqeeq entry and its 'friend' is unnamed."
+ },
+ {
+  "id": "n02914",
+  "summary": "Ubaydullaah bin Abdullaah bin Utba describes the breadth of Ibn Abbaas's knowledge, including the verdicts of Abu Bakr, Umar and Uthmaan, and Ibn Abbaas himself says he questioned senior Muhaajir and Ansaar Sahabah about the Prophet's battles, and that Ubay bin Ka'b told him which Surahs were revealed in Madinah.",
+  "people": [
+   {
+    "id": "ubaydullaah-bin-abdullaah-bin-utba",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two parts: Ubaydullaah's description, then Ibn Abbaas's own account. The text spells the narrator 'Ubadullaah'. Ubay's answer gives 27 Surahs revealed in Madinah and the rest in Makkah."
+ },
+ {
+  "id": "n02915",
+  "summary": "Ikrimah reports that Amr bin Al Aas said Ibn Abbaas had the most knowledge of the earlier scriptures and of what the Qur'aan and Hadith left unclear, and Ibn Abbaas replied that he had that knowledge because he used to ask the Prophet about what was Halaal and Haraam.",
+  "people": [
+   {
+    "id": "ikrimah",
+    "role": "narrator"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "halaal-and-haraam",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02916",
+  "summary": "Aa'isha says Ibn Abbaas knew the rites of Hajj best of the Sahabah still living, and Jaabir, Raafi bin Khudayj and Ibn Hanafiyyah each lament his death, Ibn Hanafiyyah calling him the sage of this Ummah; Abu Kulthoom reports the last remark.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "subject"
+   },
+   {
+    "id": "raafi-bin-khadeej",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Kulthoom",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "muhammad-bin-hanafiyyah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "death-and-burial",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several separate reports. Muhammad bin Hanafiyyah is linked to the vocab entry, whose sahabi status is marked unsure."
+ },
+ {
+  "id": "n02917",
+  "summary": "Amr bin Dinaar says Abdullaah bin Umar was regarded as one of the young Fuqahaa.",
+  "people": [
+   {
+    "id": "amr-bin-dinaar",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "youth",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02918",
+  "summary": "Khaalid bin Ma'daan says that in Shaam there remained no Sahabi whose knowledge was more reliable, whose understanding was deeper and who was more beloved to the people than Ubaadah bin Saamit and Shaddaad bin Aws.",
+  "people": [
+   {
+    "id": "khaalid-bin-madaan",
+    "role": "narrator"
+   },
+   {
+    "id": "ubaadah-bin-saamit",
+    "role": "subject"
+   },
+   {
+    "id": "shaddaad-bin-aws",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02919",
+  "summary": "Handhla bin Sufyaan reports from his teachers that none had a better understanding of the Deen than Abu Sa'eed Khudri.",
+  "people": [
+   {
+    "id": null,
+    "name": "Handhla bin Sufyaan",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-saeed-khudri",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Handhla bin Sufyaan is not in the vocab."
+ },
+ {
+  "id": "n02920",
+  "summary": "Abu Za'eeza'a, Marwaan bin Hakam's scribe, reports that Marwaan questioned Abu Hurayrah on the same matters a year apart, seating him behind a screen the second time, and that Abu Hurayrah repeated his answers word for word both times.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Za'eeza'a",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "marwaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-hurayrah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Za'eeza'a is not in the vocab and is treated as a participant, since he is the scribe who wrote the answers down."
+ }
+]

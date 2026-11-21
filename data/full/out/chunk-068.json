@@ -1,0 +1,537 @@
+[
+  {
+    "id": "n02681",
+    "summary": "Sa'd bin Junaadah relates how he came from Taa'if to accept Islaam in Makkah and how the Prophet then taught him the words called the Baaqiyaatus Saalihaat.",
+    "people": [
+      { "id": null, "name": "Sa'd bin Junaadah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "dhikr"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The words he was taught are missing from the OCR text; the narration breaks off at 'taught me the words'."
+  },
+  {
+    "id": "n02682",
+    "summary": "Ubay bin Ka'b relates the morning and evening du'aa the Prophet taught the Companions, affirming the natural way of Islaam and the creed of Ibraheem.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "narrator" },
+      { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02683",
+    "summary": "Sa'd and Naufal each report a du'aa the Prophet taught: one for protection from harm and one for a person who has passed away.",
+    "people": [
+      { "id": null, "name": "Sa'd", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Naufal", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports. Neither Sa'd nor Naufal is qualified in the text, so the ids are left null and the identities are unconfirmed."
+  },
+  {
+    "id": "n02684",
+    "summary": "The Abdul Qais delegation arrives, and the Prophet welcomes their leader Mundhir bin Aa'idh (Ashaj), seats him beside himself and questions the delegation on what they have learnt.",
+    "people": [
+      { "id": "ashaj", "role": "subject" },
+      { "id": null, "name": "Shihaab bin Abbaad", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "hospitality", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text says the narration still continues in great detail."
+  },
+  {
+    "id": "n02685",
+    "summary": "Abu Sa'eed Khudri relates how the Abdul Qais delegation came, was hosted and taught, and afterwards asked the Prophet about their local drinks.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "seeking-knowledge", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends at the start of the ruling on drinks. The prohibition is named (pumpkin shells, hollowed wood, dyed containers) but its wording is not given."
+  },
+  {
+    "id": "n02686",
+    "summary": "Jaabir relates the Prophet's journey for the Farewell Hajj, including the ihram instructions given to Asmaa bint Umays when her son was born at Dhul Hulayfah, and the talbiya recited on the road.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "asmaa-bint-umays", "role": "subject" },
+      { "id": null, "name": "Muhammad bin Abu Bakr", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "dhikr"],
+    "new_themes": ["hajj"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02687",
+    "summary": "Jaabir bin Azraq Ghaadiri recounts travelling from the far ends of Yemen to hear the Prophet at Mina, and the author then quotes Ibn Jareer's commentary on the verse about gaining understanding of Deen through jihaad.",
+    "people": [
+      { "id": null, "name": "Jaabir bin Azraq Ghaadiri", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ibn Jareer", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "quraan", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two parts: Jaabir's account at Mina, then the author's quotation of Ibn Jareer's commentary on Surah Taubah verse 122, which is not a narration."
+  },
+  {
+    "id": "n02688",
+    "summary": "Abu Sa'eed Khudri says that the Sahabah left one or two men behind on campaigns to learn Hadith, who then reported the Prophet's words to the others on their return.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02689",
+    "summary": "Thaabit Bunaani reports Anas bin Maalik describing the Ansaar who learnt and taught the Qur'aan at night, and the martyrdom of Anas's uncle Haraam bin Milhaan and of the Qurra sent by the Prophet.",
+    "people": [
+      { "id": "thaabit-bunaani", "role": "narrator" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "haraam-bin-milhaan", "role": "subject" },
+      { "id": "khubayb-bin-adi", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "seeking-knowledge", "sacrifice"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: the seventy Ansaar and Haraam's death, then the Qurra. The text names only 'Khubayb (RA)'; the id maps him to the approved Khubayb bin Adi, who was martyred in Makkah. Please confirm."
+  },
+  {
+    "id": "n02690",
+    "summary": "Abdullaah bin Abbaas relates Umar's account of taking turns with an Ansaari neighbour to attend the Prophet's gatherings, and of his alarm when the neighbour brought word that the Prophet had divorced his wives, which proved untrue.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "hafsa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02691",
+    "summary": "Baraa says the Sahabah could not all sit to hear Hadith because of their property and work, so those who were present passed it on to those who were absent.",
+    "people": [
+      { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Only 'Hadhrat Baraa (RA)' is given, so the id is left null. Baraa bin Aazib is on the list but is not confirmed by the text."
+  },
+  {
+    "id": "n02692",
+    "summary": "Baraa adds that the Sahabah who were out grazing camels heard the Hadith from companions who had been with the Prophet.",
+    "people": [
+      { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Same unqualified Baraa as the previous narration; id left null."
+  },
+  {
+    "id": "n02693",
+    "summary": "Abu Anas Maalik bin Abu Aamir Asbahi relates that Talha bin Ubaydullaah defended Abu Hurayrah against a man who doubted his many Hadith, explaining that Abu Hurayrah had always been with the Prophet while the others had homes and families.",
+    "people": [
+      { "id": null, "name": "Abu Anas Maalik bin Abu Aamir Asbahi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "talha", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02694",
+    "summary": "Umar bin Khattaab rules that no one may trade in the marketplace without first understanding the Deen that governs trade.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02695",
+    "summary": "Ali bin Abi Taalib explains the verse 'Save yourselves and your families from the Fire' as meaning to educate yourselves and your families in all that is good.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02696",
+    "summary": "Another narration gives Ali's explanation of the same verse as teaching one's family good manners.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02697",
+    "summary": "Maalik bin Huwayrith relates that after twenty days with the Prophet he and his companions were sent home to teach their families and to pray as they had seen the Prophet pray.",
+    "people": [
+      { "id": null, "name": "Maalik bin Huwayrith", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "seeking-knowledge", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02698",
+    "summary": "Zaid bin Thaabit relates that the Prophet asked him to learn the Jewish language, or in other reports the Syriac or Hebrew, so that he could read and write the letters for him, and that he mastered it within about half a month or seventeen days depending on the report.",
+    "people": [
+      { "id": "zaid-bin-thaabit", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": ["learning foreign languages"],
+    "boundary": "merged",
+    "notes": "Three reports of one event joined together. The time taken to learn varies between reports (half a month, seventeen days)."
+  },
+  {
+    "id": "n02699",
+    "summary": "Umar bin Qais describes how Abdullaah bin Zubayr spoke to each of his hundred slaves in their own language, and balanced worldly affairs with remembrance of the Aakhirah.",
+    "people": [
+      { "id": null, "name": "Umar bin Qais", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "aakhirah"],
+    "new_themes": ["learning foreign languages"],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-sentence in the second remark ('for the blinking of an')."
+  },
+  {
+    "id": "n02700",
+    "summary": "Umar tells people to study astronomy only as far as it helps them navigate by land and sea in the dark, and then to stop.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Only one approved theme fits closely; khilaafah is added because the words are Umar's instruction as ruler. Judgement call."
+  },
+  {
+    "id": "n02701",
+    "summary": "Another report has Umar telling people to study astronomy as far as it aids navigation and genealogy as far as it helps them keep family ties.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02702",
+    "summary": "Sa'sa'a bin Sowhaan relates that after a Bedouin challenged Ali's reading of a verse, Ali recited it correctly and had Abul Aswad Duwali add the vowel marks to the Qur'aan for the many non-Arabs entering Islaam.",
+    "people": [
+      { "id": null, "name": "Sa'sa'a bin Sowhaan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Abul Aswad Duwali", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["quraan", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Bedouin is unnamed and not listed."
+  },
+  {
+    "id": "n02703",
+    "summary": "Urwa reports that when the Prophet left for Hunayn and later for Madinah, he appointed Mu'aadh bin Jabal over Makkah to teach the Qur'aan and develop understanding of Deen.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Urwa is not qualified in the text and several people share the name, so no id is given."
+  },
+  {
+    "id": "n02704",
+    "summary": "Mujaahid reports that the Prophet appointed Mu'aadh bin Jabal over Makkah when he left for Hunayn, to teach the Qur'aan and develop understanding of Deen.",
+    "people": [
+      { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "no" },
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02705",
+    "summary": "Qaasim relates that Umar kept Zaid bin Thaabit in Madinah as his deputy and sent him out only for vital tasks, because the people of Madinah needed him, not because Umar thought less of him.",
+    "people": [
+      { "id": null, "name": "Qaasim", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "zaid-bin-thaabit", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Qaasim is not qualified in the text; the approved Qaasim bin Muhammad is not assumed."
+  },
+  {
+    "id": "n02706",
+    "summary": "Saalim bin Abdullaah relates that when Zaid bin Thaabit died, Abdullaah bin Umar called him a great scholar who gave rulings in Madinah while Umar sent others to the cities and forbade them to judge by their own opinion.",
+    "people": [
+      { "id": "saalim-bin-abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "zaid-bin-thaabit", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02707",
+    "summary": "Abu Abdur Rahmaan Sulami relates that Uthmaan told him to recite the Qur'aan to Zaid bin Thaabit, and Ka'b bin Maalik reports Umar's regret that Mu'aadh bin Jabal left for Shaam after Abu Bakr refused to keep him in Madinah.",
+    "people": [
+      { "id": null, "name": "Abu Abdur Rahmaan Sulami", "role": "narrator", "sahabi": "no" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "zaid-bin-thaabit", "role": "mentioned" },
+      { "id": "kab-bin-maalik", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "khilaafah", "martyrdom"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two parts: Uthmaan's advice to recite to Zaid, and Ka'b's report of Umar's regret. The second part refers back to an earlier narration."
+  },
+  {
+    "id": "n02708",
+    "summary": "Aasim bin Umar bin Qataadah relates that after Uhud delegates from the Udhal and Qaara asked for teachers, and the Prophet sent six Sahabah under Marthad bin Abu Marthad.",
+    "people": [
+      { "id": "aasim-bin-umar-bin-qataadah", "role": "narrator" },
+      { "id": null, "name": "Marthad bin Abu Marthad", "role": "subject", "sahabi": "yes" },
+      { "id": "hamza", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends as the narration moves on to the Battle of Rajee."
+  },
+  {
+    "id": "n02709",
+    "summary": "Ali relates that the Prophet sent him to Yemen to teach and judge between people, and that the Prophet's prayer for his heart to be guided and his tongue steadied kept his judgements sound.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "justice", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02710",
+    "summary": "Anas relates that when people from Yemen asked for a teacher of the Qur'aan, the Prophet sent Abu Ubaydah bin Jarraah with them, calling him the most trustworthy person of this Ummah.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "quraan", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02711",
+    "summary": "Another narration says that the people of Yemen asked the Prophet for someone to teach them the Sunnah, but the text breaks off there.",
+    "people": [],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "delegations"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text breaks off after 'the Sunnah and'."
+  },
+  {
+    "id": "n02712",
+    "summary": "Abu Bakr bin Muhammad bin Amr bin Hazm quotes the letter the Prophet gave Amr bin Hazam on being sent to Yemen to teach, collect zakaah and urge taqwa, and Abu Moosa Ash'ari reports being sent there with Mu'aadh bin Jabal to teach the Qur'aan.",
+    "people": [
+      { "id": null, "name": "Abu Bakr bin Muhammad bin Amr bin Hazm", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Amr bin Hazam", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "zakaah", "taqwa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two parts: the letter quoted by Abu Bakr bin Muhammad (garbled in the OCR), and Abu Moosa's report. The quoted letter's wording is only partly legible."
+  },
+  {
+    "id": "n02713",
+    "summary": "Ammaar bin Yaasir relates that he was sent to teach a Qais clan and found them indifferent, and the Prophet said there are people even stranger, who know what these ignorant people do not and are just as indifferent.",
+    "people": [
+      { "id": "ammaar-bin-yaasir", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "dawah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02714",
+    "summary": "Haaritha bin Mudarrib reads Umar's letter to the people of Kufa, appointing Ammaar bin Yaasir as governor and Abdullaah bin Mas'ood as teacher and advisor, and praising them as among the choicest Companions.",
+    "people": [
+      { "id": "haaritha-bin-mudarrib", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02715",
+    "summary": "Abul Aswad Duwali relates that when he reached Basrah he found Imraan bin Husayn there, sent by Umar to teach Deen to the people.",
+    "people": [
+      { "id": null, "name": "Abul Aswad Duwali", "role": "narrator", "sahabi": "unsure" },
+      { "id": "imraan-bin-husayn", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02716",
+    "summary": "Muhammad bin Ka'b Qurazi relates that Yazeed bin Abu Sufyaan asked Umar for teachers for Shaam, and Umar sent Mu'aadh bin Jabal, Ubaadah bin Saamit and Abu Dardaa to Hims, Damascus and Palestine.",
+    "people": [
+      { "id": "muhammad-bin-kab", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "ubaadah-bin-saamit", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" },
+      { "id": "abu-ayyoob-ansaari", "role": "mentioned" },
+      { "id": "yazeed-bin-abi-sufyaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives 'Muhammad bin Ka'b Qurazi'. The approved muhammad-bin-kab entry is marked unsure and is used on the assumption it is the same person."
+  },
+  {
+    "id": "n02717",
+    "summary": "Abdullaah bin Muhammad bin Aqeel reports that Jaabir rode for a month to Shaam to hear from Abdullaah bin Unays a Hadith of the Prophet on retribution on the Day of Qiyaamah.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Muhammad bin Aqeel", "role": "narrator", "sahabi": "no" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "abdullaah-bin-unays", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "aakhirah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02718",
+    "summary": "Jaabir bin Abdullaah relates travelling to Egypt to hear from Maslamah bin Mukhallad the Prophet's Hadith on concealing a Mu'min's faults, and Muneeb reports a similar journey by another Sahabi to hear the same Hadith.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": null, "name": "Maslamah bin Mukhallad", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Muneeb", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "muslim-rights", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Jaabir's visit to Maslamah in Egypt, and Muneeb's report, from his uncle, of another Sahabi's journey for the same Hadith. Muneeb is not qualified in the text, so the id is left null."
+  },
+  {
+    "id": "n02719",
+    "summary": "Ibn Jurayj relates that Abu Ayyoob Ansaari travelled to Egypt to hear from Uqba bin Aamir the Prophet's saying on concealing a Muslim's faults, and then narrated it in Madinah before dismounting.",
+    "people": [
+      { "id": null, "name": "Ibn Jurayj", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" },
+      { "id": "uqba-bin-aamir", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "muslim-rights", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02720",
+    "summary": "Makhool relates that Uqba bin Aamir went to Maslamah bin Mukhallad to confirm the Prophet's saying that whoever conceals a brother's sin will have his own sin concealed on the Day of Qiyaamah; Abdullaah bin Buraydah adds a one-line report of a Sahabi travelling to Egypt to see Fudhala bin Ubayd about a Hadith.",
+    "people": [
+      { "id": "makhool", "role": "narrator" },
+      { "id": "uqba-bin-aamir", "role": "subject" },
+      { "id": null, "name": "Maslamah bin Mukhallad", "role": "subject", "sahabi": "yes" },
+      { "id": "abdullaah-bin-buraydah", "role": "narrator" },
+      { "id": "fudhala-bin-ubayd", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "muslim-rights", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Makhool on Uqba's visit to Maslamah, and Abdullaah bin Buraydah's short report of a Sahabi's journey to see Fudhala bin Ubayd. That Sahabi is unnamed."
+  }
+]

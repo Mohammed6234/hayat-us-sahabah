@@ -1,0 +1,527 @@
+[
+ {
+  "id": "n01001",
+  "summary": "Umar, resting at midday, hears a poor Bedouin woman with two children complain that the Zakaah collector Muhammad bin Maslama gave her nothing; Umar sends for him, then gives her a camel with flour and oil, and two more camels at Khaybar.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "muhammad-bin-maslama", "role": "subject" },
+    { "id": null, "name": "Umayr bin Salama Duwali", "role": "narrator", "sahabi": "yes" },
+    { "id": null, "name": "Yarfa", "role": "mentioned", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["zakaah", "kindness", "khilaafah"],
+  "new_themes": ["a leader's accountability for the poor"],
+  "boundary": "ok",
+  "notes": "Yarfa is Umar's servant; sahabi status unsure. The Bedouin woman is unnamed and not tagged."
+ },
+ {
+  "id": "n01002",
+  "summary": "Aslam reports that Umar met a young widow, daughter of Khufaaf bin Eema Ghifaari, and gave her a loaded camel with food, money and clothing, because her father had been at Hudaybiyyah and her brother had shared in the booty of a conquest.",
+  "people": [
+    { "id": "aslam", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Khufaaf bin Eema Ghifaari", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["kindness", "sadaqah", "virtues-of-the-sahabah", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Aslam is the narrator and was present, so tagged subject. Khufaaf bin Eema Ghifaari is not the approved khufaaf-bin-nudba. The widow and her brother are unnamed."
+ },
+ {
+  "id": "n01003",
+  "summary": "After Umar sends Sa'eed bin Aamir to replace Mu'aawiya as governor of Shaam, and then sends a thousand dinaars, Sa'eed spends it on the poor rather than on his family, and when his wife complains he stays out of the house during the day.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+    { "id": null, "name": "Sa'eed bin Aamir bin Judhaym Jumhi", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Hassaan bin Atiyya", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hassaan bin Atiyya is a tabi'i, not a Companion, though the text uses Hadhrat; sahabi set to no. Mu'aawiya tagged as muaawiya-bin-abi-sufyaan, the governor replaced in the text. Sa'eed's wife is unnamed."
+ },
+ {
+  "id": "n01004",
+  "summary": "Abdur Rahmaan bin Saabit Jumhi reports that Sa'eed bin Aamir gave his salary away in charity, told his wife the rest was a loan, and rejected a warning about his family's rights, citing the Prophet's words that the poor believers will enter Jannah seventy years before others.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Saabit Jumhi", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Sa'eed bin Aamir bin Judhaym Jumhi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "aakhirah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Contains an OCR footnote fragment (Abu Nu'aym, Vol. 1 p.244), not tagged. It cross-refers to the previous narration about the wife, which is tagged in its own entry. Abdur Rahmaan's sahabi status is unsure despite the Hadhrat honorific."
+ },
+ {
+  "id": "n01005",
+  "summary": "Naafi reports that when Abdullaah bin Umar was ill and a bunch of grapes was bought for him, he gave it to a poor man, and the grapes were bought back and given to the beggar three times before Abdullaah could eat them.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The beggar and the household member are unnamed. OCR debris in one sentence ignored."
+ },
+ {
+  "id": "n01006",
+  "summary": "Naafi tells the same grapes incident in his own words: after the beggar's third or fourth return he rebuked him, bought the grapes back himself, and Abdullaah finally ate them.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Variant of n01005 (same incident). Naafi is a participant telling his own part, so tagged subject."
+ },
+ {
+  "id": "n01007",
+  "summary": "After Abu Nadhra wished aloud that he could afford a sheep for Eid, Uthmaan bin Abul Aas sent him a bag of fifty Dirhams, having first asked a passer-by what he had paid for his sheep.",
+  "people": [
+    { "id": "uthmaan-bin-abil-aas", "role": "subject" },
+    { "id": null, "name": "Abu Nadhra", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "kindness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Nadhra speaks in the first person and is tagged subject; sahabi status inferred as no (a tabi'i). The man with the sheep is unnamed."
+ },
+ {
+  "id": "n01008",
+  "summary": "Imaam Maalik reports that Aa'isha, fasting with only one piece of bread at home, gave it to a beggar, and that evening was sent cooked meat; a second report says she gave a single grape to a beggar and explained the Qur'aan's teaching that an atom's weight of good is seen.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": null, "name": "Imaam Maalik", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, both relayed by Imaam Maalik, in one entry (bread; grape). Maalik is the narrator in the body of the text, so tagged rather than left out. The servant and the beggars are unnamed."
+ },
+ {
+  "id": "n01009",
+  "summary": "Uthmaan reports that Haaritha bin Nu'maan, though blind, kept giving to beggars himself by holding a string from his prayer place to his door, because he had heard the Prophet say that personal giving saves from a gruesome death.",
+  "people": [
+    { "id": "uthmaan", "role": "narrator" },
+    { "id": null, "name": "Haaritha bin Nu'maan", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sacrifice", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Uthmaan' is tagged as uthmaan (Uthmaan bin Affaan) as an assumption; the text gives no further identification, so please confirm. Haaritha bin Nu'maan is not the approved numaan-bin-haaritha. His family is unnamed."
+ },
+ {
+  "id": "n01010",
+  "summary": "Amr Laythi reports that Waathila bin Asqa handed a beggar a piece of bread with a coin on it himself, and explained that walking to give forgives sins and placing the gift in the hand forgives more.",
+  "people": [
+    { "id": null, "name": "Amr Laythi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "waathila-bin-asqa", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "kindness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Amr Laythi's sahabi status is unsure. The beggar is unnamed."
+ },
+ {
+  "id": "n01011",
+  "summary": "Naafi says Abdullaah bin Umar had his whole household eat from one platter each night, and when a poor man called he gave away his share; if nothing was left over he went without food the next morning.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "sadaqah", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Naafi is the narrator and a participant ('if I found anything in the platter'), so tagged subject. The poor man and the household are unnamed."
+ },
+ {
+  "id": "n01012",
+  "summary": "Anas reports that a Bedouin pulled the Prophet's Najraan shawl so hard it marked his neck and demanded some of Allaah's wealth; the Prophet smiled and told the Sahabah to give him something.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "sadaqah", "prophets-concern"],
+  "new_themes": ["patience with rudeness"],
+  "boundary": "ok",
+  "notes": "The Bedouin is unnamed. OCR debris ('Te Bedouin') ignored."
+ },
+ {
+  "id": "n01013",
+  "summary": "Abu Hurayrah reports that a Bedouin demanding two camels pulled the Prophet's shawl until it marked his neck; the Prophet forgave him and ordered two camels given, one loaded with barley and one with dates.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "sadaqah", "prophets-concern"],
+  "new_themes": ["patience with rudeness"],
+  "boundary": "ok",
+  "notes": "Abu Hurayrah speaks as one of the 'we' present, so tagged subject. The Bedouin is unnamed. One sentence of the Prophet's reply is garbled by OCR."
+ },
+ {
+  "id": "n01014",
+  "summary": "Nu'maan bin Muqarrin reports that four hundred Muzaynah travellers with no provisions were fed by Umar from a room of dates that did not visibly diminish, as the Prophet had ordered.",
+  "people": [
+    { "id": "numaan-bin-muqarrin", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "hospitality", "prophethood", "delegations"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Nu'maan is one of the travellers and speaks in the first person, so tagged subject. The Muzaynah tribe is a group, not tagged. n01015 gives 440 people for a similar report."
+ },
+ {
+  "id": "n01015",
+  "summary": "Dhukayn bin Sa'eed reports that four hundred and forty people asked the Prophet for food; Umar objected that his dates would last only his family through the summer, then obeyed the Prophet's repeated order and fed them from a heap of dates that seemed undiminished.",
+  "people": [
+    { "id": null, "name": "Dhukayn bin Sa'eed Khath'ami", "role": "subject", "sahabi": "yes" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "hospitality", "prophethood", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Dhukayn is a participant telling part of the story, so tagged subject. The figure is 440 here and 400 in n01016, which is a variant of the same report."
+ },
+ {
+  "id": "n01016",
+  "summary": "Dhukayn reports the same dates incident, this time with four hundred people; Umar first objects, Abu Bakr tells him to listen and obey, and Umar replies that he hears and obeys.",
+  "people": [
+    { "id": null, "name": "Dhukayn bin Sa'eed Khath'ami", "role": "subject", "sahabi": "yes" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "hospitality", "prophethood", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Variant of n01015. The sentence naming who Umar was addressing is garbled by OCR, so the Prophet is tagged mentioned only. Dhukaym in the heading is an OCR variant of Dhukayn."
+ },
+ {
+  "id": "n01017",
+  "summary": "Aflah bin Katheer says Abdullaah bin Umar never refused a beggar, and that even a leper with blood-dripping fingers ate from the same plate as him.",
+  "people": [
+    { "id": null, "name": "Aflah bin Katheer", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "kindness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Aflah bin Katheer's sahabi status is unsure. The leper is unnamed."
+ },
+ {
+  "id": "n01018",
+  "summary": "Hasan Basri reports that Abu Bakr gave his sadaqah secretly and Umar gave openly, and the Prophet said the difference between their gifts was like the difference between their words, Abu Bakr's intention being the purer.",
+  "people": [
+    { "id": null, "name": "Hasan Basri", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sincerity", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The bracketed sentence is the author's commentary, not the Prophet's words. Trailing 'W' is OCR debris. Hasan Basri is a tabi'i, though the text uses Hadhrat."
+ },
+ {
+  "id": "n01019",
+  "summary": "Abdullaah bin Umar reports that the Prophet asked who would buy the well of Roomah for the Muslim public as a sadaqah, and Uthmaan bought it and donated it.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Uthmaan tagged as uthmaan (buyer of the well of Roomah, Uthmaan bin Affaan)."
+ },
+ {
+  "id": "n01020",
+  "summary": "Basheer Aslami reports that the Muhaajireen disliked the water of Madinah, and that after a Ghifaari owner declined the Prophet's offer of a fountain in Jannah for his well, Uthmaan bought it, asked whether he too would receive that fountain, and donated the well.",
+  "people": [
+    { "id": null, "name": "Basheer Aslami", "role": "narrator", "sahabi": "unsure" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The price is garbled by OCR ('thirty Ave thousand Dirhams') and is not tagged. The Ghifaari owner is unnamed. The heading's Ibn Asaakir is a source reference, not a narrator."
+ },
+ {
+  "id": "n01021",
+  "summary": "Su'daa, wife of Talha, reports that Talha gave away a hundred thousand Dirhams in one day, and that he was late to the Masjid because she had to stitch together his only garment.",
+  "people": [
+    { "id": null, "name": "Su'daa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "talha", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Su'daa's sahabi status is unsure. Talha is tagged as talha (Talha bin Ubaydillaah)."
+ },
+ {
+  "id": "n01022",
+  "summary": "A cross-reference to an earlier narration: Abdur Rahmaan bin Auf gave half his wealth (four thousand Dirhams), then forty thousand Dirhams and forty thousand Dinaars in the path of Allaah.",
+  "people": [
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "This entry only summarises and refers back to a fuller account earlier in the book, which is not in this entry."
+ },
+ {
+  "id": "n01023",
+  "summary": "Saa'ib reports from his father Abu Lubaabah that after Allaah forgave him, Abu Lubaabah offered to give all his wealth in charity, and the Prophet said a third would suffice, which he gave.",
+  "people": [
+    { "id": null, "name": "Saa'ib bin Abu Lubaabah", "role": "narrator", "sahabi": "yes" },
+    { "id": "abu-lubaba", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "mercy-and-forgiveness", "sacrifice"],
+  "new_themes": ["repentance (taubah)"],
+  "boundary": "ok",
+  "notes": "The vocabulary has 'saaib' (Saa'ib, yes); not linked here because the text names his father, so please check whether it is the same person."
+ },
+ {
+  "id": "n01024",
+  "summary": "Nu'maan bin Humayd, visiting Salmaan Faarsi, sees him earn his living by buying palm leaves and making goods to sell, putting one part back into more leaves, one on his family and one in charity, and vows to continue even if Umar stops him.",
+  "people": [
+    { "id": null, "name": "Nu'maan bin Humayd", "role": "subject", "sahabi": "unsure" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Nu'maan bin Humayd is the narrator and visitor, tagged subject; sahabi status unsure. Not linked to the approved numaan entries."
+ },
+ {
+  "id": "n01025",
+  "summary": "Abu Mas'ood reports that during a hard expedition Uthmaan bought fourteen loaded camels and sent nine to the Prophet, who raised his hands in a long prayer for him.",
+  "people": [
+    { "id": "abu-masood-ansaari", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "duaa", "jihaad", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text is cut off at 'treat him every so'. The hypocrites (Munaafiqeen) are a group, not tagged."
+ },
+ {
+  "id": "n01026",
+  "summary": "Abdullaah bin Abbaas says that providing for a Muslim family's needs for a while is dearer to him than hajj after hajj, and that giving his brother a small utensil as a gift for Allaah's pleasure is dearer than spending a Dinaar in the path of Allaah.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "sadaqah", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The brother is unnamed."
+ },
+ {
+  "id": "n01027",
+  "summary": "Ali says that gathering a few friends to share a Saa of food is dearer to him than going to the market to buy a slave and free him.",
+  "people": [
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text reads 'Hadhrat All'; read as Ali."
+ },
+ {
+  "id": "n01028",
+  "summary": "Abdul Waahid bin Ayman reports from his father that Jaabir served his guests bread and vinegar, quoting the Prophet that vinegar is an excellent gravy and that those who look down on what is offered are destroyed.",
+  "people": [
+    { "id": null, "name": "Abdul Waahid bin Ayman", "role": "narrator", "sahabi": "unsure" },
+    { "id": "jaabir-bin-abdillaah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Second report in the same entry: 'Another narration' has Jaabir say that looking down on what is served is sinful. The father is unnamed."
+ },
+ {
+  "id": "n01029",
+  "summary": "Humayd Taweel reports that when guests visited the ill Anas, he told his slave to bring something for them even if only bread, quoting the Prophet that good character leads to Jannah.",
+  "people": [
+    { "id": null, "name": "Humayd Taweel", "role": "narrator", "sahabi": "no" },
+    { "id": "anas-bin-maalik", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness", "visiting-the-sick"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Humayd Taweel is a tabi'i; sahabi inferred as no. The slave is unnamed."
+ },
+ {
+  "id": "n01030",
+  "summary": "Shaqeeq bin Salama reports that Salmaan Faarsi, with only bread and salt for his guests, pawned his jug to buy mint, and told a guest who had wished for mint that contentment with what Allaah provides would have saved the jug.",
+  "people": [
+    { "id": null, "name": "Shaqeeq bin Salama", "role": "subject", "sahabi": "unsure" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "hunger-and-hardship", "sacrifice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Second report in the same entry ('Another narration'): the Prophet and Ali had forbidden the Companions to burden themselves to host guests with what they do not have. Shaqeeq is a participant (visiting with a friend), tagged subject; sahabi status unsure. The friend is unnamed."
+ },
+ {
+  "id": "n01031",
+  "summary": "Hamza bin Suhayb reports that Umar told Suhayb he fed too many people and was being extravagant, and Suhayb replied that the Prophet said the best people feed others and return greetings.",
+  "people": [
+    { "id": null, "name": "Hamza bin Suhayb", "role": "narrator", "sahabi": "unsure" },
+    { "id": "suhayb", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hamza bin Suhayb is not the approved hamza entry (Hamza bin Abdil Muttalib). The Prophet's words are quoted by Suhayb."
+ },
+ {
+  "id": "n01032",
+  "summary": "Jaabir says the Prophet took him by the hand to one of his wives' rooms, where they shared three pieces of bread, and that the Prophet called the vinegar an excellent gravy.",
+  "people": [
+    { "id": "jaabir-bin-abdillaah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness", "prophets-concern"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Jaabir speaks in the first person, so tagged subject. The wife is unnamed."
+ },
+ {
+  "id": "n01033",
+  "summary": "Abdullaah bin Salaam reports that the Prophet had Uthmaan's camel-load of flour, butter and honey cooked in a stone pot and shared it with the Sahabah, calling it khabees.",
+  "people": [
+    { "id": "abdullaah-bin-salaam", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat llthmaan' is an OCR reading of Uthmaan; tagged as uthmaan (Uthmaan bin Affaan assumed)."
+ },
+ {
+  "id": "n01034",
+  "summary": "Abdullaah bin Busr says the Prophet's large plate, carried by four men, was brought out after the Duha prayer; the Prophet sat squatting, calling himself a generous slave and not an arrogant tyrant, and told them to eat from the sides.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Busr", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "prophethood", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Bedouin who asked about the posture is unnamed."
+ },
+ {
+  "id": "n01035",
+  "summary": "Abdur Rahmaan, son of Abu Bakr, reports that when guests came, Abu Bakr sent portions of camel meat to the Prophet's wives and then fed the rest to the Muhaajireen and Ansaar.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Abu Bakr", "role": "narrator", "sahabi": "yes" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "sadaqah", "honest-dealings"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text is cut off at 'partake of it,'. One passage is garbled by OCR and mentions Hafsah in a way that is not clear enough to tag. The Prophet is mentioned only, through his wives and his nightly conversations with Abu Bakr."
+ },
+ {
+  "id": "n01036",
+  "summary": "Salama bin Akwa reports that when Talha bought a well at the foot of a mountain and invited people to a meal, the Prophet called him Fayyaadh, an extremely generous man.",
+  "people": [
+    { "id": "salama-bin-akwa", "role": "narrator" },
+    { "id": "talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Talha is tagged as talha (Talha bin Ubaydullaah)."
+ },
+ {
+  "id": "n01037",
+  "summary": "Abu Hurayrah says Ja'far bin Abi Taalib did more for the poor than anyone, taking them home to feed them and breaking open his butter container so they could lick what remained.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "jafar-bin-abi-taalib", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01038",
+  "summary": "Suhayb reports that he prepared food for the Prophet and invited him; when the Prophet asked whether the others could come too, Suhayb agreed, and everyone ate and food was left over.",
+  "people": [
+    { "id": "suhayb", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "prophethood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Heading 'Suhayb Roomi' is OCR-garbled; tagged as suhayb (Suhayb bin Sanaan). Suhayb speaks in the first person, so tagged subject."
+ },
+ {
+  "id": "n01039",
+  "summary": "Muhammad bin Qais reports that Abdullaah bin Umar never ate without a poor person with him, until his health suffered and his wife gave him a date drink; a second report in the same entry says he ate only when an orphan was at the table.",
+  "people": [
+    { "id": "muhammad-bin-qais-abdi", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Abu Bakr bin Hafs", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The second report (Abu Bakr bin Hafs) is merged into this entry and is cut off mid-sentence at 'tablecloth,'. Muhammad bin Qais is tagged with the approved muhammad-bin-qais-abdi because the name matches, but the text gives no nisba, so please check. Abu Bakr bin Hafs is not the Caliph Abu Bakr."
+ },
+ {
+  "id": "n01040",
+  "summary": "Hasan reports that Abdullaah bin Umar invited an orphan to every lunch or dinner and gave an orphan the cup from his hand; Maymoon bin Mahraan reports that Ibn Umar's wife, to keep the poor from waiting on the road, sent them food with instructions, so he had no dinner that night.",
+  "people": [
+    { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Maymoon bin Mahraan", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports in one entry. 'Hasan' is not linked to the approved hasan entry and may be Hasan Basri (see n01018). Maymoon is a tabi'i; sahabi inferred as no. The wife and the poor are unnamed."
+ }
+]

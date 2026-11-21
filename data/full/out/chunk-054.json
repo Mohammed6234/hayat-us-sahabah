@@ -1,0 +1,590 @@
+[
+  {
+    "id": "n02121",
+    "summary": "Ummu Salamah declines Abu Bakr's proposal, then accepts the Prophet's proposal after his replies to her objections, and her son Umar brings the marriage about.",
+    "people": [
+      { "id": "umm-salama", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar-bin-abi-salamah", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": null, "name": "Qareenah bint Abu Umayyah", "role": "subject", "sahabi": "unsure" },
+      { "id": null, "name": "Zaynab (daughter of Ummu Salamah)", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The son Umar here is Umar bin Abi Salamah, not Umar bin Khattaab. Zaynab is Ummu Salamah's infant daughter, not Zaynab bint Muhammad or Zaynab bint Jahash. Qareenah is given the title Hadhrat without RA. Ummu Salamah's father is left out as a genealogy line."
+  },
+  {
+    "id": "n02122",
+    "summary": "Ummu Habeebah recounts that Najaashi's envoy Abraha brought the king's news that the Prophet wished to marry her, that Khaalid bin Sa'eed gave her in marriage, and that Najaashi paid the dowry and hosted a meal.",
+    "people": [
+      { "id": null, "name": "Ismaa'eel bin Amr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ummu-habeebah", "role": "subject" },
+      { "id": null, "name": "Abraha", "role": "subject", "sahabi": "unsure" },
+      { "id": "najaashi", "role": "subject" },
+      { "id": "khaalid-bin-saeed", "role": "subject" },
+      { "id": "jafar-bin-abi-taalib", "role": "mentioned" },
+      { "id": "isa-bin-maryam", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "delegations"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives Abraha no RA, so her Companion status is unsure."
+  },
+  {
+    "id": "n02123",
+    "summary": "Ummu Habeebah tells how her dream of her husband Ubaydullaah bin Jahash foretold his turn to Christianity and his death in drink, how her later dream made her expect marriage to the Prophet, and how Abraha returned her gifts.",
+    "people": [
+      { "id": null, "name": "Ismaa'eel bin Amr bin Saa'eed bin Al Aas", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ummu-habeebah", "role": "subject" },
+      { "id": null, "name": "Ubaydullaah bin Jahash", "role": "subject", "sahabi": "unsure" },
+      { "id": null, "name": "Abraha", "role": "subject", "sahabi": "unsure" },
+      { "id": "najaashi", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["apostasy", "marriage"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text stops mid-sentence at the Prophet's blessing formula. Ubaydullaah bin Jahash is not in the vocab and is not the same person as Abdullaah bin Jahash (yes)."
+  },
+  {
+    "id": "n02124",
+    "summary": "Anas relates how Zaid went to propose to Zaynab bint Jahash for the Prophet, how she referred the matter to her Lord and the marriage was then settled by revelation, and the walima and the Hijaab verses that followed.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "zaid-bin-haaritha", "role": "subject" },
+      { "id": "zaynab-bint-jahash", "role": "subject" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "modesty", "quraan"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports from Anas: the proposal and the walima, then the 'another narration' version of the meal and the hijaab verses. Zaid is taken to be Zaid bin Haaritha, the husband in the story. The Surah Ahzaab reference is cut off in the OCR."
+  },
+  {
+    "id": "n02125",
+    "summary": "Anas relates that his mother Ummu Sulaym sent a dish after the Prophet's marriage to Zaynab, that the Prophet had about three hundred people fed from it, and that the Hijaab verses were revealed as the men left.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "ummu-sulaym", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "miracles-and-blessings", "marriage", "modesty"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Anas is in the story himself, so he is tagged as a subject. Zaynab is not named in this narration."
+  },
+  {
+    "id": "n02126",
+    "summary": "Anas relates that after the Khaybar captives were gathered, Dihya asked for a slave woman and was sent to take another, and the Prophet freed Safiyya bint Huyay and married her.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "dihya-kalbi", "role": "subject" },
+      { "id": "safiyya-bint-huyay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "jihaad", "freeing-slaves"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02127",
+    "summary": "Anas relates the Prophet's marriage to Safiyya after Khaybar, the walima held near Sahbaa with food set on a leather cloth, and the Prophet's care in helping her onto his camel on the way back.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "safiyya-bint-huyay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "hospitality", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02128",
+    "summary": "Anas describes the walima for Safiyya, served on a leather cloth with dates, cheese and butter, and the Muslims' question about whether she was a wife or a slave woman; Jaabir reports the Prophet handing out dates after Safiyya entered his tent.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "bilaal", "role": "subject" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "safiyya-bint-huyay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "marriage"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Anas (the walima and the question about her status) and Jaabir (the dates, where Jaabir himself was among those who came)."
+  },
+  {
+    "id": "n02129",
+    "summary": "Abdullaah bin Umar reports that the bluish marks around Safiyya's eyes came from her husband's slap after she told him of a dream, and Safiyya says her hatred for the Prophet left once he explained his position on her father and husband.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "safiyya-bint-huyay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abdullaah bin Umar, then Safiyya's own account. Her husband who slapped her is unnamed here."
+  },
+  {
+    "id": "n02130",
+    "summary": "Abu Hurayrah reports that Abu Ayyoob guarded the Prophet's tent after his marriage to Safiyya, and Ataa bin Yasaar reports that Aa'isha went to see Safiyya and the Prophet corrected her for calling Safiyya a Jewess, since she had accepted Islaam.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" },
+      { "id": "safiyya-bint-huyay", "role": "subject" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "haaritha-bin-numaan", "role": "mentioned" },
+      { "id": "ataa-bin-yasaar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Hurayrah, then Ataa bin Yasaar. The OCR drops words in Abu Ayyoob's speech ('I would have been close by defend'). Ataa bin Yasaar is unsure in the vocab."
+  },
+  {
+    "id": "n02131",
+    "summary": "Sa'eed bin Musayyab reports that on arriving in Madinah Safiyya gave her gold palm-leaf earrings to Faatima and some other ladies.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "safiyya-bint-huyay", "role": "subject" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["generosity", "marriage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is mentioned only as Faatima's father."
+  },
+  {
+    "id": "n02132",
+    "summary": "Aa'isha reports that Juwayriyyah, a captive of the Banu Mustaliq under a kitaabah contract with Thaabit bin Qais, came to the Prophet for help, and that he paid her ransom and married her, after which the Muslims freed the tribe's captives.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "juwayriyya", "role": "subject" },
+      { "id": "thaabit-bin-qais-bin-shammaas", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["freeing-slaves", "marriage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02133",
+    "summary": "Urwa reports how a man asked the Prophet to marry Faatima to him, and was told to send back the armour, worth about four hundred dirhams, that the Prophet had given him, which became Faatima's dowry.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "hunger-and-hardship"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The text labels the speaker as Juwayriyyah bint Haarith, but the content (proposing for Faatima, the armour dowry) belongs to a man, so Juwayriyyah is not tagged. The speaker is unnamed in the text. Urwa is ambiguous (several Urwas in the vocab), so no id is given."
+  },
+  {
+    "id": "n02134",
+    "summary": "Buraydah reports that some Ansaar urged Ali to propose for Faatima, that the Prophet welcomed the proposal, and that Sa'd provided a sheep for the walima, and the Prophet prayed for the couple on their wedding night.",
+    "people": [
+      { "id": "buraydah-bin-khusayb", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "mentioned" },
+      { "id": null, "name": "Sa'd", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "hospitality", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR gap: 'suggested to Hadhrat (RA)' omits the name; the 'he' is Ali from the context. Sa'd is not identified (several Sa'ds in the vocab), so no id is given."
+  },
+  {
+    "id": "n02135",
+    "summary": "A narration of the same wedding night adds that the Prophet called Ummu Ayman to fetch Ali, prayed for the couple, sprinkled water on Ali, and then sent for Faatima, who came flustered, and reassured her.",
+    "people": [
+      { "id": "ummu-ayman", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "duaa", "modesty"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "OCR gap at the opening ('got up and opened the door'), so the start of the narration is missing. No narrator is named; the text says 'another narration'."
+  },
+  {
+    "id": "n02136",
+    "summary": "Ali narrates that after marrying him to Faatima the Prophet had water brought, gargled, and sprinkled it on Ali's chest and between his shoulders, and recited the protective surahs over him.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ali is the narrator and the one the rite is performed on, so tagged as subject."
+  },
+  {
+    "id": "n02137",
+    "summary": "Albaa bin Ahmar reports from Ali that Ali sold his armour and other goods for 480 dirhams to pay the dowry, that the Prophet had the money spent on perfume and clothing, and that the Prophet put something in Hasan's mouth that made him more knowledgeable than his brother.",
+    "people": [
+      { "id": null, "name": "Albaa bin Ahmar", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "mentioned" },
+      { "id": "husayn-bin-ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "miracles-and-blessings"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "Albaa bin Ahmar is not in the vocab. Faatima is tagged as a subject because she began feeding Husayn before the Prophet arrived."
+  },
+  {
+    "id": "n02138",
+    "summary": "Jaabir reports attending the wedding of Ali and Faatima, which was simple: a matting stuffed with date-palm bark, raisins and dates served, and a sheepskin for her first night's bedding.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02139",
+    "summary": "Ali reports that when Faatima married, the Prophet gave her a blanket, a water-skin and a leather pillow stuffed with idhkhir grass.",
+    "people": [
+      { "id": "ali", "role": "narrator" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02140",
+    "summary": "Abdullaah bin Amr reports the Prophet's gifts to Faatima and Ali, and a quarrel over a date palm between Abu Bakr and Rabee'ah, in which Rabee'ah refused to repeat Abu Bakr's words, and the Prophet told Rabee'ah to forgive Abu Bakr, so that Abu Bakr wept.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "faatima", "role": "mentioned" },
+      { "id": null, "name": "Rabee'ah", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "muslim-rights", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Narrator is named as Abdullaah bin Amr, but the 'I' in the dispute is called Rabee'ah (he hosted the walima, and the Prophet addresses him as Rabee'ah). Either the header or the attribution is wrong in the source; please check. Rabee'ah is not in the vocab (the Aslam tribe is mentioned, so probably Rabee'ah Aslami)."
+  },
+  {
+    "id": "n02141",
+    "summary": "Abu Barzah reports the Prophet's request to an Ansaari for his daughter in marriage on Julaybeeb's behalf, and then an account of Salmaan Faarsi's wedding night, in which he rejects the luxuries of his house and advises his wife to obey Allaah.",
+    "people": [
+      { "id": "abu-barzah", "role": "narrator" },
+      { "id": null, "name": "Julaybeeb", "role": "subject", "sahabi": "yes" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "zuhd", "modesty"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Pronouns are ambiguous. The house scene reads as Salmaan's own wedding (the people say 'yours and your wife's' to him), and the Julaybeeb proposal is a separate account, with an OCR gap after 'Of course,'. Two accounts appear to be run together; please check the source."
+  },
+  {
+    "id": "n02142",
+    "summary": "Ibn Abbaas reports that Salmaan asked Umar to marry him to one of his daughters, and Umar's family asked him to drop it; Thaabit Bunaani reports that Abu Dardaa went with Salmaan to propose for a Banu Layth woman, then married her himself, and Salmaan regretted the mix-up.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "salmaan-faarsi", "role": "subject" },
+      { "id": "thaabit-bunaani", "role": "narrator" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "brotherhood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports under one heading: Ibn Abbaas (Umar and Salmaan) and Thaabit Bunaani (Abu Dardaa). The OCR contains heading debris ('W The Marriage of Hadhrat Abu Dardaa')."
+  },
+  {
+    "id": "n02143",
+    "summary": "Thaabit Bunaani reports that Abu Dardaa refused Yazeed bin Mu'aawiya's proposal for his daughter Dardaa, married her instead to a poor Muslim, and explained that he wanted to protect her faith from the pull of wealth.",
+    "people": [
+      { "id": "thaabit-bunaani", "role": "narrator" },
+      { "id": "yazeed-bin-muaawiya", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Dardaa", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Yazeed bin Mu'aawiya is the vocab entry (no), not Yazeed bin Abi Sufyaan. Yazeed's companion who proposed is unnamed."
+  },
+  {
+    "id": "n02144",
+    "summary": "Abu Ja'far reports that Umar proposed to Ali for Ummu Kulthoom, Ali first deferred because of his brother Ja'far's sons, then agreed, and Umar told the Muhaajireen he wished to be the Prophet's relative; Ataa Khuraasaani gives the dowry as forty thousand dirhams.",
+    "people": [
+      { "id": "abu-jafar", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "ummu-kulthoom", "role": "subject" },
+      { "id": "jafar-bin-abi-taalib", "role": "mentioned" },
+      { "id": null, "name": "Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ataa Khuraasaani", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "love-for-the-prophet"],
+    "new_themes": ["dowry"],
+    "boundary": "merged",
+    "notes": "Three reports under one heading: Abu Ja'far, Muhammad, and Ataa Khuraasaani. 'Hadhrat Muhammad' is not identified, so no id is given. Ataa Khuraasaani's sahabi value 'no' is an inference (the text gives no RA)."
+  },
+  {
+    "id": "n02145",
+    "summary": "Sha'bi reports that Amr bin Hurayth proposed for Adi bin Haatim's daughter on condition that he pay the 480-dirham dowry the Prophet gave Aa'isha, which Adi called the Sunnah; a second report gives Adi's reply in the same terms.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "amr-bin-hurayth", "role": "subject" },
+      { "id": "adi-bin-haatim", "role": "subject" },
+      { "id": "aaisha", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "following-the-sunnah"],
+    "new_themes": ["dowry"],
+    "boundary": "merged",
+    "notes": "Two reports. The second is cut off after 'the Sunnah of Rasulullaah'. This text gives Aa'isha's dowry as 480 dirhams, but n02148 gives 500; the book's own figures disagree. The daughter is unnamed."
+  },
+  {
+    "id": "n02146",
+    "summary": "Sha'bi reports that Bilaal and his brother, both freed from slavery, proposed to families in Yemen and were accepted; Maymoon reports that when Bilaal's brother, who claimed Arab descent, proposed to an Arab family, they required Bilaal to be present, and Bilaal's speech won the match.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "maymoon", "role": "narrator" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "humility", "freeing-slaves"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Sha'bi, then Maymoon. Bilaal's brother is unnamed."
+  },
+  {
+    "id": "n02147",
+    "summary": "Urwa bin Ruwaym reports that Abdullaah bin Qurt Thumaali, appointed governor by Umar, whipped the people who lit fires at a wedding in Hims, then told them in a sermon that they had imitated the disbelievers, recalling how Abu Jandal had held his own wedding simply.",
+    "people": [
+      { "id": "urwa-bin-ruwaym", "role": "narrator" },
+      { "id": null, "name": "Abdullaah bin Qurt Thumaali", "role": "subject", "sahabi": "yes" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abu-jandal", "role": "subject" },
+      { "id": null, "name": "Umaamah", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "following-the-sunnah", "khilaafah"],
+    "new_themes": ["imitating the disbelievers"],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Qurt Thumaali is called a companion of Rasulullaah in the text but is not in the vocab. Umaamah is not in the vocab."
+  },
+  {
+    "id": "n02148",
+    "summary": "Aa'isha reports that the Prophet's dowry to her was twelve awqiya and a nash, totalling five hundred dirhams.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "following-the-sunnah"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The 500-dirham figure disagrees with n02145, which gives 480 for the same dowry."
+  },
+  {
+    "id": "n02149",
+    "summary": "Masrooq reports that Umar forbade dowries above four hundred dirhams from the pulpit, then accepted a Quraysh woman's correction from the Qur'aan and withdrew the prohibition, saying everyone knows more than Umar.",
+    "people": [
+      { "id": null, "name": "Masrooq", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "humility"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The Quraysh woman is unnamed. Masrooq is not in the vocab; it is not clear whether he is the 'Mafrooq bin Amr' entry, so no id is given."
+  },
+  {
+    "id": "n02150",
+    "summary": "Sha'bi reports that Umar bin Khattaab once delivered a sermon, and the text stops there.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage"],
+    "new_themes": ["dowry"],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off after 'delivered a', so its content is unknown; it is probably the dowry sermon in n02149, but this text does not show that. Only one theme is given because the text supports no more."
+  },
+  {
+    "id": "n02151",
+    "summary": "Aa'isha relates how Sauda smeared her face with hareerah at the Prophet's urging, how Umar's approach sent them to wash, and Abu Bakr adds that the Prophet lowered his knee to let Sauda get back at Aa'isha.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "sauda-bint-zamah", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abu-bakr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second report is Abu Bakr's addition. A person called Abdullaah is named only as the one Umar was calling for; he is not tagged."
+  },
+  {
+    "id": "n02152",
+    "summary": "Razeenah reports that Sauda Yamaaniyyah visited Aa'isha while Hafsah was there, dressed to impress, and Hafsah teased her that the Prophet was coming and that the one-eyed Dajjaal had appeared, which Sauda, who was hard of hearing, took as true.",
+    "people": [
+      { "id": null, "name": "Razeenah", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Sauda Yamaaniyyah", "role": "subject", "sahabi": "yes" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "hafsa", "role": "subject" },
+      { "id": null, "name": "Ulayla", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["family", "good-character"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The vocab has 'Razeen' (unsure), but the text spells the narrator 'Razeenah' and calls them a freed slave of the Prophet. Not matched, so no id is given. Sauda Yamaaniyyah is not Sauda bint Zam'ah. The text cuts off at 'Really!' and continues in n02153."
+  },
+  {
+    "id": "n02153",
+    "summary": "Hafsah sends Sauda to hide in the tent; the Prophet finds her shivering, tells her the Dajjaal has not yet appeared, and dusts the dirt and cobwebs off her.",
+    "people": [
+      { "id": null, "name": "Sauda Yamaaniyyah", "role": "subject", "sahabi": "yes" },
+      { "id": "hafsa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens mid-scene ('Hadhrat Sauda (RA). cried out') and continues n02152. No narrator is named."
+  },
+  {
+    "id": "n02154",
+    "summary": "Hafsah complains to Aa'isha that they look unkempt before the Prophet's visit, and Aa'isha recounts watching the Abyssinians' display with the Prophet, who remarks that the human and jinn devils flee from Umar when he appears.",
+    "people": [
+      { "id": "hafsa", "role": "subject" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text says 'the narration still continues further'. Hafsah's remark and Aa'isha's account are joined here. The Abyssinians are unnamed."
+  },
+  {
+    "id": "n02155",
+    "summary": "Aa'isha says the Prophet stood at her door and screened her with his shawl while she watched Abyssinians perform with spears in the masjid, and he stayed standing until she tired.",
+    "people": [
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Introduced as 'in another narration' with no new narrator named. The Abyssinians are unnamed."
+  },
+  {
+    "id": "n02156",
+    "summary": "Aa'isha relates how she, Sauda bint Zam'ah and Safiyya agreed to tell the Prophet that the honey he had taken at Hafsah's smelled of Maghaafeer; Sauda reports how she did it, and the Prophet later declined honey when Hafsah offered it.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "sauda-bint-zamah", "role": "subject" },
+      { "id": "safiyya-bint-huyay", "role": "subject" },
+      { "id": "hafsa", "role": "subject" },
+      { "id": "zaynab-bint-jahash", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR gap at 'Hafsah and I therefore', so the start of the plan is unclear. The ending 'Be quiet!' is followed by OCR debris."
+  },
+  {
+    "id": "n02157",
+    "summary": "Ibn Abbaas reports how he asked Umar which two wives the Tahreem verse meant, and Umar then recounts going to the Prophet, who was reclining on a straw mat, to ask whether he had divorced his wives; after that Umar advised Hafsah and Aa'isha, and the Prophet vowed to stay away from his wives for a month.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "hafsa", "role": "mentioned" },
+      { "id": "aaisha", "role": "mentioned" },
+      { "id": "imaam-zuhri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR drops words in the Zuhri comment ('he enter', 'Yet again the slave went in'), so the order of events there is unclear."
+  },
+  {
+    "id": "n02158",
+    "summary": "Ibn Abbaas reports Umar's account of hearing that the Prophet had divorced his wives, going to the Prophet who said no, then calling out in the masjid that the wives were not divorced, and the verse on checking rumours being revealed about this.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "hafsa", "role": "mentioned" },
+      { "id": "aaisha", "role": "mentioned" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "jibraeel", "role": "mentioned" },
+      { "id": null, "name": "Mikaal", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "avoiding-fitnah", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Mikaal is an angel named in the text and is not in the vocab."
+  },
+  {
+    "id": "n02159",
+    "summary": "Jaabir reports that Abu Bakr and Umar, refused entry at first, were let in when the Prophet sat silent among his wives; Umar's joke made the Prophet laugh, Abu Bakr and Umar rebuked their daughters, and the choice verses of Surah Ahzaab were revealed, with the Prophet offering Aa'isha the choice first.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "hafsa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Umar's joke refers to 'the daughter of Zaid', an unnamed wife of Umar, so she is not tagged. The choice verses are Surah Ahzaab 28-29."
+  },
+  {
+    "id": "n02160",
+    "summary": "Ibn Abbaas reports Aa'isha's account of the offer of choice, in which the Prophet began with her and she chose Allaah, His Rasool and the Aakhirah, the other wives chose the same, and a second report from Aa'isha says the choice was not counted as a divorce.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "aakhirah", "quraan"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Abbaas (Aa'isha's account), then 'another narration' quoting Aa'isha. The other wives are unnamed."
+  }
+]

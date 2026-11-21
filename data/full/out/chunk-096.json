@@ -1,0 +1,56 @@
+[
+  {
+    "id": "n03801",
+    "summary": "Qubuqalaar, the Roman general at Yarmook, sends a spy into the Muslim army, who reports that they are devout by night, brave horsemen by day and strict in applying justice.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Qubuqalaar", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Ibn Huzaarif", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "jihaad", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator 'Hadhrat Urwa (RA)' is not identified with a specific Companion in the approved list, so left as an unmatched name. The spy is described in the heading as a Christian Arab, so marked not a Companion. His tribal lineage is omitted."
+  },
+  {
+    "id": "n03802",
+    "summary": "Rustam's spy reports on the Muslims' worship at Qaadisiyyah, and Rustam, watching them prepare for salaah, remarks on how Umar has shaped them.",
+    "people": [
+      { "id": null, "name": "Ibn Rufayl", "role": "narrator", "sahabi": "unsure" },
+      { "id": "rustam", "role": "subject" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "salaah", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hadhrat Sa'd (RA) matched to Sa'd bin Abi Waqqaas from the Qaadisiyyah context (he led the salaah there). Narrator Ibn Rufayl is not in the approved list. The unnamed spy and the unnamed muaddhin are omitted."
+  },
+  {
+    "id": "n03803",
+    "summary": "A Roman who had been held captive by the Muslims and then escaped describes them to Heraclius, who concludes they will inherit the land under his feet.",
+    "people": [
+      { "id": null, "name": "Abu Zahraa Qushayri", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Heraclius", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "jihaad", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator Abu Zahraa Qushayri is not in the approved list, and his source from the Qushayr tribe is unnamed, so omitted. The OCR spells the emperor 'Heraciius'; written as Heraclius. The Roman informant is unnamed and omitted."
+  },
+  {
+    "id": "n03804",
+    "summary": "After Yazdgird asks China for reinforcements, the Chinese Emperor questions the Persian envoy about the Sahabah and advises a treaty with them rather than war.",
+    "people": [
+      { "id": "yazdajird", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "dawah-before-battle", "honest-dealings", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text spells him 'Yazdgird'; matched to yazdajird, the only Persian emperor of that name in the approved list. Please confirm. The Chinese Emperor and the envoy are unnamed and omitted. The item ends with the author's closing du'aa and colophon (Muhammad Yusuf; compiler Ismail Ebrahim). That is editorial rather than narration and may need trimming before display."
+  }
+]

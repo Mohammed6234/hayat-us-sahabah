@@ -1,0 +1,544 @@
+[
+ {
+  "id": "n01731",
+  "summary": "Abu Raashid, the youngest of a hundred men from his tribe, met the Prophet, was honoured with a seat and gifts, and accepted Islaam.",
+  "people": [
+    { "id": "abu-raashid-habraani", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "accepting-islaam", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "OCR is garbled in the middle (the greeting words and the Prophet's reply are missing) and the text stops mid-sentence. Narrator is named 'Abu Raashid bin Abdur Rahmaan' in the text; matched to abu-raashid-habraani, which is unsure."
+ },
+ {
+  "id": "n01734",
+  "summary": "Abu Bakr tells the Muslims to consider Muhammad ﷺ in how they treat the members of his household.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off after 'members of his'; the rest of Abu Bakr's advice is missing."
+ },
+ {
+  "id": "n01735",
+  "summary": "Aa'isha relates that the Prophet lowered his voice when his uncle Abbaas came in, and Ibn Abbaas relates that Abu Bakr gave up his seat for Abbaas and the Prophet foretold Abbaas's descendants would be kings.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "virtues-of-the-sahabah", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Aa'isha's and Ibn Abbaas's. The second one is also cut off at 'twelve of them shall be'."
+ },
+ {
+  "id": "n01761",
+  "summary": "Abu Hurayrah asks Hasan to show him the part of his belly the Prophet used to kiss, and then kisses that spot himself.",
+  "people": [
+    { "id": "umayr-bin-ishaaq", "role": "narrator" },
+    { "id": "abu-hurayrah", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris ('Si', '!3)') ignored."
+ },
+ {
+  "id": "n01762",
+  "summary": "Abu Hurayrah greets Hasan as 'my leader', explaining he heard the Prophet call him a leader.",
+  "people": [
+    { "id": null, "name": "Maqbari", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-hurayrah", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator is given only as 'Maqbari'. Probably Sa'eed bin Abi Sa'eed al-Maqbari (saeed-bin-abu-saeed-maqbari), but the text does not say so, so it is left unlinked."
+ },
+ {
+  "id": "n01763",
+  "summary": "Marwaan objects to Abu Hurayrah's love for Hasan and Husayn; Abu Hurayrah answers with an account of the Prophet quieting the two thirsty children on a journey.",
+  "people": [
+    { "id": "marwaan", "role": "subject" },
+    { "id": "abu-hurayrah", "role": "subject" },
+    { "id": "faatima", "role": "mentioned" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "husayn-bin-ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Marwaan is matched to the plain entry 'marwaan'; the text gives only 'Marwaan', so this is likely Marwaan bin al-Hakam but is not certain."
+ },
+ {
+  "id": "n01777",
+  "summary": "Before the Battle of Jamal, Ali prays and orders his men not to pursue fleeing enemies, not to kill the wounded, and not to take their possessions.",
+  "people": [
+    { "id": null, "name": "Muhammad bin Umar bin Ali bin Abi Taalib", "role": "narrator", "sahabi": "no" },
+    { "id": "ali", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "husayn-bin-ali", "role": "subject" },
+    { "id": "abdullaah-bin-jafar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "mercy-and-forgiveness", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is a grandson of Ali, so he is not matched to any approved entry (muhammad-bin-ali-bin-husayn is a different person). Hasan, Husayn and Abdullaah bin Ja'far are the ones who speak to Ali."
+ },
+ {
+  "id": "n01778",
+  "summary": "Marwaan bin Hakam tells Ali bin Husayn that he never saw a man so noble in victory as Ali, who at Jamal ordered that no fleeing or wounded man be killed.",
+  "people": [
+    { "id": "ali-bin-husayn", "role": "narrator" },
+    { "id": "marwaan", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Marwaan is matched to 'marwaan' (see n01763). Ali is the narrator's grandfather and is referred to in the text as 'your (grand) father'."
+ },
+ {
+  "id": "n01779",
+  "summary": "Ali says the men who fought him at Jamal were his brothers who rebelled, that he pardoned them, and that they were neither mushrikeen nor munaafiqeen.",
+  "people": [
+    { "id": null, "name": "Abd Khayr", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": null, "name": "Muhammad bin Umar bin Ali bin Abi Taalib", "role": "narrator", "sahabi": "no" },
+    { "id": "abul-bakhtari", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "mercy-and-forgiveness", "justice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three separate reports from different narrators: Abd Khayr's, Muhammad bin Umar's (Ali's pledge to pardon and share no inheritance), and Abul Bakhtari's question-and-answer. 'Abd Khayr' is not in the approved list and is left unlinked."
+ },
+ {
+  "id": "n01786",
+  "summary": "Umar seizes a man who mocked Abu Dardaa, brings him to the Prophet, and the verse about 'only joking' is revealed.",
+  "people": [
+    { "id": null, "name": "Shurayh bin Ubayd", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-dardaa", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["muslim-rights", "good-character"],
+  "new_themes": ["respect for elders"],
+  "boundary": "ok",
+  "notes": "Shurayh bin Ubayd is not in the approved list and is left unlinked (shurayh alone is a different entry). The Qur'aan verse (Surah Taubah 65) is quoted in the text."
+ },
+ {
+  "id": "n01787",
+  "summary": "Umar rebukes a group who said he was the best after the Prophet, insisting Abu Bakr was purer than musk and that Awf had told the truth.",
+  "people": [
+    { "id": "jubayr-bin-nufayr", "role": "narrator" },
+    { "id": "auf-bin-maalik", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01788",
+  "summary": "Umar rebukes people who claimed he was better than Abu Bakr, saying they had created a division between himself and Abu Bakr.",
+  "people": [
+    { "id": "hasan-bin-abil-hasan", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["avoiding-fitnah", "virtues-of-the-sahabah", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Hasan' is matched to hasan-bin-abil-hasan (Hasan al-Basri, not a Companion). Unsure, as the text gives no more than the name. The people who were rebuked are unnamed."
+ },
+ {
+  "id": "n01789",
+  "summary": "Umar declares that Abu Bakr is the best of this Ummah after its Nabi and that anyone who claims otherwise is a slanderer to be punished.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "avoiding-fitnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Another narration' with no narrator named."
+ },
+ {
+  "id": "n01790",
+  "summary": "Umar whips a man who said Umar was the best of this Ummah after its Nabi, insisting that Abu Bakr is better than him.",
+  "people": [
+    { "id": "ziyaad-bin-ilaaqa", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01791",
+  "summary": "Ali rebukes a man who asked why the Muhaajireen and Ansaar ranked Abu Bakr above him, and lists four virtues of Abu Bakr, quoting the verse about the cave.",
+  "people": [
+    { "id": "abu-zinaad", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "hijrah", "avoiding-fitnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who asked Ali is unnamed. Ali quotes Surah Taubah 40 about the cave."
+ },
+ {
+  "id": "n01847",
+  "summary": "The Prophet rebukes a man who kissed his son and seated him on his lap but only seated his daughter in front of him, telling him to treat his children equally.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness"],
+  "new_themes": ["equal treatment of children"],
+  "boundary": "ok",
+  "notes": "The man is unnamed."
+ },
+ {
+  "id": "n01848",
+  "summary": "Mu'aawiya bin Haydah asks the Prophet about the rights of neighbours and is told how to visit, help, congratulate and support a neighbour.",
+  "people": [
+    { "id": "muaawiya-bin-haydah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "good-character"],
+  "new_themes": ["rights of neighbours"],
+  "boundary": "ok",
+  "notes": "'Another narration adds' is a variant of the same report."
+ },
+ {
+  "id": "n01849",
+  "summary": "A man complains to the Prophet about a troublesome neighbour; after advice to be patient, the Prophet tells him to put his belongings on the street and states the duties owed to neighbours and guests.",
+  "people": [
+    { "id": null, "name": "Muhammad bin Abdullaah bin Salaam", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "patience"],
+  "new_themes": ["rights of neighbours"],
+  "boundary": "ok",
+  "notes": "The vocabulary has abdullaah-bin-salaam, but the text names 'Muhammad bin Abdullaah bin Salaam', so it is left unlinked."
+ },
+ {
+  "id": "n01850",
+  "summary": "The Prophet bars a man who had urinated against his neighbour's wall from joining a military expedition.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "jihaad"],
+  "new_themes": ["rights of neighbours"],
+  "boundary": "ok",
+  "notes": "The man is unnamed."
+ },
+ {
+  "id": "n01853",
+  "summary": "Rabaah bin Rabee recounts that on the Prophet's advice two Companions let him ride their camel and took turns walking, because a righteous travel companion should be treated well.",
+  "people": [
+    { "id": null, "name": "Rabaah bin Rabee", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["travel", "muslim-rights", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Rabaah bin Rabee is not in the approved list; vocab has rabaah and rabaah-bin-haarith, which are different people. The two companions are unnamed. Rabaah is the narrator telling his own story."
+ },
+ {
+  "id": "n01854",
+  "summary": "Aa'isha explains that she invited a prominent man to eat with her but gave a passing beggar only bread, because the Prophet told them to treat people according to their status.",
+  "people": [
+    { "id": null, "name": "Amr bin Mikhraaq", "role": "narrator", "sahabi": "no" },
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["good-character", "hospitality", "generosity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Amr bin Mikhraaq is not in the approved list and is left unlinked."
+ },
+ {
+  "id": "n01855",
+  "summary": "Variant accounts of Aa'isha's practice of treating a rich man and a beggar differently, based on the Prophet's instruction; the text cross-refers to Ali's earlier similar act.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["good-character", "hospitality", "generosity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Variant narrations of one incident. The narrator is not named. The Ali reference points back to an earlier narration in the book."
+ },
+ {
+  "id": "n01868",
+  "summary": "Sa'd bin Abi Waqqaas says Uthmaan did not return his greeting; Uthmaan explains he was thinking of the Prophet's du'aa of Yunus, which the Prophet taught.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "yunus", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "duaa", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text ends with the stray heading 'Conveying Salaams' (OCR). Yunus is the prophet in the du'aa, named as 'Hadhrat Yunus'."
+ },
+ {
+  "id": "n01869",
+  "summary": "Ash'ath bin Qais and Jareer bin Abdullaah visit Salmaan Faarsi with a message from Abu Dardaa; Salmaan refuses their offer of wealth and accepts only the greeting Abu Dardaa sent.",
+  "people": [
+    { "id": "abul-bakhtari", "role": "narrator" },
+    { "id": "ashath-bin-qais", "role": "subject" },
+    { "id": "jareer-bin-abdillaah", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "abu-dardaa", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["muslim-rights", "honest-dealings", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet is mentioned only in the message ('Amongst you is a certain man...')."
+ },
+ {
+  "id": "n01871",
+  "summary": "Hudhayfah turns away from the Prophet's handshake because he is in a state of impurity, and the Prophet says that sins fall away when Muslims shake hands.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading names Jundub and Abu Dharr, but the text cites only Abu Hurayrah."
+ },
+ {
+  "id": "n01872",
+  "summary": "Anas reports the Companions asked whether they could bow, embrace or shake hands, and Aa'isha describes the Prophet rushing out to embrace Zaid bin Haaritha when he returned to Madinah.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "zaid-bin-haaritha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Anas's ruling on greeting, then Aa'isha's account of Zaid's return."
+ },
+ {
+  "id": "n01873",
+  "summary": "Anas reports that the Prophet forbade bowing and embracing a brother, but allowed shaking his hand.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed."
+ },
+ {
+  "id": "n01874",
+  "summary": "The Prophet allows embracing and kissing only after a journey, and Aa'isha describes him rushing to embrace Zaid bin Haaritha when Zaid arrived in Madinah.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "zaid-bin-haaritha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["muslim-rights", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Opens with a variant of the previous report, then Aa'isha's separate account of Zaid's arrival."
+ },
+ {
+  "id": "n01875",
+  "summary": "Anas says the Companions shook hands on meeting and embraced on returning from a journey, and Hasan relates how Umar hurried to embrace a companion after Fajr.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "hasan-bin-abil-hasan", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "muslim-rights", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, Anas's and Hasan's. The text has an OCR break at 'returning from a'. 'Hadhrat Hasan' is matched to hasan-bin-abil-hasan, which is unsure."
+ },
+ {
+  "id": "n01891",
+  "summary": "Hilaal reports that whenever the Prophet left a gathering, the Companions stood up for him and did not sit until he had entered his room.",
+  "people": [
+    { "id": null, "name": "Hilaal", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hilaal is not in the approved list (no plain 'hilaal' entry) and is left unlinked. Abu Hurayrah is named as the earlier source in the chain."
+ },
+ {
+  "id": "n01892",
+  "summary": "Abu Umaamah says that when the Prophet came out leaning on his staff and the Companions stood for him, the Prophet told them not to stand as non-Arabs stand for one another.",
+  "people": [
+    { "id": "abu-umaama", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["humility", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01893",
+  "summary": "When Abu Bakr urged the Companions to stand up for the Prophet against a hypocrite, the Prophet said none should stand, since only Allaah deserves that.",
+  "people": [
+    { "id": "ubaadah-bin-saamit", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["humility", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01894",
+  "summary": "Anas says the Companions loved seeing the Prophet more than anyone, yet did not stand up for him, because they knew he disliked it.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01895",
+  "summary": "Naafi reports that the Prophet forbade a man from making another stand up and then sit in his place, so Abdullaah bin Umar would not sit where someone had stood for him.",
+  "people": [
+    { "id": "naafi", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["humility", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01896",
+  "summary": "Abu Khaalid Waalibi reports that Ali rebuked the Companions who stood waiting for him with their chests out like soldiers.",
+  "people": [
+    { "id": null, "name": "Abu Khaalid Waalibi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["humility", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Khaalid Waalibi is not in the approved list and is left unlinked."
+ },
+ {
+  "id": "n01897",
+  "summary": "Abu Mijlaz reports that Mu'aawiya rebuked Abdullaah bin Aamir, who stood for him while Abdullaah bin Zubayr stayed seated, citing the Prophet's warning about people who want others to stand for them.",
+  "people": [
+    { "id": "abu-mijlaz", "role": "narrator" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+    { "id": "abdullaah-bin-aamir", "role": "mentioned" },
+    { "id": "abdullaah-bin-zubayr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["humility", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says only 'Hadhrat Mu'aawiya'. Matched to muaawiya-bin-abi-sufyaan, the usual Companion of that name, but this is not certain."
+ },
+ {
+  "id": "n01930",
+  "summary": "Ibn Abbaas relates that the Prophet visited a villager with fever and said it would cleanse his sins; the villager said it would kill him, and he died of it.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["visiting-the-sick", "illness-and-cure"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The villager is unnamed."
+ },
+ {
+  "id": "n01931",
+  "summary": "Aa'isha describes the fever of Abu Bakr and Bilaal on arriving in Madinah, the couplets they recited, and the Prophet's du'aa that Madinah be made beloved and healthy.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "bilaal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["illness-and-cure", "hijrah", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01932",
+  "summary": "Abu Hurayrah reports that the Prophet asked who had fasted, visited a sick person, followed a funeral and fed a poor person that day, and Abu Bakr had done all four, so the Prophet said such a person enters Jannah.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["visiting-the-sick", "fasting", "sadaqah", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01933",
+  "summary": "Abdullaah bin Naafi reports that Abu Moosa Ash'ari visited ailing Hasan bin Ali, and Ali relates the reward for visiting a sick Muslim morning or evening.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Naafi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-moosa-ashari", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["visiting-the-sick", "muslim-rights"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading and text read 'Hasan bin (RA)' with 'Ali' dropped in the OCR; matched to hasan-bin-ali. Abdullaah bin Naafi is not in the approved list and is left unlinked."
+ }
+]

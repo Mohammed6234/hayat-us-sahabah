@@ -1,0 +1,525 @@
+[
+  {
+    "id": "n03281",
+    "summary": "Anas and Aaisha report the Prophet's counsel to follow the Sunnah without innovation, to be shy before Allaah, and to remember death and leave the pleasures of this world.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["following-the-sunnah", "zuhd", "modesty", "aakhirah"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens with 'In another similar narration', continuing an earlier Anas report that is not in this item. The stray '3' footnote marker is ignored."
+  },
+  {
+    "id": "n03282",
+    "summary": "Abdullaah bin Abbaas reports the Prophet's lecture that people will be resurrected barefoot and uncircumcised, with Ibraheem clothed first and some of his Ummah taken to the left for their innovations.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" },
+      { "id": "isa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "apostasy", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Includes a variant narration ('Another narration') of the same lecture. Isa is quoted inside the Prophet's speech. Ibraheem has no plain-name entry in the approved list."
+  },
+  {
+    "id": "n03283",
+    "summary": "Ali reports the Prophet's lecture that the register of who is destined for Jannah or Jahannam is already fixed, and that actions are judged by how they end.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["qadr", "guidance", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03284",
+    "summary": "Abu Sa'eed Khudri reports the Prophet saying that his kin are attached to him in both worlds, but that people who introduced innovations and turned back will be turned away from his pond of Kowthar on the Day of Qiyaamah.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03285",
+    "summary": "Abu Sa'eed Khudri and Abu Humayd Saa'idi report the Prophet's warnings to rulers and collectors: obey what is good, and do not keep gifts from office, since embezzled property will be carried on the Day of Qiyaamah.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "abu-humayd-saaidi", "role": "narrator" },
+      { "id": "zaid-bin-thaabit", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["khilaafah", "honest-dealings", "zakaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three separate reports: Abu Sa'eed's lecture on leaders, Abu Humayd's account of the zakaah collector and the Prophet's lecture that followed, and Abu Humayd's remark naming Zaid bin Thaabit as a witness. Ends with OCR debris."
+  },
+  {
+    "id": "n03286",
+    "summary": "Abu Qataadah and Ka'b bin Maalik report the Prophet's words that the Ansaar are his inner garments and must be honoured, and his instruction to the Muhaajireen to honour the righteous Ansaar and overlook the sinful among them.",
+    "people": [
+      { "id": "abu-qataadah", "role": "narrator" },
+      { "id": "kab-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "hijrah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Qataadah's account of the Prophet's words about the Ansaar, and Ka'b bin Maalik's account of a later lecture given with a bandage on the Prophet's head."
+  },
+  {
+    "id": "n03287",
+    "summary": "Abu Bakr reports the Prophet urging people to save themselves from Jahannam even with a piece of a date given in charity, because sadaqah straightens crookedness and repels a bad death.",
+    "people": [
+      { "id": "abu-bakr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["sadaqah", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03288",
+    "summary": "Aamir bin Rabee'ah reports the Prophet saying that the angels keep praying for forgiveness for as long as a person keeps sending salutations on him.",
+    "people": [
+      { "id": "aamir-bin-rabeeah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list marks Aamir bin Rabee'ah's Companion status as unsure. The approved id is used because the text gives no more than the name."
+  },
+  {
+    "id": "n03289",
+    "summary": "Abdullaah bin Amr, Anas, Abu Sa'eed Khudri and Abu Hurayrah report the Prophet's lectures on Jannah and Jahannam, including his wish that people would weep more if they knew what he knew, and his counsel to think well of Allaah.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate reports and lectures in one item. The Bukhaari reference line is not tagged as a person."
+  },
+  {
+    "id": "n03290",
+    "summary": "Abu Zuhayr Thaqafi reports the Prophet saying that people will be told apart by the praise and criticism they receive after death, and Tha'laba reports his instruction to give a saa of dates or barley as Sadaqatul Fitr for every person.",
+    "people": [
+      { "id": null, "name": "Abu Zuhayr Thaqafi", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Tha'laba", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "sadaqah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports. Tha'laba cannot be matched to a single entry in the approved list, so no id is given."
+  },
+  {
+    "id": "n03291",
+    "summary": "Uqba bin Aamir reports that after the Muslims slept past Fajr near Tabook, the Prophet led the qadhaa salaah and gave a long lecture on the best speech, guidance and dangers of sin, while Bilaal said the same sleep had overtaken him.",
+    "people": [
+      { "id": "uqba-bin-aamir", "role": "narrator" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["taqwa", "following-the-sunnah", "good-character", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Bilaal is tagged subject because he speaks in the exchange. The point of the narration is the lecture, so 'mentioned' is also defensible."
+  },
+  {
+    "id": "n03292",
+    "summary": "Ayaadh bin Himaar reports the Prophet's lecture quoting Allaah: the Shayaateen led people into shirk, the Prophet was commissioned to call the Quraysh, and the traits of the people of Jannah and Jahannam are described.",
+    "people": [
+      { "id": "ayaadh-bin-himaar-mujaashiee", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "aakhirah", "jihaad", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Contains a hadith qudsi quoted as Allaah's words. Ends with OCR debris."
+  },
+  {
+    "id": "n03293",
+    "summary": "Abu Sa'eed Khudri reports the Prophet's comprehensive lecture after Asr, warning against the world and women, describing how people's faith at birth and at death differs, urging control of anger, honest settlement of debts, and speaking the truth to a tyrant.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "good-character", "honest-dealings", "justice"],
+    "new_themes": ["controlling anger"],
+    "boundary": "ok",
+    "notes": "'Controlling anger' is not in the approved list and is proposed as a new theme. The closing comparison of the world's remainder to the rest of the day is included."
+  },
+  {
+    "id": "n03294",
+    "summary": "Saa'ib bin Mahjaan reports that Umar, while in Shaam, repeated a lecture of the Prophet on staying united, avoiding seclusion with a non-mahram woman, the signs of a believer and a hypocrite, moderation in seeking livelihood, and qadr.",
+    "people": [
+      { "id": null, "name": "Saa'ib bin Mahjaan", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "hypocrisy", "trust-in-allaah", "qadr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says Saa'ib bin Mahjaan met many Companions, which implies he was not one himself. The Prophet's words are quoted through Umar."
+  },
+  {
+    "id": "n03295",
+    "summary": "Mu'aawiya bin Abu Sufyaan reports the Prophet's final sermon, in which a servant was given the choice between this world and what is with Allaah, and that Abu Bakr alone understood and wept, so the Prophet praised him and asked that only his door stay open to the Masjid.",
+    "people": [
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "virtues-of-the-sahabah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03296",
+    "summary": "Ayyoob bin Basheer reports the same final sermon, beginning with prayers for the martyrs of Uhud, and that only Abu Bakr understood it and wept.",
+    "people": [
+      { "id": null, "name": "Ayyoob bin Basheer", "role": "narrator", "sahabi": "yes" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Refers back to the previous narration ('proceeds like the one above'), so it gives only the variations. Ayyoob bin Basheer is not in the approved list."
+  },
+  {
+    "id": "n03297",
+    "summary": "Abu Sa'eed Khudri reports that Abu Bakr alone wept at the Prophet's final sermon and was praised as the one who did him the most favours, and Abdullaah bin Abbaas reports the Prophet's advice about the Ansaar from the same sermon.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "virtues-of-the-sahabah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Sa'eed's account, and Ibn Abbaas's account of the sermon's opening and of the advice about the Ansaar."
+  },
+  {
+    "id": "n03298",
+    "summary": "Ka'b bin Maalik reports the Prophet's last sermon, in which he asked forgiveness for the martyrs of Uhud and advised the Muhaajireen to honour the honourable Ansaar and overlook the sinful among them.",
+    "people": [
+      { "id": "kab-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "virtues-of-the-sahabah", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends with a one-line note that another narration calls this the last sermon. That is not tagged as a separate report."
+  },
+  {
+    "id": "n03299",
+    "summary": "Abu Salmah bin Abdur Rahmaan reports, from Abu Hurayrah and Abdullaah bin Abbaas, the Prophet's final sermon: whoever guards the five fardh salaahs in congregation will cross the Siraat first and receive the reward of a thousand martyrs for each day and night he guarded them.",
+    "people": [
+      { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "aakhirah", "prophets-final-illness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Salmah's Companion status is marked unsure in the approved list. The approved id is used. One report transmitted through two sources."
+  },
+  {
+    "id": "n03300",
+    "summary": "Abu Zaid Ansaari reports that the Prophet led them in prayer and then lectured them from Fajr until Maghrib, telling them everything that was still to happen.",
+    "people": [
+      { "id": "abu-zaid", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Matched to the approved abu-zaid entry on name and nisba only."
+  },
+  {
+    "id": "n03301",
+    "summary": "Jaabir reports the Prophet's manner while lecturing, his eyes reddening and voice rising, his words that the Hour is as near as his two fingers, that the best guidance is Muhammad's and every bid'ah misleads, and that the debts and children left behind are his responsibility.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "aakhirah", "following-the-sunnah", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Plain 'Jaabir' is matched to Jaabir bin Abdillaah. Jaabir bin Samura is also in the approved list, so this identification should be checked."
+  },
+  {
+    "id": "n03302",
+    "summary": "Urwa reports Abu Bakr's first address as Khalifah: he is not the best of them, the Qur'aan and the Prophet's ways are settled, the strong and the weak must each have their rights restored, and he asks to be assisted when right and corrected when wrong.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "justice", "following-the-sunnah", "consultation"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Urwa' alone matches several approved entries (Urwa bin Zubayr, Urwa bin Masood), so no id is given."
+  },
+  {
+    "id": "n03303",
+    "summary": "Abdullaah bin Ukaym reports Abu Bakr's first address as Khalifah, with variant versions recorded by Hasan, in which he says he is not the best of them, asks to be watched over, and says a Shaytaan comes to him.",
+    "people": [
+      { "id": "abdullaah-bin-ukaym", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "hasan-bin-abil-hasan", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "humility", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several variant and separate reports of the same address, plus Hasan's own remarks. 'Hasan' is matched to Hasan bin Abil Hasan (not sahabi), not Hasan bin Ali. That identification should be checked. OCR debris ignored."
+  },
+  {
+    "id": "n03304",
+    "summary": "Qais bin Abi Haazim and Aasim bin Adi report Abu Bakr's later addresses, in which he asks to be corrected if he strays, sends Usaamah's army forward, and urges people to do good before their lives end.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "qais-bin-abi-haazim", "role": "narrator" },
+      { "id": "aasim-bin-adi", "role": "narrator" },
+      { "id": "usaama-bin-zaid", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "following-the-sunnah", "aakhirah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Begins mid-passage ('Another narration states'). It joins several separate reports, with an OCR-garbled link ('Already quoted earlier...'). Qais's report is summarised rather than quoted in full."
+  },
+  {
+    "id": "n03305",
+    "summary": "Sa'eed bin Abu Maryam reports Abu Bakr's address on becoming Khalifah: he would rather the burden had fallen on someone he detested, kings are the most ill-fated, and only the poor will be forgiven.",
+    "people": [
+      { "id": null, "name": "Sa'eed bin Abu Maryam", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "justice", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'eed bin Abu Maryam is not in the approved list, and the text does not settle whether he was a Companion."
+  },
+  {
+    "id": "n03306",
+    "summary": "Abdullaah bin Ukaym reports the Prophet's lecture urging taqwa, hope and fear of Allaah, quoting the praise of Zakariyya's family in the Qur'aan, and telling people to compete in good deeds before their lives end.",
+    "people": [
+      { "id": "abdullaah-bin-ukaym", "role": "narrator" },
+      { "id": null, "name": "Zakariyya", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["taqwa", "aakhirah", "fear-of-allaah", "quraan"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at 'behindyou is a speedy hunter, which is very'. Zakariyya is named inside a quoted verse. He is not in the approved list."
+  },
+  {
+    "id": "n03307",
+    "summary": "Amr bin Dinaar reports Abu Bakr's counsel in hardship: fear Allaah, be sincere, send good deeds ahead, and reflect on those who have passed and on the kings whose cities are now in ruins.",
+    "people": [
+      { "id": "amr-bin-dinaar", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "zuhd", "sincerity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says the rest is like the Ibn Ukaym report, so this is an abridged variant that relies on it for its opening."
+  },
+  {
+    "id": "n03308",
+    "summary": "Nu'aym bin Namha reports a variant of Abu Bakr's address with additions: speech is good only when it pleases Allaah, wealth is good only when spent in His path, and a person should not fear a critic when carrying out Allaah's command.",
+    "people": [
+      { "id": null, "name": "Nu'aym bin Namha", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "sincerity", "courage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives only the additions to the Ibn Ukaym version. Nu'aym bin Namha is not in the approved list."
+  },
+  {
+    "id": "n03309",
+    "summary": "Aasim bin Adi reports Abu Bakr's address on sincerity and on learning from the dead, including that the sins of earlier kings remain theirs while their possessions pass to others.",
+    "people": [
+      { "id": "aasim-bin-adi", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sincerity", "aakhirah", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Opens by referring to the earlier narration ('like the one already narrated'). The Tabari reference in the heading is not tagged."
+  },
+  {
+    "id": "n03310",
+    "summary": "Moosa bin Uqba reports the comprehensive address Abu Bakr gave: testimony of faith, taqwa, obedience to leaders who enjoin good, guarding against desires and pride, and sincerity for the sake of the Aakhirah.",
+    "people": [
+      { "id": "moosa-bin-aqba", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["taqwa", "sincerity", "aakhirah", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list marks Moosa bin Uqba's Companion status as unsure. The approved id is used."
+  },
+  {
+    "id": "n03311",
+    "summary": "Yazeed bin Haaroon reports Abu Bakr's warning about the ungrateful person who is humiliated on the Day of Qiyaamah for having sent no good deeds ahead, quoting Surah Taubah verse 63.",
+    "people": [
+      { "id": "yazeed-bin-haaroon", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03312",
+    "summary": "Muhammad bin Ibraheem bin Haarith reports Abu Bakr's promise that if people have taqwa and do good, the time will come when they eat bread and butter until they are full.",
+    "people": [
+      { "id": "muhammad-bin-ibraheem-bin-haarith", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["taqwa", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list marks Muhammad bin Ibraheem bin Haarith's Companion status as unsure. The approved id is used."
+  },
+  {
+    "id": "n03313",
+    "summary": "Zubayr reports Abu Bakr telling people to be modest before Allaah, saying he always covers his head when he goes out to relieve himself, out of shame before his Rabb.",
+    "people": [
+      { "id": "zubayr", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator's name is garbled in the OCR ('Zubayr SKSi!!ss'). It is tagged as zubayr from the name alone, which should be checked."
+  },
+  {
+    "id": "n03314",
+    "summary": "Ibn Shihaab reports Abu Bakr's sermon on shame before Allaah, and Abu Bakr himself reports that the Prophet once wept on the pulpit and asked for forgiveness and well-being, the best gift after conviction.",
+    "people": [
+      { "id": "ibn-shihaab", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "mercy-and-forgiveness", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Shihaab's account of Abu Bakr's sermon, and Abu Bakr's own account of the Prophet's weeping. Ends with OCR debris."
+  },
+  {
+    "id": "n03315",
+    "summary": "Aws reports Abu Bakr's sermon quoting the Prophet's advice to ask Allaah for forgiveness and well-being, to hold to truthfulness and avoid lying, to avoid envy and hatred, and to be brothers.",
+    "people": [
+      { "id": null, "name": "Aws", "role": "narrator", "sahabi": "yes" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["good-character", "brotherhood", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Plain 'Aws' is not in the approved list, so no id is given. Sahabi 'yes' follows the RA honorific, but which Aws is meant is unclear. The Prophet's words are quoted through Abu Bakr."
+  },
+  {
+    "id": "n03316",
+    "summary": "Abu Bakr bin Muhammad bin Amr bin Hazm reports that Abu Bakr told people the Prophet taught them to seek refuge from hypocritical humility, which is humility of the body with hypocrisy in the heart.",
+    "people": [
+      { "id": null, "name": "Abu Bakr bin Muhammad bin Amr bin Hazm", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "sincerity", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "This is not the approved entry abdullaah-bin-abi-bakr-bin-muhammad-bin-amr-bin-hazm, which is a different name. The narrator's Companion status is unclear."
+  },
+  {
+    "id": "n03317",
+    "summary": "Abul Aaliya reports Abu Bakr quoting the Prophet: a traveller prays two rak'ahs while a resident prays four, and on his own journey from Dhul Hulayfah towards Makkah he would pray two rak'ahs until he returned to Madinah.",
+    "people": [
+      { "id": "abul-aaliya-baraa", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "hijrah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abul Aaliya is not a Companion, per the approved list. The Prophet's words are relayed through Abu Bakr."
+  },
+  {
+    "id": "n03318",
+    "summary": "Abu Dhamra reports Abu Bakr's warning that the Muslims will conquer Shaam and that the masjids there must be built for Allaah's remembrance alone, and Anas reports Abu Bakr explaining how man is created, to remove pride.",
+    "people": [
+      { "id": null, "name": "Abu Dhamra", "role": "narrator", "sahabi": "unsure" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["masjid", "humility", "sincerity"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports, followed by an editorial paragraph from the author cross-referencing other chapters (Jihaad, unity, enjoining good). That paragraph is not tagged. Abu Dhamra is not in the approved list."
+  },
+  {
+    "id": "n03319",
+    "summary": "Humayd bin Hilaal reports, from someone present, that after Abu Bakr's burial Umar vowed to settle matters with integrity, to treat well those who behave well, and to punish those who do evil.",
+    "people": [
+      { "id": "humayd-bin-hilaal", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The eyewitness who gave the report to Humayd is unnamed, so he is not tagged."
+  },
+  {
+    "id": "n03320",
+    "summary": "Sha'bi reports Umar's first address as Khalifah, in which he says he will not presume to sit where Abu Bakr sat, urges reciting and practising the Qur'aan, and regards himself as a guardian of public funds in the way a guardian of an orphan is.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "humility", "honest-dealings", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sha'bi is matched to aamir-shabi, which the approved list marks as not a Companion."
+  }
+]

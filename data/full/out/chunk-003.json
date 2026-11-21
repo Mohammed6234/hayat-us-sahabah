@@ -1,0 +1,1532 @@
+[
+ {
+  "id": "n00081",
+  "summary": "Ahnaf bin Qais, who once dismissed a man's invitation to Islaam, was reminded of it later and of the Prophet's prayer for his forgiveness, which he valued above his good deeds.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ahnaf bin Qais",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Banu Layth man who was sent to invite them is unnamed and not tagged."
+ },
+ {
+  "id": "n00082",
+  "summary": "The Prophet sent a Companion to a powerful Jahiliyyah leader who mocked the message, and the leader was struck by lightning, after which a verse of Surah Ra'd was revealed.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "opposition",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00083",
+  "summary": "A Bazzaar report says the leader was a tyrant, worse than Fir'oun, and was killed by lightning while still being invited to Islaam, followed by editorial cross-references to Khaalid bin Sa'eed and Amr bin Murra.",
+  "people": [
+   {
+    "id": null,
+    "name": "Fir'oun",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "khaalid-bin-saeed",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Amr bin Murra",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "dawah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with editorial cross-references to other sections of the book, not a separate report."
+ },
+ {
+  "id": "n00084",
+  "summary": "The Prophet sent Abdur Rahmaan bin Auf with a group to Dowmatul Jandal, where the Christian chief Asbagh bin Amr Kalbi accepted Islaam, and the Prophet then directed Abdur Rahmaan to marry Asbagh's daughter.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Asbagh bin Amr Kalbi",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Raafi bin Makeeth",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Tumaadir",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Abu Salma (son of Abdur Rahmaan bin Auf)",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [
+   "marriage"
+  ],
+  "boundary": "ok",
+  "notes": "Raafi bin Makeeth may or may not be the approved 'raafi' entry; left unlinked. Abu Salma here is not the approved abu-salma (Abu Salma bin Abdil Asad)."
+ },
+ {
+  "id": "n00085",
+  "summary": "The Prophet sent Amr bin Al Aas to the Banu Baliy to call the Arabs to Islaam, and when he sensed danger at Salaasil he asked for reinforcements, so a battalion under Abu Ubaydah was sent.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan Tameemi",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Urridr",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The report continues in a later chapter (on appointing leaders). 'Hadhrat Urridr' is named only once and his identity is unclear."
+ },
+ {
+  "id": "n00086",
+  "summary": "Baraa bin Aazib recounts the Yemen mission under Khaalid bin Waleed, which won no one until Ali was sent to relieve him, after which the whole Hamdaan tribe accepted Islaam and the Prophet prayed peace upon them.",
+  "people": [
+   {
+    "id": null,
+    "name": "Baraa bin Aazib",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00087",
+  "summary": "Ibn Is'haaq reports that the Prophet sent Khaalid bin Waleed to Najraan to invite the Banu Haarith bin Ka'b for three days before fighting, and they all accepted Islaam; the report breaks off at the start of Khaalid's letter.",
+  "people": [
+   {
+    "id": "ibn-ishaaq",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "dawah-before-battle",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence at the start of Khaalid's letter."
+ },
+ {
+  "id": "n00088",
+  "summary": "Khaalid bin Waleed writes to the Prophet to report that the Banu Haarith bin Ka'b accepted Islaam without a fight and that he is teaching them the injunctions of Islaam.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "A letter; the Prophet is only its addressee."
+ },
+ {
+  "id": "n00089",
+  "summary": "The Prophet replies to Khaalid, welcoming the Banu Haarith's acceptance of Islaam, telling him to give them good news of Jannah and warn them against Jahannam, and asking him to return with a delegation.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "A letter from the Prophet, so he is the author (subject)."
+ },
+ {
+  "id": "n00090",
+  "summary": "The Banu Haarith delegation comes to Madinah; the Prophet praises their acceptance, Yazeed bin Abdil Madaan answers for them, and the Prophet appoints Qais bin Husayn as their leader.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Yazeed bin Abdil Madaan",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Qais bin Husayn",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [
+   "unity of the Muslims"
+  ],
+  "boundary": "ok",
+  "notes": "Yazeed bin Abdil Madaan is not the approved yazeed-bin-roomaan."
+ },
+ {
+  "id": "n00091",
+  "summary": "Jareer bin Abdillaah comes to accept Islaam, the Prophet teaches him the Shahaadah, Imaan, salaah and zakaah, and the Prophet honours him, always smiling when he saw him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Jareer bin Abdillaah",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "salaah",
+   "sadaqah",
+   "kindness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Not the approved jaabir-bin-abdillaah."
+ },
+ {
+  "id": "n00092",
+  "summary": "The Prophet instructs Mu'aadh bin Jabal before he goes to Yemen: first invite the People of the Book to Tawheed and the Prophethood, then salaah and zakaah, and avoid taking their best wealth.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Mu'aadh bin Jabal",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "prophethood",
+   "salaah",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00093",
+  "summary": "Howshab Dhi Dhulaym relates that Abd Sharr came with a letter and forty horsemen, pledged to the Prophet on salaah, zakaah and enjoining good, was renamed Abd Khayr, and that Howshab then also accepted Imaan.",
+  "people": [
+   {
+    "id": null,
+    "name": "Howshab Dhi Dhulaym",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Abd Sharr (later named Abd Khayr)",
+    "role": "subject",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "salaah",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abd Sharr's Companion status is not stated in the text."
+ },
+ {
+  "id": "n00094",
+  "summary": "Abdullaah bin Abbaas relates that the Prophet welcomed the Abd Qais delegation and commanded them to believe in Allaah, pray, pay zakaah, fast in Ramadhaan and pay one third of the spoils, and forbade four kinds of drinking vessels.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "salaah",
+   "sadaqah",
+   "jihaad"
+  ],
+  "new_themes": [
+   "fasting in Ramadhaan",
+   "prohibited drink vessels"
+  ],
+  "boundary": "ok",
+  "notes": "The delegation of Abd Qais is a group, not an individual, so is not tagged."
+ },
+ {
+  "id": "n00095",
+  "summary": "Alqama describes how he and six others came to the Prophet and listed the attributes of their Imaan, and the entry then runs into a second report about the Prophet sending Companions to distant kings and rulers.",
+  "people": [
+   {
+    "id": null,
+    "name": "Alqama",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "miswar-bin-makhrama",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Isa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Hudhafa",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "kisra",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Saleet bin Amr",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Howdha bin Ali",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Alaa bin Hadhrami",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Mundhir bin Saawa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Jayfar",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Abbaad",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Dihya Kalbi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Caesar (Emperor of Rome)",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Shuja bin Wahab Asadi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Mundhir bin Haarith bin Abi Shimar Ghassaani",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Amr bin Umayyah Dhamri",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Najaashi (King of Abyssinia)",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Muhaajir bin Abi Ummayyah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Haarith bin Abd Kulaal",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Jareer bin Abdillaah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Dhul Kulaa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Saa'ib",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Musalama",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Haatib bin Abi Balta'ah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Maqoqis (King of Alexandria)",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam",
+   "tawheed"
+  ],
+  "new_themes": [
+   "reality of imaan"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports joined: Alqama's account, cut off mid-sentence after 'Rasulullaah spi? responded' (OCR garbled), and Miswar's report on sending Companions abroad. Isa is named with RA in the text but tagged as a prophet, not a Companion. Several names are garbled by OCR. Jayfar and Abbaad are the two sons of Julunda."
+ },
+ {
+  "id": "n00096",
+  "summary": "Anas reports that shortly before his death the Prophet sent letters to the emperors of Persia and Rome and to every oppressive ruler, inviting them to Allaah.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam",
+   "prophets-concern"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text states that the king of Abyssinia here is not the one who accepted Islaam (Najaashi)."
+ },
+ {
+  "id": "n00097",
+  "summary": "Jaabir reports that before his death the Prophet sent letters to the emperors of Persia and Rome and to every other dictatorial ruler.",
+  "people": [
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Source line has OCR garble ('before (RA) death')."
+ },
+ {
+  "id": "n00098",
+  "summary": "The Prophet writes to Najaashi, King of Abyssinia, inviting him to Islaam and affirming Isa's true status, and sends his cousin Ja'far and the Muslims in Abyssinia with Amr bin Umayyah Dhamri as the letter's bearer.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ja'far bin Abi Taalib",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Amr bin Umayyah Dhamri",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Najaashi As'ham",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Isa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Maryam",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "prophethood",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ja'far bin Abi Taalib is not in the approved list (the approved abu-taalib is a different person)."
+ },
+ {
+  "id": "n00099",
+  "summary": "Najaashi As'ham replies to the Prophet, affirming Isa as he was described, testifying that Muhammad is the true Rasul, saying he accepted Islaam at Ja'far's hands, sending his son Areeha, and offering to come in person.",
+  "people": [
+   {
+    "id": null,
+    "name": "Najaashi As'ham bin Abjar",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Isa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ja'far bin Abi Taalib",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Areeha bin As'ham bin Abjar",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "accepting-islaam",
+   "prophethood",
+   "dawah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet is the letter's addressee here. Najaashi's Companion status is not stated in the text and is marked unsure in both this entry and n00098."
+ },
+ {
+  "id": "n00100",
+  "summary": "Dihya Kalbi delivers the Prophet's letter to Heraclius, who consults his high priest and Abu Sufyaan, recognises the signs of prophethood but refuses to give up his kingship, and the high priest is later killed after publicly testifying to Islaam.",
+  "people": [
+   {
+    "id": null,
+    "name": "Dihya Kalbi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Heraclius",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Daghaatir",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Sa'eed bin Abi Raashid",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Mu'aawiya (the scribe)",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Najaashi",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Isa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophethood",
+   "dawah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports joined: Dihya's mission, the court reaction, the high priest's death, Sa'eed bin Abi Raashid's report of the Tanookh envoy, and the Prophet's letter and remarks. The scribe 'Mu'aawiya' is not given a father's name; he is probably Mu'aawiya bin Abi Sufyaan but is left unlinked. Ibraheem is named as the Prophet's ancestor in a reference to 'your father Ibraheem'. Some OCR garble."
+ },
+ {
+  "id": "n00101",
+  "summary": "Abu Sufyaan recounts being questioned by Heraclius at Ilyia about the Prophet's lineage, followers and treaties, whose answers Heraclius took as signs of prophethood, and then the court's reaction to the Prophet's letter.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Heraclius",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Dihya Kalbi",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Ibn Naatoor",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophethood",
+   "dawah",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Abu Sufyaan's account is joined to Ibn Naatoor's report of Heraclius's astrology and gathering of the Romans. The Prophet is called 'Ibn Abi Kabsha' by Abu Sufyaan. Heraclius's friend and the chief of Busra are unnamed."
+ },
+ {
+  "id": "n00102",
+  "summary": "Abdullaah bin Abbaas reports that the Prophet sent a letter to Kisra through the governor of Bahrain, that Kisra tore it up, and that the Prophet cursed him.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "kisra",
+    "role": "subject"
+   },
+   {
+    "id": "saeed-bin-musayyab",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says it was 'probably Ibn Musayyib' who narrates the curse; linked to saeed-bin-musayyab but the attribution is uncertain. The governor of Bahrain is unnamed."
+ },
+ {
+  "id": "n00103",
+  "summary": "Abdur Rahmaan bin Abd Qaari and Abu Salam report that Shujaa bin Wahab delivered the Prophet's letter to Kisra, who tore it; Kisra then ordered Baadhaan to bring the Prophet to him, the Prophet foretold Kisra's death, and Baadhaan accepted Islaam after Sherway killed Kisra.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Abd Qaari",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Shujaa bin Wahab",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "kisra",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Salam bin Abdir Rahmaan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Baadhaan",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Abaanuh",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Jadd Jameerah",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Sherway",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Hudhaafa",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": "ibn-ishaaq",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "opposition",
+   "prophethood"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three versions joined (Abdur Rahmaan's, Abu Salam's and Ibn Is'haaq's). Baadhaan may be the same person as Baadaam in n00105 and Baadhaan in n00104; not linked. Abdur Rahmaan bin Abd Qaari may be the approved abdur-rahmaan-al-qaari; not linked, to confirm."
+ },
+ {
+  "id": "n00104",
+  "summary": "Zaid bin Abi Habeeb reports the letter Abdullah bin Hudhaafa carried to Kisra, which Kisra tore up, and the Prophet's reply to two envoys with shaven beards that his Rabb had commanded him to grow his own beard.",
+  "people": [
+   {
+    "id": null,
+    "name": "Zaid bin Abi Habeeb",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Abdullah bin Hudhaafa",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "kisra",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Baadhaan",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "opposition"
+  ],
+  "new_themes": [
+   "the beard and moustache"
+  ],
+  "boundary": "ok",
+  "notes": "Refers back to an earlier report for the remainder of the Hadith. The two envoys are unnamed."
+ },
+ {
+  "id": "n00105",
+  "summary": "Abu Bakrah reports that Kisra ordered Baadaam, his governor over Yemen, to stop the Prophet, and that the Prophet told Baadaam's envoy his Rabb had killed Kisra and Caesar, which the envoy found had come true.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Bakrah",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "kisra",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Baadaam",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Caesar",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophethood",
+   "opposition",
+   "dawah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Baadaam is probably the same person as Baadhaan in n00103 and n00104 (spelling differs); not linked."
+ },
+ {
+  "id": "n00106",
+  "summary": "Dihya Kalbi reports the letter to Caesar, then the envoys of the San'aa governor, who were told that the Prophet's Rabb had killed Kisra that very night, which was later confirmed.",
+  "people": [
+   {
+    "id": null,
+    "name": "Dihya Kalbi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "kisra",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Caesar",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "prophethood",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins the Caesar mission (which refers back to the Heraclius section) with a Bazzaar report of the San'aa envoys. The San'aa governor is unnamed."
+ },
+ {
+  "id": "n00107",
+  "summary": "Abdullah bin Abd Qaari reports that Haatib bin Abi Balta'ah took the Prophet's letter to Maqoqis of Alexandria, who received him well and sent gifts, including the slave woman Maariya, mother of Ibraheem, and another woman given to Muhammad bin Qais Abdi.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullah bin Abd Qaari",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Haatib bin Abi Balta'ah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Maqoqis (King of Alexandria)",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Maariya",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Qais Abdi",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdullah bin Abd Qaari may be the same person as Abdur Rahmaan bin Abd Qaari in n00103; not linked."
+ },
+ {
+  "id": "n00108",
+  "summary": "Haatib bin Abi Balta'ah narrates his debate with Maqoqis over the Prophet's status and why he did not curse his people, after which Maqoqis sent gifts, including a slave woman who became the mother of Ibraheem, and the Prophet gave another woman to Hassaan bin Thaabit.",
+  "people": [
+   {
+    "id": null,
+    "name": "Haatib bin Abi Balta'ah",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Maqoqis (King of Alexandria)",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Isa",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Maryam",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Hassaan bin Thaabit",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "prophethood"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00109",
+  "summary": "The grandfather of Abd Yasoo reports the Prophet's letter to the people of Najraan and the mubaahala challenge, which they declined in favour of a treaty; the Prophet then wrote a letter guaranteeing the protection of their priests and property.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abd Yasoo",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Hasan bin Ali",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Husayn bin Ali",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": "faatima",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Shurahbeel",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ya'qoob",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Ghaylaan bin Amr",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Maalik bin Auf",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Aqra bin Haabis Handhali",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "mughiera-bin-shuba",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Basheer bin Mu'aawiya (Abu Alqama)",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Abul Haarith",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ibn Abi Shimr",
+    "role": "subject",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "prophethood",
+   "opposition"
+  ],
+  "new_themes": [
+   "treaty of Najraan"
+  ],
+  "boundary": "merged",
+  "notes": "Several reports joined (the letter, the mubaahala, the treaty, Abu Alqama's conversion, the monk's visit, and the letter to the priests). The grandfather who narrates the first part is unnamed. Mughiera in the witness list is assumed to be Mughiera bin Shu'ba, who wrote the final letter; not confirmed. Shurahbeel is also called Abu Maryam. Some OCR garble."
+ },
+ {
+  "id": "n00110",
+  "summary": "Marthad bin Dhabiyaan reports that a letter from the Prophet was read out to the Bakr bin Waa'il tribe, calling them to accept Islaam and live in peace.",
+  "people": [
+   {
+    "id": null,
+    "name": "Marthad bin Dhabiyaan",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Dabee'ah man who read the letter is unnamed."
+ },
+ {
+  "id": "n00111",
+  "summary": "Ma'bad Judhaami reports that the Prophet wrote a letter to Rifaa'ah bin Zaid Judhaami to invite his people to Allaah and His Rasool, and that they all accepted Imaan when he reached them.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ma'bad Judhaami",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Rifaa'ah bin Zaid Judhaami",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "spread-of-islaam",
+   "accepting-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00112",
+  "summary": "Abdullaah bin Salaam reports how the Jewish rabbi Zaid bin Su'na tested the Prophet's patience and was rebuked by Umar, then accepted Islaam and vowed to give half his wealth as charity to part of the Ummah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Salaam",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Su'na",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "kindness",
+   "sadaqah",
+   "honest-dealings"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ali is only 'the person beside him', which the narrator assumes was Ali; not tagged. The Bedouin who asks for help is unnamed. The 'children of Abdul Muttalib' is a lineage reference and is not tagged."
+ },
+ {
+  "id": "n00113",
+  "summary": "Miswar bin Makhrama reports that on the way to Hudaybiyyah, the Prophet's camel Qaswa halted, the Prophet declared he would grant the Kuffaar any request that respects what Allaah has made sacred, and water gushed from a spring after he had an arrow placed in it.",
+  "people": [
+   {
+    "id": "miswar-bin-makhrama",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Waleed",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "prophethood"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Qaswa is the camel's name and is not tagged."
+ },
+ {
+  "id": "n00114",
+  "summary": "Budayl bin Warqa warns the Prophet that the Quraysh's tribes are ready to fight, the Prophet says he came only for Umrah and offers a treaty, and Budayl relays this to the Quraysh.",
+  "people": [
+   {
+    "id": "budayl-bin-waraqa",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Nu'aym",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR garble in the middle ('the trait that his self-control...'). 'The rest of the incident is as mentioned above' refers to earlier text. Abu Nu'aym is cited only as a source."
+ },
+ {
+  "id": "n00115",
+  "summary": "Urwa bin Mas'ood addresses the Quraysh and then negotiates with the Prophet, but Abu Bakr rebukes him and Mughiera bin Shu'ba strikes his hand from the Prophet's beard, and Urwa returns to say the Sahabah honour the Prophet more than any ruler's followers.",
+  "people": [
+   {
+    "id": null,
+    "name": "Urwa bin Mas'ood",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "mughiera-bin-shuba",
+    "role": "subject"
+   },
+   {
+    "id": "kisra",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Najaashi",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Caesar",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition",
+   "steadfastness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Garbled OCR in the middle ('He \"By Allaah!'). Mughiera's past killings of people he befriended are alluded to, not named. Urwa's Companion status is not stated in the text."
+ },
+ {
+  "id": "n00116",
+  "summary": "A man of the Kinaana tribe, then Mikraz bin Hafs, go to the Prophet, and Mikraz begins negotiating before the report breaks off at the arrival of a man named only 'bin Amr'.",
+  "people": [
+   {
+    "id": null,
+    "name": "Mikraz bin Hafs",
+    "role": "subject",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off at 'bin Amr arrived'; probably Suhayl bin Amr (next entry). The Kinaana man is unnamed. Some OCR garble around the honorific."
+ },
+ {
+  "id": "n00117",
+  "summary": "Suhayl bin Amr negotiates the wording of the Hudaybiyyah treaty, and the Prophet agrees to his changes to the opening and the name, and clauses are agreed, including that the Muslims may make Umrah the following year.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ma'mar",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Suhayl bin Amr",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Zuhri",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition",
+   "prophethood"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends mid-clauses. Ayyoob and Ikrama appear only in the narration chain and are not tagged. Suhayl's Companion status is not stated in the text."
+ },
+ {
+  "id": "n00118",
+  "summary": "Abu Jandal arrives in chains and Suhayl insists on his return under the treaty; Umar and Abu Bakr reassure each other that the Prophet will reach the Kabah, the Prophet's companions follow his example of sacrifice, and verses on women migrants are revealed, after which Umar divorces two wives who remained mushrik.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Jandal",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Suhayl bin Amr",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Mikraz",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Umm Salama",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Safwaan bin Umayyah",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "sacrifice",
+   "opposition",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR garbles the Umm Salama name and the Qur'aan verse reference; the verse is cited by its content. Suhayl's Companion status is not stated in the text."
+ },
+ {
+  "id": "n00119",
+  "summary": "Abu Baseer is handed back to two men sent under the treaty, kills one of them on the road, and after the Prophet's remark that he was a warmonger, he leaves Madinah for the coast.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Baseer",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The two men sent from Makkah are unnamed."
+ },
+ {
+  "id": "n00120",
+  "summary": "Abu Jandal escapes from the Quraysh and joins Abu Baseer, and their growing group attacks Quraysh caravans until the Quraysh ask the Prophet to call them to Madinah, after which verses of Surah Fath (24-26) are revealed.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Jandal",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Abu Baseer",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Suhayl bin Amr",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hudaybiyyah",
+   "opposition",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is not named in the text ('the narrator states'). Suhayl is mentioned as Abu Jandal's father."
+ }
+]

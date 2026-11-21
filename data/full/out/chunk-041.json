@@ -1,0 +1,601 @@
+[
+ {
+  "id": "n01601",
+  "summary": "Husayn tells Umar to step down from his grandfather's pulpit; Ali threatens Husayn, Umar intercedes, and Umar later welcomes Husayn into his home and blesses him.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "husayn-bin-ali", "role": "subject" },
+    { "id": "ali", "role": "subject" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+    { "id": "abdullaah-bin-umar", "role": "mentioned" },
+    { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "family", "kindness"],
+  "new_themes": ["honouring the Prophet's household"],
+  "boundary": "ok",
+  "notes": "'Mu'aawiya' is not qualified in the text; tagged as Mu'aawiya bin Abi Sufyaan from context (Umar's time), please confirm. 'Urwa' is not identified; vocab urwa-bin-zubayr is unsure, so left as null. OCR debris ('S3!S8fU') ignored."
+ },
+ {
+  "id": "n01602",
+  "summary": "Uqba bin Haarith describes how the Prophet comforted Hasan and Husayn, who were crying of thirst, by giving them his tongue to suck until they were quiet.",
+  "people": [
+    { "id": "uqba-bin-haarith", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "husayn-bin-ali", "role": "mentioned" },
+    { "id": "faatima", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "love-for-the-prophet", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Vocab lists uqba-bin-haarith with sahabi 'no', but the text calls him Hadhrat Uqba bin Haarith (RA). Used the approved id as instructed; please check that entry. The opening clause is garbled by OCR, so the Companion who 'pulled himself together' is not legible; the heading names Abu Bakr but the text does not, so he is not tagged."
+ },
+ {
+  "id": "n01603",
+  "summary": "Abdullaah bin Abbaas holds the stirrup for Zaid bin Thaabit, who protests; Abdullaah says this is how scholars and elders are honoured, and Zaid kisses his hand in honour of the Prophet's family.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "zaid-bin-thaabit", "role": "subject" },
+    { "id": null, "name": "Ammaar bin Abu Ammaar", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["humility", "kindness"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "ok",
+  "notes": "Narrator is Ammaar bin Abu Ammaar, not Ammaar bin Yaasir (ammaar-bin-yaasir); not in vocab. The Prophet is mentioned only as Zaid's 'cousin of Rasulullaah' and 'our Nabi'."
+ },
+ {
+  "id": "n01604",
+  "summary": "Sha'bi reports the same stirrup incident: Zaid bin Thaabit is served by Abdullaah bin Abbaas, who says this is how scholars and elders are honoured.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "zaid-bin-thaabit", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["humility", "kindness"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "ok",
+  "notes": "OCR footnote debris (a Tabraani/Haythami citation) sits inside the text and was ignored; the narration is cut around it. Sha'bi is not in vocab, and his Companion status is unknown."
+ },
+ {
+  "id": "n01605",
+  "summary": "Another report says Abdullaah bin Abbaas, holding Zaid bin Thaabit's stirrup, explained that they had been commanded to hold the stirrups of their teachers and seniors.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "zaid-bin-thaabit", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["humility", "kindness"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "ok",
+  "notes": "No narrator is named in this report."
+ },
+ {
+  "id": "n01606",
+  "summary": "Abu Umaamah reports that when the Prophet passed a drink to Abu Ubaydah, the eldest, he insisted that Abu Ubaydah drink first, and said that blessings lie with elders.",
+  "people": [
+    { "id": "abu-umaama", "role": "narrator" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "abu-ubaydah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["humility", "kindness"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "ok",
+  "notes": "OCR debris ('Rasulullaah gill', 'iii') in the Prophet's speech ignored."
+ },
+ {
+  "id": "n01607",
+  "summary": "Two Ansaar reports: after Abdullaah bin Sahl was murdered at Khaybar, the Prophet let the eldest speak first, offered the case to the Jews by oath, and paid the blood money himself when the Ansaar refused the oath.",
+  "people": [
+    { "id": "raafi-bin-khadeej", "role": "narrator" },
+    { "id": null, "name": "Sahl bin Abi Hathmah", "role": "narrator", "sahabi": "yes" },
+    { "id": "abdullaah-bin-sahl", "role": "subject" },
+    { "id": null, "name": "Abdur Rahmaan bin Sahl", "role": "subject", "sahabi": "yes" },
+    { "id": "muhayyisa", "role": "subject" },
+    { "id": "huwayyisa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["justice", "consultation"],
+  "new_themes": ["respecting scholars and elders", "blood money (diyah)"],
+  "boundary": "ok",
+  "notes": "Muhayyisah and Huwayyisah were matched to the approved ids muhayyisa and huwayyisa. Sahl bin Abi Hathmah and Abdur Rahmaan bin Sahl are not in vocab. The Jews of Khaybar are not tagged (no named individual)."
+ },
+ {
+  "id": "n01608",
+  "summary": "Waa'il bin Hujar says that he left his kingdom in Hadhramaut to come to the Prophet, who welcomed him, seated him beside himself on the pulpit and praised his sincerity before the people.",
+  "people": [
+    { "id": null, "name": "Waa'il bin Hujar", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "sacrifice", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Waa'il bin Hujar is not in vocab. The bracketed 'In Hadhramaut' is the book's gloss."
+ },
+ {
+  "id": "n01609",
+  "summary": "In a second report, the Prophet tells the people to be kind to Waa'il bin Hujar, who has just left his royal background, and promises to repay him double for what his family took from him.",
+  "people": [
+    { "id": null, "name": "Waa'il bin Hujar", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends with 'The Hadith continues further.', so the narration is cut off."
+ },
+ {
+  "id": "n01610",
+  "summary": "Abdullaah bin Abbaas reports that the Prophet embraced the dying Sa'd bin Mu'aadh and prayed for him, and that the Prophet overruled criticism of Sa'd's mother reciting a lament, saying poets other than her lie.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "sad-bin-muaadh", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "death-and-burial", "kindness"],
+  "new_themes": ["wailing over the dead"],
+  "boundary": "ok",
+  "notes": "OCR footnote debris (Bazzaar and Haythami citations) ignored. Sa'd's family and the unnamed Ansaari narrator are not tagged."
+ },
+ {
+  "id": "n01611",
+  "summary": "Khaarijah bin Zaid reports that Umar invited Mu'ayqeet, a leprosy-stricken Companion, close to sit and eat with him; a second report says Umar urged him to eat from the dish in front of him.",
+  "people": [
+    { "id": null, "name": "Khaarijah bin Zaid", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Mu'ayqeet bin Abu Faatima", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "humility", "kindness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: the second begins 'Another narration reports that...'. Mu'ayqeet is not in vocab. The second report's narrator is not named."
+ },
+ {
+  "id": "n01612",
+  "summary": "Abdul Waahid bin Aun Dowsi reports that Tufayl bin Amr was martyred at Yamaamah, that his son Amr, who had lost a hand there, was embarrassed to eat with others, and that Umar insisted he eat and would not eat until Amr did.",
+  "people": [
+    { "id": null, "name": "Abdul Waahid bin Aun Dowsi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "tufayl-bin-amr-dowsi", "role": "subject" },
+    { "id": null, "name": "Amr bin Tufayl", "role": "subject", "sahabi": "yes" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["martyrdom", "kindness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Amr bin Tufayl is not in vocab; the approved 'aamir-bin-tufayl' is a different person. Abdul Waahid bin Aun Dowsi is not in vocab."
+ },
+ {
+  "id": "n01613",
+  "summary": "Hasan reports that Umar wrote to Abu Moosa Ash'ari instructing him to admit the people of virtue, status and character first, before the rest.",
+  "people": [
+    { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["justice", "humility"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "ok",
+  "notes": "The narrator 'Hasan' is not qualified. It could be Hasan al-Basri (vocab hasan-bin-abil-hasan, sahabi 'no') or Hasan bin Ali (hasan-bin-ali), so it is left as null. Please check."
+ },
+ {
+  "id": "n01614",
+  "summary": "On his deathbed, Qais bin Aasim advises his sons to fear Allaah, give leadership to their seniors, earn and invest wealth, avoid begging, not wail over him, and bury him where the Banu Bakr cannot find his grave.",
+  "people": [
+    { "id": null, "name": "Qais bin Aasim", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "self-reliance", "death-and-burial"],
+  "new_themes": ["giving leadership to seniors", "wailing over the dead"],
+  "boundary": "ok",
+  "notes": "Qais bin Aasim is not in vocab (qais-bin-sad and others are different people). The sons are unnamed. The Prophet is mentioned only in the advice about not wailing."
+ },
+ {
+  "id": "n01615",
+  "summary": "Yahya bin Sa'eed reports that Ali ordered his army at Jamal not to start the fighting; Abul Bakhtari reports that Ali called the opponents his brothers who had rebelled, neither polytheists nor hypocrites.",
+  "people": [
+    { "id": "yahya-bin-saeed", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abul-bakhtari", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "justice"],
+  "new_themes": ["internal conflict between Muslims"],
+  "boundary": "merged",
+  "notes": "Two reports: the second begins with '(I) Hadhrat Abul Bakhtari narrates'. Ali's instruction is garbled by OCR ('Do not initiate the their father's...'). The uncle of Yahya is unnamed. The people of Jamal are unnamed."
+ },
+ {
+  "id": "n01616",
+  "summary": "Abu Habeebah, freed slave of Talha, reports that after Jamal Ali welcomed Talha's son Imraan, spoke warmly of Talha, quoted the verse about brothers in Paradise, returned Talha's lands and rents, and rebuked two men who had criticised Talha and Zubayr.",
+  "people": [
+    { "id": null, "name": "Abu Habeebah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": null, "name": "Imraan bin Talha", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Haarith A'war", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Ibn Qardha", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "justice", "virtues-of-the-sahabah"],
+  "new_themes": ["internal conflict between Muslims"],
+  "boundary": "ok",
+  "notes": "Imraan bin Talha, Haarith A'war and Ibn Qardha are not clearly in vocab ('imraan' there is unsure and not confirmed as this person). Abu Habeebah is not in vocab."
+ },
+ {
+  "id": "n01617",
+  "summary": "Rib'ee bin Hiraash adds that Ali shouted that the critics could only mean Talha and himself; Ibraheem reports that Ali refused to see Ibn Jurmooz, the killer of Zubayr, and said that Talha, Zubayr and he were among those promised brotherhood in Paradise.",
+  "people": [
+    { "id": null, "name": "Rib'ee bin Hiraash", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": "ibraheem", "role": "narrator" },
+    { "id": null, "name": "Ibn Jurmooz", "role": "subject", "sahabi": "no" },
+    { "id": "zubayr", "role": "mentioned" },
+    { "id": "talha", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "virtues-of-the-sahabah", "martyrdom"],
+  "new_themes": ["internal conflict between Muslims"],
+  "boundary": "merged",
+  "notes": "Two reports: the Ibraheem report starts after a paragraph break ('Hadhrat Ibraheem reports'). Rib'ee bin Hiraash is not in vocab and must not be confused with rib'ee-bin-aamir. Ibn Jurmooz is not in vocab."
+ },
+ {
+  "id": "n01618",
+  "summary": "Amr bin Ghaalib reports that Ammaar bin Yaasir rebuked a man who spoke ill of Aa'isha, saying she is the Prophet's wife in Paradise; a second report adds that Ammaar called him an insulter of the Prophet's beloved.",
+  "people": [
+    { "id": null, "name": "Amr bin Ghaalib", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": "aaisha", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-slander", "love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The second half, from '^ Another narration adds', is another report of the same incident. The man who spoke ill is unnamed. Amr bin Ghaalib is not in vocab."
+ },
+ {
+  "id": "n01619",
+  "summary": "Ammaar bin Yaasir says that Aa'isha is the Prophet's wife in this world and the next, and that Allaah used her to test whether the believers obey Him or her.",
+  "people": [
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": "aaisha", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-slander", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris in Aa'isha's honorific ('Sgiiffili') ignored."
+ },
+ {
+  "id": "n01620",
+  "summary": "Abu Waa'il reports that Ali sent Ammaar bin Yaasir and Hasan bin Ali to Kufa to rally people, and Ammaar told them that Aa'isha is the Prophet's wife in this world and the next, and that Allaah was testing whether they obeyed Him or her.",
+  "people": [
+    { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "aaisha", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "the-slander"],
+  "new_themes": ["internal conflict between Muslims"],
+  "boundary": "ok",
+  "notes": "Vocab has two entries for this narrator with the same name ('abu-waail-shaqeeq-bin-salama' and 'abu-waail-shaqeeq-bin-salamah', both sahabi 'no'); the first was used. Please merge the duplicates."
+ },
+ {
+  "id": "n01621",
+  "summary": "Zaid bin Wahab reports that Abdullaah bin Mas'ood told him that Allaah assisted the Prophet when the disbelievers drove him out, and quoted the verse of the cave, where Abu Bakr was with him, to show Abu Bakr's rank.",
+  "people": [
+    { "id": "zaid-bin-wahab", "role": "narrator" },
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "trust-in-allaah", "hijrah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Quranic verse quoted is garbled by OCR; the sense is clear from the translation. Umar is named only in the heading, not the text."
+ },
+ {
+  "id": "n01622",
+  "summary": "Mughierah bin Shu'bah reports that when a man from the Ansaar insulted Abu Bakr, the Khalifah, he struck him, and Abu Bakr refused to let the Ansaar take retribution, preferring exile to letting them harm a man who restrains others from evil.",
+  "people": [
+    { "id": "mughiera-bin-shuba", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Ansaari man is unnamed and not tagged. OCR debris ('1') ignored."
+ },
+ {
+  "id": "n01623",
+  "summary": "Abu Waa'il reports that Ibn Mas'ood told a man to lift his garment; when the man retorted that Ibn Mas'ood also wore his high, Ibn Mas'ood explained his thin calves. Umar then struck the man for insolence. Alaa reports that Umar threw a brick at a Quraysh man who suggested he hire someone to build for him, saying he did not want to dislike Ibn Mas'ood.",
+  "people": [
+    { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Alaa", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["humility", "virtues-of-the-sahabah"],
+  "new_themes": ["respecting scholars and elders"],
+  "boundary": "merged",
+  "notes": "Two reports: the second, from 'Hadhrat Alaa reports', is a separate incident (the brick). Alaa is not identified; vocab alaa-bin-hadhrami and alaa-bin-fadhl are not confirmed. The man and the Quraysh man are unnamed."
+ },
+ {
+  "id": "n01624",
+  "summary": "Abu Waa'il reports that Umar had a man who swore an oath against Ummu Salamah, who owed him money, lashed thirty stripes.",
+  "people": [
+    { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+    { "id": "umm-salama", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["justice", "honest-dealings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who swore the oath is unnamed."
+ },
+ {
+  "id": "n01625",
+  "summary": "Ummu Moosa reports that when Ibn Saba claimed Ali was superior to Abu Bakr and Umar, Ali wanted him executed, but accepted a ruling that he should simply not be allowed to live in Ali's town.",
+  "people": [
+    { "id": null, "name": "Ummu Moosa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": null, "name": "Ibn Saba", "role": "subject", "sahabi": "no" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "justice", "mercy-and-forgiveness"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "ok",
+  "notes": "Ibn Saba and Ummu Moosa are not in vocab. The person who advised Ali is unnamed."
+ },
+ {
+  "id": "n01626",
+  "summary": "Ibraheem reports that Ali, on hearing that Abdullaah bin Aswad had belittled Abu Bakr and Umar, reached for a sword to execute him, but was persuaded to exile him to Shaam instead.",
+  "people": [
+    { "id": "ibraheem", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": null, "name": "Abdullaah bin Aswad", "role": "subject", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "justice"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Aswad is not in vocab (khuzaaee-bin-aswad and others are different people). Companion status is not stated in the text."
+ },
+ {
+  "id": "n01627",
+  "summary": "Katheer reports that a man praised Ali as the best of people; Ali asked whether he had seen the Prophet, Abu Bakr or Umar, and said that a claim to have seen the Prophet deserves execution and a claim to have seen Abu Bakr or Umar deserves lashing.",
+  "people": [
+    { "id": null, "name": "Katheer", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The first line of the text is a stray section heading ('Hadhrat (RA) Rebukes a Man...'), ignored. Katheer is not in vocab. The man is unnamed."
+ },
+ {
+  "id": "n01628",
+  "summary": "Alqamah reports Ali's lecture that the best after the Prophet is Abu Bakr, then Umar. A second report from Suwayd bin Ghaflah has Ali praising Abu Bakr and Umar, describing Abu Bakr's nomination to lead prayer and Umar's appointment by consultation, and warning against reviling them.",
+  "people": [
+    { "id": "alqama", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "suwayd-bin-ghafala", "role": "narrator" },
+    { "id": null, "name": "Nooh", "role": "mentioned", "sahabi": "no" },
+    { "id": "ibraheem", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "khilaafah", "consultation"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "merged",
+  "notes": "Two reports: the second starts with 'Hadhrat Suwayd bin Ghaflah narrates'. The heading 'A Historic Lecture of Hadhrat Ali (RA)' inside the text is ignored. Angel Mika'eel is not a person tag. Abdul Muttalib appears only as a genealogy, so it is left out. Nooh is not in vocab."
+ },
+ {
+  "id": "n01629",
+  "summary": "Abu Is'haaq reports that a man called Uthmaan a sinner for introducing new practices, and Ali asked him whether Allaah had selected Uthmaan to marry the Prophet's daughters, then warned the man to say nothing else.",
+  "people": [
+    { "id": "abu-ishaaq", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["marriage", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man is unnamed. The Prophet's daughters are not named in the text."
+ },
+ {
+  "id": "n01630",
+  "summary": "Saalim reports that his father, Abdullaah bin Umar, rebuked a companion who complained about Uthmaan, reminding them that during the Prophet's time they named Abu Bakr, Umar and Uthmaan together, and that the complaint arose only when wealth became the priority.",
+  "people": [
+    { "id": "saalim-bin-abdullaah-bin-umar", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "khilaafah", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Companion who complained is unnamed. Saalim is taken as Saalim bin Abdullaah bin Umar, the son of Abdullaah, from the text; vocab has him with sahabi 'no'."
+ },
+ {
+  "id": "n01631",
+  "summary": "Aamir bin Sa'd reports that Sa'd bin Abi Waqqaas warned a man against reviling Ali, Talha and Zubayr, then prayed that Allaah would show the man His power; a camel then trampled him, and the people hailed Sa'd's prayer as accepted.",
+  "people": [
+    { "id": null, "name": "Aamir bin Sa'd", "role": "narrator", "sahabi": "unsure" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": "zubayr", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["duaa", "virtues-of-the-sahabah", "miracles-and-blessings"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "ok",
+  "notes": "Aamir bin Sa'd is not in vocab. The reviler is unnamed."
+ },
+ {
+  "id": "n01632",
+  "summary": "Mus'ab bin Sa'd reports that when a man reviled Ali, Sa'd bin Abi Waqqaas cursed him, a camel killed the man, and Sa'd then freed a slave and vowed never to curse anyone again.",
+  "people": [
+    { "id": null, "name": "Mus'ab bin Sa'd", "role": "narrator", "sahabi": "unsure" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["duaa", "freeing-slaves"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "ok",
+  "notes": "Mus'ab bin Sa'd is not in vocab (mus'ab-bin-umayr is a different person). The reviler is unnamed. The text also gives Sa'd's name as 'Sa'd bin Maalik', which matches sad-bin-abi-waqqaas."
+ },
+ {
+  "id": "n01633",
+  "summary": "Qais bin Abu Haazim reports that Sa'd bin Abi Waqqaas, finding a man reviling Ali in the Madinah marketplace, listed Ali's virtues and prayed that the gathering be shown Allaah's power; the ground swallowed the man's mount and he died.",
+  "people": [
+    { "id": "qais-bin-abu-haazim", "role": "subject" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "duaa", "miracles-and-blessings"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "ok",
+  "notes": "Qais is both witness and narrator, so tagged as subject. The reviler is unnamed. The Prophet is mentioned only in Sa'd's list of Ali's virtues."
+ },
+ {
+  "id": "n01634",
+  "summary": "Rabaah bin Haarith reports that Sa'eed bin Zaid objected to a Kufan who swore at Ali while sitting with Mughiera bin Shu'ba, and cited the Prophet's words that ten people, including Ali, would enter Paradise; a second report from Abdullaah bin Dhaalim says Sa'eed warned Mughiera's orators against reviling Ali.",
+  "people": [
+    { "id": null, "name": "Rabaah bin Haarith", "role": "narrator", "sahabi": "unsure" },
+    { "id": "mughiera-bin-shuba", "role": "subject" },
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": "ali", "role": "mentioned" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "uthmaan", "role": "mentioned" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": "zubayr", "role": "mentioned" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "mentioned" },
+    { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+    { "id": null, "name": "Abdullaah bin Dhaalim Maazini", "role": "narrator", "sahabi": "unsure" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "steadfastness"],
+  "new_themes": ["reviling the Companions"],
+  "boundary": "merged",
+  "notes": "Two reports: the second starts with 'Hadhrat Abdullaah bin Dhaalim Maazini narrates'. Mu'aawiya is tagged as Mu'aawiya bin Abi Sufyaan from context (he appointed Mughiera governor of Kufa), please confirm. Sa'eed is the ninth person to accept Islaam, which the text states. Rabaah bin Haarith is not in vocab (rabaah is unsure and a different name). The Kufan speaker is unnamed."
+ },
+ {
+  "id": "n01635",
+  "summary": "Ibn Seereen reports that Suhayb wept aloud over Umar's stabbing, and Umar reminded him of the Prophet's words that the person over whom people wail is punished. Abu Burdah reports the same. Miqdaam bin Ma'dikarib reports that Hafsa wailed, and Umar forbade her to wail over him.",
+  "people": [
+    { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": "suhayb", "role": "subject" },
+    { "id": null, "name": "Abu Burdah", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Miqdaam bin Ma'dikarib", "role": "narrator", "sahabi": "yes" },
+    { "id": "hafsa", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["death-and-burial", "virtues-of-the-sahabah"],
+  "new_themes": ["wailing over the dead", "grief at the death of a Companion"],
+  "boundary": "merged",
+  "notes": "Three reports (Ibn Seereen, Abu Burdah, Miqdaam). Abu Burdah is not confirmed as vocab abu-burda-bin-niyaar, so left as null. Ibn Seereen and Miqdaam are not in vocab. The text is partly garbled by OCR at 'daughter)' and 'gjggtg'."
+ },
+ {
+  "id": "n01636",
+  "summary": "Abdul Malik bin Zaid reports that Sa'eed bin Zaid wept, saying Islaam had suffered a void at Umar's death that would never be filled. Abu Waa'il reports that Ibn Mas'ood wept more than ever at Umar's death and said even thorny trees were distressed by it.",
+  "people": [
+    { "id": null, "name": "Abdul Malik bin Zaid", "role": "narrator", "sahabi": "unsure" },
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "virtues-of-the-sahabah"],
+  "new_themes": ["grief at the death of a Companion"],
+  "boundary": "merged",
+  "notes": "Two reports: the second begins 'Hadhrat Abu Waa'il reports'. Abdul Malik bin Zaid is not in vocab. The text is cut mid-quote ('even for a if I knew...'), which is OCR loss, not a narration cut."
+ },
+ {
+  "id": "n01637",
+  "summary": "Abu Uthmaan reports that when Umar heard of Nu'maan bin Muqarrin's death, he put his hands on his head and wept.",
+  "people": [
+    { "id": "abu-uthmaan", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "numaan-bin-muqarrin", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "virtues-of-the-sahabah"],
+  "new_themes": ["grief at the death of a Companion"],
+  "boundary": "ok",
+  "notes": "Vocab has two unsure entries that could be this narrator ('abu-uthmaan' and 'abu-uthmaan-ghassaani'); 'abu-uthmaan' was used, please check."
+ },
+ {
+  "id": "n01638",
+  "summary": "Abul Ash'ath San'aani reports that Thumaamah bin Adi, governor of San'aa, wept when he heard of Uthmaan's death, saying the caliphate on the pattern of prophethood had ended and that kingship and tyranny would follow.",
+  "people": [
+    { "id": null, "name": "Abul Ash'ath San'aani", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Thumaamah bin Adi", "role": "subject", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "death-and-burial"],
+  "new_themes": ["grief at the death of a Companion"],
+  "boundary": "ok",
+  "notes": "Thumaamah bin Adi is not in vocab (adi-bin-haatim is a different person). Abul Ash'ath is not in vocab."
+ },
+ {
+  "id": "n01639",
+  "summary": "Three reports on the death of Uthmaan: Zaid bin Thaabit wept for him on the day he was martyred in his home; Abu Hurayrah wept whenever it was mentioned; Abu Humayd Saa'idi, a Badr veteran, vowed never to laugh again until he met Allaah.",
+  "people": [
+    { "id": null, "name": "Zaid bin Ali", "role": "narrator", "sahabi": "unsure" },
+    { "id": "zaid-bin-thaabit", "role": "subject" },
+    { "id": "abu-saalih", "role": "narrator" },
+    { "id": "abu-hurayrah", "role": "subject" },
+    { "id": "yahya-bin-saeed", "role": "narrator" },
+    { "id": null, "name": "Abu Humayd Saa'idi", "role": "subject", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["martyrdom", "virtues-of-the-sahabah", "khilaafah"],
+  "new_themes": ["grief at the death of a Companion"],
+  "boundary": "merged",
+  "notes": "Three reports, each introduced by a new narrator (Zaid bin Ali, Abu Saalih, Yahya bin Sa'eed). Abu Humayd Saa'idi is not in vocab (abu-usayd-saaidi is a different person)."
+ },
+ {
+  "id": "n01640",
+  "summary": "Abu Sa'eed Khudri says that they had hardly left the burial when they found a change in their hearts.",
+  "people": [
+    { "id": "abu-saeed-khudri", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["prophets-final-illness", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The heading names Ubay and Anas, but only Abu Sa'eed's sentence is in the text, so the chunk looks cut. The burial is not named in the text; the themes come from the heading ('after the demise of'), so please check. Ubay and Anas are not tagged."
+ }
+]

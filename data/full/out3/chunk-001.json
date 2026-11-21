@@ -1,0 +1,581 @@
+[
+ {
+  "id": "n00002",
+  "summary": "When Abu Taalib was dying, the Quraysh complained to him about the Prophet's preaching, and the Prophet offered them the single statement Laa Ilaaha Illallaah, which they refused.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "abu-taalib", "role": "subject" },
+    { "id": "abu-jahal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "dawah-to-family", "opposition", "kalimah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00018",
+  "summary": "Amr bin al-Aas asks Umar what to do about a man who repeatedly left Islaam and returned to it, and Umar rules that he should be invited to Islaam again, then freed if he accepts or otherwise executed.",
+  "people": [
+    { "id": "amr-bin-al-aas", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["apostasy", "accepting-islaam", "dawah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The closing grading note on Ahmad's report and the reference to a parallel report from Miqdaad (via Tabraani) are reference lines; Miqdaad not tagged."
+ },
+ {
+  "id": "n00020",
+  "summary": "Abu Bakr, a close friend of the Prophet, accepts Islaam immediately when the Prophet calls him, and several leading Companions then follow him.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "uthmaan", "role": "mentioned" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": "zubayr", "role": "mentioned" },
+    { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+    { "id": "uthmaan-bin-madhoon", "role": "mentioned" },
+    { "id": "abu-ubaydah", "role": "mentioned" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "mentioned" },
+    { "id": "abu-salma", "role": "mentioned" },
+    { "id": "arqam", "role": "mentioned" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "ibn-ishaaq", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with the author's commentary on Ibn Is'haaq's wording; the Bukhari citation in the body is a reference and was not tagged."
+ },
+ {
+  "id": "n00049",
+  "summary": "The Prophet calls Abul Haysim and some young men of the Banu Abdil Ash'hal to Islaam, and Iyaas bin Muaadh accepts and dies reciting the Kalimah.",
+  "people": [
+    { "id": "mahmood-bin-labeed", "role": "narrator" },
+    { "id": "abul-haysim", "role": "subject" },
+    { "id": "iyaas-bin-muaadh", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "accepting-islaam", "delegations"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator printed as 'Mahmbod' (OCR); matched to mahmood-bin-labeed. Abul Haysim Anas bin Raafi is matched to abul-haysim (marked unsure in the list), not abul-haytham-bin-tayyihaan."
+ },
+ {
+  "id": "n00064",
+  "summary": "The Prophet asks the Banu Shaybaan to protect the Deen, Nu'maan bin Shareek pledges support, and Ali relates the Prophet's foretold victory over the Persians at Quraqir, after which the Banu Rabee'ah became Muslims.",
+  "people": [
+    { "id": "numaan-bin-shareek", "role": "subject" },
+    { "id": "ali", "role": "narrator" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "spread-of-islaam", "delegations"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Begins 'Another narration states', so the audience is not introduced in this entry. It also merges Ali's report with a further narration about Quraqir."
+ },
+ {
+  "id": "n00068",
+  "summary": "Taariq bin Abdillaah sees the Prophet calling people to say Laa Ilaaha Illallaah in the Dhul Majaaz market while Abu Lahab follows him and Abu Jahal throws sand at him, and a second narrator describes the Prophet's appearance.",
+  "people": [
+    { "id": "taariq-bin-abdillaah", "role": "narrator" },
+    { "id": "abu-lahab", "role": "subject" },
+    { "id": "abu-jahal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "opposition", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The last sentence is the author's cross-reference to another chapter. The second narrator (Banu Maalik bin Kinnana) is unnamed and not tagged."
+ },
+ {
+  "id": "n00103",
+  "summary": "Jaabir narrates that shortly before his death the Prophet sent letters to the emperors of Persia and Rome and to other rulers.",
+  "people": [
+    { "id": "jaabir", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "delegations"],
+  "new_themes": ["dawah to rulers"],
+  "boundary": "ok",
+  "notes": "The heading refers to the Alqama hadith but the text is a single sentence. The emperors are not named in the text, so none are tagged."
+ },
+ {
+  "id": "n00108",
+  "summary": "Ibn Abbaas narrates that the Prophet sent a letter to Kisra through the governor of Bahrain, that Kisra tore it up, and that the Prophet cursed him, as relayed by Ibn Musayyib.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "kisra", "role": "subject" },
+    { "id": "saeed-bin-musayyab", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "delegations", "opposition"],
+  "new_themes": ["dawah to rulers"],
+  "boundary": "ok",
+  "notes": "The text says it was 'probably' Ibn Musayyib who narrated the curse, so his narrator role is uncertain. The governor of Bahrain is unnamed."
+ },
+ {
+  "id": "n00116",
+  "summary": "Witnesses to the Najraan treaty carry the Prophet's letter back to Najraan, where Basheer (Abu Alqama) accepts Islaam after cursing the Prophet in a fall, the monk Ibn Abi Shimr goes to meet the Prophet, and the Prophet's letter of protection for the priests of Najraan is written by Mughiera.",
+  "people": [
+    { "id": "abu-sufyaan", "role": "mentioned" },
+    { "id": "ghaylaan-bin-amr", "role": "mentioned" },
+    { "id": "maalik-bin-auf", "role": "mentioned" },
+    { "id": "aqra-bin-haabis-handhali", "role": "mentioned" },
+    { "id": "mughiera-bin-shuba", "role": "subject" },
+    { "id": "basheer-bin-muaawiya", "role": "subject" },
+    { "id": "abul-haarith", "role": "subject" },
+    { "id": "ibn-abi-shimr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["delegations", "dawah", "accepting-islaam"],
+  "new_themes": ["protection of non-Muslims under treaty"],
+  "boundary": "ok",
+  "notes": "Basheer bin Mu'aawiya and Abu Alqama are the same man. Mughiera is matched from the line naming him as the letter's writer; the witness 'Mughiera' is assumed the same. The first high priest is unnamed until Abul Haarith. Garbled sentences on the high priest's kinship with Abu Alqama were not tagged. Al Bidaaya wan Nihaaya is a source reference, not a person."
+ },
+ {
+  "id": "n00124",
+  "summary": "Ma'mar, relaying from Ayyoob, Ikrimah and Zuhri, reports the Hudaybiyyah negotiations: Suhayl bin Amr objects to the opening formula and to the clauses, and the Prophet accepts his terms.",
+  "people": [
+    { "id": "mamar", "role": "narrator" },
+    { "id": "ayyoob", "role": "narrator" },
+    { "id": "ikrimah", "role": "narrator" },
+    { "id": "imaam-zuhri", "role": "narrator" },
+    { "id": "suhayl-bin-amr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hudaybiyyah", "delegations"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "CHECK: the text calls Ma'mar 'Hadhrat Ma'mar (RA)' and the list marks mamar as a Companion, but he relays from Ayyoob and Ikrama (Successors), so he is probably not a Companion. Ikrama is taken as ikrimah, not ikrama-bin-abi-jahal. The text ends mid-sentence inside a parenthesis."
+ },
+ {
+  "id": "n00164",
+  "summary": "Aslam relates that Umar made wudhu with water from an old Christian woman's house, invited her to Islaam, and when she said she was about to die, called on Allaah to witness.",
+  "people": [
+    { "id": "aslam", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The old woman is not named."
+ },
+ {
+  "id": "n00174",
+  "summary": "Amr bin Umayyah relates that Umayr bin Wahb, after accepting Islaam, invited Safwaan bin Umayyah to Islaam at the Hateem, and Safwaan stayed silent.",
+  "people": [
+    { "id": "amr-bin-umayyah-dhamri", "role": "narrator" },
+    { "id": "umayr-bin-wahab-jamahi", "role": "subject" },
+    { "id": "safwaan-bin-umayyah", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah", "accepting-islaam", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading says 'Comment of Hadhrat Umar' but the text does not mention Umar. The OCR drops the name of the person who first calls to Safwaan. The final sentence is a cross-reference."
+ },
+ {
+  "id": "n00192",
+  "summary": "Ziyaad bin Haarith Sudaa'ee accepts Islaam and his people follow; when the Prophet appoints him their leader and he asks for a share of zakaah, he withdraws the request after the Prophet's warnings, and the Prophet appoints another man from the delegation.",
+  "people": [
+    { "id": "ziyaad-bin-haarith-sudaaee", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "zakaah", "self-reliance", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ziyaad is both narrator and subject. An OCR heading interrupts the sentence about his pledge and was not tagged. The heading naming Abu Umaamah is an OCR artefact and was not tagged. The army commander and the delegate are unnamed."
+ },
+ {
+  "id": "n00209",
+  "summary": "Yazeed bin Abi Habeeb relates Umar's letter to Sa'd bin Abi Waqqaas ordering that enemies be invited to Islaam for three days before fighting, with the booty rules for those who accept before or after battle.",
+  "people": [
+    { "id": "yazeed-bin-abi-habeeb", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "sad-bin-abi-waqqaas", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00212",
+  "summary": "Sa'd bin Abi Waqqaas sends leading Companions to invite Rustam to Islaam at Qaadisiyyah; they tell him they are sure of victory, and Rustam recounts a dream in which the Persian weapons were handed to the Prophet and then to Umar.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "numaan-bin-muqarrin", "role": "subject" },
+    { "id": "furaat-bin-hayyaan", "role": "subject" },
+    { "id": "handhala-bin-rabee-tameemi", "role": "subject" },
+    { "id": "utaarid-bin-haajib", "role": "subject" },
+    { "id": "ashath-bin-qais", "role": "subject" },
+    { "id": "mughiera-bin-shuba", "role": "subject" },
+    { "id": "amr-bin-madikarib", "role": "subject" },
+    { "id": "rustam", "role": "subject" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["dawah-before-battle", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "No narrator is named. The Prophet appears only inside Rustam's dream."
+ },
+ {
+  "id": "n00245",
+  "summary": "Ubaadah bin Saamit relates that eleven men made the first Aqaba pledge, promising not to associate partners with Allaah, steal, commit adultery, slander, kill their children, or disobey the Prophet in good, and that the same men returned the next year.",
+  "people": [
+    { "id": "ubaadah-bin-saamit", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["bayah", "tawheed", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The other ten pledgers are unnamed."
+ },
+ {
+  "id": "n00249",
+  "summary": "Ka'b bin Maalik describes the Ansaar gathering at Aqaba with the Prophet and Abbaas, who asks them to guarantee his protection; Baraa bin Ma'roor pledges to protect him as they protect their families, and Abul Haytham bin Tayyihaan asks about the Jews and whether the Prophet will return to his people, and the Prophet answers that he shares their fate.",
+  "people": [
+    { "id": "kab-bin-maalik", "role": "narrator" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+    { "id": "baraa-bin-maroor", "role": "subject" },
+    { "id": "abul-haytham-bin-tayyihaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["bayah", "hijrah", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading says 'Seventy' but the text does not give that number."
+ },
+ {
+  "id": "n00263",
+  "summary": "Uqayla bint Ateeq describes her and her mother Qareera's pledge to the Prophet, which he took without touching their hands, and Umaymah bint Ruqayqah describes the women's pledge, which the Prophet confirmed by speech alone.",
+  "people": [
+    { "id": "uqayla-bint-ateeq-bin-haarith", "role": "subject" },
+    { "id": "qareera-bint-haarith-utwaariyyah", "role": "mentioned" },
+    { "id": "umaymah-bint-ruqayqah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["bayah", "tawheed"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Uqayla's and Umaymah's. Other women are unnamed."
+ },
+ {
+  "id": "n00268",
+  "summary": "Aa'isha relates that Hind bint Utba was told to go and dye her hands with henna before pledging, that she pledged to avoid shirk, theft, adultery and killing children, and that the Prophet called her gold bangles coals of Jahannam if their zakaah was not paid.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "hind-bint-utba", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["bayah", "zakaah", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading names Faatima bint Utba, but the text is about Hind; Faatima not tagged."
+ },
+ {
+  "id": "n00270",
+  "summary": "Usayd bin Abi Usayd Barraad relates from one of the women who pledged that the Prophet required them not to disobey him in good, scratch their faces, dishevel their hair, tear their collars or pray for destruction.",
+  "people": [
+    { "id": null, "name": "Usayd bin Abi Usayd Barraad", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["bayah", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Not in the approved list. Believed to be a Successor (Tabi'i), so sahabi set to no; please confirm. The woman who gave the report is unnamed."
+ },
+ {
+  "id": "n00275",
+  "summary": "Ibn Afeef recounts that Abu Bakr took allegiance from the Companions to obey Allaah, His Book and the Ameer, and that Ibn Afeef later came to pledge on the same terms and was accepted.",
+  "people": [
+    { "id": "ibn-afeef", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["bayah", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00278",
+  "summary": "Umayr bin Atiyya Laythi asks Umar to raise his hand so he can pledge to him as the Prophet's pledge was taken, and Umar says the pledge gives rights on both sides; Abdullaah bin Ukaym adds that he pledged to Umar with these hands.",
+  "people": [
+    { "id": "umayr-bin-atiyya-laythi", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-ukaym", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["bayah", "khilaafah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Umayr's, and the appended statement by Abdullaah bin Ukaym."
+ },
+ {
+  "id": "n00284",
+  "summary": "Aqeel bin Abi Taalib relates that the Quraysh complained to Abu Taalib about the Prophet's preaching, and when Abu Taalib asked him to stop, the Prophet said he could not abandon his mission; Abu Taalib then assured the Quraysh that his nephew never lies.",
+  "people": [
+    { "id": "aqeel-bin-abi-taalib", "role": "narrator" },
+    { "id": "abu-taalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "dawah-to-family", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Quraysh delegation is unnamed."
+ },
+ {
+  "id": "n00301",
+  "summary": "Urwa bin Zubayr relates the Prophet's journey to Taa'if after Abu Taalib's death, where three Thaqeef chiefs reject him, the crowd pelts him with stones, and Addaas, a Christian slave of Utba and Shayba, shows reverence after the Prophet speaks to him about Yunus.",
+  "people": [
+    { "id": "urwa-bin-zubayr", "role": "narrator" },
+    { "id": "abu-taalib", "role": "mentioned" },
+    { "id": "abd-yaaleel-bin-amr", "role": "subject" },
+    { "id": "habeeb-bin-amr", "role": "subject" },
+    { "id": "masood-bin-amr", "role": "subject" },
+    { "id": "utba-bin-rabeeah", "role": "subject" },
+    { "id": "shayba-bin-rabeeah", "role": "subject" },
+    { "id": "addaas", "role": "subject" },
+    { "id": "yunus", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["opposition", "dawah", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text does not say Addaas accepted Islaam, so acceptance is not tagged. Yunus is matched to the approved yunus entry (the Prophet Yunus)."
+ },
+ {
+  "id": "n00327",
+  "summary": "Uthmaan relates that while walking with the Prophet in Bat'haa they saw Ammaar and his parents tortured in the sun, Yaasir cried out, and the Prophet told the family to be patient and prayed for their forgiveness.",
+  "people": [
+    { "id": "uthmaan", "role": "narrator" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": "yaasir", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["patience", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ammaar's mother is not named in this text."
+ },
+ {
+  "id": "n00357",
+  "summary": "Nu'maan relates that Umar, when great wealth came in during his caliphate, recalled that the Prophet had been restless all day because he could not find even poor-quality dates to fill his stomach.",
+  "people": [
+    { "id": null, "name": "Nu'maan", "role": "narrator", "sahabi": "yes" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "prophets-character", "zuhd"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Begins 'In another narration'. Nu'maan is not given further, so he is not matched to a specific Nu'maan in the list (possibly Nu'maan bin Basheer); please check."
+ },
+ {
+  "id": "n00359",
+  "summary": "Aa'isha relates that a goat's leg sent by Abu Bakr's family was cut by her and the Prophet together, without a lantern.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "prophets-character", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The sentence on who held and who cut the leg is garbled in the source; the summary avoids choosing."
+ },
+ {
+  "id": "n00369",
+  "summary": "Anas relates that until his death the Prophet never ate from a table or ate bread made of finely ground flour, and another narration says he never even saw a roasted kid.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "zuhd", "prophets-character", "eating-and-drinking"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00377",
+  "summary": "Aa'isha says that the first calamity to befall this Ummah after its Nabi is overeating, because it makes bodies obese, hearts weak and carnal desires uncontrollable.",
+  "people": [
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["eating-and-drinking", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00390",
+  "summary": "Abu Hurayrah says that the only food he ate with the Prophet was dates and water, that they never saw wheat, and that their only clothing was the rough woollen shawls of the Bedouins.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "clothing", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris ('gjjjgijg') in the phrase naming the Prophet was ignored."
+ },
+ {
+  "id": "n00399",
+  "summary": "A narrator whose name is lost in the OCR relates that during the digging of the trench the Prophet went down with a stone tied to his stomach, after three days without food.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "jihaad"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The narrator appears only as 'Hadhrat (RA)' with the name missing, so no narrator is tagged. The text ends 'The Hadith continues in detail.' The event is the Battle of the Trench."
+ },
+ {
+  "id": "n00438",
+  "summary": "Urwa bin Zubayr relates the Prophet's arrival at Madinah: Zubayr met him with white clothing, the people welcomed him at Harra, he stayed with Banu Amr bin Awf, and he founded the Masjid on land bought from two orphans, carrying bricks himself.",
+  "people": [
+    { "id": "urwa-bin-zubayr", "role": "narrator" },
+    { "id": "zubayr", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": null, "name": "Sahl", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Suhayl", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "As'ad bin Zuraarah", "role": "mentioned", "sahabi": "yes" },
+    { "id": "ibn-shihaab", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["hijrah", "masjid"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "As'ad bin Zuraarah is not in the approved list under this spelling (not matched to sad-bin-zurarah). Sahl and Suhayl, the orphans, are not in the list. Ibn Shihaab is the Zuhri narrator, tagged as ibn-shihaab."
+ },
+ {
+  "id": "n00474",
+  "summary": "Saalih bin Basheer relates that his grandfather Fudayk asked whether a man who does not migrate is lost, and the Prophet told him that establishing salaah and paying zakaah while avoiding evil makes him a migrant; Ataa relates Aa'isha's view that compulsory hijrah had ended, though jihaad and intention remain.",
+  "people": [
+    { "id": "saalih-bin-basheer-bin-fudayk", "role": "narrator" },
+    { "id": "fudayk", "role": "subject" },
+    { "id": "ataa-bin-abi-rabaah", "role": "narrator" },
+    { "id": "ubayd-bin-umayr-laythi", "role": "mentioned" },
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hijrah", "jihaad"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Fudayk's hadith (through Saalih) and Aa'isha's statement (through Ataa)."
+ },
+ {
+  "id": "n00493",
+  "summary": "Jaabir relates that the Ansaar gave the Muhaajireen the larger share of their harvests, and after Khaybar the Ansaar, having fulfilled their duty, asked the Prophet for Jannah in return, which he granted.",
+  "people": [
+    { "id": "jaabir", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "generosity", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Ansaar are a group, not named. Khaybar is a place."
+ },
+ {
+  "id": "n00506",
+  "summary": "Anas relates that the Aws and Khazraj boasted of their Companions: the Aws named Handhala, Sa'd bin Mu'aadh, Aasim and Khuzayma, and the Khazraj named the four who memorised the whole Qur'aan, Zaid bin Thaabit, Ubay bin Ka'b, Mu'aadh bin Jabal and Abu Zaid.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "handhala-bin-raahib", "role": "mentioned" },
+    { "id": "sad-bin-muaadh", "role": "mentioned" },
+    { "id": "aasim-bin-thaabit-bin-abil-aflah", "role": "mentioned" },
+    { "id": "khuzayma-bin-thaabit", "role": "mentioned" },
+    { "id": "zaid-bin-thaabit", "role": "mentioned" },
+    { "id": "ubay-bin-kab", "role": "mentioned" },
+    { "id": "muaadh-bin-jabal", "role": "mentioned" },
+    { "id": "abu-zaid", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Aws and Khazraj are tribes, not tagged. Abu Zaid is named only as 'Abu Zaid' in the text."
+ },
+ {
+  "id": "n00507",
+  "summary": "Abdullaah bin Rabaah relates Abu Hurayrah's account of the conquest of Makkah: the Prophet had the Ansaar clear the Quraysh resisters, Abu Sufyaan asked whether the Quraysh would be wiped out, the Prophet promised safety to those who closed their doors or entered Abu Sufyaan's house, broke the idol at the Kabah, and told the Ansaar he had made hijrah towards Allaah and towards them.",
+  "people": [
+    { "id": "abdullaah-bin-rabaah", "role": "narrator" },
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+    { "id": "zubayr", "role": "subject" },
+    { "id": "khaalid-bin-waleed", "role": "subject" },
+    { "id": "abu-ubaydah", "role": "subject" },
+    { "id": "abu-sufyaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["conquest-of-makkah", "mercy-and-forgiveness", "tawheed", "hijrah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Rabaah opens the report with a meal at Mu'aawiya's camp in Ramadhaan; the Makkah account is Abu Hurayrah's. The Ansaar are a group, not named."
+ },
+ {
+  "id": "n00515",
+  "summary": "Anas relates that during the Prophet's final illness Abu Talha visited him, and the Prophet sent his salaam to the Ansaar, praising them as extremely chaste and patient.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "virtues-of-the-sahabah", "visiting-the-sick"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00533",
+  "summary": "Anas relates that when the Prophet consulted the Companions about marching to Badr, Abu Bakr and Umar spoke first, and then an Ansaar man pledged to follow the Prophet even to a distant city, refusing to say what the Banu Israa'eel said to Moosa.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "moosa", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["consultation", "jihaad", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Ansaar speaker is unnamed."
+ },
+ {
+  "id": "n00549",
+  "summary": "Abu Hurayrah says that no one would worship Allaah had Abu Bakr not become Khalifah, and that after the Prophet's death, when tribes renounced Islaam, Abu Bakr refused to recall Usaama bin Zaid's army of seven hundred, which went out, defeated the Romans and returned, and the wavering tribes stayed Muslim.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "usaama-bin-zaid", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "apostasy", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR drops words around the Prophet's death and the Sahabah's visit to Abu Bakr, so the text is garbled in places; the Prophet is referred to only as having died."
+ },
+ {
+  "id": "n00577",
+  "summary": "Sa'd bin Abi Waqqaas addresses the Muslims before Qaadisiyyah, reminding them of Allaah's promise to give them the land, of the Persian army of about two hundred thousand, and warning that losing courage would cost them their Aakhirah.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "yazdajird", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "steadfastness", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator chain at the start is garbled ('Hadhrat Muhammad, Talha and Hadhrat Ziyaad'); none tagged because the names are unclear. Yazdgird matched to yazdajird."
+ }
+]

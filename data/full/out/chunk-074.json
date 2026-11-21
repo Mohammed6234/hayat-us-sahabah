@@ -1,0 +1,525 @@
+[
+  {
+    "id": "n02921",
+    "summary": "Abu Moosa Ash'ari reports that whenever the Sahabah had doubts they referred them to Aa'isha and always found the answer with her, and Qabeesah bin Dhuwayb says she was among the most knowledgeable.",
+    "people": [
+      { "id": "abu-moosa-ashari", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "qabeesah-bin-dhuwayb", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports under one heading: Abu Moosa's, then Qabeesah bin Dhuwayb's."
+  },
+  {
+    "id": "n02922",
+    "summary": "Abu Salamah says no one knew the Sunnah better than Aa'isha or gave better opinions, and Masrooq affirms she knew the laws of inheritance, as senior Sahabah consulted her on it.",
+    "people": [
+      { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+      { "id": null, "name": "Masrooq", "role": "narrator", "sahabi": "no" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "'Hadhrat Abu Salamah' read as Abu Salamah bin Abdur Rahmaan, the narrator from Aa'isha, not Abu Salma bin Abdil Asad (the Companion); the identity is inferred from context. Masrooq is not in the approved list. Two separate reports."
+  },
+  {
+    "id": "n02923",
+    "summary": "Mahmood bin Labeed says that Aa'isha and Umm Salamah knew the most Ahadeeth of the Prophet's wives, that Aa'isha issued fatwas through the caliphates of Umar and Uthmaan, and that they sent to her to ask about Sunnah practices.",
+    "people": [
+      { "id": "mahmood-bin-labeed", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "umm-salama", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "uthmaan", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Umar and Uthmaan do send messengers, but the point is Aa'isha's authority, so they are marked mentioned."
+  },
+  {
+    "id": "n02924",
+    "summary": "Mu'aawiya praises Aa'isha's eloquence, and Urwa says she was the most proficient in jurisprudence, poetry, Arab history and medicine, having learnt medicine while treating the Prophet in his illness.",
+    "people": [
+      { "id": "urwa-bin-zubayr", "role": "narrator" },
+      { "id": null, "name": "Mu'aawiya", "role": "narrator", "sahabi": "yes" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "'Mu'aawiya (RA)' is not identified: the text does not say whether it is Mu'aawiya bin Abi Sufyaan or Mu'aawiya bin Haydah, so it is left unlinked. Urwa is read as Urwa bin Zubayr (Aa'isha's nephew, per the text). Two separate reports."
+  },
+  {
+    "id": "n02925",
+    "summary": "Abdullaah bin Mas'ood tells his students to be fountainheads of knowledge and lanterns of the night who stay unknown on earth but known in the heavens, and a similar report from Ali is given.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ali's report is a variant of Ibn Mas'ood's words."
+  },
+  {
+    "id": "n02926",
+    "summary": "Wahab bin Munabbih reports that Ibn Abbaas, on hearing a group debating predestination, went to them and described the scholars who are devoted to Allaah and fear Him.",
+    "people": [
+      { "id": null, "name": "Wahab bin Munabbih", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "ikrimah", "role": "mentioned" },
+      { "id": "taaoos", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "qadr", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The debaters are unnamed. Wahab bin Munabbih is not in the approved list."
+  },
+  {
+    "id": "n02927",
+    "summary": "Ibn Mas'ood warns that scholars who give knowledge for worldly gain lose esteem, quoting the Prophet that whoever makes the Aakhirah his only concern is relieved of his other worries; Ibn Abbaas says the same of those who seek the world through knowledge.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "sufyaan-bin-uyayna", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "sincerity", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports: Ibn Mas'ood's, then Ibn Abbaas's as reported by Sufyaan bin Uyaynah. The Prophet speaks within Ibn Mas'ood's words."
+  },
+  {
+    "id": "n02928",
+    "summary": "Ibn Mas'ood warns of a time when fabricated Sunnahs become the norm and resisting change is treated as heresy, when the trustworthy and the Fuqahaa become few, and when knowledge is sought for worldly motives.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["following-the-sunnah", "avoiding-fitnah"],
+    "new_themes": ["innovation in the Deen"],
+    "boundary": "ok",
+    "notes": "'Another narration' gives variant wording of the same saying. The people who asked are unnamed."
+  },
+  {
+    "id": "n02929",
+    "summary": "Abu Dharr says Ahadeeth must be learnt only for Allaah's pleasure; Ka'b says greed and begging remove knowledge from scholars' hearts, and Ali names seeking the Deen for worldly motives as a sign of the end of time, in answer to Umar.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "kab-ahbaar", "role": "subject" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sincerity", "seeking-knowledge", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three separate exchanges under one heading: Abu Dharr's saying; Umar and Ka'b; Umar and Ali. 'Hadhrat Ka'b' is read as Ka'b al-Ahbaar, from the text's description of him as learned in the previous scriptures."
+  },
+  {
+    "id": "n02930",
+    "summary": "Umar tells the people he fears two kinds of person for the Ummah: one who misinterprets the Qur'aan, and one who vies with his brother for kingship.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02931",
+    "summary": "Hasan narrates that Umar kept Ahnaf bin Qais back for a year when a delegation from Basrah came to him, then explained that he had feared the eloquent hypocrite and was now confident Ahnaf was not one.",
+    "people": [
+      { "id": "hasan-bin-abil-hasan", "role": "narrator" },
+      { "id": "ahnaf-bin-qais", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "delegations"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Hasan' is read as Hasan al-Basri (Hasan bin Abil Hasan), since the story is set in Umar's time in Basrah. The Prophet is subject only as the source of the warning Umar quotes."
+  },
+  {
+    "id": "n02932",
+    "summary": "Abu Uthmaan Nahdi reports that Umar warned from the pulpit against the hypocritical Aalim, defined as one who speaks what is right but does what is wrong.",
+    "people": [
+      { "id": null, "name": "Abu Uthmaan Nahdi", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hypocrisy", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not linked to the approved 'abu-uthmaan' entry, which is unidentified. Sahabi set to no from the text's usage (no RA marker)."
+  },
+  {
+    "id": "n02933",
+    "summary": "Umar says he always maintained that the one who will destroy this Ummah is a hypocrite with an educated tongue.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hypocrisy", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02934",
+    "summary": "Abu Uthmaan Nahdi reports Umar's sermon that what he fears most for the Ummah is the hypocritical Aalim, whose tongue is educated but whose heart and actions are ignorant.",
+    "people": [
+      { "id": null, "name": "Abu Uthmaan Nahdi", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hypocrisy", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n02932 with extra detail on the questioners' reply."
+  },
+  {
+    "id": "n02935",
+    "summary": "Hudhayfah warns against the places of tribulation, and Ibn Mas'ood identifies them as the doors of rulers, where a scholar confirms the rulers' lies and praises them, losing his Deen for their wealth.",
+    "people": [
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibn Mas'ood's second paragraph continues the same exchange."
+  },
+  {
+    "id": "n02936",
+    "summary": "Awf bin Maalik reports that the Prophet said Deeni knowledge will be lifted, and when Labeed and Ziyaad bin Labeed ask how, Shaddaad bin Aws explains that devotion will be the first thing to go.",
+    "people": [
+      { "id": "awf-bin-maalik-ashjaee", "role": "narrator" },
+      { "id": null, "name": "Labeed", "role": "subject", "sahabi": "yes" },
+      { "id": "shaddaad-bin-aws", "role": "subject" },
+      { "id": null, "name": "Ziyaad bin Labeed", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "prophethood"],
+    "new_themes": ["the lifting of knowledge"],
+    "boundary": "ok",
+    "notes": "Several variant narrations of one report are joined (Awf, then Shaddaad, then Ziyaad bin Labeed's question). Labeed and Ziyaad are not in the approved list; sahabi yes from their direct questions to the Prophet."
+  },
+  {
+    "id": "n02937",
+    "summary": "Abu Dardaa reports the Prophet asking what benefit the Torah and Injeel were to the Jews and Christians.",
+    "people": [
+      { "id": "abu-dardaa", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Continues the subject of n02936 as a similar narration. Themes are thin: the text is one short quotation."
+  },
+  {
+    "id": "n02938",
+    "summary": "Wahshi reports the Prophet saying the Jews and Christians paid no attention to their scriptures, and Ibn Labeed reports him saying they gained no benefit from them.",
+    "people": [
+      { "id": "wahshi-bin-harb", "role": "narrator" },
+      { "id": null, "name": "Ibn Labeed", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Ibn Labeed' is not in the approved list and could be Mahmood bin Labeed; left unlinked. '(S)' is OCR debris. Themes are thin: two short quotations."
+  },
+  {
+    "id": "n02939",
+    "summary": "Ibn Mas'ood says that the most serious cause of Islaam dwindling will be the death of the Ulema.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "avoiding-fitnah"],
+    "new_themes": ["the lifting of knowledge"],
+    "boundary": "ok",
+    "notes": "The people's answer that Islaam dwindles like faded dye is unnamed."
+  },
+  {
+    "id": "n02940",
+    "summary": "Sa'eed bin Musayyib reports that after Zaid bin Thaabit was buried, Ibn Abbaas said that a great deal of knowledge had just left them.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "zaid-bin-thaabit", "role": "mentioned" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'eed bin Musayyib speaks in the first person as someone who attended the funeral."
+  },
+  {
+    "id": "n02941",
+    "summary": "Ammaar bin Abu Ammaar reports that Ibn Abbaas, sitting by Zaid bin Thaabit's grave, pointed to it and said knowledge leaves when its bearers die, and gives variant wordings of this.",
+    "people": [
+      { "id": "ammaar-bin-abu-ammaar", "role": "narrator" },
+      { "id": "zaid-bin-thaabit", "role": "mentioned" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ammaar's identity is taken from the approved 'ammaar-bin-abu-ammaar' entry. Several variant narrations are joined."
+  },
+  {
+    "id": "n02942",
+    "summary": "Ibn Mas'ood says that a man forgets the knowledge he once learnt because of the sins he commits.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02943",
+    "summary": "Qaasim reports that Ibn Mas'ood said the problem with knowledge is forgetting it.",
+    "people": [
+      { "id": null, "name": "Qaasim", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Qaasim' is not identified: it could be Qaasim bin Muhammad, but the text does not say, so it is left unlinked. Sahabi set to no, as he narrates from Ibn Mas'ood. '(S)' is OCR debris."
+  },
+  {
+    "id": "n02944",
+    "summary": "Jaabir bin Abdullaah reports Hudhayfah saying that they were given this knowledge to bear and pass on, even though they do not practise it.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "dawah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02945",
+    "summary": "Abu Hurayrah reports the Prophet's du'aa seeking refuge from knowledge that does not benefit, a heart that does not submit, a soul never satiated, and a du'aa that is not answered.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'®' is OCR debris."
+  },
+  {
+    "id": "n02946",
+    "summary": "Thowbaan reports that when the Muhaajireen asked which wealth is best, Umar offered to ask the Prophet, who said the best is a tongue that engages in dhikr, a grateful heart and a believing wife.",
+    "people": [
+      { "id": "thowbaan", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "marriage", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Thowbaan is an actor (he follows Umar on his camel) and tells the story, so he is marked subject. The Muhaajireen are unnamed. 'Another narration' adds a wife who helps one prosper in the Aakhirah."
+  },
+  {
+    "id": "n02947",
+    "summary": "Ali reports the Prophet repeating a warning against hoarding gold and silver after the verse on them was revealed, which prompted the Sahabah to ask what wealth to keep and led Umar to offer to ask.",
+    "people": [
+      { "id": "ali", "role": "narrator" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["zakaah", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says the rest of the narration is the same as the previous one, so the dhikr answer is not stated here. Theme 'dhikr' comes from that cross-reference and the heading."
+  },
+  {
+    "id": "n02948",
+    "summary": "Abu Hurayrah reports that the Prophet, passing Humdaan on the road to Makkah, said the Mufarriddoon are in the lead, and explained that they are those who engage abundantly in dhikr.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Sahabah who asked are unnamed."
+  },
+  {
+    "id": "n02949",
+    "summary": "Another narration has the Prophet describing the Mufarriddoon as those intoxicated with Allaah's dhikr, which unburdens them of sins so they meet Allaah without a burden on the Day of Qiyaamah.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["dhikr", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n02948; the narrator is not named."
+  },
+  {
+    "id": "n02950",
+    "summary": "Mu'aadh bin Jabal reports that the Prophet asked where those in the lead are, and said they are those intoxicated with Allaah's dhikr, and that whoever wishes to eat from the gardens of Jannah should engage in dhikr abundantly.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Sahabah who replied are unnamed."
+  },
+  {
+    "id": "n02951",
+    "summary": "Several reports say the Prophet named those who engage most in dhikr as the highest in rank, the most rewarded and the most saved from Jahannam, above jihaad, and Abu Bakr told Umar that the people of dhikr had taken all the good, which the Prophet confirmed.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "muaadh-bin-anas", "role": "narrator" },
+      { "id": "abdullaah-bin-busr", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate reports are joined under one heading: Abu Sa'eed, Jaabir, Mu'aadh bin Anas and Abdullaah bin Busr, with Abu Bakr's remark to Umar. The unnamed Sahabi who asked about salaah and zakaah is left out. 'Rasulullaah tiiii' is OCR debris."
+  },
+  {
+    "id": "n02952",
+    "summary": "Mu'aadh bin Jabal recounts that the last advice the Prophet gave him when he left for Yemen was that the most beloved deed to Allaah is to die with the tongue moist with dhikr.",
+    "people": [
+      { "id": null, "name": "Maalik bin Makhaamir", "role": "narrator", "sahabi": "no" },
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Maalik bin Makhaamir is not in the approved list. Mu'aadh tells his own story, so he is marked subject. 'm' at the end is OCR debris."
+  },
+  {
+    "id": "n02953",
+    "summary": "Mu'aadh asks the Prophet which deed is best and closest to Allaah, and the narration is cut off before the answer.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off after the question ('W' is OCR debris), so the answer is not in this text. The themes come from the heading, not the fragment. The Prophet is not named in the fragment."
+  },
+  {
+    "id": "n02954",
+    "summary": "Umar advises against discussing people and urges constant dhikr of Allaah as a cure, and Uthmaan says that if their hearts were pure they would never tire of dhikr.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Umar's and Uthmaan's separate sayings are joined under one heading."
+  },
+  {
+    "id": "n02955",
+    "summary": "Ibn Mas'ood urges abundant dhikr of Allaah, saying it does not matter if one keeps company only with those who can help in dhikr.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02956",
+    "summary": "Salmaan says that a man who spends the night reciting the Book of Allaah and engaging in dhikr is better than one who spends it giving away fair-complexioned slave women.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02957",
+    "summary": "Ahmad bin Habeeb reports that Abu Dardaa advised a man to remember Allaah in ease so that Allaah remembers him in hardship, and to consider how soon worldly things pass.",
+    "people": [
+      { "id": null, "name": "Ahmad bin Habeeb bin Ubayd", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man who asked for advice is unnamed. Ahmad bin Habeeb is not in the approved list."
+  },
+  {
+    "id": "n02958",
+    "summary": "Abu Dardaa says the best deed is the dhikr of Allaah, better than jihaad or giving gold and silver in charity, and that those whose tongues are moist with dhikr will enter Jannah laughing.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The people who asked what the deed is are unnamed."
+  },
+  {
+    "id": "n02959",
+    "summary": "Mu'aadh bin Jabal says dhikr saves a person from Allaah's punishment more than any deed, even jihaad unless the sword breaks, and Abdullaah bin Amr says dhikr morning and evening is better than breaking swords or giving large sums in charity.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "abdullaah-bin-amr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Mu'aadh's saying and Abdullaah bin Amr's separate saying are joined under one heading. The questioner about jihaad is unnamed."
+  },
+  {
+    "id": "n02960",
+    "summary": "Anas reports the Prophet preferring to sit with people engaged in Allaah's dhikr between Fajr and sunrise, and between Asr and sunset, over freeing four slaves each time.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "freeing-slaves"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

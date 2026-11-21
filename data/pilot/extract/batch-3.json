@@ -1,0 +1,157 @@
+[
+  {
+    "id": "n00021",
+    "summary": "Umar goes to the Prophet after leaving his sister's house and accepts Islaam on the spot once the Prophet holds him and tells him what he calls to, while the author defers the account of his sister's and brother-in-law's suffering to a later chapter.",
+    "people": [
+      { "name": "Umar", "as_written": "Hadhrat Umar (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Thowbaan", "as_written": "Hadhrat Thowbaan", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Faatima", "as_written": "Hadhrat Umar's sister Faatima", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Sa'eed bin Zaid", "as_written": "her husband Sa'eed bin Zaid", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "sufferings of the sahabah for deen"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Opens with the author's cross-reference to a forthcoming chapter; the suffering narration it refers to is not included here."
+  },
+  {
+    "id": "n00022",
+    "summary": "Umar recounts that the Prophet took hold of his collar at a house near Safa, asked him to accept Islaam and prayed for his guidance, and that Umar testified there and then, so that the Muslims present shouted Allaahu Akbar loudly enough to be heard in the streets of Makkah.",
+    "people": [
+      { "name": "Umar", "as_written": "Hadhrat Umar (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Aslam", "as_written": "Hadhrat Aslam", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "dua for guidance"],
+    "events": [],
+    "places": ["Safa", "Makkah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00023",
+    "summary": "Uthmaan recounts that, while visiting his aunt, he questioned the talk about the Prophet's prophethood, and after the Prophet's words and his recitation of Surah Dhaariyaat on sustenance and Qiyaamah, he followed him out and accepted Islaam.",
+    "people": [
+      { "name": "Uthmaan", "as_written": "Hadhrat Uthmaan (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Amr bin Uthmaan", "as_written": "Hadhrat Amr bin Uthmaan", "role": "narrator", "sahabi": "unsure" },
+      { "name": "Arwa bint Abdil Muttalib", "as_written": "my aunt Arwa bint Abdil Muttalib", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "prophethood (nubuwwah)", "qiyaamah", "recitation of the quran"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "An editorial footnote (Tabraani, Haythami grading) is embedded mid-text and was ignored."
+  },
+  {
+    "id": "n00024",
+    "summary": "Ali accepts Islaam after the Prophet explains his call to worship Allaah alone and keeps it secret from Abu Taalib, and a second report has Ali recall his father's remark on seeing the Prophet pray in the Valley of Nakhla.",
+    "people": [
+      { "name": "Ali bin Abi Taalib", "as_written": "Hadhrat Ali (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Khadeeja", "as_written": "Hadhrat Khadeeja (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Ibn Is'haaq", "as_written": "Ibn is'haaq", "role": "narrator", "sahabi": "no" },
+      { "name": "Habba Urani", "as_written": "Habba Urani", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "secrecy in dawah", "salaah"],
+    "events": [],
+    "places": ["Valley of Nakhla"],
+    "boundary": "merged",
+    "notes": "Two reports are joined: Ibn Is'haaq's account of Ali's conversion, and a separate Habba Urani report of Ali chuckling on the mimbar and recalling Abu Taalib (the second begins 'Habba Urani narrates')."
+  },
+  {
+    "id": "n00025",
+    "summary": "Amr bin Abasa explains to Abu Umaama how he came to Islaam as the fourth person after meeting the Prophet in Makkah while he was in hiding, and then followed him to Madinah.",
+    "people": [
+      { "name": "Amr bin Abasa", "as_written": "Hadhrat Amr bin Abasa (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abu Umaama", "as_written": "Hadhrat Abu Umaama (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abu Bakr bin Abi Quhaafa", "as_written": "Hadhrat Abu Bakr bin Abi Quhaafa", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Bilaal", "as_written": "his slave Bilaal", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Shaddaad bin Abdillaah", "as_written": "Hadhrat Shaddaad bin Abdillaah", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "hijrah to madinah", "seeking knowledge from the prophet"],
+    "events": ["migration to Madinah"],
+    "places": ["Makkah", "Madinah"],
+    "boundary": "ends-mid",
+    "notes": "The text ends by saying a considerable portion of this Hadith is still to be mentioned; the next item (n00026) begins a different Hadith."
+  },
+  {
+    "id": "n00026",
+    "summary": "Amr bin Abasa recounts the Prophet's message of joining family ties, preserving life, keeping roads safe and breaking idols, and Khaalid bin Sa'eed's father beats and expels him for following the Prophet, then falls ill and says that if he recovers the Prophet's god will never be worshipped in Makkah.",
+    "people": [
+      { "name": "Amr bin Abasa", "as_written": "Hadhrat Amr bin Abasa (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Khaalid bin Sa'eed", "as_written": "Hadhrat Khaalid bin Sa'eed (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Sa'eed bin Al Aas bin Umayyah", "as_written": "his father Abu Uhayha", "role": "subject", "sahabi": "no" },
+      { "name": "Raafi", "as_written": "their slave Raafi", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting islaam despite family opposition", "dawah", "family ties", "sacrifice for islaam"],
+    "events": ["migration to Abyssinia"],
+    "places": ["Makkah", "Abyssinia"],
+    "boundary": "merged",
+    "notes": "Three reports are joined: Amr bin Abasa's account of the Prophet's message (its opening sentence is garbled OCR), Khaalid bin Sa'eed's break with his father, and a separate 'another report' of his father's illness and death. The Abyssinia clause is partly cut off in the OCR."
+  },
+  {
+    "id": "n00027",
+    "summary": "Dimaad, a healer from the Azd tribe who came to Makkah to cure the Prophet, accepts Islaam after hearing his sermon, and a separate report has Ali return camels taken from Dimaad's people.",
+    "people": [
+      { "name": "Dimaad", "as_written": "Hadhrat Dimaad (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" },
+      { "name": "Umayyah bin Khalaf", "as_written": "Umayyah", "role": "subject", "sahabi": "no" },
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba bin Rabee'ah", "role": "mentioned", "sahabi": "no" },
+      { "name": "Ali bin Abi Taalib", "as_written": "Hadhrat Ali (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abdur Rahmaan Adawi", "as_written": "Abdur Rahmaan Adawi", "role": "narrator", "sahabi": "unsure" },
+      { "name": "Abdullaah bin Abdir Rahmaan Adawi", "as_written": "Abdullaah bin Abdir Rahmaan Adawi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "accusations of madness against the prophet", "returning property taken from people"],
+    "events": [],
+    "places": ["Makkah", "Maqaam Ibraheem"],
+    "boundary": "merged",
+    "notes": "Dimaad's conversion, the gathering of Abu Jahal and his companions, and the separate report of Ali returning camels are joined; several sentences are garbled OCR and are read as far as they are clear."
+  },
+  {
+    "id": "n00028",
+    "summary": "Husayn, whom the Quraysh respected, is sent to speak to the Prophet, and after the Prophet asks which gods he calls on in hardship, he accepts Islaam, and his son Imraan kisses his head, hands and feet.",
+    "people": [
+      { "name": "Husayn", "as_written": "Hadhrat Husayn (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Imraan bin Husayn", "as_written": "his son Hadhrat Imraan (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "tawheed", "respect for parents"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "No narrator is named in the text; the opening word 'Husayn' is OCR debris from the heading."
+  },
+  {
+    "id": "n00029",
+    "summary": "Abu Tameema Hujaymi reports that a man of his tribe came to the Prophet, asked whom he prayed to, accepted Islaam at once, and was advised not to swear oaths, a counsel he kept.",
+    "people": [
+      { "name": "Abu Tameema Hujaymi", "as_written": "Hadhrat Abu Tameema Hujaymi (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "tawheed", "avoiding oaths"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "The unnamed man of his tribe is not listed."
+  },
+  {
+    "id": "n00030",
+    "summary": "Mu'aawiya bin Haydah says he had sworn never to come to the Prophet or accept his religion, but he came, asked what Islaam is, was told that those present must convey it to those absent, and then asked whether this is the Deen and was told it is.",
+    "people": [
+      { "name": "Mu'aawiya bin Haydah", "as_written": "Hadhrat Mu'aawiya bin Haydah (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "conveying islaam to others", "qiyaamah", "brotherhood between muslims"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "The text does not state explicitly that he accepted Islaam; it ends with his question and the Prophet's confirmation."
+  }
+]

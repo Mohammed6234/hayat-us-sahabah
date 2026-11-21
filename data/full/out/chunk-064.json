@@ -1,0 +1,559 @@
+[
+  {
+    "id": "n02521",
+    "summary": "Umar had the people straighten their rows and would not call the takbeer until he was told the rows were straight.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "naafi", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "enjoining-good"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02522",
+    "summary": "Uthmaan had the people straighten their rows, calling them by name, and Abu Uthmaan also saw that Umar, before leading, looked at the shoulders and feet of those behind him.",
+    "people": [
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Abu Uthmaan Nahdi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "enjoining-good"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "merged",
+    "notes": "Two reports: Uthmaan's instruction on the rows, and Abu Uthmaan's observation of Umar. Abu Uthmaan Nahdi is not matched to the approved 'abu-uthmaan' entry."
+  },
+  {
+    "id": "n02523",
+    "summary": "Abu Nadhar reports that Umar took people's names to move them forward or back to straighten the rows, saying Allaah wants them to follow the way of the angels' rows.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Abu Nadhar", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "enjoining-good"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02524",
+    "summary": "Maalik recounts how Uthmaan, while Maalik was asking him for an allowance, straightened pebbles with his shoe and only then had the rows made straight before calling the takbeer, and that Ali told worshippers straight rows bring straight hearts.",
+    "people": [
+      { "id": null, "name": "Maalik", "role": "subject", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "enjoining-good"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "merged",
+    "notes": "Maalik's own account, followed by a separate saying of Ali. Maalik is too general a name to match an approved entry."
+  },
+  {
+    "id": "n02525",
+    "summary": "Ibn Mas'ood says the rows were always completed before salaah began and that those who advance to the first row earn Allaah's mercy, and a report of Aamir bin Mas'ood racing for the first row recalls the Prophet's saying about its value.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Abdul Azeez bin Rufay", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Aamir bin Mas'ood Qurashi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "merged",
+    "notes": "Ibn Mas'ood's sayings and the report from Abdul Azeez bin Rufay. The heading's mention of Ibn Abbaas has no matching text here."
+  },
+  {
+    "id": "n02526",
+    "summary": "Ibn Abbaas tells the people to always stand in the first row, on its right side, and not to form rows between pillars.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "enjoining-good"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02527",
+    "summary": "Qais bin Ubaadah was pushed out of the first row in Madinah, by Umar in one account and by Ubay bin Ka'b in another, and each explained the Prophet's ruling that only the Muhaajireen and Ansaar should occupy it.",
+    "people": [
+      { "id": null, "name": "Qais bin Ubaadah", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "good-character"],
+    "new_themes": ["rows in salaah"],
+    "boundary": "ok",
+    "notes": "The second account is a variant of the same incident."
+  },
+  {
+    "id": "n02528",
+    "summary": "Several reports describe the Prophet hearing people's needs even after the iqaamah had been called, and Anas says he was the most compassionate of people, staying with a Bedouin who held his clothes until the request was met.",
+    "people": [
+      { "id": null, "name": "Usaamah bin Umayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character", "kindness"],
+    "new_themes": ["attending to people's needs"],
+    "boundary": "merged",
+    "notes": "Four reports: Usaamah, Anas, Urwa, and Anas again. Urwa is too general a name to match an approved entry."
+  },
+  {
+    "id": "n02529",
+    "summary": "Abu Uthmaan Nahdi says people kept Umar talking about their needs even as salaah was about to begin, and Moosa bin Talha heard Uthmaan asking people about their conditions and market prices while the iqaamah was called.",
+    "people": [
+      { "id": null, "name": "Abu Uthmaan Nahdi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Moosa bin Talha", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": ["attending to people's needs"],
+    "boundary": "merged",
+    "notes": "Two reports, followed by a cross-reference to the Maalik report, which is not repeated here."
+  },
+  {
+    "id": "n02530",
+    "summary": "After accepting Islaam, Abu Sufyaan watched the Sahabah follow the Prophet in salaah with great discipline, and when he called it a kingdom, Abbaas replied that it was Nubuwwah.",
+    "people": [
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "accepting-islaam", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Opens with a cross-reference to earlier chapters; the report itself is complete."
+  },
+  {
+    "id": "n02531",
+    "summary": "Maymoona relates that the Muslims competed for the water the Prophet had used for wudhu, and Abu Sufyaan called it a kingdom, which Abbaas corrected to Nubuwwah.",
+    "people": [
+      { "id": "maymoona-bint-haarith", "role": "narrator" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "salaah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Maymoona is tagged as Maymoona bint Haarith, the Prophet's wife, from context."
+  },
+  {
+    "id": "n02532",
+    "summary": "Urwa relates that Abu Sufyaan saw the Sahabah hurrying to purify themselves and bowing and prostrating exactly as the Prophet did, and Abbaas said they would obey him even if told to give up food and drink.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Urwa is too general a name to match an approved entry."
+  },
+  {
+    "id": "n02533",
+    "summary": "Umar began leading the salaah during the Prophet's final illness while Abu Bakr was absent, and when the Prophet learned this he had Abu Bakr lead, saying that neither Allaah nor the Muslims could accept otherwise.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "ibn-zamah", "role": "subject" },
+      { "id": "bilaal", "role": "mentioned" },
+      { "id": "yusuf", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-final-illness", "khilaafah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "Cross-reference to Aa'isha's account, a report from Abdullaah bin Zam'ah (tagged to the approved 'ibn-zamah'), and a reference to a Bukhaari report, which is not tagged. Bukhaari is a reference-line scholar."
+  },
+  {
+    "id": "n02534",
+    "summary": "When the Prophet heard Umar's voice in salaah he angrily declared that only Abu Bakr should lead, and Abu Ubaydah, Ali and Zubayr later cited this to support Abu Bakr's leadership.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["khilaafah", "salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "Three parts: the Prophet's words, a cross-reference to Abu Ubaydah's statement, and a cross-reference to Ali and Zubayr's statement. Abu Quhaafah is the patronymic of Abu Bakr here and is not tagged separately."
+  },
+  {
+    "id": "n02535",
+    "summary": "After the Prophet's death the Ansaar proposed one Ameer from them and one from the Muhaajireen, but Umar reminded them that the Prophet had placed Abu Bakr forward in salaah, and they said they would never put themselves ahead of him.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02536",
+    "summary": "Ali says that because the Prophet chose Abu Bakr to lead the salaah while Ali was present and well, he is content to accept Abu Bakr as Khalifah for worldly affairs too.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["khilaafah", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02537",
+    "summary": "Salmaan Faarsi refused to lead Arab companions in salaah, saying non-Arabs could not lead Arabs, and when a man led four rakaahs on a journey, Salmaan said two would have been enough.",
+    "people": [
+      { "id": "abu-layla-kindi", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "humility"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02538",
+    "summary": "Abu Sa'eed, a slave of the Banu Usayd, hosted a meal for Abu Dharr, Hudhayfah and Ibn Mas'ood, and when salaah began they confirmed the host's right to lead, so Abu Sa'eed, though a slave, led them.",
+    "people": [
+      { "id": null, "name": "Abu Sa'eed", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": null, "name": "Hudhayfah", "role": "subject", "sahabi": "yes" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "slaves-and-servants", "humility"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": "Abu Sa'eed is a freed slave of the Banu Usayd and is not matched to Abu Sa'eed Khudri. Hudhayfah is not matched because the text gives only the first name; Hudhayfa bin Yamaan and Hudhayfa bin Mihsin are both approved, so the reviewer should decide."
+  },
+  {
+    "id": "n02539",
+    "summary": "Naafi reports that Abdullaah bin Umar declined to lead in a Madinah masjid whose imam was a slave, and Abdullaah bin Handhala reports that Qais bin Sa'd had one of his slaves lead the salaah in his house, following the Prophet's ruling that the householder has the right to lead.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "abdullaah-bin-handhala", "role": "narrator" },
+      { "id": "qais-bin-sad-bin-ubaadah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "slaves-and-servants", "humility"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "Two reports: Naafi's and Abdullaah bin Handhala's."
+  },
+  {
+    "id": "n02540",
+    "summary": "Ibn Mas'ood and Abu Moosa each urged the other to lead the salaah at Abu Moosa's house, and Abu Moosa, who led, had taken off his shoes, which Ibn Mas'ood asked about.",
+    "people": [
+      { "id": "alqama", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "moosa", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "hospitality", "humility"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02541",
+    "summary": "Ibn Mas'ood reminds Abu Moosa that the Sunnah is for the owner of the house to lead, but Abu Moosa refused until one of their slaves went forward.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah", "slaves-and-servants"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": "Another account of the same incident as n02540."
+  },
+  {
+    "id": "n02542",
+    "summary": "Furaat bin Hayyaan asked Handhala bin Rabee to lead the salaah in his masjid, and when Handhala refused, Furaat said the Prophet had praised Handhala after sending him as a spy to Taa'if, so Handhala led.",
+    "people": [
+      { "id": null, "name": "Qais bin Zuhayr", "role": "narrator", "sahabi": "yes" },
+      { "id": "handhala-bin-rabee-tameemi", "role": "subject" },
+      { "id": "furaat-bin-hayyaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "humility", "virtues-of-the-sahabah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02543",
+    "summary": "Abdur Rahmaan bin Abi Layla reports that Umar objected when Naafi bin Alqama, governor of Makkah, appointed a man from among the slaves, Abdur Rahmaan bin Abzah, to lead the salaah, and was satisfied when Naafi explained he was the best reciter of the Qur'aan.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-abi-layla", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Naafi bin Alqama", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdur Rahmaan bin Abzah", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan", "slaves-and-servants"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": "Naafi bin Alqama is not matched to the approved 'naafi' entry, which is a different name."
+  },
+  {
+    "id": "n02544",
+    "summary": "At a Hajj gathering in Makkah, Miswar bin Makhrama pulled back a non-Arabic-speaking man of the Makhzoom family who was leading the salaah, because his unclear recitation could be copied by pilgrims, and Umar, after questioning him in Madinah, approved.",
+    "people": [
+      { "id": null, "name": "Ubayd bin Umayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "miswar-bin-makhrama", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Abu Saa'ib Makhzoomi", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": "Ubayd bin Umayr is not matched to the approved 'ubayd-bin-umayr-laythi' entry because the text does not give the fuller name. Abu Saa'ib Makhzoomi is named only as the head of the family of the man who led."
+  },
+  {
+    "id": "n02545",
+    "summary": "Talha bin Ubaydullaah asked the congregation after leading the salaah whether they were pleased with it, recalling the Prophet's warning that the salaah of a leader whom the people dislike does not even pass his ears, let alone reach the heavens.",
+    "people": [
+      { "id": "talha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "muslim-rights"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02546",
+    "summary": "Anas refused to pray behind Umar bin Abdul Azeez, and Abu Ayyoob Ansaari refused to pray behind Marwaan bin Hakam, each saying he would only follow an imam whose salaah matched the Prophet's.",
+    "people": [
+      { "id": "umar-bin-abdul-azeez", "role": "subject" },
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "marwaan", "role": "subject" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "Two parallel reports, one from Anas and one from Abu Ayyoob."
+  },
+  {
+    "id": "n02547",
+    "summary": "Abu Jaabir Waalidi asked Abu Hurayrah whether his salaah matched the Prophet's, and Abu Hurayrah said it did but was shorter, with the standing as brief as the time a muezzin takes to come down from the minaret.",
+    "people": [
+      { "id": null, "name": "Abu Jaabir Waalidi", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "A second report follows, in which Abu Jaabir saw Abu Hurayrah perform a very short salaah."
+  },
+  {
+    "id": "n02548",
+    "summary": "Anas says the Prophet's salaah was so brief that people would criticise anyone who copied it, and Adi bin Haatim, after an imam prolonged his sitting, led a brief salaah in the Prophet's manner; Anas refused to follow imams who prolonged it until Umar bin Abdul Azeez stopped the practice.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "adi-bin-haatim", "role": "subject" },
+      { "id": "umar-bin-abdul-azeez", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah", "khilaafah"],
+    "new_themes": ["leading the salaah"],
+    "boundary": "merged",
+    "notes": "Anas's statement, the Adi bin Haatim report, and the closing note on Umar bin Abdul Azeez. The passage is garbled by OCR mid-sentence, so the link between the Adi report and the Umayyad practice is inferred."
+  },
+  {
+    "id": "n02549",
+    "summary": "Aa'isha says that after bathing, the Prophet would leave for salaah when Bilaal called the adhaan, and she would hear him weeping in salaah.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "bilaal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "fear-of-allaah", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02550",
+    "summary": "Aa'isha describes a night when the Prophet wept in salaah until the ground around him was soaked, and when Bilaal asked why, he said he should be a grateful slave after a verse was revealed to him; Mutarraf's father heard the weeping like a grindstone in his chest.",
+    "people": [
+      { "id": null, "name": "Ubayd bin Umayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "bilaal", "role": "subject" },
+      { "id": null, "name": "Mutarraf", "role": "narrator", "sahabi": "unsure" },
+      { "id": "father-of-mutarrif", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "fear-of-allaah", "gratitude", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Covers Aa'isha's account, a separate report from Mutarraf's father, and a variant of the sound. Mutarraf is too general a name to match an approved entry."
+  },
+  {
+    "id": "n02551",
+    "summary": "Abdullaah bin Shaddaad says he heard Umar weeping aloud in the Fajr salaah while reciting Surah Yusuf, when he reached the verse about complaining of sorrow to Allaah.",
+    "people": [
+      { "id": "abdullaah-bin-shaddaad", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "weeping-and-grief", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02552",
+    "summary": "Abdullaah bin Umar says that when he prayed behind Umar he could hear Umar's weeping from three rows back.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02553",
+    "summary": "Sahl bin Sa'd says that Abu Bakr could not be distracted while performing salaah.",
+    "people": [
+      { "id": "sahal-bin-sad", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02554",
+    "summary": "Mujaahid says that Abdullaah bin Zubayr stood as still as a stick in salaah, as Abu Bakr used to do, and that this is what devotion in salaah means.",
+    "people": [
+      { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The second paragraph repeats the first with an added 'it is said' remark. Mujaahid is too general a name to match an approved entry."
+  },
+  {
+    "id": "n02555",
+    "summary": "Several reports describe Abdullaah bin Zubayr standing motionless in salaah, and Abdullaah bin Umar walking to salaah so slowly, and facing the Qibla so carefully, that even his thumbs were turned towards it.",
+    "people": [
+      { "id": "muhammad-bin-munkadir", "role": "narrator" },
+      { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": null, "name": "Zaid bin Abdullaah Shaybaani", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Hibbaan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Four reports in a row: Ibnul Munkadir (tagged to muhammad-bin-munkadir), Ataa, Zaid bin Abdullaah Shaybaani, and Hibbaan. Ataa, Zaid and Hibbaan are not matched to approved entries."
+  },
+  {
+    "id": "n02556",
+    "summary": "Taa'oos says he had never seen anyone as careful to face the Qibla in salaah as Abdullaah bin Umar, whose face, palms and feet all faced it.",
+    "people": [
+      { "id": "taaoos", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02557",
+    "summary": "Abu Burdah prayed beside Abdullaah bin Umar and heard him ask Allaah in sajdah to make Himself the most beloved and most feared to him, and heard him say he hoped each salaah would atone for his sins.",
+    "people": [
+      { "id": "abu-burdah", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02558",
+    "summary": "A'mash says that when Abdullaah bin Mas'ood prayed he was so still that he looked like a discarded piece of cloth.",
+    "people": [
+      { "id": "amash", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02559",
+    "summary": "Ummu Roomaan says Abu Bakr sternly reprimanded her for leaning in salaah, quoting the Prophet that one should stand at ease and not lean as the Jews do, since being at ease completes the salaah.",
+    "people": [
+      { "id": "ummu-roomaan", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "family", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02560",
+    "summary": "Aa'isha lists the optional salaahs the Prophet performed: four rakaahs before Zuhr at home, two after Zuhr, Maghrib and Isha, nine at night including Witr, and two before Fajr.",
+    "people": [
+      { "id": "abdullaah-bin-shaqeeq", "role": "narrator" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

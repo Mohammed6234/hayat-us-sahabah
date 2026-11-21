@@ -1,0 +1,532 @@
+[
+  {
+    "id": "n02561",
+    "summary": "Aa'isha says the Prophet gave no optional salaah more importance than the two Rakaahs of Fajr.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02562",
+    "summary": "Aa'isha says the Prophet never omitted the Fajr and Zuhr sunnahs, and Bilaal reports that the Prophet came out late for Fajr because he was finishing the two Fajr Rakaahs and would not leave them even when the sky was bright.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "merged",
+    "notes": "Two reports under one item: Aa'isha's general statement, then Bilaal's account introduced by 'In another narration'."
+  },
+  {
+    "id": "n02563",
+    "summary": "Qaaboos reports Aa'isha's answer that the optional salaah the Prophet kept most consistently was the four Rakaahs before Zuhr, and Abdullaah bin Saa'ib and Ali each report the Prophet's sunnah salaahs around Zuhr.",
+    "people": [
+      { "id": null, "name": "Qaaboos", "role": "narrator", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Abdullaah bin Saa'ib", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "merged",
+    "notes": "Three separate reports under one heading. Qaaboos's father is unnamed and left out. Qaaboos's and Abdullaah bin Saa'ib's status is not stated in the text."
+  },
+  {
+    "id": "n02564",
+    "summary": "Aa'isha says that if the Prophet could not pray the four Rakaahs before Zuhr he would make them up afterwards, and Abu Ayyoob reports the Prophet's regular practice of the four before Zuhr and his reason for it.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abu-ayyoob-ansaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ends-mid",
+    "notes": "Text cuts off mid-sentence ('during this')."
+  },
+  {
+    "id": "n02565",
+    "summary": "Ali says the Prophet prayed four Rakaahs before Asr, giving salaam between each pair to the angels and the believers.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02566",
+    "summary": "Ali reports, in another narration, that the Prophet prayed two Rakaahs before Asr.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02567",
+    "summary": "Abdullaah bin Abbaas reports that the Prophet prayed two Rakaahs after Maghrib, reciting for so long that the people in the masjid had dispersed by the time he finished.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02568",
+    "summary": "Sa'eed bin Musayyib reports Umar saying that the two Rakaahs before Fajr are dearer to him than red camels.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02569",
+    "summary": "Abdur Rahmaan bin Abdullaah reports finding Umar praying before Zuhr, and Umar says the prayer counts as part of the night prayer.",
+    "people": [
+      { "id": null, "name": "Abdur Rahmaan bin Abdullaah", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": "'Abdur Rahmaan bin Abdullaah' is not in the approved list and the text does not say which Abdur Rahmaan he is."
+  },
+  {
+    "id": "n02570",
+    "summary": "Abdullaah bin Utba says he prayed four Rakaahs with Umar in Umar's house before Zuhr.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Utba", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": "Not linked to 'utba-bin-abd' or 'abdullaah-bin-utba-bin-masood', which are different people."
+  },
+  {
+    "id": "n02571",
+    "summary": "Hudhayfa bin Usayd reports seeing Ali pray four long Rakaahs after the sun passes its zenith, and Ali says he saw the Prophet pray the same salaah.",
+    "people": [
+      { "id": null, "name": "Hudhayfa bin Usayd", "role": "subject", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-ayyoob-ansaari", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": "The text ends 'the rest of the Hadith is similar to the narration of Abu Ayyoob' and does not give the rest here."
+  },
+  {
+    "id": "n02572",
+    "summary": "Abdullaah bin Yazeed reports, from someone close to Ibn Mas'ood, that Ibn Mas'ood prayed four Rakaahs after noon reciting two long surahs, and then left for the masjid fully dressed when the adhaan was called.",
+    "people": [
+      { "id": "abdullaah-bin-yazeed", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": "The person close to Ibn Mas'ood is unnamed and left out."
+  },
+  {
+    "id": "n02573",
+    "summary": "Aswad, Murra and Masrooq report Ibn Mas'ood saying that the four Rakaahs before Zuhr are the only daytime salaah equal to night prayer, because they have always been counted as equal to Tahajjud.",
+    "people": [
+      { "id": null, "name": "Aswad", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Murra", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Masrooq", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["sunnah salaahs", "tahajjud"],
+    "boundary": "ok",
+    "notes": "The second paragraph repeats and extends the first saying. The three narrators are named without patronymics; 'no' reflects that they are followers, not Companions."
+  },
+  {
+    "id": "n02574",
+    "summary": "Baraa and Abdullaah bin Umar are both reported to have prayed the Sunnah Rakaahs, and Naafi reports that Ibn Umar prayed eight Rakaahs before Zuhr and four after, while another account gives twelve before Zuhr.",
+    "people": [
+      { "id": "baraa-bin-aazib", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "naafi", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["sunnah salaahs"],
+    "boundary": "ok",
+    "notes": "'Hadhrat Baraa (RA)' is linked to Baraa bin Aazib; the text gives no patronymic. The two accounts of Ibn Umar's Zuhr Sunnah are not reconciled in the text."
+  },
+  {
+    "id": "n02575",
+    "summary": "Ali says the Prophet urged him never to give up the four Rakaahs before Asr, Abu Faakhtah reports Ali calling the time between Maghrib and Isha 'salaah of negligence', and Ibn Umar begins to say that whoever prays four Rakaahs after Maghrib is like someone fighting battle after battle.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-faakhita", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["sunnah salaahs", "nawaafil between maghrib and isha"],
+    "boundary": "ends-mid",
+    "notes": "Text cuts off mid-sentence after '(in the'. It also opens with a heading fragment ('and Isha Salaahs'), so the start is fragmentary too."
+  },
+  {
+    "id": "n02576",
+    "summary": "Abdullaah bin Abul Qais reports Aa'isha telling him never to leave the Qiyaamul Layl, because the Prophet never left it, even when he was ill or very tired and then prayed it sitting.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Abul Qais", "role": "narrator", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ends-mid",
+    "notes": "Text cuts off after 'performing it sitting down rather that leaving'."
+  },
+  {
+    "id": "n02577",
+    "summary": "Jaabir says Qiyaamul Layl first became compulsory for the Companions with the revelation of Surah Muzammil, so long that their feet swelled, until Allaah granted a concession.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02578",
+    "summary": "Sa'eed bin Hishaam, after taking his wife back, asks Ibn Abbaas and then Aa'isha about the Prophet's night prayer and Witr, and Aa'isha describes the Prophet's Witr of eleven and then nine Rakaahs and his habit of making up missed Qiyaam.",
+    "people": [
+      { "id": null, "name": "Sa'eed bin Hishaam", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": null, "name": "Hakeem bin Aflah", "role": "subject", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["tahajjud", "witr"],
+    "boundary": "merged",
+    "notes": "Several linked accounts in one item: Sa'eed's divorce and remarriage, Ibn Abbaas, Hakeem, and Aa'isha's answers. Sa'eed bin Hishaam and Hakeem bin Aflah are not in the approved list and their status is not stated. 'Aamir', the father named as 'son of Aamir', is a lineage name and left out."
+  },
+  {
+    "id": "n02579",
+    "summary": "Ibn Abbaas reports that when the start of Surah Muzammil was revealed the Companions stood in prayer as long as they did in Ramadhaan, and a year passed between the first and last parts of the surah.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": "The heading mentions Witr, but the text is about night standing (Qiyaam)."
+  },
+  {
+    "id": "n02580",
+    "summary": "Yahya bin Sa'eed reports that Abu Bakr prayed Witr at the start of the night and, when he rose for Tahajjud, prayed in units of two Rakaahs.",
+    "people": [
+      { "id": "yahya-bin-saeed", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["tahajjud", "witr"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02581",
+    "summary": "Aslam reports that Umar prayed for a long time at night and, when half the night had passed, woke his family for prayer while reciting the verse that tells him to order his family to pray.",
+    "people": [
+      { "id": "aslam", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "family"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": "The OCR drops the surah name; the verse is Surah Taha 20:132 by its wording."
+  },
+  {
+    "id": "n02582",
+    "summary": "Hasan reports that Uthmaan bin Abul Aas, who had married one of Umar's widows, asked her about Umar's night worship, and she described how Umar dipped his hand in water, made dhikr and dozed until it was time for Tahajjud.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan-bin-abil-aas", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-buraydah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship", "dhikr"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": "'Hasan' is not identified (the text does not say whether it is Hasan al-Basri, approved as 'hasan-bin-abil-hasan', or another). 'Ibn Buraydah' is linked to Abdullaah bin Buraydah, which the text does not state. The daughter of Uthmaan who passed the account on, and the widow, are unnamed and left out."
+  },
+  {
+    "id": "n02583",
+    "summary": "Sa'eed bin Musayyib reports that Umar loved to pray in the middle of the night.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02584",
+    "summary": "Naafi reports that Ibn Umar prayed for a long time at night, repeatedly asking Naafi whether the last part of the night had come, and then sat making istighfaar and du'aa until dawn.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "duaa"],
+    "new_themes": ["tahajjud"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02585",
+    "summary": "Muhammad reports that Ibn Umar began prayer whenever he woke in the night, and Abu Ghaalib reports Ibn Umar urging him to pray before dawn, saying that Surah Ikhlaas is equal to a third of the Qur'aan.",
+    "people": [
+      { "id": null, "name": "Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "abu-ghaalib", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["tahajjud"],
+    "boundary": "merged",
+    "notes": "Two reports joined: Muhammad's single line, then Abu Ghaalib's account. The text does not say which Muhammad this is."
+  },
+  {
+    "id": "n02586",
+    "summary": "Alqama bin Qais describes how Ibn Mas'ood prayed through the night, reciting steadily and finishing with Witr near dawn, and Taariq bin Shihaab reports Salmaan's advice to keep the five Fardh salaahs and to avoid haste in worship.",
+    "people": [
+      { "id": null, "name": "Alqama bin Qais", "role": "subject", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "taariq-bin-shihaab", "role": "subject" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["tahajjud"],
+    "boundary": "merged",
+    "notes": "Two reports joined: Alqama's and Taariq's. 'Alqama bin Qais' is not linked to the approved 'alqama' entry, which is marked as a Companion without a patronymic; please check. Taariq's entry is 'unsure' in the approved list."
+  },
+  {
+    "id": "n02587",
+    "summary": "Ummu Haani reports that when Makkah was conquered the Prophet bathed and then prayed eight Rakaahs of Duhaa, and Aa'isha says he usually prayed four but sometimes more.",
+    "people": [
+      { "id": "ummu-haani", "role": "subject" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abu-taalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "merged",
+    "notes": "Two reports under one heading. Ummu Haani's sentence breaks off after '(the midmorning' and runs into Aa'isha's report."
+  },
+  {
+    "id": "n02588",
+    "summary": "Anas reports seeing the Prophet pray six Rakaahs of Duhaa; the end of his sentence is garbled in the OCR.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "ok",
+    "notes": "The OCR garbles 'I have never them thereafter'. The intended meaning (that he did not see it again, or that the Prophet did not do it again) is uncertain."
+  },
+  {
+    "id": "n02589",
+    "summary": "Ummu Haani states that the Prophet prayed six Rakaahs of Duhaa at her house when Makkah was conquered, and Abdullaah bin Abu Awfa says he prayed only two because the Prophet prayed two when he got news of a victory and when the head of Abu Jahal was brought to him.",
+    "people": [
+      { "id": "ummu-haani", "role": "narrator" },
+      { "id": "abdullaah-bin-abi-awfa", "role": "subject" },
+      { "id": "abu-jahal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "merged",
+    "notes": "Two reports joined: Ummu Haani's and Abdullaah bin Abu Awfa's. The OCR is garbled in places (the name line for Ummu Haani, and 'two F.akac'). Abdullaah's wife is unnamed and left out."
+  },
+  {
+    "id": "n02590",
+    "summary": "Abdullaah bin Abbaas says he came to understand the Qur'anic word 'Ishraaq' from Ummu Haani, who reported that the Prophet made wudhu and then prayed Duhaa, calling it the Ishraaq salaah.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "ummu-haani", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "quraan"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02591",
+    "summary": "Abu Hurayrah reports the Prophet saying that a person who makes wudhu well, goes to the masjid for Fajr and then prays Duhaa returns sooner and with more reward than a returning army with booty.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "jihaad"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "ok",
+    "notes": "The army is not named and is left out. 'jihaad' is tagged because the comparison is to an army's return with booty."
+  },
+  {
+    "id": "n02592",
+    "summary": "Ataa Abu Muhammad reports seeing Ali pray Duhaa in the masjid, Ikramah reports that Ibn Abbaas prayed Duhaa once every ten days, and Aa'isha bint Sa'd reports that her father Sa'd prayed eight Rakaahs of Duhaa.",
+    "people": [
+      { "id": null, "name": "Ataa Abu Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "ikrimah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": null, "name": "Aa'isha bint Sa'd", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["salaatud duha"],
+    "boundary": "merged",
+    "notes": "Three separate reports under one heading. The 'Aa'isha' here is Aa'isha bint Sa'd, not the approved 'aaisha' (Aa'isha bint Abu Bakr), so she is not linked to that entry. 'Ataa Abu Muhammad' is not matched to an approved entry."
+  },
+  {
+    "id": "n02593",
+    "summary": "Sha'bi reports that Ibn Mas'ood did not pray Duhaa but prayed nawaafil between Zuhr and Asr alongside his long night worship.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["nawaafil between zuhr and asr"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02594",
+    "summary": "Naafi reports that Ibn Umar prayed nawaafil between Zuhr and Asr.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["nawaafil between zuhr and asr"],
+    "boundary": "ok",
+    "notes": "The text ends with OCR debris."
+  },
+  {
+    "id": "n02595",
+    "summary": "Hudhayfah says he prayed Maghrib with the Prophet, and after that the Prophet kept on praying until Isha.",
+    "people": [
+      { "id": null, "name": "Hudhayfah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ends-mid",
+    "notes": "The opening quotation mark is never closed and the text stops after 'until Isha.', so the rest of the report appears to be missing. 'Hudhayfah' has no patronymic; the approved 'hudhayfa-bin-yamaan' is a possible match but unconfirmed. Sahabi 'yes' follows the (RA) marker."
+  },
+  {
+    "id": "n02596",
+    "summary": "Muhammad bin Ammaar reports seeing his father Ammaar pray six Rakaahs after Maghrib, and Ammaar says the Prophet promised that whoever prays them will have all sins forgiven, even as many as the foam on the oceans.",
+    "people": [
+      { "id": "muhammad-bin-ammaar", "role": "narrator" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02597",
+    "summary": "Abdur Rahmaan bin Yazeed says he always found Ibn Mas'ood praying between Maghrib and Isha, and Ibn Mas'ood explains that it is a time of people's negligence of Allaah.",
+    "people": [
+      { "id": null, "name": "Abdur Rahmaan bin Yazeed", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ok",
+    "notes": "'Abdur Rahmaan bin Yazeed' is not in the approved list."
+  },
+  {
+    "id": "n02598",
+    "summary": "Aswad bin Yazeed reports that Ibn Mas'ood called the time between Maghrib and Isha an excellent time, the time of negligence.",
+    "people": [
+      { "id": null, "name": "Aswad bin Yazeed", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02599",
+    "summary": "Ibn Abbaas says that angels surround those who pray between Maghrib and Isha, which he calls Salaatul Awaabeen.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "the-unseen"],
+    "new_themes": ["nawaafil between maghrib and isha"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02600",
+    "summary": "Abdur Rahmaan bin Abu Layla reports that the widow of Abdullaah bin Rawaaha said he prayed two Rakaahs whenever he left the house and whenever he came back into it.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-abi-layla", "role": "narrator" },
+      { "id": "abdullaah-bin-rawaaha", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The widow and the man who married her are unnamed and left out."
+  }
+]

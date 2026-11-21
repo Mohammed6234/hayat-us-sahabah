@@ -1,0 +1,513 @@
+[
+  {
+    "id": "n03681",
+    "summary": "Ummu Shareek reports that the butter in her small bag kept replenishing until she emptied it out, and the Prophet remarked that it would have lasted much longer had she left it alone.",
+    "people": [
+      { "id": null, "name": "Ummu Shareek", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03682",
+    "summary": "Ummu Shareek lent her bag out to people, and it refilled with butter even after it seemed empty, which people took as one of the signs of Allaah.",
+    "people": [
+      { "id": null, "name": "Ummu Shareek", "role": "subject", "sahabi": "yes" },
+      { "id": "yahya-bin-saeed", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "kindness"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Closing line is a cross-reference to earlier narrations; left out."
+  },
+  {
+    "id": "n03683",
+    "summary": "Hamzah bin Amr relates that when the butter bag spilled while he was preparing the Prophet's food, it later filled to its chest, and the Prophet said it would have filled to its mouth had he left it alone.",
+    "people": [
+      { "id": "hamzah-bin-amr-aslami", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "brotherhood"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03684",
+    "summary": "Hamzah bin Amr relates that while the Prophet was away on the Tabook expedition, the butter bag refilled after he dozed beside it, and the Prophet said the whole valley would have flowed with butter had he left it.",
+    "people": [
+      { "id": "hamzah-bin-amr-aslami", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Opens with a cross-reference to an earlier narration; the report itself is complete."
+  },
+  {
+    "id": "n03685",
+    "summary": "Khabbaab bin Arat's daughter relates that the Prophet milked their goat into the family's largest vessel until it overflowed, and her father then said the Prophet's hands were far more blessed than his own.",
+    "people": [
+      { "id": "khabbaab-bin-arat", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Closing lines are cross-references to the Abu Hurayrah and Ali narrations; left out of people. The daughter is unnamed."
+  },
+  {
+    "id": "n03686",
+    "summary": "Mas'ood bin Khaalid relates that the meat the Prophet sent back from the goat he had given him was still left over after his family had eaten, which surprised him since one or two goats were usually not enough for them.",
+    "people": [
+      { "id": null, "name": "Mas'ood bin Khaalid", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ummu Khunaas", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Ummu Khunaas is his wife and speaks in the narration; her Companion status is not stated."
+  },
+  {
+    "id": "n03687",
+    "summary": "Khaalid bin Abdul Uzza sends a goat to the Prophet, who and his Companions eat it and return the leftovers, which still feed Khaalid's very large family with some to spare.",
+    "people": [
+      { "id": null, "name": "Khaalid bin Abdul Uzza", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "generosity"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Heading spelling 'Uz;za' is OCR debris; the text spells it Uzza."
+  },
+  {
+    "id": "n03688",
+    "summary": "Salamah bin Nufayl reports that food is brought to the Prophet from the heavens and lifted back after it is left over, and the Prophet foretells a time of strife and many deaths before Qiyaamah.",
+    "people": [
+      { "id": null, "name": "Salamah bin Nufayl", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "avoiding-fitnah"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "merged",
+    "notes": "Joins two reports (Salamah's own question, then a second account with the prophecy) and a short third line about Jannah. The text is cut off mid-sentence at 'several years of'. The man who asks in the second report is unnamed."
+  },
+  {
+    "id": "n03689",
+    "summary": "Jaabir bin Abdullaah relates that when the men were starving, the sea cast up a huge creature which fed them, and five of them went into its eye socket and then stood one of its ribs up like a bow.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ends-mid",
+    "notes": "Cut off at an open quotation mark; the story continues in n03690. The five companions Jaabir names are not named in the text and are left out."
+  },
+  {
+    "id": "n03690",
+    "summary": "Jaabir bin Abdullaah relates that when Abu Ubaydah's army ran out of provisions, the sea washed up a fish the size of a hill that fed them for eighteen days, and a camel and carriage passed under its ribs without touching them.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "jihaad"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "The Prophet is mentioned only as the one who dispatched the regiment. The narrator who asks Jaabir a question is unnamed."
+  },
+  {
+    "id": "n03691",
+    "summary": "Jaabir bin Abdullaah gives several accounts of Abu Ubaydah's army, which ate a fish the sea threw up for a month, and reports that the Prophet called it the sustenance Allaah had brought out for them.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "jihaad"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "merged",
+    "notes": "Joins three accounts. The last sentence is cut off mid-sentence at 'We then sent some for Rasulullaah and'."
+  },
+  {
+    "id": "n03692",
+    "summary": "Abu Hurayrah reports that when a Sahabi's wife prayed for provision in her family's hunger, the grindstone and oven kept producing until the husband lifted the grindstone, and the Prophet said it would have continued until the Day of Qiyaamah.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "duaa"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "merged",
+    "notes": "Joins several accounts, including a separate case of a poor Ansaari family. The Sahabi, his wife and the Ansaari are unnamed. The phrase 'until the Day of Hadhrat Abu Hurayrah' is garbled OCR."
+  },
+  {
+    "id": "n03693",
+    "summary": "Abu Bakr relates how a Bedouin woman hosted the Prophet and himself, how the Prophet milked her goat for them and her flock grew, and how she accepted Islaam when she recognised him.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "accepting-islaam", "hospitality"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "The woman and her son are unnamed and left out."
+  },
+  {
+    "id": "n03694",
+    "summary": "Abdullaah bin Mas'ood relates that the Prophet drew milk from a goat that had not yet mated, then told her teat to contract and it did, and afterwards Ibn Mas'ood asked to be taught and the Prophet prayed that he be well taught.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "uqba-bin-abi-mueet", "role": "mentioned" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03695",
+    "summary": "Another account says Abdullaah bin Mas'ood brought the Prophet a young goat, who prayed over her and milked her into a dish that Abu Bakr brought, then gave Abu Bakr to drink before drinking himself.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03696",
+    "summary": "Khabbaab bin Arat relates that on a campaign sent out by the Prophet the Muslims became very thirsty, and a companion's camel sat down with udders so full of milk that they all drank from her.",
+    "people": [
+      { "id": "khabbaab-bin-arat", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrative is about thirst; hunger-and-hardship is the closest approved theme. The companion whose camel it was is unnamed."
+  },
+  {
+    "id": "n03697",
+    "summary": "Maawiyya, a slave of Hujayr bin Abi Ihaab, reports that while Khubayb was held prisoner in their house in Makkah she peeped in and saw him eating a huge bunch of grapes, when grapes could not be had anywhere.",
+    "people": [
+      { "id": "khubayb-bin-adi", "role": "subject" },
+      { "id": null, "name": "Maawiyya", "role": "subject", "sahabi": "yes" },
+      { "id": "hujayr-bin-abi-ihaab", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "sacrifice"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "Khubayb is taken to be Khubayb bin Adi, the captive held in Makkah; the approved entry is used but this should be checked against the Khubayb al-Ansaari entry. Trailing OCR marks are ignored."
+  },
+  {
+    "id": "n03698",
+    "summary": "Saalim bin Abul Ja'd relates that when the Prophet sent two men out with no provisions, he told them to fill a water bag and go to a place where Allaah would provide, and there they found goat's milk and cream inside it.",
+    "people": [
+      { "id": null, "name": "Saalim bin Abul Ja'd", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "trust-in-allaah"],
+    "new_themes": ["sustenance from unseen sources"],
+    "boundary": "ok",
+    "notes": "The two men are unnamed and left out."
+  },
+  {
+    "id": "n03699",
+    "summary": "Abdullaah bin Salaam relates that while Uthmaan was besieged, the Prophet appeared to him in a dream, offered him water, and then offered to help him against his attackers or to break his fast with the Prophet, and Uthmaan chose the latter and was martyred that day.",
+    "people": [
+      { "id": "abdullaah-bin-salaam", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "martyrdom", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Closing line is a cross-reference to Ummu Shareek's dream narration; left out."
+  },
+  {
+    "id": "n03700",
+    "summary": "Dubaa'ah bint Zubayr relates that her husband Miqdaad found seventeen dinars that a rat had carried out of a hole, and when he told the Prophet, the Prophet said no khumus was due from him and prayed for blessing, after which their wealth grew greatly.",
+    "people": [
+      { "id": null, "name": "Dubaa'ah bint Zubayr", "role": "narrator", "sahabi": "yes" },
+      { "id": "miqdaad-bin-amr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "honest-dealings"],
+    "new_themes": ["wealth from unseen sources"],
+    "boundary": "ok",
+    "notes": "The text calls Miqdaad 'Miqdaad bin Aswad' (adopted name); the approved entry miqdaad-bin-amr is used, please confirm. The text says 'Sadaqah (Khumg)'; rendered here as khumus, the term the summary uses. Confirm the term."
+  },
+  {
+    "id": "n03701",
+    "summary": "Saa'ib bin Aqra relates that while governor of Madaa'in he found a huge treasure under a figurine that pointed to the spot, and Umar wrote back instructing him to distribute it among the Muslims.",
+    "people": [
+      { "id": null, "name": "Saa'ib bin Aqra", "role": "subject", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "khilaafah"],
+    "new_themes": ["wealth from unseen sources"],
+    "boundary": "ok",
+    "notes": "No approved entry for Saa'ib bin Aqra; the approved list has no saaib-bin-aqra."
+  },
+  {
+    "id": "n03702",
+    "summary": "Sha'bi reports that during the Conquest of Mihrijaan Saa'ib bin Aqra noticed a lime figurine of a deer pointing its foreleg, investigated, and discovered the treasure of Hurmuzaan, which included several bags of gems.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": null, "name": "Saa'ib bin Aqra", "role": "subject", "sahabi": "yes" },
+      { "id": "hurmuzaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "jihaad"],
+    "new_themes": ["wealth from unseen sources"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03703",
+    "summary": "Abdur Rahmaan bin Yazeed bin Jaabir relays how Abu Umaamah gave away his last dinars in charity and then found three hundred gold coins left in his bed, after which his Christian slave woman accepted Islaam.",
+    "people": [
+      { "id": null, "name": "Abdur Rahmaan bin Yazeed bin Jaabir", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-umaamah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "miracles-and-blessings", "accepting-islaam"],
+    "new_themes": ["wealth from unseen sources"],
+    "boundary": "ok",
+    "notes": "The slave woman is the main speaker of the first account but is unnamed, so left out. The closing 'Hadhrat Ibn Jaabir' is probably the same narrator; not split out. Narrator marked sahabi 'no' as a Tabi'i by standard sources; check."
+  },
+  {
+    "id": "n03704",
+    "summary": "Salmaan relates that when he still owed money for his freedom, the Prophet gave him a gold nugget that weighed forty awqiya, enough to pay off the debt in full.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "freeing-slaves", "accepting-islaam"],
+    "new_themes": ["blessing in wealth"],
+    "boundary": "ok",
+    "notes": "The second account is a short variant of the same incident."
+  },
+  {
+    "id": "n03705",
+    "summary": "Urwa Baariqi relates that the Prophet prayed for blessing in his trade after he bought two goats for one dinar and sold one, and he later made large profits in the Kunaasah marketplace.",
+    "people": [
+      { "id": null, "name": "Urwa Baariqi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": ["blessing in wealth"],
+    "boundary": "merged",
+    "notes": "Joins three accounts (the main one, another narration, and yet another). The text is cut off mid-sentence at 'would make a profit out of'."
+  },
+  {
+    "id": "n03706",
+    "summary": "Abu Aqeel relates that his grandfather Abdullaah bin Hishaam bought grain to resell and earned a camel's worth of profit, because the Prophet had prayed for blessing on him, and Abdullaah bin Zubayr and Abdullaah bin Umar asked to be partners.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Hishaam", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-aqeel", "role": "narrator" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": ["blessing in wealth"],
+    "boundary": "ok",
+    "notes": "The Prophet is mentioned only through his du'aa as cited by the others."
+  },
+  {
+    "id": "n03707",
+    "summary": "Abdullaah bin Unays relates that after the Jew Mustaneer bin Rizaam struck him with a staff and fractured his skull, the Prophet opened the wound, applied his saliva to it, and it healed without a trace.",
+    "people": [
+      { "id": "abdullaah-bin-unays", "role": "subject" },
+      { "id": null, "name": "Mustaneer bin Rizaam", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03708",
+    "summary": "Mukhallad bin Uqba relates that a boil on his palm hindered him from holding his sword and reins, so the Prophet opened his palm, applied his saliva, and rubbed the boil until no trace of it remained.",
+    "people": [
+      { "id": null, "name": "Mukhallad bin Uqba", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03709",
+    "summary": "Abyadh bin Hammaal relates that he had a ringworm infection covering his face and nose, and after the Prophet passed his blessed hand over it, no trace of it remained.",
+    "people": [
+      { "id": null, "name": "Abyadh bin Hammaal Maaribi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03710",
+    "summary": "Raafi bin Khudayj relates that after he ate a piece of fat from a pot of meat and was ill for a year, the Prophet passed his hand over his stomach, he vomited a green lump, and he never had stomach pain again.",
+    "people": [
+      { "id": "raafi-bin-khadeej", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03711",
+    "summary": "Ali relates that the Prophet prayed for him when he was ill and then cured him, and Abdullaah bin Ateek describes how the Prophet healed his broken leg by passing his hand over it after he was injured going to kill Abu Raafi.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-ateek", "role": "subject" },
+      { "id": "abu-raafi-sallaam-bin-abul-huqayq", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins Ali's account, Ateek's own account, and reference lines to Sahl and Baraa (left out). Abu Raafi is taken to be Sallaam bin Abil Huqayq, the not-Companion entry; check. Trailing OCR debris ignored."
+  },
+  {
+    "id": "n03712",
+    "summary": "Handhala bin Hadheem relates that the Prophet passed his hand over his head and prayed for blessing when he came with his grandfather's delegation, and Dhayyaal relates that Handhala cured a swollen face and inflamed teats by touching them with the blessing of the Prophet's palm.",
+    "people": [
+      { "id": null, "name": "Handhala bin Hadheem", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Dhayyaal", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure", "delegations"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two accounts joined: Handhala's own report and Dhayyaal's report of his healings. The grandfather is unnamed and left out."
+  },
+  {
+    "id": "n03713",
+    "summary": "Dhayyaal relates that a man with a swollen face was brought to Handhala, who applied saliva to his hand, recited Bismillaah, touched the swelling and said it was done with the blessing of the place where the Prophet placed his palm, and it disappeared instantly.",
+    "people": [
+      { "id": null, "name": "Dhayyaal", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Handhala bin Hadheem", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The sick man is unnamed. The Prophet is mentioned only through the blessing formula."
+  },
+  {
+    "id": "n03714",
+    "summary": "Abdullaah bin Qurt relates that when his camel grew exhausted while he rode with Khaalid bin Waleed, he made du'aa to Allaah, and the camel stood up straight so he could ride it again.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Qurt", "role": "subject", "sahabi": "yes" },
+      { "id": "khaalid-bin-waleed", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03715",
+    "summary": "Abu Safar, Dhul Jowshan and others relate that Khaalid bin Waleed swallowed poison in the name of Allaah without harm, and that Amr bin Buqayla, who carried poison, said the Arabs would conquer any land while the Sahabah lived among them.",
+    "people": [
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "abu-safar", "role": "narrator" },
+      { "id": "dhul-jowshin", "role": "narrator" },
+      { "id": null, "name": "Amr bin Buqayla", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "qadr", "trust-in-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins Abu Safar's account with Dhul Jowshan's account, which itself includes another narration. Amr bin Buqayla's Companion status is not stated and he is not in the approved list."
+  },
+  {
+    "id": "n03716",
+    "summary": "Abdur Rahmaan bin Abi Layla relates that his father asked Ali why he wore light clothes in winter and heavy ones in summer, and Ali explained that the Prophet's saliva and du'aa for protection against heat and cold had kept him from feeling either.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-abi-layla", "role": "narrator" },
+      { "id": "abu-layla", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "virtues-of-the-sahabah", "courage"],
+    "new_themes": ["protection from heat and cold"],
+    "boundary": "merged",
+    "notes": "Joins Abdur Rahmaan's account, a second account from Ali, and an unnamed group's report. Abu Bakr and Umar are mentioned as the earlier commanders at Khaybar. The closing quote marks are OCR debris."
+  },
+  {
+    "id": "n03717",
+    "summary": "Bilaal relates that on an icy winter morning the people did not come out for Fajr after the Adhaan, so the Prophet prayed that Allaah remove the cold from them, and then they came for Fajr and Duha with ease.",
+    "people": [
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "salaah"],
+    "new_themes": ["protection from heat and cold"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03718",
+    "summary": "A one-line cross-reference notes that a narration from Hudhayfah about the Battle of the Trench makes the same point about cold.",
+    "people": [],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "jihaad"],
+    "new_themes": [],
+    "boundary": "not-narration",
+    "notes": "Only a cross-reference to another narration with no report of its own. Hudhayfah is not identified and is left out of people."
+  },
+  {
+    "id": "n03719",
+    "summary": "Imraan bin Husayn relates that the Prophet placed his hand on Faatima's chest and prayed that she not suffer hunger, after which the paleness from her hunger left her face and she never went hungry again.",
+    "people": [
+      { "id": "imraan-bin-husayn", "role": "subject" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03720",
+    "summary": "Abu Zaid Ansaari relates that the Prophet prayed for his good looks and that he lived past a hundred with only a few white hairs, and a second report says he had none at ninety-four.",
+    "people": [
+      { "id": "abu-zaid", "role": "subject" },
+      { "id": null, "name": "Abu Nuhayk", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins several reports, one of which cannot be placed in the approved list. Abu Nuhayk is not in the approved list; it may be meant to be the Abu Nujayh entry, which is a different spelling, so check. Ends with an unfinished OCR fragment ('without')."
+  }
+]

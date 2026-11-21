@@ -1,0 +1,523 @@
+[
+  {
+    "id": "n02441",
+    "summary": "Adi bin Haatim says that whenever the time for any salaah came, he was already prepared and full of eagerness for it.",
+    "people": [
+      { "id": "adi-bin-haatim", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02442",
+    "summary": "Abu Hurayrah helped carry bricks for the Prophet's Masjid, and when he offered to take a brick the Prophet was carrying, the Prophet told him to take another, reminding him there is no life other than the Aakhirah.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "exertion-in-worship"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02443",
+    "summary": "Talq bin Ali says that while helping build the Masjid he was told by the Prophet to mix the mortar because he did it best, and the Prophet was pleased with the way he handled the spade.",
+    "people": [
+      { "id": null, "name": "Talq bin Ali", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["exertion-in-worship", "virtues-of-the-sahabah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "merged",
+    "notes": "Two reports joined (the Prophet's words about Talq, then Talq's own account). The second is cut off mid-sentence at the end."
+  },
+  {
+    "id": "n02444",
+    "summary": "Abdullaah bin Abu Awfa says that when his wife died he asked the people to carry her bier with great fervour, because she and her slaves had carried rocks for the Masjid at night when the men could manage only two rocks at a time by day.",
+    "people": [
+      { "id": "abdullaah-bin-abi-awfa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["exertion-in-worship", "death-and-burial"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02445",
+    "summary": "Ubaadah bin Saamit relates that the Ansaar offered the Prophet money to renovate and beautify the Masjid, but he refused, wanting its ceiling to stay like the shelter of Moosa, and Hasan describes how high that shelter was.",
+    "people": [
+      { "id": "ubaadah-bin-saamit", "role": "narrator" },
+      { "id": "moosa", "role": "mentioned" },
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "salaah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "merged",
+    "notes": "Two narrations of the Ansaar's offer plus Hasan's description of Moosa's shelter. Hasan may be Hasan al-Basri (not a Companion) or Hasan bin Ali; the text does not say which, so sahabi is left as unsure."
+  },
+  {
+    "id": "n02446",
+    "summary": "Ibn Shihaab reports that in the Prophet's time the Masjid had palm-trunk pillars and a roof of palm branches without plaster, so it became full of mud whenever it rained.",
+    "people": [
+      { "id": "ibn-shihaab", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "zuhd"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": "Theme choice for the simplicity of the Masjid is tentative."
+  },
+  {
+    "id": "n02447",
+    "summary": "Imaam Bukhaari reports from Abu Sa'eed Khudri that the Prophet, in a vision about Laylatul Qadr, saw himself prostrating in mud, and mud traces were later seen on his forehead after rain leaked through the palm roof during salaah.",
+    "people": [
+      { "id": "bukhaari", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["laylatul qadr"],
+    "boundary": "ok",
+    "notes": "Bukhaari appears in the body of the report as its compiler, so he is included as narrator rather than left out as a reference line."
+  },
+  {
+    "id": "n02448",
+    "summary": "Khaalid bin Ma'daan narrates that Abdullaah bin Rawaaha and Abu Dardaa were measuring the Masjid with a stick to build it like the buildings of Shaam, and the Prophet threw the stick away and said it should be made of grass, sticks and a roof like the shelter of Moosa, because death is nearer than that.",
+    "people": [
+      { "id": "khaalid-bin-madaan", "role": "narrator" },
+      { "id": "abdullaah-bin-rawaaha", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "moosa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "aakhirah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-sentence at the end, where the description of Moosa's shelter begins."
+  },
+  {
+    "id": "n02449",
+    "summary": "Naafi narrates that Umar extended the Masjid from the pillars up to the Maqsoorah, saying that he would never have done so had he not heard the Prophet say that the Masjid ought to be extended.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["following-the-sunnah", "salaah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": "The Prophet's words are quoted in garbled OCR; the sense is that he said the Masjid ought to be extended."
+  },
+  {
+    "id": "n02450",
+    "summary": "Naafi reports from Abdullaah bin Umar that the Masjid in the Prophet's time was built of unbaked bricks with palm pillars and a palm roof, that Umar rebuilt it the same way without extending it, and that Uthmaan made a large extension in decorative stone and teakwood.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02451",
+    "summary": "Atiyya narrates that Abdullaah bin Umar said the Masjid's pillars were palm trunks in the Prophet's time, were rebuilt with palm trunks in Abu Bakr's Khilaafah, and were rebuilt by Uthmaan in baked brick, where they still stand.",
+    "people": [
+      { "id": null, "name": "Atiyya", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": "Atiyya is not in the approved list and is not marked (RA); the text does not say which Atiyya this is."
+  },
+  {
+    "id": "n02452",
+    "summary": "Mahmood bin Labeed reports that Uthmaan cited the Prophet's saying that whoever builds a Masjid for Allaah will have a house built for him in Jannah when he decided to rebuild the Masjid, and Muttalib bin Abdullaah reports that Uthmaan, after consulting the senior Sahabah, demolished and extended it over ten months, supervising the work himself.",
+    "people": [
+      { "id": "mahmood-bin-labeed", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "mutallib-bin-abdullaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "consultation", "khilaafah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "merged",
+    "notes": "Two reports joined (Mahmood, then Muttalib). The Muttalib entry is matched to the approved Mutallib bin Abdullaah on name alone; the text gives 'Muttalib bin Abdullaah bin Ibn Hantab'."
+  },
+  {
+    "id": "n02453",
+    "summary": "Jaabir bin Usaamah Juhani says he met the Prophet and his companions in the marketplace on their way to mark out a Masjid for his people, and by the time he arrived the Prophet had marked the site and fixed the Qibla with a stick.",
+    "people": [
+      { "id": null, "name": "Jaabir bin Usaamah Juhani", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "prophets-character"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02454",
+    "summary": "Uthmaan bin Ataa narrates that when Umar was conquering cities he wrote to the governors of Basrah, Kufa and Egypt to build one central Masjid for Jumu'ah with small tribal Masaajid, and told army commanders to set up bases in cities and build only one Masjid.",
+    "people": [
+      { "id": null, "name": "Uthmaan bin Ataa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "mentioned" },
+      { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+      { "id": "amr-bin-al-aas", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": ["masjid construction"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02455",
+    "summary": "Urwa bin Zubayr reports that one Sahabi said the Prophet instructed them to make places of salaah in their homes, build them well and keep them clean, and Aa'isha reports the same instruction.",
+    "people": [
+      { "id": "urwa-bin-zubayr", "role": "narrator" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["masjid cleanliness"],
+    "boundary": "merged",
+    "notes": "Two reports joined (Urwa, then Aa'isha). The Aa'isha report is cut off mid-sentence at the end. The unnamed Sahabi is not listed."
+  },
+  {
+    "id": "n02456",
+    "summary": "Abdullaah bin Abbaas narrates that the Sahabah buried a woman who used to clean the Masjid without telling the Prophet, and when he learned of it he prayed the Janaazah for her and said he had seen her in Jannah picking up dirt from the Masjid.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "salaah"],
+    "new_themes": ["masjid cleanliness"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02457",
+    "summary": "Abdullaah bin Urhar (RA) reports that Umar used to burn incense in the Prophet's Masjid every Friday.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Urhar", "role": "narrator", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": ["masjid cleanliness"],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Urhar is not in the approved list; sahabi yes follows the (RA) marker in the text."
+  },
+  {
+    "id": "n02458",
+    "summary": "Ubay bin Ka'b says that a man who lived furthest from the Masjid never missed salaah, and when told to buy a donkey he refused, wanting every step to be recorded for him, and the Prophet said Allaah has recorded it all for him.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "ok",
+    "notes": "The man is unnamed and is not listed."
+  },
+  {
+    "id": "n02459",
+    "summary": "In another narration Ubay bin Ka'b says that a man from the Ansaar, whose house was furthest from the Masjid, refused a donkey because he hoped for reward in every step, and the Prophet told him he would have what he hoped for.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "ok",
+    "notes": "The Ansaari man is unnamed and is not listed."
+  },
+  {
+    "id": "n02460",
+    "summary": "Another narration states that the Prophet said the stages of the Ansaari man in Jannah are raised with every step he takes to the Masjid.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "ok",
+    "notes": "Very short narration; it refers back to the unnamed Ansaari man in n02458 and n02459."
+  },
+  {
+    "id": "n02461",
+    "summary": "Zaid bin Thaabit narrates that when he walked with the Prophet to salaah the Prophet took short steps, explaining that a person keeps the reward of salaah while he is making the effort toward it and that he did so to increase his steps toward salaah.",
+    "people": [
+      { "id": "zaid-bin-thaabit", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "merged",
+    "notes": "Two wordings of the Prophet's explanation are joined ('Another narration states')."
+  },
+  {
+    "id": "n02462",
+    "summary": "Thaabit says he walked with Anas bin Maalik in Zaawiyah, and when Anas heard the Adhaan he shortened his steps until he entered the Masjid, explaining that this was so his steps in the effort of salaah would be increased.",
+    "people": [
+      { "id": "thaabit", "role": "subject" },
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "ok",
+    "notes": "The text gives only 'Thaabit (RA)'. He is probably Thaabit Bunaani, a Taabi'ee, but that is not stated, so the generic approved id thaabit (unsure) is used."
+  },
+  {
+    "id": "n02463",
+    "summary": "Abdullaah bin Mas'ood hurried to the Masjid, and when someone objected he said he wanted to reach the first takbeer and that salaah is the most deserving thing to hurry toward, a reply Salamah bin Kuhayl also reports.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Salamah bin Kuhayl", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "merged",
+    "notes": "Two reports joined. The OCR reads 'idkbeer', which is taken to be takbeer."
+  },
+  {
+    "id": "n02464",
+    "summary": "Abu Qataadah narrates that while the Sahabah were praying behind the Prophet he heard noise from those at the back, and after salaah the Prophet forbade running to salaah and told them to pray what they caught and complete what they had missed.",
+    "people": [
+      { "id": "abu-qataadah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": ["walking to the masjid"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02465",
+    "summary": "Anas narrates that when a Bedouin began urinating in the Masjid and the Sahabah shouted at him, the Prophet told them to leave him alone, then had a bucket of water poured over the spot and explained that Masjids are for the remembrance of Allaah, salaah and the Qur'aan, not for filth.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "kindness"],
+    "new_themes": ["masjid cleanliness"],
+    "boundary": "ok",
+    "notes": "The Bedouin and the Sahabah are unnamed and not listed."
+  },
+  {
+    "id": "n02466",
+    "summary": "Abu Sa'eed Khudri narrates that Mu'aawiya questioned a group sitting in the Masjid for dhikr and got their oath of sincerity, then related that the Prophet asked the same of his Sahabah and told them Jibra'eel had reported that Allaah boasts of them before the angels.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "jibraeel", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "sincerity", "virtues-of-the-sahabah"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "ok",
+    "notes": "The text says only 'Mu'aawiya (RA)'. Matched to Mu'aawiya bin Abi Sufyaan on the basis of the narrator's description of himself (close to the Prophet, few narrations); confirm if a different Mu'aawiya is meant."
+  },
+  {
+    "id": "n02467",
+    "summary": "Abu Waaqid Laythi narrates that the Prophet described three people who came to a gathering, one of whom found a place and was granted it, one of whom was shy and was treated kindly, and one of whom turned away and was turned away from, and Abul Qamraa relates that the Prophet sat with those learning and teaching the Qur'aan, saying he had been commanded to sit with that gathering.",
+    "people": [
+      { "id": "abu-waaqid-laythi", "role": "narrator" },
+      { "id": null, "name": "Abul Qamraa", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "seeking-knowledge"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "merged",
+    "notes": "Two reports joined (Abu Waaqid, then Abul Qamraa). The text gives Abu Waaqid as 'Haarith bin Auf'; matched to the approved Abu Waaqid Laythi."
+  },
+  {
+    "id": "n02468",
+    "summary": "Kulayb bin Shihaab narrates that Ali, hearing loud Qur'aan recitation and teaching in the Masjid, said these were the people the Prophet loved most, and also reports Ali saying the same in the Masjid of Kufa.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Kulayb bin Shihaab", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["quraan", "seeking-knowledge"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "merged",
+    "notes": "Two reports joined (Kulayb's account of Madinah-style and Kufa instances of the same remark)."
+  },
+  {
+    "id": "n02469",
+    "summary": "Hasan reports that Abu Hurayrah called out in the Madinah marketplace that the traders were missing the Prophet's inheritance, which was only people praying, reciting the Qur'aan and discussing halaal and haraam in the Masjid, and he rebuked them for it.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "halaal-and-haraam", "quraan"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "ok",
+    "notes": "Hasan is not marked (RA) here and could be Hasan al-Basri or Hasan bin Ali; sahabi left as unsure."
+  },
+  {
+    "id": "n02470",
+    "summary": "Ibn Mu'aawiya Kindi reports that when he visited Umar in Shaam, Umar asked whether men sat in the Masjid only with their own tribe or acquaintances, and he replied that their Masjid had gatherings for learning and sharing good, so Umar said they would remain in good stead as long as they continued so.",
+    "people": [
+      { "id": null, "name": "Ibn Mu'aawiya Kindi", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "muslim-rights"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "ok",
+    "notes": "The report is closed with stray OCR marks."
+  },
+  {
+    "id": "n02471",
+    "summary": "Abu Hurayrah narrates that the Prophet came out with the Sahabah and called the Jews to accept Islaam, and after they refused three times he told them the earth belongs to Allaah and His Rasool and that he wished to banish them, allowing them to sell their belongings first.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting-islaam"],
+    "new_themes": ["banishment of the Jews from Madinah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02472",
+    "summary": "Aa'isha narrates that Sa'd bin Mu'aadh was wounded at Khandaq and lodged in a tent in the Masjid, that Jibra'eel then directed the Prophet to Banu Qurayzah, where Sa'd ruled that their fighters be killed and their women and children enslaved, and that Sa'd's wound burst open and he died after praying for death if no further war with Quraysh remained.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "sad-bin-muaadh", "role": "subject" },
+      { "id": null, "name": "Hibbaan bin Ariqah", "role": "mentioned", "sahabi": "unsure" },
+      { "id": "jibraeel", "role": "subject" },
+      { "id": "hishaam", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "martyrdom", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined: Aa'isha's main account, then Hishaam's chain for Sa'd's prayer. Hibbaan's religious status is not stated in the text, so sahabi is left as unsure. Banu Qurayzah is a tribe and is not listed."
+  },
+  {
+    "id": "n02473",
+    "summary": "Yazeed bin Abdullaah bin Qusayt says that the men of the Suffa were homeless men of the Prophet's time who slept in the Masjid, and that the Prophet would call some of them at night to eat supper with him until Allaah made them independent.",
+    "people": [
+      { "id": "yazeed-bin-abdullaah-bin-qusayt", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["ahl-us-suffa", "hospitality"],
+    "new_themes": ["sleeping in the masjid"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02474",
+    "summary": "Asmaa bint Yazeed narrates that Abu Dharr served the Prophet and then lay down to sleep in the Masjid as his home, and when the Prophet found him lying there and nudged him with his foot, Abu Dharr sat up and asked where else he had to sleep.",
+    "people": [
+      { "id": "asmaa-bint-yazeed-bin-sakan", "role": "narrator" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["ahl-us-suffa", "zuhd"],
+    "new_themes": ["sleeping in the masjid"],
+    "boundary": "ends-mid",
+    "notes": "The text ends by saying the rest of the Hadith is reported in the chapter on the Khilaafah. Asmaa bint Yazeed is matched to the approved Asmaa bint Yazeed bin Sakan."
+  },
+  {
+    "id": "n02475",
+    "summary": "Abu Dharr says that after serving the Prophet he would lie down in the Masjid, Hasan says he saw Uthmaan take his siesta there during his Khilaafah, Abdullaah bin Umar says that as youths they spent nights in the Masjid and rested there after Jumu'ah, and Umar says lying on one's side is fine after sitting long in the Masjid.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["ahl-us-suffa", "zuhd"],
+    "new_themes": ["sleeping in the masjid"],
+    "boundary": "merged",
+    "notes": "Several reports joined (Abu Dharr, Hasan, Abdullaah bin Umar, Umar). Hasan is marked (RA) here but not in the next narration; identity is not stated, so sahabi is left as unsure."
+  },
+  {
+    "id": "n02476",
+    "summary": "Khaleed bin Abu Is'haaq asked Abdullaah bin Abbaas about sleeping in the Masjid, and Ibn Abbaas replied that there is no harm in it when one sleeps to gain strength for salaah or Tawaaf.",
+    "people": [
+      { "id": null, "name": "Khaleed bin Abu Is'haaq", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["sleeping in the masjid"],
+    "boundary": "ok",
+    "notes": "Khaleed bin Abu Is'haaq is not in the approved list and is not marked (RA)."
+  },
+  {
+    "id": "n02477",
+    "summary": "Jaabir says that when the wind blew fiercely at night the Prophet hurried to the Masjid and stayed until it calmed, and that he also hurried to salaah at eclipses, and Ataa reports that the Sahabi Ya'la bin Umayyah would sit in the Masjid even briefly with the intention of I'tikaaf.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "yala-bin-munyah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "exertion-in-worship", "prophets-character"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "merged",
+    "notes": "Two reports joined. 'Jaabir' is matched to Jaabir bin Abdillaah on name alone. Ataa is ambiguous (Ata bin Abi Rabaah, Ata bin Yasaar and others), so no approved id is given. Ya'la bin Umayyah is matched to Ya'la bin Munyah, whose id is the approved entry."
+  },
+  {
+    "id": "n02478",
+    "summary": "Atiyya bin Sufyaan bin Abdullaah narrates that when a delegation from Thaqeef came to the Prophet during Ramadhaan he pitched a tent for them in the Masjid, and once they accepted Islaam they began fasting with him.",
+    "people": [
+      { "id": null, "name": "Atiyya bin Sufyaan bin Abdullaah", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "accepting-islaam", "fasting"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02479",
+    "summary": "Uthmaan bin Abil Aas narrates that when the Thaqeef delegation came the Prophet housed them in the Masjid so that it would soften their hearts.",
+    "people": [
+      { "id": "uthmaan-bin-abil-aas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text says the rest of the narration appears in the chapter on Da'wah. The closing references to Bayhaqi, Ibn Asaakir and Kanzul Ummaal are not tagged."
+  },
+  {
+    "id": "n02480",
+    "summary": "Abdullaah bin Zubayr says that they once ate roasted meat with the Prophet in the Masjid, and when the Iqaamah was called they only wiped their hands on pebbles.",
+    "people": [
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "exertion-in-worship"],
+    "new_themes": ["uses of the masjid"],
+    "boundary": "ok",
+    "notes": "The Prophet is present but does not act, so prophet is mentioned."
+  }
+]

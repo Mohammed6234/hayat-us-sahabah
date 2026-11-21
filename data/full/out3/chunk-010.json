@@ -1,0 +1,122 @@
+[
+  {
+    "id": "n04279",
+    "summary": "Khaalid bin Waleed drank poison that Amr bin Buqayla carried, after reciting a du'aa, and it did him no harm.",
+    "people": [
+      { "id": "dhul-jowshin", "role": "narrator" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "amr-bin-buqayla", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "qadr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n04281",
+    "summary": "Ali says that after the Prophet applied his saliva to Ali's painful eyes before Khaybar, he never again felt heat or cold.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "illness-and-cure", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator's name is lost in the OCR (\"Hadhrat (RA) says\"), so no narrator is tagged. The narration is cut in the source at the start, but the telling reads as complete."
+  },
+  {
+    "id": "n04292",
+    "summary": "Ubay bin Ka'b made du'aa during a thunderstorm and the rain was averted from him and Ibn Abbaas, while the others on the journey were soaked.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n04306",
+    "summary": "Two reports say that the men who took part in the killing of Husayn, and the man who defecated on his grave, were struck with misfortune in this world.",
+    "people": [
+      { "id": "sufyaan", "role": "narrator" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "amash", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["martyrdom", "virtues-of-the-sahabah"],
+    "new_themes": ["divine punishment for harming the righteous"],
+    "boundary": "merged",
+    "notes": "Two separate reports: Sufyaan (from his grandmother) about the Ju'fi men, and A'mash about the grave. The Sufyaan id is the generic approved entry; it is not certain which Sufyaan is meant. The Ju'fi men and the grandmother are unnamed and left out."
+  },
+  {
+    "id": "n04313",
+    "summary": "Ma'roof Mowsili heard a voice reciting couplets lamenting the death of Umar when he was martyred.",
+    "people": [
+      { "id": "maroof-mowsili", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "weeping-and-grief", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text says the narration \"proceeds to quote the above two couplets\", but the couplets are not in the chunk. The couplets are probably those in n04314. Ma'roof Mowsili's Companion status is marked unsure in the vocabulary."
+  },
+  {
+    "id": "n04314",
+    "summary": "Aa'isha heard an unseen voice lamenting Umar at night, reciting couplets in his praise and grief.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "weeping-and-grief", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The unseen lamenter is unnamed and left out."
+  },
+  {
+    "id": "n04335",
+    "summary": "Abdullaah bin Salaam says that Salmaan appeared to him in a dream after his death and advised him to hold fast to Tawakkul.",
+    "people": [
+      { "id": "abdullaah-bin-salaam", "role": "subject" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["the-unseen", "aakhirah", "trust-in-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n04350",
+    "summary": "Jaabir bin Abdullaah swears that the army at Qaadisiyyah sought the Aakhirah, and names three men whom they had doubted but who proved trustworthy and abstinent.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "tulayha-bin-khuwaylid", "role": "mentioned" },
+      { "id": "amr-bin-madikarib", "role": "mentioned" },
+      { "id": "qais-bin-makshooh", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["sincerity", "aakhirah", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'd bin Abi Waqqaas appears only in the heading, not in the text, so he is not tagged. Qais bin Makshooh's Companion status is marked unsure in the vocabulary."
+  },
+  {
+    "id": "n04361",
+    "summary": "Khaalid bin Waleed kept a hat containing hairs of the Prophet and said he was always granted victory when he faced an enemy wearing it.",
+    "people": [
+      { "id": "khaalid-bin-waleed", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

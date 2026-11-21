@@ -1,0 +1,156 @@
+[
+  {
+    "id": "n00011",
+    "summary": "Through Tabraani's report, the Prophet vows that he will fight the Quraysh for the Deen until he wins or is killed if they refuse Islaam and keep waging war.",
+    "people": [
+      { "name": "Miswar bin Makhrama", "as_written": "Hadhrat Miswar bin Makhrama (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Marwaan", "as_written": "Hadhrat Marwaan (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "fighting for the deen", "determination in the deen", "quraysh hostility to islaam"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00012",
+    "summary": "During the Battle of Khaybar the Prophet gives the flag to Ali after curing his eye, and tells him to first invite the enemy to Islaam before fighting.",
+    "people": [
+      { "name": "Sahal bin Sa'd", "as_written": "Hadhrat Sahal bin Sa'd (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Ali bin Abi Taalib", "as_written": "Hadhrat Ali (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "conveying islaam before battle", "love for allaah and his rasool", "virtues of hadhrat ali"],
+    "events": ["Battle of Khaybar"],
+    "places": ["Khaybar"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00013",
+    "summary": "Miqdaad takes the captive Hakam bin Kaysaan to the Prophet, who patiently invites him to Islaam until he accepts, despite Umar urging his execution.",
+    "people": [
+      { "name": "Miqdaad bin Amr", "as_written": "Hadhrat Miqdaad bin Amr (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Hakam bin Kaysaan", "as_written": "Hakam bin Kaysaan", "role": "subject", "sahabi": "yes" },
+      { "name": "Umar", "as_written": "Hadhrat Umar (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "patience in dawah", "accepting islaam", "prisoners of war"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Hakam's Companion status is not stated with RA; marked yes because the text says he became a Muslim, was martyred at Bir Ma'oona and that the Prophet was pleased with him."
+  },
+  {
+    "id": "n00014",
+    "summary": "Wahshi, who killed Hamza, asks whether repentance can forgive his grave sins, and Allaah reveals verses promising forgiveness, so he accepts Islaam; the Prophet confirms the verses apply to all Muslims.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Wahshi bin Harb", "as_written": "Wahshi bin Harb", "role": "subject", "sahabi": "yes" },
+      { "name": "Hamza", "as_written": "Hadhrat Hamza (RA)", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting islaam", "repentance", "allaah's forgiveness", "hope in allaah's mercy"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Wahshi's Companion status is not stated with RA; marked yes because he accepted Islaam in the Prophet's lifetime."
+  },
+  {
+    "id": "n00015",
+    "summary": "Some Mushrikeen who had committed murder and adultery ask the Prophet whether there is expiation for their sins, and Allaah reveals verses offering hope of forgiveness.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["repentance", "allaah's forgiveness", "hope in allaah's mercy", "major sins"],
+    "events": [],
+    "places": [],
+    "boundary": "merged",
+    "notes": "The text runs straight on, after the Surah Zumar verse, into a separate report: 'Hadhrat Faatima (RA) Weeps at the Pale Appearance of Rasulullaah', narrated by Hadhrat Abu Tha'laba Khushani (RA). That second report should be split out; its people are not tagged here. The Tabraani/Haythami grading note is editorial."
+  },
+  {
+    "id": "n00016",
+    "summary": "Tarneem Daari reports the Prophet's saying that this Deen will reach every home, bringing honour to Islaam and its people and disgrace to kufr, which he saw in his own family.",
+    "people": [
+      { "name": "Tarneem Daari", "as_written": "Hadhrat Tarneem Daari (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["spread of islaam", "honour through islaam", "disgrace of kufr", "dawah"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00017",
+    "summary": "Umar prefers to win back Muslims who turned apostate, asks that they be given a chance to repent rather than executed, and tells his governors to invite apostates to Islaam again before any punishment.",
+    "people": [
+      { "name": "Anas", "as_written": "Hadhrat Anas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Umar", "as_written": "Hadhrat Umar (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abu Moosa Ash'ari", "as_written": "Hadhrat Abu Moosa Ash'ari (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abdur Rahmaan Al Qaari", "as_written": "Abdur Rahmaan Al Qaari", "role": "narrator", "sahabi": "unsure" },
+      { "name": "Amr bin Al Aas", "as_written": "Hadhrat Amr bin Al Aas (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["apostasy", "calling apostates back to islaam", "mercy towards apostates", "repeated apostasy"],
+    "events": ["Conquest of Tustar"],
+    "places": ["Tustar"],
+    "boundary": "merged",
+    "notes": "Three separate reports run together (Anas; Abdur Rahmaan Al Qaari; Amr bin Al Aas) and should be split. A closing grading note ('states that the narrators in the report of Ahmad are narrators of authentic Ahaadeeth') and a reference to a similar report by Miqdaad (RA) are editorial and not tagged. Abdur Rahmaan Al Qaari's Companion status is not stated in the text."
+  },
+  {
+    "id": "n00018",
+    "summary": "Umar weeps on seeing a Christian monk's exhausting worship, because such striving without belief in Islaam still leads to the Fire, as Surah Ghaashiya describes.",
+    "people": [
+      { "name": "Abu Imraan Jowni", "as_written": "Abu Imraan Jowni", "role": "narrator", "sahabi": "unsure" },
+      { "name": "Umar", "as_written": "Hadhrat Umar (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["compassion for non-muslims", "fear of jahannam", "worship without correct belief"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Abu Imraan Jowni's Companion status is not stated in the text (no RA); left as unsure."
+  },
+  {
+    "id": "n00019",
+    "summary": "Abu Bakr accepts Islaam immediately on the Prophet's invitation and then brings several leading Companions to Islaam, and the narration ends with commentary defending his immediate acceptance against a doubt raised in Ibn Is'haaq's report.",
+    "people": [
+      { "name": "Aa'isha", "as_written": "Hadhrat Aa'isha (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Bakr", "as_written": "Hadhrat Abu Bakr (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Ibn Is'haaq", "as_written": "Ibn is'haaq", "role": "narrator", "sahabi": "no" },
+      { "name": "Uthmaan bin Affaan", "as_written": "Hadhrat Uthmaan bin Affaan (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Talha bin Ubaydillaah", "as_written": "Hadhrat Talha bin Ubaydillaah (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Zubayr bin Awwaam", "as_written": "Hadhrat Zubayr bin Awwaam (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Sa'd bin Abi Waqqaas", "as_written": "Hadhrat Sa'd bin Abi Waqqaas (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Uthmaan bin Madh'oon", "as_written": "Hadhrat Uthmaan bin Madh'oon (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abu Ubaydah bin Jarraah", "as_written": "Hadhrat Abu Ubaydah bin Jarraah", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abdur Rahmaan bin Awf", "as_written": "Hadhrat Abdur Rahmaan bin Awf (RA)", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Abu Salma bin Abdil Asad", "as_written": "Hadhrat Abu Salma bin Abdil Asad", "role": "mentioned", "sahabi": "yes" },
+      { "name": "Arqam bin Abil Arqam", "as_written": "Hadhrat Arqam bin Abil Arqam (RA)", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "virtues of abu bakr", "the early muslims"],
+    "events": [],
+    "places": ["Makkah"],
+    "boundary": "ok",
+    "notes": "Ends with the translator's commentary (questioning a line in Ibn Is'haaq's report, and citing a Bukhari hadith about Abu Bakr and Umar). Those commentary names (Bukhari, Umar in the hadith) are not tagged. Not split. Abu Ubaydah and Abu Salma are given without RA in the text."
+  },
+  {
+    "id": "n00020",
+    "summary": "The Prophet prays that Islaam be strengthened through either Umar bin Khattaab or Abu Jahal bin Hishaam, and Allaah answers by choosing Umar.",
+    "people": [
+      { "name": "Abdullaah bin Mas'ood", "as_written": "Hadhrat Abdullaah bin Mas'ood (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Umar bin Khattaab", "as_written": "Umar bin Khattaab", "role": "subject", "sahabi": "yes" },
+      { "name": "Abu Jahal bin Hishaam", "as_written": "Abu Jahal bin Hishaam", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "du'aa", "strengthening islaam", "virtues of umar"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

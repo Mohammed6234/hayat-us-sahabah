@@ -1,0 +1,556 @@
+[
+  {
+    "id": "n02361",
+    "summary": "Ka'b bin Adi, returning from a delegation to the Prophet, has his doubts about the Prophet's death settled by a vision, and later tells Maqoqis of Allaah's promise that His Deen would dominate.",
+    "people": [
+      { "id": null, "name": "Ka'b bin Adi", "role": "subject", "sahabi": "yes" },
+      { "id": "maqoqis", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["prophethood", "prophets-final-illness", "miracles-and-blessings", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02362",
+    "summary": "Abu Bakr, Umar and Sa'd bin Abi Waqqaas each urge the Muslims to wage Jihaad with trust in Allaah's promise, Sa'd reminding them of the army of Yazdgird they face.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "yazdajird", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "trust-in-allaah", "martyrdom"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Contains the speeches of three Companions (Abu Bakr, Umar, Sa'd) as separate reports under one heading."
+  },
+  {
+    "id": "n02363",
+    "summary": "Umaarah bin Khuzaymah narrates how Khuzaymah bin Thaabit testified that the Prophet had bought a horse from a Bedouin, and the Prophet then accepted his single testimony as equal to that of two men.",
+    "people": [
+      { "id": null, "name": "Umaarah bin Khuzaymah bin Thaabit", "role": "narrator", "sahabi": "unsure" },
+      { "id": "khuzayma-bin-thaabit", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["honest-dealings", "prophets-character", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02364",
+    "summary": "Two further versions of the horse testimony report that the Prophet asked Khuzaymah on what basis he testified, and that Khuzaymah's testimony was accepted because he believed the Prophet's news from the heavens.",
+    "people": [
+      { "id": "khuzayma-bin-thaabit", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["honest-dealings", "prophets-character", "prophethood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two variant reports of the same incident, each introduced by 'Another narration states'."
+  },
+  {
+    "id": "n02365",
+    "summary": "Aa'isha narrates that when the Prophet told of his night journey to Masjidul Aqsa and the heavens, some who had professed Imaan left Islaam, and Abu Bakr affirmed the report and received the title Siddeeq.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02366",
+    "summary": "Variant reports of the night journey account describe the test it posed to the people, and Abu Bakr's reply to those who came to him saying the Prophet had travelled a month's journey in one night.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two variant reports ('Another narration states' twice); the second ends 'The rest of the narration is the same as above', so it depends on n02365."
+  },
+  {
+    "id": "n02367",
+    "summary": "Jaabir bin Abdullaah reports that when locusts became scarce in Umar's caliphate and a rider brought a handful from Yemen, Umar recalled the Prophet's saying that locusts would be the first creatures to become extinct and the rest would follow.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02368",
+    "summary": "Fudhaala bin Abu Fudhaala Ansaari reports that his father urged the ill Ali to return to Madinah from Yamba, but Ali said the Prophet had told him he would not die until he became Khalifah and his beard was dyed with the blood from his forehead.",
+    "people": [
+      { "id": null, "name": "Fudhaala bin Abu Fudhaala Ansaari", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Abu Fudhaala", "role": "subject", "sahabi": "yes" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "miracles-and-blessings", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Fudhaala is described as a Badr veteran, which is why sahabi is yes."
+  },
+  {
+    "id": "n02369",
+    "summary": "Ali recounts that Abdullaah bin Salaam warned him, as he set out for Iraq, that a sword would strike him there, and Ali says he had already heard the same from the Prophet.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-salaam", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "miracles-and-blessings", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02370",
+    "summary": "Mu'aawiya bin Jareer narrates that when Ali caught Ibn Muljim giving a false name, Ali let him go after he gave his father's name, because the Prophet had said Ali's assassin would be a man from the Jews.",
+    "people": [
+      { "id": null, "name": "Mu'aawiya bin Jareer", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Ibn Muljim", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibn Muljim is the same man as Abdur Rahmaan bin Muljim in n02371; not in the approved list, so tagged as a new name."
+  },
+  {
+    "id": "n02371",
+    "summary": "Ubaydah reports the couplets Ali recited whenever he saw Ibn Muljim, and Abu Tufayl reports that Ali, after ordering his allowance paid, pointed to his beard and recited verses on facing death.",
+    "people": [
+      { "id": "ubaydah", "role": "narrator" },
+      { "id": null, "name": "Abu Tufayl", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Abdur Rahmaan bin Muljim", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "martyrdom"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ubaydah's and Abu Tufayl's. The couplet text has OCR damage ('Muraad ^ clan'); left as is."
+  },
+  {
+    "id": "n02372",
+    "summary": "Ummu Ammaar reports that Ammaar knew he would be killed in a battle between Muslim armies, and that at Siffeen he drank the milk he had been told would be his last drink before fighting until he was killed, and Khaalid bin Waleed relays Mu'aawiya's fear of being blamed for Ammaar's death.",
+    "people": [
+      { "id": null, "name": "Ummu Ammaar", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "khaalid-bin-waleed", "role": "narrator" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["martyrdom", "miracles-and-blessings", "prophethood", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined: Ummu Ammaar's, Ammaar's own words (quoted from other chapters), the Siffeen episode, and Khaalid's report. 'Hadhrat Mu'aawiya' taken as Mu'aawiya bin Abi Sufyaan. Ummu Ammaar is not matched to the approved ummu-ammaara-nusayba-bint-kab, since the identity is not confirmed."
+  },
+  {
+    "id": "n02373",
+    "summary": "Ibraheem bin Ashtar reports that Abu Dharr, dying in the wilderness as the Prophet had foretold, had his wife watch the road until a group of travellers from Yemen, including a young Ansaari who gave his own shroud, came to bury him.",
+    "people": [
+      { "id": null, "name": "Ibraheem bin Ashtar", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": null, "name": "Hujr bin Adbar", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Maalik Ashtar", "role": "mentioned", "sahabi": "no" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "uthmaan", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibraheem bin Ashtar's account (related from his father, who is not named in the text) and Abdullaah bin Mas'ood's account of finding Abu Dharr's body at Rabdha, which Uthmaan had sent him to."
+  },
+  {
+    "id": "n02374",
+    "summary": "Khuraym bin Aws reports that the Prophet foretold he would be given Shaymaa bint Buqaylah if Heera was conquered, and after the conquest he claimed her, as described, and sold her to her wealthy brother for a thousand Dirhams.",
+    "people": [
+      { "id": null, "name": "Khuraym bin Aws", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Shaymaa bint Buqaylah", "role": "subject", "sahabi": "unsure" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "muhammad-bin-maslama", "role": "mentioned" },
+      { "id": null, "name": "Muhammad bin Basheer", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Abdul Maseeh bin Buqaylah", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "prophethood", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Khuraym bin Aws is described as of the Banu Tay, so not matched to the approved khuraym-asadi (Asadi). Shaymaa's sahabi status is unclear."
+  },
+  {
+    "id": "n02375",
+    "summary": "Jubayr bin Hayya reports that Mughiera bin Shu'ba, sent to negotiate with the Persian commander Bandaarfaan, told him the Prophet had promised the Arabs victory and assistance, so they would never return to their former hardship.",
+    "people": [
+      { "id": null, "name": "Jubayr bin Hayya", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Bandaarfaan", "role": "mentioned", "sahabi": "no" },
+      { "id": "mughiera-bin-shuba", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["delegations", "jihaad", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02376",
+    "summary": "Jubayr bin Hayya reports a longer account of Mughiera bin Shu'ba, sent with Nu'maan bin Muqarrin's army to the people of Ahwaaz, explaining that the Prophet had ordered them to fight until the people worshipped Allaah alone or paid jizyah.",
+    "people": [
+      { "id": null, "name": "Jubayr bin Hayya", "role": "narrator", "sahabi": "unsure" },
+      { "id": "numaan-bin-muqarrin", "role": "mentioned" },
+      { "id": "mughiera-bin-shuba", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "dawah-before-battle", "delegations"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The interpreter who questions Mughiera is unnamed."
+  },
+  {
+    "id": "n02377",
+    "summary": "Talq reports that Abu Dardaa stayed sure his house would not burn, because he recited the words the Prophet had taught him each morning for protection.",
+    "people": [
+      { "id": null, "name": "Talq", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "trust-in-allaah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02378",
+    "summary": "The author gathers several remarks that confirm the Prophet's predictions: Adi's third prophecy, Hishaam bin Al Aas and others telling Jabala bin Ayham that they would take his kingdom, Ali assuring Abu Bakr the Deen would prevail, and a forward reference to Ibn Umar and a lion.",
+    "people": [
+      { "id": "adi-bin-haatim", "role": "subject" },
+      { "id": "hishaam-bin-al-aas-umawi", "role": "subject" },
+      { "id": "jabala-bin-ayham-ghassaani", "role": "mentioned" },
+      { "id": "caesar", "role": "mentioned" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "miracles-and-blessings", "jihaad", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate remarks gathered under one heading. The Ibn Umar and lion item is a pointer to a later narration, not an event told here."
+  },
+  {
+    "id": "n02379",
+    "summary": "Abu Asmaa reports that when the verse on an atom's weight of good and evil was revealed, Abu Bakr asked whether every evil would be requited, and the Prophet said worldly hardship is retribution while good deeds are rewarded in the Aakhirah.",
+    "people": [
+      { "id": "abu-asmaa", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "merged",
+    "notes": "Two variant reports: Abu Asmaa's and 'Another narration states', which adds the Surah Shura verse."
+  },
+  {
+    "id": "n02380",
+    "summary": "Abu Bakr reports that after the verse saying whoever does evil will be requited was revealed, the Prophet recited it to him, and when Abu Bakr asked who could be free of sin, the Prophet said believers are punished in this world so they meet Allaah without sin.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02381",
+    "summary": "Abu Bakr asks the Prophet who can be safe from punishment for every sin, and the Prophet says that illness, fatigue, sorrow and hardship that befall a believer are the retribution for sins in this world.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02382",
+    "summary": "Muhammad bin Muntashir reports that Umar struck a man who called a verse of the Qur'aan the harshest, then explained the next day that the verse had weighed on the Sahabah until Allaah revealed the verse promising forgiveness to those who seek it.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Muntashir", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["quraan", "mercy-and-forgiveness"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "ok",
+    "notes": "The man who spoke to Umar is unnamed. Muhammad bin Muntashir is not confirmed as the approved 'muntashir' entry, so tagged as a new name."
+  },
+  {
+    "id": "n02383",
+    "summary": "Tha'laba reports that Amr bin Samurah confessed to theft and had his hand cut off, praising Allaah for cleansing him, and Hasan reports that the ill Imraan bin Husayn explained his suffering as the result of sins that Allaah had largely forgiven.",
+    "people": [
+      { "id": null, "name": "Tha'laba", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Amr bin Samurah bin Habeeb bin Abdush Shams", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "imraan-bin-husayn", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "justice", "mercy-and-forgiveness"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "merged",
+    "notes": "Two reports: Tha'laba's (theft and amputation) and Hasan's (Imraan bin Husayn's illness). Hasan is not identified in the text; not matched to any approved entry."
+  },
+  {
+    "id": "n02384",
+    "summary": "Abu Bakr, finding dinars under his dying son's pillow, says he doubts his skin could bear the punishment for not giving them in charity, and the Prophet tells a slave-owner that his slaves' wrongs will be weighed against his punishment of them, after which the man frees them.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["sadaqah", "freeing-slaves", "justice"],
+    "new_themes": ["recompense for actions"],
+    "boundary": "merged",
+    "notes": "Two reports: the dinars episode and the Prophet's advice to the slave-owner. Opens by referring back to narrations quoted earlier. Abu Bakr's son and the slave-owner are unnamed."
+  },
+  {
+    "id": "n02385",
+    "summary": "Abu Hurayrah reports that the Sahabah were distressed by the verse on what is in the heart, and the Prophet taught them to say 'we hear and obey', after which Allaah abrogated the burden with the verse that He does not burden a soul beyond its capacity; Mujaahid reports Ibn Abbaas explaining this and Ibn Umar weeping over the verse.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": null, "name": "Mujaahid", "role": "subject", "sahabi": "no" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "mercy-and-forgiveness", "fear-of-allaah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports: Abu Hurayrah's, Mujaahid's (via Ibn Abbaas), and a closing brief narration that the Prophet advised 'we hear, we obey and we accept'."
+  },
+  {
+    "id": "n02386",
+    "summary": "Abdullaah bin Mas'ood reports that the Sahabah were distressed by the verse on not mixing Imaan with dhulm and asked who had not done wrong, and the Prophet explained from Luqmaan's advice to his son that dhulm here means shirk.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": null, "name": "Luqmaan", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02387",
+    "summary": "A variant report says that when the verse on not mixing Imaan with dhulm was revealed, the Prophet said he had been told that he was among such people.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["tawheed", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n02386, opening with 'Another narration states'."
+  },
+  {
+    "id": "n02388",
+    "summary": "Safiyya bint Shaybah reports Aa'isha's praise of the women of the Ansaar, who, when the verse on drawing scarves over the chest was revealed, covered themselves at once and came to salaah behind the Prophet looking like crows perched on their heads.",
+    "people": [
+      { "id": null, "name": "Safiyya bint Shaybah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["modesty", "quraan", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Safiyya bint Shaybah is not matched to the approved safiyya entries; sahabi status unclear."
+  },
+  {
+    "id": "n02389",
+    "summary": "Makhool reports that an extremely old, sinful man asked the Prophet whether repentance was possible, and on accepting Islaam was told that Allaah would forgive all his treachery and sins and turn his evils into good deeds.",
+    "people": [
+      { "id": "makhool", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "accepting-islaam"],
+    "new_themes": ["repentance"],
+    "boundary": "ok",
+    "notes": "The heading also names Abu Farwah, but this text is only Makhool's report. The old man is unnamed."
+  },
+  {
+    "id": "n02390",
+    "summary": "Abu Farwah reports that a man who had committed every sin asked whether he could repent, and the Prophet told him that doing good and abstaining from evil would turn all his past sins into good deeds, after which the man went off repeatedly saying Allaahu Akbar.",
+    "people": [
+      { "id": null, "name": "Abu Farwah", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "accepting-islaam"],
+    "new_themes": ["repentance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02391",
+    "summary": "Abu Hurayrah relates that a woman who had committed adultery and killed her child was told by him that she had no repentance, until the Prophet recited the verses of Surah Furqaan offering forgiveness, and another report says she freed her slave woman and repented sincerely.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "quraan", "freeing-slaves"],
+    "new_themes": ["repentance"],
+    "boundary": "merged",
+    "notes": "Two reports: the main account and 'Another narration states' (she searched for Abu Hurayrah, then freed her slave woman). The woman is unnamed."
+  },
+  {
+    "id": "n02392",
+    "summary": "Abul Hasan, a freed slave of Tameem Daari, reports that when the verse saying only deviant people follow poets was revealed, Hassaan bin Thaabit, Abdullaah bin Rawaaha and Ka'b bin Maalik came weeping, and the Prophet recited the exception for believing poets who defend Islaam.",
+    "people": [
+      { "id": "abul-hasan", "role": "narrator" },
+      { "id": "tameem-daari", "role": "mentioned" },
+      { "id": "hassaan-bin-thaabit", "role": "subject" },
+      { "id": "abdullaah-bin-rawaaha", "role": "subject" },
+      { "id": "kab-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "virtues-of-the-sahabah", "opposition"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abul Hasan is matched to the approved entry by name only."
+  },
+  {
+    "id": "n02393",
+    "summary": "Ataa bin Saa'ib describes the old Abdur Rahmaan bin Abu Layla explaining that a believer's longing to meet Allaah at death differs from the dread of the rejecter, quoting the Prophet's saying that whoever loves to meet Allaah, Allaah loves to meet him.",
+    "people": [
+      { "id": "ataa-bin-saaib", "role": "subject" },
+      { "id": "abdur-rahmaan-bin-abu-layla", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "death-and-burial", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list has two near-identical entries for this name (abdur-rahmaan-bin-abi-layla and abdur-rahmaan-bin-abu-layla); the one matching the text spelling is used. Worth merging in review."
+  },
+  {
+    "id": "n02394",
+    "summary": "Abdullaah bin Amr reports that Abu Bakr wept excessively when the Surah Zilzaal was revealed, and the Prophet told him that if people never erred, Allaah would create a nation that erred and sinned so that He could forgive them.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["fear-of-allaah", "mercy-and-forgiveness", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02395",
+    "summary": "Umar reports that the Prophet asked him how he would fare in the grave when Munkar and Nakeer examined him, and Umar, told he would be in full command of his senses, said he would be able to handle them.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Munkar", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Nakeer", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "aakhirah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Munkar and Nakeer are angels, included here as named figures who act in the narration; drop them if angels should not be tagged as people."
+  },
+  {
+    "id": "n02396",
+    "summary": "A variant of the grave examination account says the Prophet told Umar, on Jibra'eel's word, that he would answer the questioners with the articles of faith and that they would wonder whether they had been sent to question him or he to question them.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "jibraeel", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "aakhirah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Addendum to n02395, introduced as 'Another narration adds'; one report. The two examiners are not named here."
+  },
+  {
+    "id": "n02397",
+    "summary": "Abul Bahriyya Kindi reports that Umar, coming out to a gathering where Uthmaan was present, said that among them was a man whose Imaan would suffice an entire army if it were divided among them.",
+    "people": [
+      { "id": null, "name": "Abul Bahriyya Kindi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah"],
+    "new_themes": ["strength of imaan"],
+    "boundary": "ok",
+    "notes": "Only one approved theme fits this narration; 'strength of imaan' is proposed as new. The brief asks for 2 to 5 approved ids, so this may need a second approved id in review."
+  },
+  {
+    "id": "n02398",
+    "summary": "A set of cross-references gathers remarks already quoted elsewhere on the strength of Imaan: Ibn Umar on the Sahabah's hearts being firmer than mountains, Ammaar's contentment with Imaan, Abu Bakr and Umar's trust and taqwa, Ali's trust in Allaah over one's own hand, Aamir bin Rabee'ah's detachment from the world, and Aa'isha's account of Usayd bin Hudhayr.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" },
+      { "id": "aamir-bin-rabeeah", "role": "subject" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "usayd-bin-hudhayr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["trust-in-allaah", "sadaqah", "taqwa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "A collection of many separate remarks, each cited as already quoted in other chapters. Umar's taqwa remark quotes Surah Talaaq."
+  },
+  {
+    "id": "n02399",
+    "summary": "Haarith, a freed slave of Uthmaan, reports Uthmaan's wudhu and the Prophet's saying that sins between the prayers are forgiven, with the lasting good deeds being the tasbeeh, and Abu Uthmaan reports Salmaan Faarsi shaking a tree to show how sins fall away with wudhu and the five prayers.",
+    "people": [
+      { "id": null, "name": "Haarith", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "abu-uthmaan", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness", "dhikr"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Haarith's (Uthmaan's wudhu, the prayers, and the lasting good deeds) and Abu Uthmaan's (Salmaan and the tree). Haarith is not confirmed as the approved 'haarith' entry, so tagged as a new name; Abu Uthmaan is the unsure approved entry."
+  },
+  {
+    "id": "n02400",
+    "summary": "Aamir bin Sa'd reports, from his father Sa'd bin Abi Waqqaas, that when told one of two brothers was the better, the Prophet pointed to the surviving brother's prayers and compared salaah to a river at the door that washes away dirt five times a day.",
+    "people": [
+      { "id": "aamir-bin-sad-bin-abi-waqqaas", "role": "narrator" },
+      { "id": "sad-bin-abi-waqqaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "martyrdom", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The brothers are unnamed. The author's footnote on Surah Hood verse 114 is editorial and not tagged."
+  }
+]

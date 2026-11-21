@@ -1,0 +1,158 @@
+[
+  {
+    "id": "n00001",
+    "summary": "Ibn Abbaas reports that the Prophet was deeply concerned for all of mankind to accept imaan, and Allaah revealed that guidance and misguidance are already destined and that forcing faith would defeat the purpose of the test.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "concern for mankind to accept imaan", "destiny of guidance and misguidance", "testing by allaah"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00002",
+    "summary": "As Abu Taalib was dying, Abu Jahal and the Quraysh asked him to stop his nephew from preaching; the Prophet asked only for the single statement Laa Ilaaha Illallaah, which they rejected with mockery.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "laa ilaaha illallaah", "opposition from the quraysh", "dawah to family", "mockery of the message"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00003",
+    "summary": "Quraysh leaders offered Abu Taalib a compromise, but when the Prophet asked only for Laa Ilaaha Illallaah they mocked it and left, and Abu Taalib died without saying it, fearing the Quraysh's reproach.",
+    "people": [
+      { "name": "Abdullaah bin Abbaas", "as_written": "Hadhrat Abdullaah bin Abbaas (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal bin Hishaam", "as_written": "Abu Jahal bin Hishaam", "role": "subject", "sahabi": "no" },
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba bin Rabee'ah", "role": "mentioned", "sahabi": "no" },
+      { "name": "Shayba bin Rabee'ah", "as_written": "Shayba bin Rabee'ah", "role": "mentioned", "sahabi": "no" },
+      { "name": "Umayyah bin Khalaf", "as_written": "Umayyah bin Khalaf", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abu Sufyaan bin Harb", "as_written": "Abu Sufyaan bin Harb", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "laa ilaaha illallaah", "opposition from the quraysh", "compromise offered to the prophet", "dawah to family"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00004",
+    "summary": "Sa'eed bin Musayyab reports that while Abu Taalib was dying, Abu Jahal and Abdullaah bin Abi Umayyah persuaded him to stay on his forefathers' religion, and Allaah revealed verses forbidding seeking forgiveness for the mushrikeen and stating that guidance is not in the Prophet's hands.",
+    "people": [
+      { "name": "Sa'eed bin Musayyab", "as_written": "Hadhrat Sa'eed bin Musayyab (RA)", "role": "narrator", "sahabi": "no" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" },
+      { "name": "Abdullaah bin Abi Umayyah", "as_written": "Abdullaah bin Abi Umayyah", "role": "subject", "sahabi": "unsure" },
+      { "name": "Abdul Muttalib", "as_written": "Abdul Muttalib", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "kalimah at the time of death", "seeking forgiveness for the mushrikeen", "guidance is in allaah's hands", "opposition from the quraysh"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Abi Umayyah is named without (RA) here; his Companion status is not verified from the text."
+  },
+  {
+    "id": "n00005",
+    "summary": "Another report says the Prophet kept offering the kalimah to Abu Taalib while Abu Jahal and Abdullaah bin Abi Umaayyah repeated their objections, and Abu Taalib died without saying it; the seeking-forgiveness verses followed.",
+    "people": [
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" },
+      { "name": "Abdullaah bin Abi Umayyah", "as_written": "Abdullaah bin Abi Umaayyah", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "kalimah at the time of death", "dawah to family", "seeking forgiveness for the mushrikeen"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Refers back to the two verses quoted in the previous narration. Narrator not named."
+  },
+  {
+    "id": "n00006",
+    "summary": "Abu Hurayrah reports that the Prophet asked his dying uncle Abu Taalib to say Laa Ilaaha Illallaah, but Abu Taalib refused for fear of Quraysh ridicule, and Allaah revealed that guidance is not in the Prophet's power.",
+    "people": [
+      { "name": "Abu Hurayrah", "as_written": "Hadhrat Abu Hurayrah (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "kalimah at the time of death", "guidance is in allaah's hands", "dawah to family", "fear of ridicule"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00007",
+    "summary": "Aqeel bin Abi Taalib reports that Abu Taalib asked the Prophet to stop saying things that hurt the Quraysh, and the Prophet replied that he could not stop doing what he had been sent to do.",
+    "people": [
+      { "name": "Aqeel bin Abi Taalib", "as_written": "Hadhrat Aqeel bin Abi Taalib (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "steadfastness in dawah", "opposition from the quraysh", "dawah to family"],
+    "events": [],
+    "places": ["Kabah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00008",
+    "summary": "Abu Taalib asks the Prophet to stop telling the people things they dislike, and the Prophet refuses even if the sun and moon were placed in his hands. Jaabir bin Abdillaah then reports how Utba bin Rabee'ah, sent to bargain with the Prophet, was overwhelmed by the Qur'aan recited to him and later swore never to speak to him again after Abu Jahal's taunts.",
+    "people": [
+      { "name": "Abu Taalib", "as_written": "Abu Taalib", "role": "subject", "sahabi": "no" },
+      { "name": "Jaabir bin Abdillaah", "as_written": "Hadhrat Jaabir bin Abdillaah (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba bin Rabee'ah", "role": "subject", "sahabi": "no" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" },
+      { "name": "Abdullaah", "as_written": "Abdullaah (your father)", "role": "mentioned", "sahabi": "no" },
+      { "name": "Abdul Muttalib", "as_written": "AbdulMuttalib", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "steadfastness in dawah", "offers of wealth and leadership to the prophet", "the qur'aan as a proof", "opposition from the quraysh"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Opens with a Bayhaqi report, then the author says the complete hadith follows (from Jaabir bin Abdillaah). Treated as one narration."
+  },
+  {
+    "id": "n00009",
+    "summary": "Abdullaah bin Umar reports that when some Quraysh gathered in the Masjidul Haraam to discuss the Prophet, Utba bin Rabee'ah went to speak with him and offered wealth, honour and leadership; after the Prophet recited Surah Sajdah, Utba was so moved that he told the Quraysh to leave the Prophet alone, and they accused him of abandoning his religion.",
+    "people": [
+      { "name": "Abdullaah bin Umar", "as_written": "Hadhrat Abdullaah bin Umar (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Utba bin Rabee'ah", "as_written": "Utba bin Rabee'ah", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "offers of wealth and leadership to the prophet", "the qur'aan's effect on listeners", "opposition from the quraysh"],
+    "events": [],
+    "places": ["Masjidul Haraam", "Makkah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00010",
+    "summary": "Miswar bin Makhrama and Marwaan report that at Hudaybiyyah, Budayl bin Waraqa warned that the Aamir and Ka'b tribes were ready to fight to block the Muslims from the Kabah; the Prophet said he came only for Umrah, offered a treaty, and vowed to fight for the Deen if the Quraysh refused.",
+    "people": [
+      { "name": "Miswar bin Makhrama", "as_written": "Hadhrat Miswar bin Makhrama (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Marwaan", "as_written": "Hadhrat Marwaan (RA)", "role": "narrator", "sahabi": "unsure" },
+      { "name": "Budayl bin Waraqa Khuzaa'ee", "as_written": "Budayl bin Waraqa Khuzaa'ee", "role": "subject", "sahabi": "unsure" },
+      { "name": "Aamir bin Luway", "as_written": "Aamir bin Luway", "role": "mentioned", "sahabi": "no" },
+      { "name": "Ka'b bin Luway", "as_written": "Ka'b bin Luway", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "peace treaty", "umrah", "dawah", "determination in the deen"],
+    "events": ["Treaty of Hudaybiyyah"],
+    "places": ["Hudaybiyyah", "Tihaamah", "Kabah"],
+    "boundary": "ok",
+    "notes": "Marwaan is named with (RA) but without a patronymic, so his Companion status is unsure. Budayl's status is not stated in the text. Aamir and Ka'b are named as tribal ancestors."
+  }
+]

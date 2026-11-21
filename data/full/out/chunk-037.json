@@ -1,0 +1,522 @@
+[
+  {
+    "id": "n01441",
+    "summary": "The Prophet ﷺ prayed that the progeny of Abdul Muttalib be kept steadfast, educated and guided, warned that bearing enmity towards them leads to Jahannam, and promised to repay anyone who is not repaid in this world for a kindness shown to them.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "uthmaan", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "steadfastness", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: Ibn Abbaas, then Uthmaan (RA)."
+  },
+  {
+    "id": "n01442",
+    "summary": "Jaabir (RA) reports Umar's remark, on marrying Ali's daughter, that this made him kin to the Prophet ﷺ; a second report has the Prophet warning against speaking ill of the Quraysh, whose status is high in Allaah's sight.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "muhammad-bin-ibraheem-taymi", "role": "narrator" },
+      { "id": "qataadah-bin-numaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "virtues-of-the-sahabah"],
+    "new_themes": ["status of the Quraysh"],
+    "boundary": "merged",
+    "notes": "Two reports joined. The first is cut off in the OCR ('kinship with Rasulullaah') and the next heading runs into the text."
+  },
+  {
+    "id": "n01443",
+    "summary": "Ali (RA) reports the Prophet's instruction to put the Quraysh first and never to go ahead of them, and his statement that he would otherwise have told them their high status in Allaah's sight.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "family"],
+    "new_themes": ["status of the Quraysh"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01444",
+    "summary": "Aa'isha (RA) reports that the Prophet ﷺ told her he would have revealed the high status of the Quraysh had he not feared their pride.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "family"],
+    "new_themes": ["status of the Quraysh"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01445",
+    "summary": "Abu Hurayrah reports the Prophet's praise of the trustworthiness of the Quraysh; Rifaa'ah bin Raafi reports that Umar was sent to gather the people, and that the Prophet told them only those with taqwa are Allaah's friends and warned against searching out the faults of the Quraysh.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "rifaaah-bin-raafi", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "fear-of-allaah"],
+    "new_themes": ["status of the Quraysh"],
+    "boundary": "merged",
+    "notes": "Two reports joined. The stray 'W' before the second report is OCR debris."
+  },
+  {
+    "id": "n01446",
+    "summary": "Ibn Abbaas reports the Prophet's warning that enmity towards Banu Haashim and the Ansaar leads to kufr, and that enmity towards the Arabs is a sign of hypocrisy.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01447",
+    "summary": "Aa'isha (RA) relates the Prophet's prophecy that the Quraysh would be the first of his Ummah to die and be envied, after which people would become like locusts devouring the weak until Qiyaamah; a second narration calls them the first to be destroyed.",
+    "people": [
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "virtues-of-the-sahabah"],
+    "new_themes": ["prophecies about the Ummah"],
+    "boundary": "merged",
+    "notes": "Two narrations joined ('Another narration states')."
+  },
+  {
+    "id": "n01448",
+    "summary": "Umar (RA) reports that the Prophet ﷺ ranked the Imaan of those who believe in him without seeing him as the strongest of all, above the angels, the Ambiyaa and the martyrs.",
+    "people": [
+      { "id": "umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "quraan"],
+    "new_themes": ["faith of later generations"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01449",
+    "summary": "Amr (RA) reports that the Prophet ﷺ ranked those who believe in him unseen above the angels and the Ambiyaa; Abu Jumu'ah (RA) reports that when Abu Ubaydah asked whether anyone was superior to the Sahabah, the Prophet gave the same answer.",
+    "people": [
+      { "id": null, "name": "Amr", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Abu Jumu'ah", "role": "narrator", "sahabi": "yes" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "quraan"],
+    "new_themes": ["faith of later generations"],
+    "boundary": "merged",
+    "notes": "Two reports joined. 'Amr' is not linked: the approved list has several Amrs and the text gives no patronymic. Needs a check against the book's full name."
+  },
+  {
+    "id": "n01450",
+    "summary": "Abu Umaamah (RA) reports the Prophet's glad tidings: a reward for those who believe in him after seeing him, and seven times that reward for those who believe in him without seeing him.",
+    "people": [
+      { "id": "abu-umaama", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "virtues-of-the-sahabah"],
+    "new_themes": ["faith of later generations"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01451",
+    "summary": "Abu Hurayrah (RA) reports the Prophet's saying that people will come after him who would wish to sacrifice their families and wealth just to see him.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01452",
+    "summary": "Anas (RA) reports the Prophet's wish to see his brothers, who will believe in him without seeing him, and that when the Sahabah asked whether they were not his brothers, he said they were his companions and his brothers are those who believe unseen.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations joined ('Another narration states'). The Sahabah are unnamed."
+  },
+  {
+    "id": "n01453",
+    "summary": "Ammaar bin Yaasir (RA) reports the Prophet's comparison of his Ummah to rain, of which it cannot be said whether the first part or the last part is better.",
+    "people": [
+      { "id": "ammaar-bin-yaasir", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01454",
+    "summary": "Abdullaah bin Mas'ood (RA) reports that the Prophet ﷺ said angels convey the greetings of his Ummah to him, that his life is good for them because they ask him about Deen, and his death is good for them because their deeds are shown to him; he praises Allaah for good deeds and asks forgiveness for their sins.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "aakhirah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01455",
+    "summary": "Abu Burdah (RA) reports that, while the heads of the Khawaarij were brought before Ibn Ziyaad and Abdullaah bin Yazeed, he declared each one headed for Jahannam, and Abdullaah rebuked him, quoting the Prophet that the punishment of this Ummah is in this world.",
+    "people": [
+      { "id": null, "name": "Abu Burdah", "role": "narrator", "sahabi": "yes" },
+      { "id": "abdullaah-bin-yazeed", "role": "subject" },
+      { "id": null, "name": "Ibn Ziyaad", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Burdah is not linked: approved 'abu-burda-bin-niyaar' may be a different man, and the text gives no patronymic. Ibn Ziyaad has no approved entry (see n01457)."
+  },
+  {
+    "id": "n01456",
+    "summary": "A narration with no named narrator quotes the Prophet ﷺ that Allaah has made killing the punishment of this Ummah in this world.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["justice", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "No narrator is named; it is a second report on the same topic as n01455."
+  },
+  {
+    "id": "n01457",
+    "summary": "Abu Burdah (RA) reports that he left Ubaydullaah bin Ziyaad because of the harsh punishment he was giving the Khawaarij, and that a Sahabi told him the Prophet ﷺ had said this Ummah's punishment would be by the sword.",
+    "people": [
+      { "id": null, "name": "Abu Burdah", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Ubaydullaah bin Ziyaad", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Same Abu Burdah as n01455, not linked. The Sahabi who gave the hadith is unnamed."
+  },
+  {
+    "id": "n01458",
+    "summary": "Ibn Abbaas (RA) reports that after a man was killed in mysterious circumstances, the Prophet ﷺ addressed the people from the pulpit: if all the inhabitants of the heavens and the earth conspired to kill one Muslim, Allaah would punish them all.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "justice"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The victim is unnamed."
+  },
+  {
+    "id": "n01459",
+    "summary": "Abu Sa'eed (RA) reports that after an unknown person was killed, the Prophet ﷺ asked three times on the pulpit who had done it, then warned that conspiring to kill a Mu'min brings Jahannam, and that bearing enmity to his household does too.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "family"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The victim and the Sahabah who swore are unnamed. The closing OCR debris is ignored."
+  },
+  {
+    "id": "n01460",
+    "summary": "Usaama bin Zaid (RA) reports that he killed a man in battle after the man recited the Kalimah, and that the Prophet ﷺ rebuked him repeatedly until he wished he had only become a Muslim that day.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kalimah", "halaal-and-haraam"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The Ansaari who was with Usaama and the man killed are unnamed. The Banu Hurqah is a tribe, not listed."
+  },
+  {
+    "id": "n01461",
+    "summary": "Usaama bin Zaid (RA) gives further reports of the Prophet ﷺ repeatedly asking who would defend him against La ilaaha illallaah, and of Usaama's pledge never to kill anyone who professes it; a third report names Mirdaas bin Nuhayk, killed after he professed the Kalimah.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "narrator" },
+      { "id": null, "name": "Mirdaas bin Nuhayk", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["kalimah", "halaal-and-haraam"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "merged",
+    "notes": "Three reports joined. The Mirdaas report has an OCR gap ('...worship but' then missing text). The Ansaari is unnamed."
+  },
+  {
+    "id": "n01462",
+    "summary": "Bakr bin Haaritha (RA) reports that in battle he killed a man who had accepted Islaam to save himself; the Prophet ﷺ withdrew from him until Surah Nisaa verse 92 was revealed on the matter, after which he was pleased with him again and drew him close.",
+    "people": [
+      { "id": null, "name": "Bakr bin Haaritha", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "quraan"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The man killed is unnamed. Not in the approved list (approved 'bakr-bin-shaddaah-laythi' is a different man)."
+  },
+  {
+    "id": "n01463",
+    "summary": "Uqba bin Khaalid Laythi (RA) reports that a Muslim killed a fleeing man who had cried out that he was a Muslim; the Prophet ﷺ condemned it, and when the killer said the man had professed Islaam only to save himself, the Prophet kept turning away from him and rebuked him.",
+    "people": [
+      { "id": null, "name": "Uqba bin Khaalid Laythi", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "kalimah"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "OCR gap in the third exchange, and the Prophet's closing words are only partly legible. The killer and the man killed are unnamed."
+  },
+  {
+    "id": "n01464",
+    "summary": "Abdullaah bin Abu Hadrad (RA) reports that Muhallim bin Jathaamah killed Aamir bin Athbat on an old grudge after Aamir greeted them with salaam, and that Surah Nisaa verse 94 was then revealed on the matter.",
+    "people": [
+      { "id": "abdullaah-bin-abu-hadrad-aslami", "role": "narrator" },
+      { "id": "abu-qataadah-haarith-bin-ribee", "role": "mentioned" },
+      { "id": null, "name": "Muhallim bin Jathaamah", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Aamir bin Athbat Ashja'ee", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "halaal-and-haraam"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "Vocab lists Abdullaah bin Abu Hadrad Aslami twice (abdullaah-bin-abi-hadrad-aslami and abdullaah-bin-abu-hadrad-aslami); used the second, which matches the text spelling. Second version of the same incident is n01465."
+  },
+  {
+    "id": "n01465",
+    "summary": "Abdullaah bin Umar (RA) reports the same incident: Muhallim bin Jathaamah shot and killed Aamir bin Athbat; Uyaynah and Aqra debated before the Prophet ﷺ, who refused to forgive Muhallim, who died within seven days; the earth twice returned his body, so the Sahabah buried him under rocks, and Surah Nisaa verse 94 was then revealed.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": null, "name": "Muhallim bin Jathaamah", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Aamir bin Athbat", "role": "subject", "sahabi": "unsure" },
+      { "id": "uyayna-fazaari", "role": "subject" },
+      { "id": "aqra-bin-haabis", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "quraan", "halaal-and-haraam"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "Uyaynah is linked to approved 'uyayna-fazaari' (yes) because the text says RA; the approved 'uyayna-bin-badr' (no) may be the same man, so this needs a check. Aamir's Sahabi status is not stated in the text."
+  },
+  {
+    "id": "n01466",
+    "summary": "Qabeesah bin Dhuwayb (RA) reports that a Sahabi killed a defeated Mushrik who had recited the Kalimah, was distressed by it, and after he died the earth twice refused his body, so the Prophet ﷺ ordered it thrown into a crevasse in the mountains.",
+    "people": [
+      { "id": null, "name": "Qabeesah bin Dhuwayb", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["kalimah", "halaal-and-haraam", "aakhirah"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The Sahabi and the Mushrik are unnamed. Not in the approved list (approved 'qabeesa-bin-ayaas-bin-hayya-taaee' is a different man)."
+  },
+  {
+    "id": "n01467",
+    "summary": "Abu Ja'far Muhammad bin Ali reports that after Makkah was conquered Khaalid bin Waleed, sent to invite people to Islaam, killed many of the Banu Jadheema after they had laid down their arms; the Prophet ﷺ raised his hands to disown the act, sent Ali to compensate every loss, and praised what Ali did.",
+    "people": [
+      { "id": null, "name": "Abu Ja'far Muhammad bin Ali", "role": "narrator", "sahabi": "no" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah-before-battle", "justice", "conquest-of-makkah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator not linked: approved 'abu-jafar' (unsure) and 'muhammad-bin-ali-bin-husayn' (no) may be meant, but the text gives only 'Abu Ja'far Muhammad bin Ali' with no RA. Banu Sulaym, Banu Mudlaj and Banu Jadheema are tribes, not listed."
+  },
+  {
+    "id": "n01468",
+    "summary": "Abdullaah bin Umar (RA) reports that Khaalid bin Waleed had the Banu Jadheema prisoners executed and that the Prophet ﷺ disowned the act; Ibn Is'haaq adds the quarrel between Khaalid and Abdur Rahmaan bin Awf, and the Prophet told Khaalid to leave his Badri companions alone.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "ibn-ishaaq", "role": "narrator" },
+      { "id": "faakih", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "apostasy", "virtues-of-the-sahabah"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "merged",
+    "notes": "Joins Abdullaah bin Umar's account with Ibn Is'haaq's report of the quarrel. 'Faakih' is linked by name only to the approved 'faakih' (no), who is the uncle named in the text. Please confirm."
+  },
+  {
+    "id": "n01469",
+    "summary": "Sakhar (RA) reports that he held the Thaqeef under siege until they surrendered and sent them to the Prophet ﷺ; the Prophet then had him hand back the captured aunt of Mughiera bin Shu'ba, and return the oasis he had taken from the Banu Sulaym once they embraced Islaam again.",
+    "people": [
+      { "id": "sakhar", "role": "narrator" },
+      { "id": "mughiera-bin-shuba", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "justice"],
+    "new_themes": ["restoring property to its owners"],
+    "boundary": "ok",
+    "notes": "Thaqeef, Ahmas and Banu Sulaym are tribes, not listed. The aunt is unnamed."
+  },
+  {
+    "id": "n01470",
+    "summary": "Aws bin Aws Thaqafi (RA) reports that the Prophet ﷺ ordered a man executed after a whispered report, then recalled him, asked whether he had testified to Allaah's oneness and the Prophet's risaalah, and ordered his release, since blood and wealth are protected once people testify.",
+    "people": [
+      { "id": null, "name": "Aws bin Aws Thaqafi", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["kalimah", "halaal-and-haraam", "justice"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The man who whispered and the man accused are unnamed. Not in the approved list (approved 'aws-bin-auf' and 'aws-bin-hudhayfa' are different men)."
+  },
+  {
+    "id": "n01471",
+    "summary": "Abdullaah bin Adi Ansaari (RA) reports that when the Prophet ﷺ was told of a hypocrite who had been killed, he asked whether the man had testified to Allaah's oneness and to his risaalah and prayed salaah, and said that such people were the ones he was forbidden to kill.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Adi Ansaari", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "kalimah", "halaal-and-haraam"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The man who asked permission and the hypocrite are unnamed. Not in the approved list (approved 'abdullaah-bin-adi-bin-khiyaar' is a different name)."
+  },
+  {
+    "id": "n01472",
+    "summary": "Aa'isha (RA) reports that the Prophet ﷺ asked for one of his companions, and after Abu Bakr, Umar and Ali were named and declined, he called Uthmaan and whispered to him; when Uthmaan was besieged and his companions asked to fight, he refused, saying the Prophet had made him pledge to remain steadfast.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["bayah", "steadfastness"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "OCR reads 'Utrtar' for Umar; treated as Umar. The companions who asked to fight are unnamed."
+  },
+  {
+    "id": "n01473",
+    "summary": "Abdullaah bin Umar (RA) reports that Uthmaan, besieged in his house, asked the rebels why they wanted to kill him, quoted the three cases in which a person's blood is lawful, and denied that any of them applied to him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "apostasy", "justice"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "The rebels are unnamed. OCR debris in the Uthmaan's words is ignored."
+  },
+  {
+    "id": "n01474",
+    "summary": "Abu Umaamah (RA) relates that Uthmaan, under siege, came to them pale-faced after being threatened, asked why they wanted to kill him, quoted the three cases in which blood is lawful, denied each of them, and said he had never wished for another religion.",
+    "people": [
+      { "id": "abu-umaama", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "apostasy", "steadfastness"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "The reference line citing Abdur Razzaaq and Hasan bin Sufyaan (Kanzul Ummaal) is omitted as a citation, not narration. The rebels are unnamed."
+  },
+  {
+    "id": "n01475",
+    "summary": "Abu Layla Kindi reports that Uthmaan, under siege, warned the rebels through a gap in the wall that killing him would divide the Muslims, quoting Shu'ayb's warning from Surah Hood, and that Uthmaan then asked Abdullaah bin Salaam, who advised restraint.",
+    "people": [
+      { "id": "abu-layla-kindi", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": null, "name": "Shu'ayb", "role": "mentioned", "sahabi": "no" },
+      { "id": "abdullaah-bin-salaam", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["consultation", "steadfastness"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "The text marks Shu'ayb with (RA), but he is a Prophet, so sahabi is no. The nations of Nooh, Hood, Saalih and Loot named in the verse are peoples, not listed. The rebels are unnamed."
+  },
+  {
+    "id": "n01476",
+    "summary": "Mughiera bin Shu'ba (RA) relates the three options he offered Uthmaan under siege (fight, leave for Makkah, or go to Shaam), and Uthmaan refused all three, quoting the Prophet's warning about a Quraysh man who would spread irreligiousness in Makkah, and saying he would never leave the place of Hijrah.",
+    "people": [
+      { "id": "mughiera-bin-shuba", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "steadfastness"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "'Mu'aawiya' is linked to muaawiya-bin-abi-sufyaan from context (the governor of Shaam), not from a patronymic. Please confirm."
+  },
+  {
+    "id": "n01477",
+    "summary": "Abu Hurayrah (RA) reports that he told Uthmaan under siege that fighting the rebels was now lawful, and Uthmaan answered that killing even one person is like killing all of mankind; Abu Hurayrah then left without fighting.",
+    "people": [
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "justice"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01478",
+    "summary": "Abdullaah bin Zubayr (RA) asks Uthmaan to let them fight the rebels, and Uthmaan refuses, pleading that no man should have his blood spilt for him or spill another's for him; a second narration gives the same request and refusal.",
+    "people": [
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["steadfastness", "khilaafah"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "merged",
+    "notes": "Two narrations joined ('Another narration states')."
+  },
+  {
+    "id": "n01479",
+    "summary": "Abdullaah bin Aamir (RA) reports that Uthmaan, under siege, said the one most useful to him is the man who restrains his hand and his weapon.",
+    "people": [
+      { "id": "abdullaah-bin-aamir", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["steadfastness", "patience"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "OCR drops the verb 'said' before Uthmaan's words. Approved 'abdullaah-bin-aamir' is marked unsure in vocab, though the text gives RA; used as approved."
+  },
+  {
+    "id": "n01480",
+    "summary": "Zaid bin Thaabit (RA) reports that the Ansaar at Uthmaan's door asked his permission to become helpers in the cause of Allaah, and Uthmaan refused, saying he gives no permission if they intend fighting.",
+    "people": [
+      { "id": "zaid-bin-thaabit", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["steadfastness", "jihaad"],
+    "new_themes": ["refraining from fighting fellow Muslims"],
+    "boundary": "ok",
+    "notes": "The Ansaar are a group, not listed."
+  }
+]

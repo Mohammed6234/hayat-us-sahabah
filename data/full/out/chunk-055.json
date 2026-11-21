@@ -1,0 +1,536 @@
+[
+  {
+    "id": "n02161",
+    "summary": "The Prophet tells Aa'isha he can tell when she is pleased or angry by how she swears, and she answers that she only leaves out his name while her love stays the same.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "ibraheem", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "prophets-character", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02162",
+    "summary": "The Prophet says that honouring bonds of affection is part of Imaan, and Abu Tufayl saw him spread his shawl for the woman who had nursed him as a baby.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "khadeeja", "role": "mentioned" },
+      { "id": null, "name": "Abu Tufayl", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "prophets-character", "kindness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. The opening of Aa'isha's report is garbled by OCR ('anyone else'), so her story is incomplete. The woman in Abu Tufayl's report is unnamed."
+  },
+  {
+    "id": "n02163",
+    "summary": "Umar found the Prophet's short Abyssinian servant rubbing his back, asked whether he had been hurt, and the Prophet said his camel had thrown him the night before.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The opening clause is garbled by OCR, and the question 'O Rasulullaah' is cut off. The meaning is intact."
+  },
+  {
+    "id": "n02164",
+    "summary": "Abdullaah bin Mas'ood carried the Prophet's shoes and staff, screened him when he bathed, woke him when he slept and walked with him when no one else was there.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Qaasim bin Abdur Rahmaan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["humility", "prophets-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations joined by 'Another narration'. The vocabulary has no entry for Qaasim bin Abdur Rahmaan, and 'Hadhrat' alone does not show whether he was a Companion. The narrator of the second report is not named."
+  },
+  {
+    "id": "n02165",
+    "summary": "Anas says he was ten when the Prophet reached Madinah and twenty when he died, and that his mother and aunts urged him to serve the Prophet.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["youth", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02166",
+    "summary": "Asked whether he was at Badr, Anas says he was there as a boy to serve the Prophet, and Jaabir reports the Prophet praising Hasan and Husayn as excellent riders when they climbed on his back.",
+    "people": [
+      { "id": null, "name": "Thumaamah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": null, "name": "Muhammad bin Abdullaah Ansaari", "role": "narrator", "sahabi": "unsure" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "kindness", "youth"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports joined. The Badr report is cut by OCR ('one of them (the narrator is unsure) arrived'), so it is incomplete."
+  },
+  {
+    "id": "n02167",
+    "summary": "Ummu Ayman reports that Hasan and Husayn were lost, and the Prophet finds them clinging together beside a snake, which slides away from him, then carries one on each shoulder while Salmaan praises the boys as excellent riders.",
+    "people": [
+      { "id": "ummu-ayman", "role": "subject" },
+      { "id": "salmaan-faarsi", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "family", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The OCR garbles 'Rasulullaah tflf'. The snake passage contains the translator's aside about Allaah sending it, which is kept as the book's words."
+  },
+  {
+    "id": "n02168",
+    "summary": "Jaabir describes how, on the way to a meal, the Prophet ran to catch Husayn playing in the street, made him laugh, hugged and kissed him, and said Husayn is from him and he is from Husayn.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "kindness", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02169",
+    "summary": "The wife of Uthmaan bin Madh'oon complained that he worshipped all night and fasted all day, the Prophet rebuked him, and she then dressed well again; at his deathbed she mourned him in verse.",
+    "people": [
+      { "id": "uthmaan-bin-madhoon", "role": "subject" },
+      { "id": null, "name": "Ibn Is'haaq Sabee'ee", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "prophets-character", "muslim-rights"],
+    "new_themes": ["moderation in worship"],
+    "boundary": "ok",
+    "notes": "The narrator's name is OCR-garbled ('ibn is'haaq'). The approved 'Ibn Is'haaq' and 'Abu Is'haaq' are different men, so neither is used. The wife is unnamed here; the next item names her."
+  },
+  {
+    "id": "n02170",
+    "summary": "A variant names the wife as Khowla bint Hakeem and says she visited Aa'isha, and records the Prophet telling Uthmaan that monasticism is not prescribed for them and that he himself fears Allaah most.",
+    "people": [
+      { "id": null, "name": "Khowla bint Hakeem", "role": "subject", "sahabi": "yes" },
+      { "id": "aaisha", "role": "mentioned" },
+      { "id": "uthmaan-bin-madhoon", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "prophets-character", "muslim-rights"],
+    "new_themes": ["moderation in worship"],
+    "boundary": "ok",
+    "notes": "'Khowla bint Hakeem' is not in the approved list. The approved 'Khowla bint Qais' is a different woman."
+  },
+  {
+    "id": "n02171",
+    "summary": "Abdullaah bin Amr neglected his new wife through his worship, his father Amr complained to the Prophet, and the Prophet had him reduce his fasting and Qur'aan recitation and fast on alternate days like Dawood.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "subject" },
+      { "id": "amr-bin-al-aas", "role": "subject" },
+      { "id": null, "name": "Dawood", "role": "mentioned", "sahabi": "no" },
+      { "id": null, "name": "Husayn", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["following-the-sunnah", "marriage", "fasting", "quraan"],
+    "new_themes": ["moderation in worship"],
+    "boundary": "merged",
+    "notes": "Three parts joined: Abdullaah's account, the Prophet's added saying in the narration of 'Hadhrat Husayn', and Mujaahid's account of Abdullaah's old age. The Husayn here has no RA and is not identified; he is not Husayn bin Ali, so he is unmatched. Dawood is the Prophet's brother named in the text."
+  },
+  {
+    "id": "n02172",
+    "summary": "Abu Juhayfah's report of the Prophet's bond of brotherhood is cut short, and what remains tells of a wife carrying date stones on her head whose father Abu Bakr relieved her with a servant.",
+    "people": [
+      { "id": "abu-juhayfah", "role": "narrator" },
+      { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "marriage", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens mid-sentence, and the OCR has lost much of the text, including the names in the bond. The speaker in the date-stone passage is not named here; Asmaa is read from the parenthesis that calls Abu Bakr 'my father', and her husband is unnamed in this item. The heading names Salmaan and Abu Dardaa, but the text does not, so they are not tagged."
+  },
+  {
+    "id": "n02173",
+    "summary": "Asmaa bint Abi Bakr complained to her father about Zubayr's strict nature, and Abu Bakr told her to be patient, since a woman with a pious husband who does not remarry after he dies will be reunited with him in Jannah.",
+    "people": [
+      { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "zubayr", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "patience", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02174",
+    "summary": "A woman complains to Umar that her husband Abu Salamah has grown harsh while his goodness has faded; Umar hears both, strikes her, gives her three garments and warns the husband, then quotes the Prophet on the best generations of the Ummah.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-salma", "role": "subject" },
+      { "id": null, "name": "Kahmas Hilaali", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "justice", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Kahmas has no RA and is not in the approved list. The closing quotation ends with OCR debris ('noisy.m')."
+  },
+  {
+    "id": "n02175",
+    "summary": "A woman complains to Umar that her husband worships all night and fasts all day; Umar excuses her, and Ka'b bin Soor, asked to judge, cites the Qur'aan on multiple wives and advises a balance of fasting, prayer and the wife's rights, so Umar appoints him judge of Basrah.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Ka'b bin Soor", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "justice", "fasting"],
+    "new_themes": ["moderation in worship"],
+    "boundary": "ok",
+    "notes": "Ka'b bin Soor is not in the approved list, and his status as a Companion is unclear. The husband and wife are unnamed."
+  },
+  {
+    "id": "n02176",
+    "summary": "Aatika, bound by her late husband's condition over an orchard, is freed by Ali's ruling to remarry Umar, and at the wedding feast Ali recites her grief verses to her, making her weep.",
+    "people": [
+      { "id": "aatika-bint-zaid-bin-amr-bin-nufayl", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Abdullaah", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "death-and-burial"],
+    "new_themes": ["grief and mourning"],
+    "boundary": "starts-mid",
+    "notes": "The OCR has lost the words after 'Be honest', and the text does not make clear who is speaking the couplets. The approved 'aatika-bint-zaid-bin-amr-bin-nufayl' is used because she is the woman Umar married; the text itself gives only 'Aatika', so please check. 'Abdullaah' is not identified in the text; the approved list has several Abdullaahs, so none is used. The Prophet appears only as the date of his death."
+  },
+  {
+    "id": "n02177",
+    "summary": "Nadbah, sent by Maymoonah to Ibn Abbaas, sees two beds; Maymoonah finds his wife was menstruating and reproaches Ibn Abbaas, reminding him that the Prophet touched his wives during menstruation.",
+    "people": [
+      { "id": null, "name": "Nadbah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "maymoona-bint-haarith", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibn Abbaas's wife is named only as the daughter of 'Sarj findi' (OCR-garbled), so she is not tagged. The approved list has both 'maymoona' and 'maymoona-bint-haarith' (both yes); the second is used as the Prophet's wife."
+  },
+  {
+    "id": "n02178",
+    "summary": "Ikrimah reports that Ibn Abbaas rebuked a cousin who called a slave woman an adulteress, warning that such slander will be punished in the Aakhirah and that Allaah dislikes vulgar speech.",
+    "people": [
+      { "id": "ikrimah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The cousin and the slave woman are unnamed. Ikrimah is unsure which of the two issued the invitation, and the item keeps that uncertainty."
+  },
+  {
+    "id": "n02179",
+    "summary": "Abu Imraan reports that Amr bin Al Aas rebuked his wife for falsely calling a slave woman an adulteress, warned her of the eighty lashes waiting on the Day of Judgement, and advised freeing the slave as compensation.",
+    "people": [
+      { "id": null, "name": "Abu Imraan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "amr-bin-al-aas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "freeing-slaves", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text ends mid-speech after 'Perhaps,' Hadhrat Amr (RA), so the rest is cut off. Abu Imraan of Palestine could be the approved 'abu-imraan-jowni' (no) or 'abu-imraan' (yes); the text gives neither, so he is left unmatched."
+  },
+  {
+    "id": "n02180",
+    "summary": "Abu Hurayrah raised his whip over his slave woman, held back for fear of retaliation on the Day of Judgement, and then set her free, saying she was Allaah's.",
+    "people": [
+      { "id": null, "name": "Abul Mutawakkil", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["freeing-slaves", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says both 'I shall sell you' and 'Go (free)!'. The summary follows the 'Go (free)' line."
+  },
+  {
+    "id": "n02181",
+    "summary": "On Umar's arrival in Shaam, Abu Ubaydah persuaded him not to stop the sword-bearing entertainers of Adhri'aat, since that would look like breaking the treaty, and Umar agreed, placing his family under Abu Ubaydah's command.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Qais", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-ubaydah", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["delegations", "consultation", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The reporter is given as 'Abdullaah bin Qais or ibn Abul Qais'. Neither form is in the approved list, so the name is kept as the text gives it."
+  },
+  {
+    "id": "n02182",
+    "summary": "Abdullaah bin Umar reports that Zubayr and Umar raced and each claimed the win when he beat the other, first Zubayr and then Umar.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["brotherhood", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A brief anecdote. The themes are the closest fit."
+  },
+  {
+    "id": "n02183",
+    "summary": "Saleem bin Handhalah says they walked with Ubay after a session of hadith, and Umar warned that being followed like that was a source of pride for the teacher and of shame for the students.",
+    "people": [
+      { "id": null, "name": "Saleem bin Handhalah", "role": "subject", "sahabi": "unsure" },
+      { "id": "ubay-bin-kab", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["humility", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Ubay bin (RA)' is OCR-truncated. It is mapped to ubay-bin-kab, the only Ubay in the approved list; please check."
+  },
+  {
+    "id": "n02184",
+    "summary": "Abul Bakhtari reports a traveller telling Salmaan that every host had treated him like a son of his own father, and Salmaan said this shows Imaan is fresh, like a newly loaded beast that carries its load quickly.",
+    "people": [
+      { "id": "abul-bakhtari", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hospitality", "brotherhood"],
+    "new_themes": ["renewing imaan"],
+    "boundary": "ok",
+    "notes": "The traveller is unnamed."
+  },
+  {
+    "id": "n02185",
+    "summary": "Hayya bint Abu Hayya tells how a man came to her house at midday seeking shade and water, and when he named himself Abu Bakr she spoke of the old tribal wars and the love Islaam created, and he said the bond lasts while the leaders stay upright.",
+    "people": [
+      { "id": null, "name": "Hayya bint Abu Hayya", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["brotherhood", "khilaafah", "hospitality"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text identifies Abu Bakr as the companion of Rasulullaah, so the Siddeeq entry is used."
+  },
+  {
+    "id": "n02186",
+    "summary": "Haarith bin Mu'aawiya reports that Umar asked about the people of Shaam and warned that mixing with the mushrikeen leads to eating and drinking with them, which would spoil their good state.",
+    "people": [
+      { "id": null, "name": "Haarith bin Mu'aawiya", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["steadfastness", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Haarith bin Mu'aawiya is not in the approved list. The approved 'Mu'aawiya' entries are different men."
+  },
+  {
+    "id": "n02187",
+    "summary": "Ayaadh reports that Umar ordered Abu Moosa Ash'ari to present his accounts as governor on one piece of leather, and when Umar was impressed by Abu Moosa's Christian clerk he had Abu Moosa dismiss him, reciting the verse forbidding taking Jews and Christians as confidantes.",
+    "people": [
+      { "id": null, "name": "Ayaadh", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list has 'Ayaadh bin Himaar Mujaashi'ee' but the text does not say which Ayaadh this is, so he is unmatched. The clerk is unnamed."
+  },
+  {
+    "id": "n02188",
+    "summary": "Abu Hurayrah reports that the Prophet never found fault with food, eating what he liked and leaving the rest without comment.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "ok",
+    "notes": "No approved theme covers food practice; 'good-character' is the nearest fit."
+  },
+  {
+    "id": "n02189",
+    "summary": "Ali reports that the part of a goat the Prophet liked most was the foreleg.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "ok",
+    "notes": "No approved theme covers food practice; 'good-character' is the nearest fit."
+  },
+  {
+    "id": "n02190",
+    "summary": "Abdullaah bin Mas'ood reports that the Prophet liked the foreleg and that, when it was once poisoned, people blamed the Jews. Jaabir says the Prophet remarked that the family seemed to know he liked meat when they slaughtered a goat for him, and Anas says the Prophet loved bottle gourd and he picked it out for him.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" },
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "hospitality"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "merged",
+    "notes": "Three reports merged. The 'Jews' in the poisoning report are a group, not a person, so they are not tagged. The book's note ('a more detailed story') is not tagged."
+  },
+  {
+    "id": "n02191",
+    "summary": "Anas reports that the Prophet licked his three fingers after eating.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02192",
+    "summary": "Abdullaah bin Abbaas says the Prophet was so humble that he ate on the floor, tied the legs of goats he was about to milk, and accepted slaves' invitations to plain barley bread.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "humility"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02193",
+    "summary": "Yahyaa bin Abu Katheer reports that Sa'd bin Ubaadah sent the Prophet a plate of thareed every day, and it went with him to whichever wife's house he was in.",
+    "people": [
+      { "id": null, "name": "Yahyaa bin Abu Katheer", "role": "narrator", "sahabi": "no" },
+      { "id": "sad-bin-ubaadah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["generosity", "hospitality"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02194",
+    "summary": "Anas reports that after drinking goat's milk the Prophet rinsed his mouth, saying the milk left a sticky residue.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "ok",
+    "notes": "The approved list has no theme for cleanliness, so 'good-character' is a loose fit."
+  },
+  {
+    "id": "n02195",
+    "summary": "Abu Bakr reports that when the Prophet stopped at a place, he milked the goats a boy brought, gave the first milk to the boy's mother, the second to Abu Bakr, and drank the third himself.",
+    "people": [
+      { "id": "abu-bakr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "selflessness"],
+    "new_themes": ["food and drink of the Prophet"],
+    "boundary": "ok",
+    "notes": "The woman and her son are unnamed."
+  },
+  {
+    "id": "n02196",
+    "summary": "Ibraheem reports that the Prophet kept his right hand for eating, drinking and wudhu, and his left for cleaning himself. Ja'far bin Abdullaah reports that his grandfather Hakam, seeing him eat from all over the plate, told him not to eat like Shaytaan does.",
+    "people": [
+      { "id": null, "name": "Ibraheem", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ja'far bin Abdullaah bin Hakam bin Raafi", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Hakam bin Raafi", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "merged",
+    "notes": "Two reports joined. The approved 'ibraheem' (no) is a different person from this Ibraheem, who is marked RA in the text, so no match is made. Hakam is identified only as Ja'far's grandfather through the chain; please check."
+  },
+  {
+    "id": "n02197",
+    "summary": "Umar bin Abu Salamah says that while eating with the Prophet he kept reaching all over the dish, and the Prophet told him to eat from what was in front of him.",
+    "people": [
+      { "id": "umar-bin-abi-salamah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["good-character", "prophets-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02198",
+    "summary": "Ummayyah bin Makhshi reports the Prophet's remark that Shaytaan ate with a man who did not say Bismillaah until he named Allaah. Hudhayfah reports the Prophet stopping a Bedouin and a girl from grabbing food without Bismillaah, since food becomes lawful for Shaytaan when Allaah's name is not taken.",
+    "people": [
+      { "id": null, "name": "Ummayyah bin Makhshi", "role": "narrator", "sahabi": "yes" },
+      { "id": "hudhayfah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "halaal-and-haraam", "prophets-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "merged",
+    "notes": "Three reports joined. The Bedouin and the girl are unnamed. 'Hudhayfah' has no bin in the text; the approved 'hudhayfah' entry is used, although 'hudhayfa-bin-yamaan' is also possible; please check."
+  },
+  {
+    "id": "n02199",
+    "summary": "Aa'isha reports the Prophet's remark that a Bedouin who ate all the food in two morsels would have left enough for them all had he said Bismillaah, and his teaching that one should name Allaah when eating, with the words for forgetting cut off.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "prophets-character"],
+    "new_themes": ["etiquette of eating"],
+    "boundary": "ends-mid",
+    "notes": "The text is cut off at 'he should recite:', so the words to say on forgetting are missing."
+  },
+  {
+    "id": "n02200",
+    "summary": "Abdullaah bin Busr reports that the Prophet was served a meal and drink by his father, tossed the date stones behind him, and when he mounted, his father held the reins and asked for du'aa; the Prophet asked Allaah to bless them in their sustenance and to forgive and have mercy on them.",
+    "people": [
+      { "id": "abdullaah-bin-busr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "duaa", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The host, who is Abdullaah's father, is only 'my father' in this text and is not named, so he is not tagged."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "n03826",
+    "summary": "Usayd (RA) reports seeing lantern-like lights between the sky and the ground while reciting the Qur'aan; the Prophet ﷺ explains they were angels who had come down to listen, and a second report says they had drawn close because of his voice.",
+    "people": [
+      { "id": null, "name": "Usayd", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "quraan", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins Usayd's own account with a separate narration of the Prophet's explanation ('Yet another narration states'). Text gives only 'Usayd', so no approved id is assigned; it may be usayd-bin-hudhayr, which should be checked."
+  },
+  {
+    "id": "n03827",
+    "summary": "Mahmood bin Labeed reports that Handhala bin Abu Aamir was struck down by Shaddaad bin Aswad at Uhud, and the Prophet ﷺ told the Companions that the angels were bathing him because he had left for battle without taking his ritual bath.",
+    "people": [
+      { "id": "mahmood-bin-labeed", "role": "narrator" },
+      { "id": "handhala-bin-abu-aamir", "role": "subject" },
+      { "id": "abu-sufyaan", "role": "mentioned" },
+      { "id": null, "name": "Shaddaad bin Aswad", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "martyrdom", "death-and-burial", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Shaddaad bin Aswad fought on the opposing side at Uhud, so not marked as a Companion. Handhala's wife is unnamed and left out."
+  },
+  {
+    "id": "n03828",
+    "summary": "Mahmood bin Labeed and Aasim bin Umar bin Qataadah report that the angels washed the body of Sa'd bin Mu'aadh after his death from an arrow wound at Khandaq, and the Prophet ﷺ hurried to the funeral, saying he feared the angels would reach Sa'd first as they had reached Handhala.",
+    "people": [
+      { "id": "mahmood-bin-labeed", "role": "narrator" },
+      { "id": "sad-bin-muaadh", "role": "subject" },
+      { "id": "aasim-bin-umar-bin-qataadah", "role": "narrator" },
+      { "id": null, "name": "Rufaydah", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["the-unseen", "death-and-burial", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins Mahmood bin Labeed's report with a second report from Aasim bin Umar bin Qataadah, and the text says 'the narration then continues' past a gap. Jibra'eel and the other angel are not human, so left out. The '(I)' at the end is OCR debris."
+  },
+  {
+    "id": "n04087",
+    "summary": "Abdullaah bin Auf bin Ahmar reports that when Ali (RA) was leaving for Nahrwaan, the fortune-teller Musaafir urged him to delay; Ali refused, rebuked him for claiming knowledge of the unseen, and said trust should be placed in Allaah alone, then marched and won.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Auf bin Ahmar", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "musaafir", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["trust-in-allaah", "tawheed", "the-unseen"],
+    "new_themes": ["fortune-telling and astrology"],
+    "boundary": "ok",
+    "notes": "Musaafir is matched to the approved 'musaafir' (not sahabi) on name alone; the text gives 'Musaafir bin Auf bin Ahmar', so check it is the same person. Abdullaah bin Auf bin Ahmar is not in the approved list; 'Hadhrat' suggests a Companion, but it is not stated."
+  }
+]

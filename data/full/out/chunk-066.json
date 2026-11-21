@@ -1,0 +1,524 @@
+[
+  {
+    "id": "n02601",
+    "summary": "Abu Hurayrah reports that the Prophet encouraged standing in Taraweeh during Ramadhaan without making it compulsory, promising forgiveness of past sins to whoever prays it in faith and hope of reward.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02602",
+    "summary": "Abu Hurayrah adds that the practice of Taraweeh stayed the same through the Khilaafah of Abu Bakr and the early part of Umar's Khilaafah.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Another narration adding to the report in n02601."
+  },
+  {
+    "id": "n02603",
+    "summary": "Abu Hurayrah reports that the Prophet saw Sahabah praying Taraweeh in congregation behind Ubay bin Ka'b in a corner of the Masjid, and approved of it.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "ubay-bin-kab", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02604",
+    "summary": "Abdur Rahmaan Al Qaari recounts how Umar gathered the people behind Ubay bin Ka'b for Taraweeh, calling it an excellent innovation while saying the latter part of the night is better for sleep.",
+    "people": [
+      { "id": "abdur-rahmaan-al-qaari", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Matched to abdur-rahmaan-al-qaari by name (text: Abdur Rahmaan bin Abdul Qaari). He is also a witness in the story, hence subject."
+  },
+  {
+    "id": "n02605",
+    "summary": "Naufal bin Iyaas Hudhali reports that Umar disliked people choosing Taraweeh leaders for their voices, and within three days had Ubay bin Ka'b lead the people.",
+    "people": [
+      { "id": null, "name": "Naufal bin Iyaas Hudhali", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Vocab has naufal-bin-ayaadh-hudhali (unsure), which differs in the father's name (Iyaas vs Ayaadh). Not confirmed as the same person, so left null."
+  },
+  {
+    "id": "n02606",
+    "summary": "Abu Is'haaq Hamdaani reports that Ali, on entering the Masjid on the first night of Ramadhaan and finding lanterns lit and the Qur'aan recited, prayed for Umar's grave to be illuminated.",
+    "people": [
+      { "id": null, "name": "Abu Is'haaq Hamdaani", "role": "narrator", "sahabi": "no" },
+      { "id": "ali", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Vocab has abu-ishaaq (no), but the name is only 'Abu Is'haaq' there, so not matched; left null."
+  },
+  {
+    "id": "n02607",
+    "summary": "Urwa reports that when Umar had all the people pray Taraweeh together, he placed the men behind Ubay bin Ka'b and the women behind Sulaymaan bin Abu Hathma.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" },
+      { "id": null, "name": "Sulaymaan bin Abu Hathma", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Urwa is not identified (vocab urwa-bin-zubayr is unsure and the text gives no father's name). Sulaymaan bin Abu Hathma is not in the approved list."
+  },
+  {
+    "id": "n02608",
+    "summary": "Umar bin Abdulaah Ansi reports that Ubay and Tameem Daari led the men and Sulaymaan led the women under Umar, and that under Uthmaan one Imaam led both, with the women leaving only after the men.",
+    "people": [
+      { "id": null, "name": "Umar bin Abdulaah Ansi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ubay-bin-kab", "role": "subject" },
+      { "id": "tameem-daari", "role": "subject" },
+      { "id": null, "name": "Sulaymaan bin Abu Hathma", "role": "subject", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Umar bin Abdulaah Ansi is not shown to be the approved umar-bin-abdullaah (unsure), so left null."
+  },
+  {
+    "id": "n02609",
+    "summary": "Arjafa says that Ali had Taraweeh performed with one Imaam for the men and another for the women, and that she was the Imaam of the women.",
+    "people": [
+      { "id": null, "name": "Arjafa", "role": "subject", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A stray OCR quote mark at the end of the text was ignored."
+  },
+  {
+    "id": "n02610",
+    "summary": "Jaabir reports that Ubay bin Ka'b led the women of his household in eight Rakaahs of Taraweeh and Witr, and the Prophet approved, so the practice is established as a Sunnah.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "family", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02611",
+    "summary": "Buraydah reports that the Prophet asked Bilaal how he had reached Jannah before him, and Bilaal explained that he prays two Rakaahs after each sin and two Rakaahs of Tahiyyatul wudhu after each broken wudhu.",
+    "people": [
+      { "id": "buraydah-bin-khusayb", "role": "narrator" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "mercy-and-forgiveness", "virtues-of-the-sahabah"],
+    "new_themes": ["repentance"],
+    "boundary": "ok",
+    "notes": "Heading is Salaatut Taubah; the approved list has no repentance theme, so it is proposed as new."
+  },
+  {
+    "id": "n02612",
+    "summary": "Thumaamah bin Abdullaah reports that in a drought Anas repeatedly prayed and made du'aa, sending the caretaker to look for clouds, until rain fell only on his own land.",
+    "people": [
+      { "id": null, "name": "Thumaamah bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": null, "name": "Bishr bin Shighaaf", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "salaah", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The caretaker is unnamed and omitted. Bishr bin Shighaaf is the man who sent the horse; not in the approved list."
+  },
+  {
+    "id": "n02613",
+    "summary": "Ali relates that when he was in intense pain, the Prophet covered him with his shawl, prayed and made du'aa for him, and he was immediately cured.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["illness-and-cure", "duaa", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles a few words ('He_put-me', '0 son', '1 stood'); the meaning is clear."
+  },
+  {
+    "id": "n02614",
+    "summary": "Anas narrates how Abu Mu'liq, threatened with death by a robber, prayed and made du'aa three times, and a rider with a spear, an angel from the fourth heaven, killed the robber.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Abu Mu'liq", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "miracles-and-blessings", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The robber and the angel are unnamed and omitted."
+  },
+  {
+    "id": "n02615",
+    "summary": "Safwaan bin Assaal reports that the Prophet welcomed him as a seeker of knowledge, and the Prophet told Qabeesah bin Mukhaariq that certain du'aas recited after Fajr would protect him from blindness, leprosy and paralysis.",
+    "people": [
+      { "id": "safwaan-bin-assaal", "role": "subject" },
+      { "id": null, "name": "Qabeesah bin Mukhaariq", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "duaa", "illness-and-cure"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Safwaan bin Assaal's welcome, then Qabeesah bin Mukhaariq's account. Also contains an embedded reference line (Ahmad, Tabraani, Ibn Hibbaan, Haakim, Targheeb) and OCR debris, which were ignored. Qabeesah bin Mukhaariq is not one of the approved Qabeesah entries."
+  },
+  {
+    "id": "n02616",
+    "summary": "Sakhbarah reports that the Prophet told two men who were passing by that seeking knowledge atones for all of a person's past sins.",
+    "people": [
+      { "id": null, "name": "Sakhbarah", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02617",
+    "summary": "Abu Umaamah reports the Prophet's words that the superiority of an Aalim over an ordinary worshipper is like his own superiority over the lowest of people, and that Allaah and all creation pray for the one who teaches good.",
+    "people": [
+      { "id": "abu-umaama", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "enjoining-good"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The person who spoke to the Prophet about the two men is unnamed and omitted."
+  },
+  {
+    "id": "n02618",
+    "summary": "Another narration gives the Prophet's words on the Aalim's superiority with a verse on those closest to the Prophets, and then Kumayl bin Ziyaad reports Ali's speech on knowledge being better than wealth and on the scarcity of true bearers of knowledge.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Kumayl bin Ziyaad", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: the Prophet's words (with Aal Imraan 68) and Kumayl bin Ziyaad's report of Ali's speech. An editorial reference (Jaami Bayaanil Ilm, Mustadrak, Dhahabi) is embedded mid-text and was ignored. OCR debris is present in the Qur'aan verse citation."
+  },
+  {
+    "id": "n02619",
+    "summary": "Mu'aadh bin Jabal lists the rewards of acquiring, studying, rehearsing, discussing and teaching knowledge, and how knowledge guides people in the halaal and haraam.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "halaal-and-haraam", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02620",
+    "summary": "Haaroon bin Rabaab and Zaid report Ibn Mas'ood urging people to begin each morning as an Aalim or a student of Deen, to acquire knowledge before it is lost with the departure of its bearers, and to follow the traditions of the Sahabah.",
+    "people": [
+      { "id": "haaroon-bin-rabaab", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Zaid", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins at least two separate reports: Haaroon bin Rabaab's, and Zaid's, which runs into a separate address by Ibn Mas'ood to the people. Zaid is given only by first name in the text and is not matched to an approved entry."
+  },
+  {
+    "id": "n02621",
+    "summary": "Abul Ahwas narrates that Ibn Mas'ood said no person is born a scholar, and knowledge is gained only through study.",
+    "people": [
+      { "id": "abul-ahwas", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Only seeking-knowledge fits clearly; exertion-in-worship is the nearest approved second theme for effort in learning. Weak second tag."
+  },
+  {
+    "id": "n02622",
+    "summary": "Ibn Mas'ood says to begin each morning as an Aalim or student of Deen, and if that is not possible, at least to love the Ulema and never despise them.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02623",
+    "summary": "Hasan narrates Abu Dardaa's warning to be a scholar, a student, a lover of them or a follower of them, and never the fifth kind, which Hasan explains to Humayd is the one who innovates Bid'ah.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Humayd", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hasan and Humayd are given by first name only and are not matched to approved entries. The approved list has no Bid'ah theme, so following-the-sunnah is used."
+  },
+  {
+    "id": "n02624",
+    "summary": "Dahhaak reports Abu Dardaa's address to the people of Damascus, criticising neglect of learning and worldly building and hopes, and stating that teaching and learning bring equal reward.",
+    "people": [
+      { "id": "dahhaak", "role": "narrator" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02625",
+    "summary": "Hassaan reports Abu Dardaa rebuking the people of Damascus for neglecting remembrance of Allaah and for not seeking knowledge, and warning that earlier nations were destroyed by following their desires.",
+    "people": [
+      { "id": null, "name": "Hassaan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hassaan is given by first name only; several approved Hassaans exist, so none is assigned."
+  },
+  {
+    "id": "n02626",
+    "summary": "Qurra reports Abu Dardaa saying to acquire knowledge before it is taken away, and Abdur Rahmaan bin Mas'ood Faraazi reports that going to the Masjid to learn or teach earns the reward of a Mujaahid.",
+    "people": [
+      { "id": null, "name": "Qurra", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Abdur Rahmaan bin Mas'ood Faraazi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: Qurra's and Abdur Rahmaan bin Mas'ood Faraazi's."
+  },
+  {
+    "id": "n02627",
+    "summary": "Ibn Abu Hudhayl reports Abu Dardaa saying that a person lacks intelligence if he thinks spending mornings and evenings in learning and teaching is not Jihaad.",
+    "people": [
+      { "id": null, "name": "Ibn Abu Hudhayl", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02628",
+    "summary": "Rajaa bin Hayaat reports Abu Dardaa saying that knowledge is derived from study.",
+    "people": [
+      { "id": null, "name": "Rajaa bin Hayaat", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Very short; exertion-in-worship is a weak second tag, as in n02621."
+  },
+  {
+    "id": "n02629",
+    "summary": "Abu Dharr and Abu Hurayrah both say that learning one chapter of knowledge is more beloved to them than a thousand Nafl Rakaahs, and they narrate that the Prophet said whoever dies while studying the knowledge of Deen dies as a martyr.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "martyrdom", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02630",
+    "summary": "Another narration has Abu Dharr and Abu Hurayrah saying that learning a chapter of knowledge is better than a thousand Nafl Rakaahs whether or not it is practised upon.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n02629 with the added clause about practice."
+  },
+  {
+    "id": "n02631",
+    "summary": "Ali Azdi reports that Ibn Abbaas said teaching the Qur'aan, Fiqh and the Sunnah in a Masjid is better than Jihaad.",
+    "people": [
+      { "id": null, "name": "Ali Azdi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two versions of the same exchange with different wording: the first says teaching the Qur'aan, Fiqh or Sunnah, the second says building a Masjid and then teaching. Ali Azdi is not in the approved list."
+  },
+  {
+    "id": "n02632",
+    "summary": "Ibn Abbaas says that everything, even the fish in the oceans, seeks forgiveness for the one who teaches people what is good.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "enjoining-good"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator of this saying is not named in the text."
+  },
+  {
+    "id": "n02633",
+    "summary": "Zirr bin Hubaysh reports that Safwaan bin Assaal advised him to begin his mornings as an Aalim or student of Deen, and Safwaan also said the angels spread their wings for whoever leaves home seeking knowledge.",
+    "people": [
+      { "id": null, "name": "Zirr bin Hubaysh", "role": "subject", "sahabi": "unsure" },
+      { "id": "safwaan-bin-assaal", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "the-unseen"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations: Zirr's exchange with Safwaan, then a separate saying of Safwaan introduced by 'Another narration'. The approved list has only 'zirr' (unsure), not confirmed as this Zirr, so left null."
+  },
+  {
+    "id": "n02634",
+    "summary": "On his deathbed, Mu'aadh bin Jabal asks whether dawn has broken, seeks refuge from a morning that leads to Jahannam, welcomes death, and says he loved this world only for fasting thirst, hardship and sitting with the Ulema.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "fear-of-allaah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02635",
+    "summary": "Abu Dardaa says that three things would make him wish to leave this world: prostrating to his Creator through the day and night, enduring thirst while fasting, and sitting with people who choose their speech as carefully as fruit.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["salaah", "fasting", "good-character"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The source text ends 'The narration continues further.'; the rest is not in this chunk."
+  },
+  {
+    "id": "n02636",
+    "summary": "Ibn Abbaas recounts that after the Prophet's death he went to learn hadith from the Sahabah, waiting at their doors and asking them to let him come to them, despite the doubts of his Ansaari friend.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Ansaari friend and the Sahabah he visited are unnamed and omitted."
+  },
+  {
+    "id": "n02637",
+    "summary": "Ibn Abbaas says that when the cities were being conquered and people turned to worldly affairs, he focused on learning from Umar, which is why most of his hadith come from Umar.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR drops punctuation after 'Hadhrat Umar' and leaves stray quote marks; the sentence reads as complete."
+  },
+  {
+    "id": "n02638",
+    "summary": "Abu Hurayrah recounts that when he asked the Prophet to teach him, the Prophet narrated to him and he never forgot anything afterwards; he then explains why he narrates more hadith than others, citing the Qur'aanic warning against concealing knowledge.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: the shawl account of the Prophet's teaching, and Abu Hurayrah's later defence of the number of his narrations, quoting Surah Baqarah 159-160. The Muhaajireen and Ansaar are not named."
+  },
+  {
+    "id": "n02639",
+    "summary": "Abu Hurayrah describes the hunger he endured while staying with the Prophet, and how Ja'far bin Abi Taalib would take him and others home and feed them everything he had.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" },
+      { "id": "jafar-bin-abi-taalib", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["hunger-and-hardship", "hospitality", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The person who recited Qur'aan for him is unnamed and omitted."
+  },
+  {
+    "id": "n02640",
+    "summary": "Abu Moosa reports the Prophet's parable of the guidance and knowledge he was sent with as rain falling on different kinds of ground, showing the different ways people benefit from it.",
+    "people": [
+      { "id": "abu-moosa-ashari", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "guidance"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

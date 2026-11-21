@@ -1,0 +1,535 @@
+[
+ {
+  "id": "n01041",
+  "summary": "Abu Ja'far Qaari, serving Abdullaah bin Umar on a journey, describes how Ibn Umar invited local people to share each meal and made room for a poor black boy beside him at Juhfa.",
+  "people": [
+   {"id": null, "name": "Abu Ja'far Qaari", "role": "subject", "sahabi": "unsure"},
+   {"id": null, "name": "Abdullaah bin Ayaash bin Abu Rabee'ah Makhzoomi", "role": "mentioned", "sahabi": "unsure"},
+   {"id": "abdullaah-bin-umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01042",
+  "summary": "Abu Ja'far Qaari describes how Ibn Umar's travelling meals fed everyone who came to his large dish, and Ma'n reports that Ibn Umar invited the poor but not the well-off.",
+  "people": [
+   {"id": null, "name": "Abu Ja'far Qaari", "role": "subject", "sahabi": "unsure"},
+   {"id": null, "name": "Ma'n", "role": "narrator", "sahabi": "unsure"},
+   {"id": "abdullaah-bin-umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins two reports: Abu Ja'far's account of the journey meals, then Ma'n's separate report on whom Ibn Umar invited."
+ },
+ {
+  "id": "n01043",
+  "summary": "Section title only, naming Abdullaah bin Amr bin Al Aas as one who fed people; no narration follows.",
+  "people": [
+   {"id": "abdullaah-bin-amr", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "Heading text only; the item contains no report."
+ },
+ {
+  "id": "n01044",
+  "summary": "Sulaymaan bin Rabee'ah reports that in Mu'aawiya's caliphate a group of Basrah Qurraa found Abdullaah bin Amr in Makkah with three hundred camels, one hundred to carry his brothers and two hundred loaded for his guests and travellers, and then met him at the Kabah.",
+  "people": [
+   {"id": null, "name": "Sulaymaan bin Rabee'ah", "role": "narrator", "sahabi": "unsure"},
+   {"id": "muaawiya-bin-abi-sufyaan", "role": "mentioned"},
+   {"id": null, "name": "Muntasir bin Haarith", "role": "mentioned", "sahabi": "unsure"},
+   {"id": "abdullaah-bin-amr", "role": "subject"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "sadaqah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Muntasir bin Haarith is not matched to the approved 'muntashir' entry (unsure) because the name differs."
+ },
+ {
+  "id": "n01045",
+  "summary": "Sa'd bin Ubaadah brings the Prophet a large dish of camel brains, saying he has slaughtered forty camels to feed him, and the Prophet eats and prays for him.",
+  "people": [
+   {"id": "sad-bin-ubaadah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01046",
+  "summary": "Anas reports that Sa'd bin Ubaadah served the Prophet dates, bread and milk, and that the Prophet then prayed for the righteous, fasting people and angels to bless Sa'd's household.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "narrator"},
+   {"id": "sad-bin-ubaadah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01047",
+  "summary": "Anas gives a second, brief account in which Sa'd served sesame seeds and dates to the Prophet.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "narrator"},
+   {"id": "sad-bin-ubaadah", "role": "subject"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01048",
+  "summary": "Urwa reports that he saw Sa'd bin Ubaadah call out an open invitation to eat from his house, and after Sa'd's death saw his son continue it, until Abdullaah bin Umar sent him to check and praised the generosity of father and son.",
+  "people": [
+   {"id": "urwa", "role": "subject"},
+   {"id": "sad-bin-ubaadah", "role": "subject"},
+   {"id": "abdullaah-bin-umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Urwa is matched to the approved 'urwa' entry (unsure), which is not certainly Urwa bin Zubayr or Urwa bin Mas'ood. The son is unnamed and not tagged."
+ },
+ {
+  "id": "n01049",
+  "summary": "Abu Mas'ood Ansaari reports that Abu Shu'ayb invited the Prophet and four others to a meal, and when a fifth man came along, the Prophet let Abu Shu'ayb decide, and he welcomed him.",
+  "people": [
+   {"id": "abu-masood-ansaari", "role": "narrator"},
+   {"id": null, "name": "Abu Shu'ayb", "role": "subject", "sahabi": "yes"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01050",
+  "summary": "Another narration says Abu Shu'ayb noticed the Prophet's hunger and told his slave to cook for five people.",
+  "people": [
+   {"id": null, "name": "Abu Shu'ayb", "role": "subject", "sahabi": "yes"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01051",
+  "summary": "Anas reports that a tailor served the Prophet barley bread and pumpkin gravy, that the Prophet searched the plate for the pumpkin pieces, and that Anas loved pumpkin from that day on.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "narrator"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The tailor is unnamed and not tagged."
+ },
+ {
+  "id": "n01052",
+  "summary": "During the digging of the Trench, Jaabir's wife cooked one saa of barley and a kid goat, and at the Prophet's word the food and bread multiplied until all the Sahabah were fed with plenty left over.",
+  "people": [
+   {"id": "jaabir-bin-abdillaah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "hospitality", "jihaad"],
+  "new_themes": ["food multiplied by blessing"],
+  "boundary": "merged",
+  "notes": "Holds the main report plus several variant narrations (a more detailed version, and versions giving other numbers of men) in one entry."
+ },
+ {
+  "id": "n01053",
+  "summary": "Jaabir reports that when his mother cooked and asked him to invite the Prophet, the Prophet had about fifty men come in ten at a time, and all ate their fill while food remained.",
+  "people": [
+   {"id": "jaabir-bin-abdillaah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "prophethood"],
+  "new_themes": ["food multiplied by blessing"],
+  "boundary": "ok",
+  "notes": "The footnote citing Bayhaqi is editorial and was ignored."
+ },
+ {
+  "id": "n01054",
+  "summary": "Anas reports that Abu Talha and Ummu Sulaym fed the Prophet and some seventy or eighty men from a few loaves of barley bread and a little butter, in batches of ten.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "subject"},
+   {"id": "abu-talha", "role": "subject"},
+   {"id": "ummu-sulaym", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Ends with a variant report that there were about one hundred men."
+ },
+ {
+  "id": "n01055",
+  "summary": "Qais bin Abu Haazim reports that after Ash'ath returned to Islaam, Abu Bakr released his shackles and married him to his sister, and Ash'ath then slaughtered camels in the market and told the people to eat them as his waleema.",
+  "people": [
+   {"id": null, "name": "Qais bin Abu Haazim", "role": "narrator", "sahabi": "unsure"},
+   {"id": "ashath-bin-qais", "role": "subject"},
+   {"id": "abu-bakr", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "accepting-islaam", "apostasy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01056",
+  "summary": "Hasan bin Hakeem reports, from his mother, that Abu Barzah kept a large dish of thareed ready each morning and evening for widows, orphans and the poor.",
+  "people": [
+   {"id": null, "name": "Hasan bin Hakeem", "role": "narrator", "sahabi": "unsure"},
+   {"id": "abu-barzah", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading reads 'Hadhrat Abu (RA)'; the text names Abu Barzah Siigig, matched to the approved 'abu-barzah' entry."
+ },
+ {
+  "id": "n01057",
+  "summary": "Talha bin Amr, one of the men of the Suffa, reports that after the men complained of hunger and dates burning their stomachs, the Prophet spoke of his own hardships, and that he once told a man sleeping face-down in the Masjid that this was Shaytaan's way of lying.",
+  "people": [
+   {"id": null, "name": "Talha bin Amr", "role": "subject", "sahabi": "yes"},
+   {"id": null, "name": "Jundub", "role": "mentioned", "sahabi": "unsure"}
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "hospitality", "ahl-us-suffa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator says 'I' lying face-down but the Prophet addresses him as 'O Jundub'; the text does not make clear which is speaking, so Jundub is listed only as mentioned and not matched to any approved entry."
+ },
+ {
+  "id": "n01058",
+  "summary": "Tughfah bin Qais recounts being taken with four other men to Aa'isha, who served them meat, dates and milk, and then being nudged awake in the Masjid by the Prophet.",
+  "people": [
+   {"id": null, "name": "Tughfah bin Qais", "role": "subject", "sahabi": "yes"},
+   {"id": "aaisha", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "ahl-us-suffa"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The heading says Ibn Qais but the text names Tughfah bin Qais. The report breaks off just as the Prophet is recognised, before his words."
+ },
+ {
+  "id": "n01059",
+  "summary": "Jahjaa Ghifaari, who came to Madinah intending to accept Islaam, reports that the Prophet took him home on two evenings when no one else would, milked goats for him, and explained that a guest's provision is from Allaah.",
+  "people": [
+   {"id": null, "name": "Jahjaa Ghifaari", "role": "subject", "sahabi": "yes"},
+   {"id": "ummu-ayman", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "hospitality"],
+  "new_themes": ["sustenance from Allaah"],
+  "boundary": "merged",
+  "notes": "Joins the first evening and the following evening, which repeats the same events, in one entry. Ends with OCR debris '(ls'."
+ },
+ {
+  "id": "n01060",
+  "summary": "An unnamed man of the Suffa reports that on two evenings of Ramadhaan no one came to take the group to eat, so the Prophet prayed for Allaah's grace and mercy, and a roasted goat and bread then arrived.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "fasting", "ahl-us-suffa", "duaa"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The narrator is not named in the text, so none is tagged. The report breaks off mid-sentence at '(for the)'."
+ },
+ {
+  "id": "n01061",
+  "summary": "Abdur Rahmaan bin Abu Bakr reports that his father's guests would not eat until Abu Bakr came home, that Abu Bakr scolded him and then ate with them, and that the food multiplied until all were full and more remained.",
+  "people": [
+   {"id": null, "name": "Abdur Rahmaan bin Abu Bakr", "role": "subject", "sahabi": "yes"},
+   {"id": "abu-bakr", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "family"],
+  "new_themes": ["food multiplied by blessing"],
+  "boundary": "ends-mid",
+  "notes": "Also contains a variant report (the Muslims divided into twelve groups) and breaks off mid-word at 'W'."
+ },
+ {
+  "id": "n01062",
+  "summary": "Yahya bin Abdul Azeez reports that when Sa'd bin Ubaadah was away on jihaad and many guests came to the Prophet, Sa'd told his slave Nistaas that his son Qais would take provisions from the storehouse, and Qais did so, striking Nistaas and bringing a hundred wasaq.",
+  "people": [
+   {"id": null, "name": "Yahya bin Abdul Azeez", "role": "narrator", "sahabi": "unsure"},
+   {"id": "sad-bin-ubaadah", "role": "subject"},
+   {"id": "qais", "role": "subject"},
+   {"id": null, "name": "Nistaas", "role": "mentioned", "sahabi": "unsure"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "family", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading and text name Qais bin Sa'd; matched to the approved 'qais' entry. A footnote is embedded mid-sentence and was ignored."
+ },
+ {
+  "id": "n01063",
+  "summary": "Maymoona bint Haarith reports that during a drought a Bedouin ate all the Prophet's little food, and that after he accepted Islaam he ate only a little, so the Prophet said a Kaafir eats to fill seven intestines and a Mu'min only one.",
+  "people": [
+   {"id": null, "name": "Maymoona bint Haarith", "role": "subject", "sahabi": "yes"}
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "accepting-islaam", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Bedouin is unnamed and not tagged."
+ },
+ {
+  "id": "n01064",
+  "summary": "Aslam reports that in the Year of Ashes Umar appointed four men to distribute food to the Bedouins camped around Madinah, counted his nightly guests as they grew to fifty thousand, and had the Bedouins sent home with transport and provisions after the rains.",
+  "people": [
+   {"id": "aslam", "role": "narrator"},
+   {"id": "umar", "role": "subject"},
+   {"id": "miswar-bin-makhrama", "role": "subject"},
+   {"id": "abdur-rahmaan-al-qaari", "role": "subject"},
+   {"id": null, "name": "Yazeed bin Ukht Namir", "role": "subject", "sahabi": "unsure"},
+   {"id": null, "name": "Abdullaah bin Utba bin Mas'ood", "role": "subject", "sahabi": "unsure"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "hunger-and-hardship", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdur Rahmaan bin Abdul Qaari is matched to the approved 'abdur-rahmaan-al-qaari' entry (same name, different form); confirm if unsure."
+ },
+ {
+  "id": "n01065",
+  "summary": "Firaas Daylami reports that Umar had twenty camels, sent by Amr bin Al Aas from Egypt, slaughtered each day for his table to feed those hit by the drought.",
+  "people": [
+   {"id": null, "name": "Firaas Daylami", "role": "narrator", "sahabi": "unsure"},
+   {"id": "amr-bin-al-aas", "role": "mentioned"},
+   {"id": "umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "hunger-and-hardship", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01066",
+  "summary": "Aslam reports that Umar found a woman whose hungry children were crying over a pot of water, fetched flour, fat, dates, clothing and money from the treasury, carried it to her home himself, and cooked for the family until they were full.",
+  "people": [
+   {"id": "aslam", "role": "subject"},
+   {"id": "umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "hunger-and-hardship", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Breaks off mid-sentence at 'I was satisfied when they started to'."
+ },
+ {
+  "id": "n01067",
+  "summary": "Another report from Aslam says he went with Umar at night towards Saraar, found a woman with her children by a fire, and that the rest matches the account above.",
+  "people": [
+   {"id": "aslam", "role": "narrator"},
+   {"id": "umar", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Abridged: after the opening it refers back to the report above for the rest."
+ },
+ {
+  "id": "n01068",
+  "summary": "Anas reports that Ukaydir, ruler of Dowmatul Jandal, sent the Prophet a bag of sweetmeats, which he shared around, and that when Jaabir had already had a piece, the Prophet gave him another for his sisters.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "narrator"},
+   {"id": null, "name": "Ukaydir", "role": "mentioned", "sahabi": "unsure"},
+   {"id": "jaabir-bin-abdillaah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01069",
+  "summary": "Hasan reports that when Ukaydir's bag of sweets came, the Prophet's household had little food, so the Prophet had it passed around the Sahabah, and told Khaalid bin Waleed, who had taken from it twice, to eat and feed his family.",
+  "people": [
+   {"id": "hasan", "role": "narrator"},
+   {"id": null, "name": "Ukaydir", "role": "mentioned", "sahabi": "unsure"},
+   {"id": "khaalid-bin-waleed", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "brotherhood", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is named only as Hasan (RA); matched to the approved 'hasan' entry, not Hasan bin Ali."
+ },
+ {
+  "id": "n01070",
+  "summary": "Abu Hurayrah reports that the Prophet gave each Companion seven dates, and that one of his own seven had no seed and was the best of them, being firm and slow to chew.",
+  "people": [
+   {"id": "abu-hurayrah", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01071",
+  "summary": "Anas reports that when dates were brought to the Prophet, he shared them among the Sahabah while sitting and eating quickly, apparently because he was about to leave.",
+  "people": [
+   {"id": "anas-bin-maalik", "role": "narrator"}
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01072",
+  "summary": "Layth bin Sa'd reports that in the Year of Ashes Umar wrote to Amr bin Al Aas in Egypt for help, and Amr replied that a train of camels was on its way.",
+  "people": [
+   {"id": null, "name": "Layth bin Sa'd", "role": "narrator", "sahabi": "unsure"},
+   {"id": "umar", "role": "subject"},
+   {"id": "amr-bin-al-aas", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["hunger-and-hardship", "khilaafah", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01073",
+  "summary": "Amr bin Al Aas sends so many camels that the first reaches Madinah as the last leaves Egypt, and Umar has Abdur Rahmaan bin Awf, Zubayr and Sa'd bin Abi Waqqaas give every household a camel with its provisions.",
+  "people": [
+   {"id": "amr-bin-al-aas", "role": "subject"},
+   {"id": "umar", "role": "subject"},
+   {"id": "abdur-rahmaan-bin-awf", "role": "subject"},
+   {"id": "zubayr", "role": "subject"},
+   {"id": "sad-bin-abi-waqqaas", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "hunger-and-hardship", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text says the narration continues beyond this point; the later details are not included."
+ },
+ {
+  "id": "n01074",
+  "summary": "Aslam reports that Umar asked Zubayr to take the first camel to Najd and bring back families, and when Zubayr excused himself and another man did too, Abu Ubaydah bin Jarraah took the task and accepted a thousand dinaars from Umar only after insistence.",
+  "people": [
+   {"id": "aslam", "role": "narrator"},
+   {"id": "umar", "role": "subject"},
+   {"id": "zubayr", "role": "subject"},
+   {"id": "abu-ubaydah", "role": "subject"}
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The second companion Umar asked is unnamed in the text (the narrator assumes Talha) and is not tagged. The closing cross-reference to an earlier chapter is editorial."
+ },
+ {
+  "id": "n01075",
+  "summary": "After a captive named Jaz accepted Islaam, the Prophet sent him to Aa'isha for two shawls, and she gave him two of her own, with the narrator noting that Arab women did not expose themselves because of hijaab.",
+  "people": [
+   {"id": null, "name": "Jaz", "role": "subject", "sahabi": "yes"},
+   {"id": "aaisha", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "kindness"],
+  "new_themes": ["modesty and hijaab"],
+  "boundary": "ok",
+  "notes": "The narrator is not named in the text. 'Jaz' is as printed and may be an OCR error."
+ },
+ {
+  "id": "n01076",
+  "summary": "Ja'far bin Muhammad reports that Umar distributed new clothing, but was distressed when Hasan and Husayn came without any because the garments were too large for them, so he had two sets sent from Yemen for them.",
+  "people": [
+   {"id": null, "name": "Ja'far bin Muhammad", "role": "narrator", "sahabi": "unsure"},
+   {"id": "umar", "role": "subject"},
+   {"id": "hasan-bin-ali", "role": "subject"},
+   {"id": "husayn-bin-ali", "role": "subject"},
+   {"id": "faatima", "role": "mentioned"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["kindness", "khilaafah", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ja'far bin Muhammad is not matched to the approved 'jafar' entry. Hasan is identified in the text as the Prophet's grandson, so hasan-bin-ali is used. The closing cross-references to other incidents are not tagged."
+ },
+ {
+  "id": "n01077",
+  "summary": "Shafaa bint Abdullaah reports that when Umar gave Aatika bint Usayd a better shawl than hers, she objected that she had come to Islaam first and was Umar's cousin, and Umar explained he preferred Aatika as closer kin to the Prophet.",
+  "people": [
+   {"id": "shafaa-bint-abdillaah", "role": "subject"},
+   {"id": "umar", "role": "subject"},
+   {"id": null, "name": "Aatika bint Usayd bin Abil Ees", "role": "subject", "sahabi": "unsure"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["khilaafah", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01078",
+  "summary": "Asbagh bin Nubaata reports that Ali, to spare a destitute man the humiliation of begging, had him write his request in the dirt, then gave him a set of clothing and a hundred gold coins, quoting the Prophet's saying to treat people according to their status.",
+  "people": [
+   {"id": null, "name": "Asbagh bin Nubaata", "role": "narrator", "sahabi": "unsure"},
+   {"id": "ali", "role": "subject"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["self-reliance", "sadaqah", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The destitute man is unnamed and not tagged."
+ },
+ {
+  "id": "n01079",
+  "summary": "Abdullaah bin Abbaas asks a beggar whether he testifies to Allaah's oneness and fasts in Ramadhaan, then gives him a garment, quoting the Prophet that a Muslim who clothes another stays under Allaah's protection as long as a rag of it remains on him.",
+  "people": [
+   {"id": "abdullaah-bin-abbaas", "role": "subject"}
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The beggar is unnamed and not tagged."
+ },
+ {
+  "id": "n01080",
+  "summary": "Jaabir reports that when Qais bin Sa'd's army went hungry on an expedition, Qais slaughtered nine riding animals to feed them, and the Prophet said generosity was the hallmark of that family.",
+  "people": [
+   {"id": "jaabir-bin-abdillaah", "role": "narrator"},
+   {"id": "qais", "role": "subject"}
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "jihaad", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Qais is matched to the approved 'qais' entry. His father, named only as lineage, is not tagged."
+ }
+]

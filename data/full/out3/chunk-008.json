@@ -1,0 +1,955 @@
+[
+ {
+  "id": "n03708",
+  "summary": "Waleed bin Waleed told Rasulullaah that he often felt fearful, and Rasulullaah advised him to recite the du'aa when going to bed.",
+  "people": [
+   {
+    "id": "waleed-bin-waleed",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "dhikr"
+  ],
+  "new_themes": [
+   "fear at night"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Refers to 'the above du'aa', which is not in this text. The heading names Khaalid bin Waleed, but the text names Waleed bin Waleed; tagged from the text."
+ },
+ {
+  "id": "n03719",
+  "summary": "Abu Raafi reports that Abdullaah bin Ja'far, under duress, married his daughter to Hajjaaj bin Yusuf and taught her a du'aa from Rasulullaah that kept Hajjaaj from getting close to her.",
+  "people": [
+   {
+    "id": "abu-raafi",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-jafar",
+    "role": "subject"
+   },
+   {
+    "id": "hajjaaj",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "duaa",
+   "dhikr"
+  ],
+  "new_themes": [
+   "protection from a tyrant"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03722",
+  "summary": "Abdullaah bin Mas'ood teaches a du'aa to say when fearing a tyrannical ruler, asking Allaah for protection from him, from the jinn and from mankind.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "trust-in-allaah"
+  ],
+  "new_themes": [
+   "protection from a tyrant"
+  ],
+  "boundary": "starts-mid",
+  "notes": "'In another narration' refers back to the du'aa quoted in the previous narration; its full words are not in this text."
+ },
+ {
+  "id": "n03734",
+  "summary": "Jaabir reports Rasulullaah's sermon urging repentance, dhikr and sadaqah, and stating that the Jumu'ah salaah is compulsory until the Day of Qiyaamah, with a warning against neglecting it.",
+  "people": [
+   {
+    "id": "jaabir",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "dhikr",
+   "sadaqah"
+  ],
+  "new_themes": [
+   "repentance",
+   "jumu'ah prayer"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03744",
+  "summary": "Raafi bin Amr Muzani saw Rasulullaah deliver a sermon at Mina on a brown mule, with Ali repeating his words for the crowd.",
+  "people": [
+   {
+    "id": "raafi-bin-amr-muzani",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hajj",
+   "dawah-at-hajj"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03745",
+  "summary": "Abu Hurra Raqaashi reports Rasulullaah's sermon on the days of Tashreeq during Hajj: the sanctity of life, property and honour, the waiving of interest and of Jahiliyyah blood-feuds, the rights of husbands and wives, and the command to convey the message. Humayd and Abdullaah bin Umar add further reports.",
+  "people": [
+   {
+    "id": "abu-hurra-raqaashi",
+    "role": "narrator"
+   },
+   {
+    "id": "rabeeah-bin-haarith",
+    "role": "mentioned"
+   },
+   {
+    "id": "abbaas-bin-abdil-muttalib",
+    "role": "mentioned"
+   },
+   {
+    "id": "humayd",
+    "role": "narrator"
+   },
+   {
+    "id": "hasan-bin-abil-hasan",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hajj",
+   "muslim-rights",
+   "family",
+   "halaal-and-haraam"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports joined: Abu Hurra's report, Humayd's report with Hasan's remark, and Abdullaah bin Umar's report of a longer version. The Hasan who comments ('the Sahabah have conveyed the message') is taken to be Hasan al-Basri (not sahabi), from the context. The uncle who held the reins is unnamed in the OCR, so he is left out."
+ },
+ {
+  "id": "n03764",
+  "summary": "Anas bin Maalik reports Rasulullaah warning in a sermon that interest is a grave sin, and Abu Moosa Ash'ari reports his warning against Shirk together with the du'aa for protection from it.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "halaal-and-haraam",
+   "tawheed",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Anas on interest and Abu Moosa on Shirk."
+ },
+ {
+  "id": "n03779",
+  "summary": "Abu Hurayrah reports Rasulullaah urging people to think well of the Lord of the universe, because Allaah treats His servants according to their expectation of Him.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "mercy-and-forgiveness",
+   "trust-in-allaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03781",
+  "summary": "Tha'laba reports Rasulullaah ordering Sadaqatul Fitr of a saa of dates or a saa of barley for every person, whether minor or adult, free or slave.",
+  "people": [
+   {
+    "id": "thalaba",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "sadaqah",
+   "fasting"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03789",
+  "summary": "Abdullaah bin Abbaas reports that during his final illness Rasulullaah came out with his head bound and gave his last sermon, which also included advice about the Ansaar.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophets-final-illness",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "The sermon itself is 'quoted above' and is not in this text, so this is a summary of it. The advice about the Ansaar is only named, not given."
+ },
+ {
+  "id": "n03791",
+  "summary": "Another narration confirms that this was the last sermon Rasulullaah ever delivered.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "prophets-final-illness"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "A cross-reference to the previous narration with no content of its own. Only one theme is given because the text supports no more."
+ },
+ {
+  "id": "n03797",
+  "summary": "Hasan (al-Basri) reports Abu Bakr's speech on taking up the khilaafah: he is not the best of them, he dislikes the post, and he asks to be watched and corrected if he strays.",
+  "people": [
+   {
+    "id": "hasan-bin-abil-hasan",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "humility",
+   "enjoining-good"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Opens as 'similar to the one above', then gives a second report by Hasan of another Abu Bakr lecture. Hasan is taken to be Hasan al-Basri (not sahabi) from the context."
+ },
+ {
+  "id": "n03835",
+  "summary": "Abdullaah bin Abbaas reports Umar's lecture defending stoning (Rajm) as a penalty ordained by Allaah, carried out by Rasulullaah and afterwards, and warning of people who will deny Rajm, Dajjaal, intercession, punishment in the grave and release from Jahannam.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "halaal-and-haraam",
+   "aakhirah",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03842",
+  "summary": "Qabeesah reports that Umar said from the pulpit that whoever shows no mercy will receive none, and whoever does not forgive, repent or abstain from sin will not be forgiven, accepted or saved.",
+  "people": [
+   {
+    "id": "qabeesah",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "mercy-and-forgiveness",
+   "kindness"
+  ],
+  "new_themes": [
+   "repentance"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03843",
+  "summary": "Urwa reports Umar's saying that greed leads to poverty and losing hope leads to independence; Abdullaah bin Khiraash reports Umar's du'aa asking Allaah to hold them with His rope and keep them steadfast on the Deen.",
+  "people": [
+   {
+    "name": "Urwa",
+    "id": null,
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-khiraash",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "self-reliance",
+   "duaa",
+   "steadfastness"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports. 'Urwa' is not identified: several Urwas are in the approved list, so no id is assigned. The uncle who heard Umar is unnamed and left out."
+ },
+ {
+  "id": "n03846",
+  "summary": "Abdullaah bin Zubayr reports Umar's warning that men who wear silk in this world will not be given silk in the Aakhirah; Abu Ubayd, freed slave of Abdur Rahmaan bin Auf, reports Umar leading the Eid salaah without adhaan or iqaamah, then forbidding fasting on the two Eid days.",
+  "people": [
+   {
+    "id": "abdullaah-bin-zubayr",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubayd",
+    "role": "narrator"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "halaal-and-haraam",
+   "salaah",
+   "fasting"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports. 'Abu Ubayd' is the bare approved id; the text gives only that he was Abdur Rahmaan bin Auf's freed slave."
+ },
+ {
+  "id": "n03847",
+  "summary": "Alqama bin Waqqaas Laythi reports Umar's lecture quoting Rasulullaah that actions are judged by intention; Sulaymaan bin Yasaar reports Umar's address in a drought, calling the people to pray with him for relief.",
+  "people": [
+   {
+    "id": "alqama-bin-waqqaas-laythi",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "sulaymaan-bin-yasaar",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "sincerity",
+   "hijrah",
+   "fear-of-allaah",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: the hadith on intention, and the drought address."
+ },
+ {
+  "id": "n03855",
+  "summary": "Qutaybah bin Muslim reports Hajjaaj's sermon on the grave, which he backs with a chain: Abdul Malik and Marwaan report that Uthmaan said Rasulullaah always wept whenever he saw a grave or spoke of one.",
+  "people": [
+   {
+    "id": "qutaybah-bin-muslim",
+    "role": "narrator"
+   },
+   {
+    "id": "hajjaaj",
+    "role": "subject"
+   },
+   {
+    "id": "abdul-malik-bin-marwaan",
+    "role": "narrator"
+   },
+   {
+    "id": "marwaan",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "death-and-burial",
+   "weeping-and-grief"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03857",
+  "summary": "Hasan (al-Basri) reports that Uthmaan instructed from the pulpit that dangerous dogs should be killed and pigeons kept for sport should be slaughtered.",
+  "people": [
+   {
+    "id": "hasan-bin-abil-hasan",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah"
+  ],
+  "new_themes": [
+   "treatment of animals"
+  ],
+  "boundary": "ok",
+  "notes": "Hasan is taken to be Hasan al-Basri (not sahabi) from the context; he is recorded as present at the sermon. Check this one if identity matters."
+ },
+ {
+  "id": "n03864",
+  "summary": "Asbagh bin Nabaatah reports Ali's sermon on death and the coming day, when even the young will turn white and people will look intoxicated from the severity of Allaah's punishment; Ali and those around him wept.",
+  "people": [
+   {
+    "id": "asbagh-bin-nubaata",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "death-and-burial",
+   "aakhirah",
+   "weeping-and-grief"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says the rest is 'similar to the one above' and depends on the earlier report for the words 'I am the home of worms'."
+ },
+ {
+  "id": "n03884",
+  "summary": "Abdullaah bin Sabt reports that Ali foretold his own death at the hand of an assassin, forbade his followers from killing anyone but the assassin, and refused to name a successor, preferring to leave the Ummah as Rasulullaah had left it.",
+  "people": [
+   {
+    "id": "abdullaah-bin-sabt",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "martyrdom",
+   "khilaafah",
+   "avoiding-fitnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ali's name is garbled in the OCR as 'Mi.' in the text; read as Ali."
+ },
+ {
+  "id": "n03886",
+  "summary": "Umayr bin Abdul Malik reports Ali's sermon from Kufa, in which Ali says Rasulullaah told him, quoting Allaah, that Allaah turns His punishment away from those who turn from disobedience to obedience and turns His wrath towards those who turn from obedience to disobedience.",
+  "people": [
+   {
+    "id": "umayr-bin-abdul-malik",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "mercy-and-forgiveness",
+   "fear-of-allaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ali's name is garbled in the OCR as 'Mi' in the text; read as Ali."
+ },
+ {
+  "id": "n03888",
+  "summary": "Abu Tufayl reports Hasan bin Ali's address after his father's death: he names his lineage, recites Qur'anic verses on the Prophet's family, and says Rasulullaah handed the flag to Ali while Jibra'eel fought beside him.",
+  "people": [
+   {
+    "id": "abu-tufayl",
+    "role": "narrator"
+   },
+   {
+    "id": "hasan-bin-ali",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "family",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports joined: Abu Tufayl's, then 'another narration' and 'yet another narration'. The narrator gives Ali's death date as the 21st of Ramadhaan."
+ },
+ {
+  "id": "n03894",
+  "summary": "Umayr bin Haani reports Mu'aawiya bin Abi Sufyaan quoting Rasulullaah that this Ummah will stay steadfast on the Deen until the Day of Qiyaamah and will dominate others; Maalik bin Yakhaamir says he heard Mu'aadh bin Jabal identify these people as the people of Shaam.",
+  "people": [
+   {
+    "id": "umayr-bin-haani",
+    "role": "narrator"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": "maalik-bin-yakhaamir",
+    "role": "narrator"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "steadfastness",
+   "spread-of-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03899",
+  "summary": "Ataa bin Abi Rabaah reports Abdullaah bin Zubayr quoting Rasulullaah that one salaah in the Masjid of Madinah is better than a thousand elsewhere, except the Masjidul Haraam; Ibn Zubayr explained that the whole Haram counts as a Masjid.",
+  "people": [
+   {
+    "id": "ataa-bin-abi-rabaah",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-zubayr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "masjid",
+   "salaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03907",
+  "summary": "Abu Waa'il reports that after Umar's death Abdullaah bin Mas'ood travelled from Madinah to Kufa and told the people to pledge allegiance to Uthmaan, as the Companions had done.",
+  "people": [
+   {
+    "id": "abu-waail",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "bayah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03918",
+  "summary": "Uqba bin Abul Ayraaz reports Husayn bin Ali's address at Bayda to the army of Hurr bin Yazeed, quoting Rasulullaah on the tyrant, rebuking the ruling party, and calling on the people of Kufa to keep their pledge, reminding them how they had treated his father, brother and cousin Muslim bin Aqeel.",
+  "people": [
+   {
+    "id": "uqba-bin-abul-ayraaz",
+    "role": "narrator"
+   },
+   {
+    "id": "husayn-bin-ali",
+    "role": "subject"
+   },
+   {
+    "id": "hurr-bin-yazeed",
+    "role": "mentioned"
+   },
+   {
+    "id": "muslim-bin-aqeel",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "faatima",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "enjoining-good",
+   "bayah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading says 'The Lecture of Hadhrat Abdullaah bin Salaam', but the text is Husayn's address; tagged from the text. The brother is not named, so he is not listed."
+ },
+ {
+  "id": "n03938",
+  "summary": "Sufyaan Thowri reports that Umar wrote to Abu Moosa Ash'ari that wisdom is a gift from Allaah rather than something that comes with age, and told him to stay away from shameful acts and evil character.",
+  "people": [
+   {
+    "id": "sufyaan-thowri",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "good-character",
+   "modesty"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03941",
+  "summary": "Ali tells Umar that to meet his two companions, Rasulullaah and Abu Bakr, he should curb his hopes, eat less than his fill, shorten his loincloth, and patch and mend his garments and shoes.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "zuhd",
+   "humility"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03949",
+  "summary": "Amr bin Maymoon Awdi reports Mu'aadh bin Jabal telling the Banu Awd that everyone will return to Allaah and go to Jannah or Jahannam, to live there forever.",
+  "people": [
+   {
+    "id": "amr-bin-maymoon-awdi",
+    "role": "narrator"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "aakhirah",
+   "fear-of-allaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03951",
+  "summary": "Abdullaah bin Salamah reports Mu'aadh bin Jabal's advice to a man who asked to be taught: fast only at times, pray at night and also sleep, earn without sinning, die as a Muslim, and beware the curse of the oppressed.",
+  "people": [
+   {
+    "id": "abdullaah-bin-salamah",
+    "role": "narrator"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "fasting",
+   "nafl-salaah",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03955",
+  "summary": "Abdullaah bin Mas'ood says that the best of this world has passed on, leaving only waste, so death is a gift for every Muslim.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "zuhd",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03959",
+  "summary": "Abdullaah bin Mas'ood says that each person is a guest and his wealth is borrowed: the guest must leave one day, and the borrowed item must be returned to its owner.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "zuhd",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03962",
+  "summary": "Mundhir reports that when non-Arab chiefs visited Abdullaah bin Mas'ood, he told the people that a healthy-bodied kaafir may have a sick heart and a sick-bodied Muslim a healthy heart; he also taught that comfort lies only in meeting Allaah, that no one should follow others blindly in faith, and that Allaah conceals a person's faults in this world and will do so in the Aakhirah.",
+  "people": [
+   {
+    "id": "mundhir",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "following-the-sunnah",
+   "aakhirah",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [
+   "blind following"
+  ],
+  "boundary": "merged",
+  "notes": "Several separate sayings joined. The opening sentence is cut in the OCR ('Hadhrat Mundhir (RA) that ...'), so the narration verb is missing. 'Mundhir' is ambiguous in the approved list, so the bare id is used."
+ },
+ {
+  "id": "n03964",
+  "summary": "Abdullaah bin Mas'ood says that whoever does things to be seen in this world will have his faults shown on the Day of Qiyaamah, that whoever seeks to be heard will have his faults made known, and that Allaah humiliates the proud and raises the humble.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "sincerity",
+   "humility"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03971",
+  "summary": "Abu Dardaa advises worshipping Allaah as if seeing Him, counting oneself among the dead, being content with little, and remembering that good deeds never age and sins are never forgotten; he adds that goodness lies in knowledge, forbearance and excelling in worship, and that one should praise Allaah when doing well and seek His forgiveness when doing wrong.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "fear-of-allaah",
+   "aakhirah",
+   "gratitude"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two sayings joined, neither with a named narrator."
+ },
+ {
+  "id": "n03973",
+  "summary": "Abu Dardaa says the apex of Imaan is steadfastly fulfilling Allaah's orders, being content with His decree, trusting Him and surrendering to Him; he warns against being consumed by wealth, and addresses the people of Damascus about storing and building beyond their needs and the ruin of earlier nations.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "trust-in-allaah",
+   "qadr",
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several sayings joined, including a separate address to the people of Damascus."
+ },
+ {
+  "id": "n03977",
+  "summary": "Shurahbeel reports that whenever Abu Dardaa saw a funeral he would say that the living follow the dead, that death is a powerful advice, and that only the senseless remain unheedful.",
+  "people": [
+   {
+    "id": "shurahbeel",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "death-and-burial",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03979",
+  "summary": "Abu Dardaa says that a person who often thinks of death will show off less and be less jealous.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "death-and-burial",
+   "sincerity"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03981",
+  "summary": "Abdullaah bin Jubayr bin Nufayr reports that a man asked Abu Dardaa for something that would benefit him, and Abu Dardaa advised eating, earning and bringing home only what is pure, seeking daily sustenance from Allaah, counting oneself among the dead, entrusting one's honour to Allaah, and seeking forgiveness after sin.",
+  "people": [
+   {
+    "id": "abdullaah-bin-jubayr-bin-nufayr",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "halaal-and-haraam",
+   "trust-in-allaah",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who asked is unnamed and left out."
+ }
+]

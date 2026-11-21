@@ -1,0 +1,537 @@
+[
+  {
+    "id": "n01801",
+    "summary": "Abu Hurayrah describes how the Prophet never withdrew his hand from a handshake first, gave full attention to whoever spoke to him, and chose the easier option when given two.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "humility"],
+    "new_themes": ["the Prophet's noble character"],
+    "boundary": "ok",
+    "notes": "OCR gap mid-sentence ('would not turn away ... forbidden by Allaah was violated'), so part of the meaning is lost."
+  },
+  {
+    "id": "n01802",
+    "summary": "Aa'isha and Abu Hurayrah describe how the Prophet was never rude, vulgar or noisy, and always forgave and overlooked.",
+    "people": [
+      { "id": null, "name": "Abu Abdullaah Jadali", "role": "narrator", "sahabi": "no" },
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Saalih", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "kindness"],
+    "new_themes": ["the Prophet's noble character"],
+    "boundary": "merged",
+    "notes": "Three reports joined: Aa'isha via Abu Abdullaah Jadali; Abu Hurayrah via Saalih; and a further narration. Saalih is not certainly Saalih bin Kaysaan, so it is left as null."
+  },
+  {
+    "id": "n01803",
+    "summary": "Anas says the Prophet never cursed people or was rude, and that the strongest thing he said when scolding was 'May sand fall on his forehead'.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "modesty"],
+    "new_themes": ["the Prophet's noble character"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01804",
+    "summary": "Abdullaah bin Amr reports that the Prophet was never rude or vulgar, and said the best of people is the one with the best character.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "modesty"],
+    "new_themes": ["the Prophet's noble character"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01805",
+    "summary": "Anas tells how Abu Talha brought him to the Prophet to serve him, and how the Prophet never reproached him for what he did or failed to do.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "abu-talha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "mercy-and-forgiveness"],
+    "new_themes": ["the Prophet's noble character", "serving the Prophet"],
+    "boundary": "merged",
+    "notes": "Several separate reports of Anas are joined (the nine-year service, 'Dear little Anas', and 'I served for ten years')."
+  },
+  {
+    "id": "n01806",
+    "summary": "Anas says the Prophet never scolded him for delayed or bungled tasks, and told his household to leave him alone when they scolded Anas.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "mercy-and-forgiveness"],
+    "new_themes": ["the Prophet's noble character", "serving the Prophet"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01807",
+    "summary": "Anas says the Prophet never hit, cursed or frowned at him during ten years of service, and recounts how his mother offered him to the Prophet for service.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "family"],
+    "new_themes": ["serving the Prophet"],
+    "boundary": "merged",
+    "notes": "Two reports joined without a break. The first ends mid-sentence ('it will'), and the second (the mother's offer) ends mid-sentence too. Anas's mother is not named in the text, so she is left out."
+  },
+  {
+    "id": "n01808",
+    "summary": "Abdullaah bin Umar, Ali, Usaama and Abdullaah bin Ja'far report the Prophet's affection for Ja'far and Ali and his praise of their resemblance to himself.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "jafar-bin-abi-taalib", "role": "subject" },
+      { "id": "zaid-bin-haaritha", "role": "mentioned" },
+      { "id": "usaama-bin-zaid", "role": "narrator" },
+      { "id": "abdullaah-bin-jafar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The opening sentence of Abdullaah bin Umar's report is cut off, so the three men he praises (the heading names Uthmaan and Abu Ubaydah) are not visible in the text. Zaid is taken as Zaid bin Haaritha because the context fits, but this is an inference. The text ends mid-sentence and joins several reports."
+  },
+  {
+    "id": "n01809",
+    "summary": "Bahriyyah reports that when the Prophet's plate was stolen, Umar neither cursed the thief nor reproached him.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Bahriyyah", "role": "subject", "sahabi": "unsure" },
+      { "id": null, "name": "Khidaash", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["mercy-and-forgiveness", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Bahriyyah's sahabi status is not stated in the text. Khidaash is the uncle who first received the plate. Umar's leniency toward the thief is taken from 'neither swore the thief nor cursed him'."
+  },
+  {
+    "id": "n01810",
+    "summary": "Abdullaah bin Abbaas reports that Uyaynah insulted Umar to his face, Umar nearly struck him, and Ali praised Ibn Mas'ood's knowledge.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "uyayna-fazaari", "role": "subject" },
+      { "id": null, "name": "Hurr bin Qais", "role": "mentioned", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["justice", "virtues-of-the-sahabah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The vocabulary lists Uyayna bin Hisn twice: uyayna-fazaari (yes) and uyayna-bin-badr (no). I used uyayna-fazaari because the text calls him Hadhrat Uyaynah (RA). The passage is garbled ('he was close to assaulting Hadhrat Uyaynah expressed that it was'), with an OCR gap."
+  },
+  {
+    "id": "n01811",
+    "summary": "Saalim and Zuhri report that Abdullaah bin Umar never cursed a slave, and that he once stopped himself partway through a curse.",
+    "people": [
+      { "id": "saalim-bin-abdullaah-bin-umar", "role": "narrator" },
+      { "id": "imaam-zuhri", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "muaadh-bin-jabal", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["kindness", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations joined (Saalim, then Zuhri), followed by a cross-reference to an earlier narration in which Jaabir describes Mu'aadh bin Jabal. Jaabir and Mu'aadh are included because the quoted line is in this text. Saalim is taken as Saalim bin Abdullaah bin Umar, not the Companion Saalim. The text ends mid-sentence."
+  },
+  {
+    "id": "n01812",
+    "summary": "Abdullaah bin Mas'ood reports that the Prophet tolerated a man who criticised the Hunayn distribution, and recalls the patience of Musa.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "aqra-bin-haabis", "role": "mentioned" },
+      { "id": "uyayna-fazaari", "role": "mentioned" },
+      { "id": "musa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations joined ('Another narration states'). The critic is unnamed. Musa is the Prophet Musa (vocabulary id musa). The second passage has an OCR gap in the justice sentence."
+  },
+  {
+    "id": "n01813",
+    "summary": "Umar recounts objecting when the Prophet was about to pray over Abdullaah bin Ubay, and how Allaah then revealed verses forbidding prayer for the hypocrites.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-ubay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The vocabulary has abdullaah-bin-ubay and abdullaah-bin-ubay-bin-salool (both no). I used the shorter id because the text gives the shorter name. Quoted Qur'an verses are kept."
+  },
+  {
+    "id": "n01814",
+    "summary": "Jaabir reports that the Prophet came to the funeral of Abdullaah bin Ubay, found him already buried, had him exhumed, blew on the body and shrouded it with his own garment.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "abdullaah-bin-ubay", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "hypocrisy", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The son of Abdullaah bin Ubay is unnamed and left out. Abbaas is included because the parenthetical about the garment names him."
+  },
+  {
+    "id": "n01815",
+    "summary": "A narration says the Prophet had the body of Abdullaah bin Ubay taken out of the grave and shrouded it with his own garment.",
+    "people": [
+      { "id": "abdullaah-bin-ubay", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "No narrator is named. This is a variant of the report in n01814."
+  },
+  {
+    "id": "n01816",
+    "summary": "Zaid bin Arqam reports that the Prophet was ill for days from a Jew's spell, and that he never mentioned it to the Jew or showed anger.",
+    "people": [
+      { "id": "zaid-bin-arqam", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "patience"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Jew, the man sent to the well (the name is missing in the OCR) and the angel Jibra'eel are left out. Angels are not in the people vocabulary."
+  },
+  {
+    "id": "n01817",
+    "summary": "Aa'isha relates how the Prophet came to believe he had been with his wives when he had not, because of a spell, and how the location of the spell was revealed in a dream and he chose not to publicise it.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "sufyaan", "role": "narrator" },
+      { "id": null, "name": "Labeed bin A'sam", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "miracles-and-blessings"],
+    "new_themes": ["witchcraft against the Prophet"],
+    "boundary": "ends-mid",
+    "notes": "The two angels in the dream are left out. Labeed is described as a hypocrite of Banu Zurayq, so sahabi is 'no'. The text stops after 'scandal against someone,' with no closing. The 'Sufyaan' here is the bare vocabulary entry (unsure). It could be Sufyaan bin Uyayna (no), which I could not confirm."
+  },
+  {
+    "id": "n01818",
+    "summary": "Aa'isha adds that for six months the Prophet believed he had been with his wives when he had not, because of witchcraft, and that two angels then came to him.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "miracles-and-blessings"],
+    "new_themes": ["witchcraft against the Prophet"],
+    "boundary": "ends-mid",
+    "notes": "The book abridges this narration ('the rest of the Hadith continues'), so the text is only the opening of a longer report."
+  },
+  {
+    "id": "n01819",
+    "summary": "Anas and Abu Hurayrah report that a Jewish woman poisoned goat meat for the Prophet, and that he questioned her and did not punish her.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "kindness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Anas's report and Abu Hurayrah's report are joined. The woman is unnamed and left out. Anas's sentence is cut off ('the effect of the poison on')."
+  },
+  {
+    "id": "n01820",
+    "summary": "Abdullaah bin Abbaas reports that the Prophet had cupping done whenever he felt the effect of the poison, including once while about to enter ihraam.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness"],
+    "new_themes": ["cupping (hijaamah) for poison"],
+    "boundary": "ok",
+    "notes": "Only one approved theme fits the text, so I did not stretch to a second. This continues the poisoning story in n01819."
+  },
+  {
+    "id": "n01821",
+    "summary": "Jaabir reports the poisoned roast goat, the woman's confession and the Prophet's forgiveness, and other reports say the Prophet had cupping done and that the woman was later executed.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": null, "name": "Abu Hind", "role": "mentioned", "sahabi": "yes" },
+      { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+      { "id": null, "name": "Bishr bin Baraa bin Ma'roor", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports joined: Jaabir; Abu Hind as the cupper; and Abu Salamah on Bishr's death. The reports disagree: the Jaabir report says the Prophet forgave the woman, while the last report says she was executed. Abu Salamah is taken as Abu Salamah bin Abdur Rahmaan (unsure), because Abu Salama bin Abdil Asad died before this event. The woman is unnamed."
+  },
+  {
+    "id": "n01822",
+    "summary": "Marwaan bin Uthmaan reports that on his deathbed the Prophet told Ummu Bishr he could feel the poison from the meal he had eaten with her brother Bishr at Khaybar.",
+    "people": [
+      { "id": null, "name": "Marwaan bin Uthmaan bin Abu Sa'eed bin Mu'allaa", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Ummu Bishr", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Bishr bin Baraa bin Ma'roor", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-final-illness", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "This Marwaan bin Uthmaan is not the Marwaan bin Hakam in the vocabulary. The closing sentence is the author's comment on martyrdom, not the narrator's words."
+  },
+  {
+    "id": "n01823",
+    "summary": "Ja'da bin Khaalid reports that the Prophet rebuked a large-bellied man for overeating, and that when told of an assassination plot he said nothing could harm him without Allaah's permission.",
+    "people": [
+      { "id": null, "name": "Ja'da bin Khaalid bin Simmah Jushami", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["trust-in-allaah", "sadaqah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The large-bellied man and the would-be assassin are unnamed. Sahabi status is taken from the 'RA' in the text."
+  },
+  {
+    "id": "n01824",
+    "summary": "Anas and Abdullaah bin Mughaffal report the Makkan ambush of eighty and then thirty men during the Treaty of Hudaybiyyah, how the Prophet's prayer captured or blinded them, his forgiveness, and the revealed verse.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abdullaah-bin-mughaffal", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["hudaybiyyah", "mercy-and-forgiveness", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Anas's report is joined to Abdullaah bin Mughaffal's lengthy report. The Makkan men are unnamed. Surah Fath verse 24 is quoted twice."
+  },
+  {
+    "id": "n01825",
+    "summary": "Abu Hurayrah reports that Tufayl bin Amr asked the Prophet to curse the Daus tribe, and that the Prophet instead prayed for their guidance.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "tufayl-bin-amr-dowsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-concern", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01826",
+    "summary": "Abu Za'raa reports Ali's statement that he, his pure wives and his pious progeny had been the most tolerant in youth and the most learned as adults, and Sa'd's praise of Ibn Abbaas for his knowledge and tolerance.",
+    "people": [
+      { "id": null, "name": "Abu Za'raa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "sad-bin-abi-waqqaas", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "patience", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Abu Za'raa may be the same person as abu-zurah-mabad-bin-khaalid (Abu Zur'ah, yes), but I could not confirm this, so it is left as null. Sa'd's quote is a cross-reference to an earlier narration. Ali's report is cut off at the end."
+  },
+  {
+    "id": "n01827",
+    "summary": "Anas reports that the Prophet shortened the salaah when he heard a child crying, because the crying would pain the child's mother.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01828",
+    "summary": "Anas reports that when a man asked about his father, who died as a mushrik, the Prophet said he was in the fire and then consoled the man by saying his own father was there too.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man and his father are unnamed, and the Prophet's own father is not named in the text."
+  },
+  {
+    "id": "n01829",
+    "summary": "Abu Hurayrah reports that when a Bedouin was rude about the gift he had received, the Prophet answered patiently and kindly, and told the Bedouin's story as a parable about a camel.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Bedouin and the Companions who wanted to strike him are unnamed. The camel parable is part of the same report."
+  },
+  {
+    "id": "n01830",
+    "summary": "Asma'ee reports that people asked Abdur Rahmaan bin Auf to ask Umar to be gentle with them, and Umar replied that his compassion for them would surprise them if they knew it.",
+    "people": [
+      { "id": null, "name": "Asma'ee", "role": "narrator", "sahabi": "no" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["kindness", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Asma'ee is taken as the scholar al-Asma'i, who was not a Companion. The people who made the request are unnamed."
+  },
+  {
+    "id": "n01831",
+    "summary": "Abu Sa'eed Khudri says the Prophet was more modest than a virgin in her private chamber, and that his dislike showed on his face.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "humility"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two versions joined ('Another narration adds'). Modesty is clearly supported. Humility is a weak second theme, included only to reach the minimum of two."
+  },
+  {
+    "id": "n01832",
+    "summary": "Anas reports the Prophet's saying that modesty is goodness, and his words to Aa'isha that he should be shy before one before whom even the angels are shy.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "aaisha", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Anas's report is joined to the statement that 'many narrators' report the Prophet's words to Aa'isha. The 'Hajggi' in the text is OCR debris."
+  },
+  {
+    "id": "n01833",
+    "summary": "Abdullaah bin Umar reports that while the Prophet sat with Aa'isha, Abu Bakr, Umar and others entered, and that he covered his knees when Uthmaan asked to enter because the angels are shy before Uthmaan.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": null, "name": "Sa'd bin Maalik", "role": "mentioned", "sahabi": "yes" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says 'Uthmaan bin Maan' once (OCR); the later text gives Uthmaan bin Affaan, so id uthmaan is used. 'Sa'd bin Maalik' is not in the vocabulary and may be Sa'd bin Abi Waqqaas (sad-bin-abi-waqqaas), so please check."
+  },
+  {
+    "id": "n01834",
+    "summary": "Hasan describes the extreme modesty of Uthmaan, who would bathe seated and not stand up straight even behind a locked door.",
+    "people": [
+      { "id": "hasan-bin-ali", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text opens with 'Abu Bakr Speaking about...', which is unclear, so Abu Bakr is not tagged. Hasan is taken as Hasan bin Ali."
+  },
+  {
+    "id": "n01835",
+    "summary": "Aa'isha reports Abu Bakr's saying that he covers his head out of modesty before Allaah, even when entering the toilet.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01836",
+    "summary": "Sa'd bin Mas'ood and Umaarah report that Uthmaan bin Madh'oon did not want his wife to see his private parts, and that the Prophet told him the spouses are each other's garments.",
+    "people": [
+      { "id": "sad-bin-masood", "role": "narrator" },
+      { "id": null, "name": "Umaarah bin Ghuraab Yahsubi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan-bin-madhoon", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "marriage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The vocabulary's sad-bin-masood is marked unsure, and I used it as the closest match. The Prophet's wives are unnamed."
+  },
+  {
+    "id": "n01837",
+    "summary": "Abu Mijlaz, Abu Qataadah and Anas report Abu Moosa Ash'ari's extreme modesty, including bathing in a dark room, bending over to get his clothes, and sleeping in clothing.",
+    "people": [
+      { "id": "abu-mijlaz", "role": "narrator" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "abu-qataadah", "role": "narrator" },
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports are separated by ® marks: Abu Mijlaz, Abu Qataadah, and Anas. Abu Mijlaz is the vocabulary entry marked unsure."
+  },
+  {
+    "id": "n01838",
+    "summary": "Ubaadah bin Nusay reports that Abu Moosa Ash'ari said he would rather die and be raised again many times than do what people in the water were doing without their lower garments.",
+    "people": [
+      { "id": null, "name": "Ubaadah bin Nusay", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-moosa-ashari", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The people standing in the water are unnamed. Humility is a weak second theme, included only to reach the minimum of two."
+  },
+  {
+    "id": "n01839",
+    "summary": "Ashaj Abdul Qais reports that the Prophet told him that tolerance and modesty are two qualities Allaah loves, and that these were naturally instilled in him.",
+    "people": [
+      { "id": null, "name": "Ashaj Abdul Qais", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["modesty", "patience"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ashaj is not in the vocabulary. 'Patience' is taken from the word 'tolerance' in the text."
+  },
+  {
+    "id": "n01840",
+    "summary": "Abu Hurayrah reports that an angel came to the Prophet offering him the choice of being a king-prophet or a slave-messenger, and that the Prophet chose to be a humble slave-messenger.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["humility", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Jibra'eel and the angel sent by Allaah are left out, because angels are not in the people vocabulary."
+  }
+]

@@ -1,0 +1,528 @@
+[
+ {
+  "id": "n00961",
+  "summary": "Umar asked Abu Moosa to buy him a slave woman, then freed her after reciting the verse on spending what one loves.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00962",
+  "summary": "Umar then frees the slave woman.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "starts-mid",
+  "notes": "Continues n00961 directly; the story begins there."
+},
+ {
+  "id": "n00963",
+  "summary": "Abdullaah bin Umar freed a slave woman he loved, married her to one of his freed slaves, and later kissed the son she bore.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "marriage"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "ok",
+  "notes": "The freed slave husband is unnamed."
+},
+ {
+  "id": "n00964",
+  "summary": "Abdullaah bin Umar freed his most beloved possession, his Roman slave woman Marjaana, after hearing the verse on spending what one loves.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Marjaana", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "ok",
+  "notes": "The text does not say whether Marjaana was a Sahabiyyah."
+},
+ {
+  "id": "n00965",
+  "summary": "Abdullaah bin Umar had the freed woman married to Naafi, and she bore Naafi a child.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The woman is not named in this report; it refers to the same event as n00964."
+},
+ {
+  "id": "n00966",
+  "summary": "Naafi reports that Abdullaah bin Umar gave away whatever he loved most, freed slaves who showed good deeds, and marked a beloved camel for sacrifice.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "merged",
+  "notes": "Two reports joined: the slaves story and the camel story introduced by 'Hadhrat Naafi continues'. The quotation of Abdullaah's reply to his companions is cut off."
+},
+ {
+  "id": "n00967",
+  "summary": "Naafi reports Abdullaah bin Umar giving away a beloved camel and large sums, and freeing Naafi after Ibn Aamir's gifts troubled him.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-aamir", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "merged",
+  "notes": "Several separate reports joined (camel, Ibn Aamir's gifts, meat-eating). The text says only 'Ibn Aamir'; the approved id abdullaah-bin-aamir (unsure) is used on that basis, please check."
+},
+ {
+  "id": "n00968",
+  "summary": "When Abdullaah bin Umar was ill at Juhfa and had only one fish, he told a poor man who came to the house to take it.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Sa'eed bin Abu Hilaal", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Safryya bint Abu Ubayd", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah"],
+  "new_themes": ["preferring others above oneself"],
+  "boundary": "ok",
+  "notes": "The poor man is unnamed. The text does not say whether Safryya was a Sahabiyyah."
+},
+ {
+  "id": "n00969",
+  "summary": "Abdullaah bin Umar rejects his wife's suggestion to give a dirham to the poor man instead and insists his own wish be carried out.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah"],
+  "new_themes": ["preferring others above oneself"],
+  "boundary": "ok",
+  "notes": "The wife and the poor man are unnamed in this report."
+},
+ {
+  "id": "n00970",
+  "summary": "On the Prophet's advice, Abu Talha gave his beloved orchard of Bir Haa in charity and divided it among his relatives.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sacrifice", "family"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains an appended variant introduced as a Bukhari narration. The Prophet's reply is cut off mid-sentence ('This is an excellent')."
+},
+ {
+  "id": "n00971",
+  "summary": "Zaid bin Haaritha gave his most prized horse Shibla as charity; the Prophet gave it to Zaid's son Usaama and reassured Zaid.",
+  "people": [
+    { "id": null, "name": "Muhammad bin Munkadir", "role": "narrator", "sahabi": "no" },
+    { "id": "zaid-bin-haaritha", "role": "subject" },
+    { "id": "usaama-bin-zaid", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00972",
+  "summary": "Abu Dharr says wealth has three partners, and sends his most beloved camel ahead to the Aakhirah as charity.",
+  "people": [
+    { "id": "abu-dharr-ghifaari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Trailing OCR debris after the closing quote is ignored."
+},
+ {
+  "id": "n00973",
+  "summary": "A woman gave the Prophet a shawl; he wore it, and when a Sahabi asked for it he gave it, the Sahabi saying he hoped for its blessing.",
+  "people": [
+    { "id": "sahl-bin-sad", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "sadaqah"],
+  "new_themes": ["seeking blessings from the Prophet's belongings"],
+  "boundary": "ok",
+  "notes": "The woman and the Sahabi who asked are unnamed and omitted from people."
+},
+ {
+  "id": "n00974",
+  "summary": "Sahl bin Sa'd reports that the Prophet gave away a new striped garment to a Bedouin who asked for it, and died before a replacement was finished.",
+  "people": [
+    { "id": "sahl-bin-sad", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "sadaqah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Bedouin is unnamed and omitted from people."
+},
+ {
+  "id": "n00975",
+  "summary": "Abu Aqeel earned two saa of dates by a night of labour, gave one to charity, and was mocked by the hypocrites, which led to a verse being revealed.",
+  "people": [
+    { "id": "abu-aqeel", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The hypocrites are unnamed."
+},
+ {
+  "id": "n00976",
+  "summary": "Abdur Rahmaan bin Auf gave half his wealth and an Ansaari gave the produce of a night's labour; the hypocrites mocked both until a verse was revealed.",
+  "people": [
+    { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sacrifice", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Abu Salama' here narrates with Abu Hurayrah, so it is taken as Abu Salama bin Abdur Rahmaan, not Abu Salma bin Abdil Asad. The Ansaari and the hypocrites are unnamed."
+},
+ {
+  "id": "n00977",
+  "summary": "Abdullaah bin Zaid gave his orchard to the Prophet as charity; the Prophet returned it to his parents, who had depended on it, and it passed to their son after they died.",
+  "people": [
+    { "id": "abdullaah-bin-zaid", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The parents are unnamed. The text says only 'their son' inherited; it is not stated that this was Abdullaah."
+},
+ {
+  "id": "n00978",
+  "summary": "A hungry man is hosted by an Ansaari couple who put out their lamp and pretend to eat so that the guest can eat, and the Prophet praises them.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "hunger-and-hardship"],
+  "new_themes": ["preferring others above oneself"],
+  "boundary": "merged",
+  "notes": "Joins the main report with 'another narration' that the verse of Surah Hashr was revealed for them. The Ansaari, his wife and the Prophet's wives are unnamed."
+},
+ {
+  "id": "n00979",
+  "summary": "Abdullaah bin Umar reports that a goat's head went round seven houses because each household preferred the others to itself.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["kindness", "sadaqah"],
+  "new_themes": ["preferring others above oneself"],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00980",
+  "summary": "A man wanted another's date palm to repair his wall; Abu Dahdaa bought it with his orchard and gave it to the Prophet, who promised him palms in Jannah.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": null, "name": "Abu Dahdaa", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Ummu Dahdaa", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The owner of the date palm is unnamed. Ummu Dahdaa is marked RA in n00981, which is the basis for sahabi yes."
+},
+ {
+  "id": "n00981",
+  "summary": "Abdullaah bin Mas'ood reports that Abu Dahdaa lent his orchard of six hundred palms to Allaah when the verse on good loans was revealed, and told his wife to leave it.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": null, "name": "Abu Dahdaa", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Ummu Dahdaa", "role": "mentioned", "sahabi": "yes" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The final paragraph is the translator's cross-reference to Abdur Rahmaan bin Auf's earlier statement, not a separate report."
+},
+ {
+  "id": "n00982",
+  "summary": "Anas reports that the Prophet readily gave a man goats to draw him to Islaam, and the man urged his people to accept Islaam.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins the goats report with a second, general narration about people who came only for worldly gain. The man is unnamed."
+},
+ {
+  "id": "n00983",
+  "summary": "Zaid bin Thaabit reports that an Arab received a written grant of land from the Prophet, accepted Islaam, and urged his tribe to do the same.",
+  "people": [
+    { "id": "zaid-bin-thaabit", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Arab is unnamed and omitted from people."
+},
+ {
+  "id": "n00984",
+  "summary": "Safwaan bin Umayyah accepted Islaam on the spot when the Prophet gave him the valley of livestock he had been gazing at.",
+  "people": [
+    { "id": "safwaan-bin-umayyah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "kindness"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens by referring back to an earlier account of the booty ('it has already passed'). The event itself is complete here."
+},
+ {
+  "id": "n00985",
+  "summary": "Asmaa tells how she calmed her blind grandfather Abu Quhaafa about her father Abu Bakr's departure for Hijrah by showing him stones under a cloth, which he took to be the money.",
+  "people": [
+    { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "abu-quhaafa", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hijrah", "sacrifice", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with a translator's cross-reference to Abu Bakr's donation at Tabook."
+},
+ {
+  "id": "n00986",
+  "summary": "Uthmaan pledged a hundred camels with their saddles for the Tabook expedition, then a second hundred when the Prophet urged again, and the Prophet said he need do no more optional deeds.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Khabbaab Sulami", "role": "narrator", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": null, "name": "Abdus Samad", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "jihaad", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdus Samad is named only as the person who demonstrated the gesture in the chain; his status is not stated."
+},
+ {
+  "id": "n00987",
+  "summary": "Uthmaan pledged three hundred camels for Tabook after the Prophet urged three times, and the Prophet said no sin would harm him after that day.",
+  "people": [
+    { "id": "abdur-rahmaan", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is named only as 'Abdur Rahmaan'. He is probably Abdur Rahmaan bin Khabbaab from n00986, but this is not certain."
+},
+ {
+  "id": "n00988",
+  "summary": "Abdur Rahmaan bin Samura reports that Uthmaan emptied a thousand dinaars into the Prophet's bag, and the Prophet said no later deed of Uthmaan would harm him.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Samura", "role": "narrator", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00989",
+  "summary": "Abdullaah bin Umar reports that the Prophet asked that Uthmaan's deed not be forgotten and that Uthmaan need do no more optional deeds.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris in the opening words ('5S3.11SB') is ignored."
+},
+ {
+  "id": "n00990",
+  "summary": "Hudhayfa bin Yamaan reports that Uthmaan sent ten thousand dinaars for the expedition, and the Prophet prayed for his forgiveness and released him from optional deeds.",
+  "people": [
+    { "id": null, "name": "Hudhayfa bin Yamaan", "role": "narrator", "sahabi": "yes" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "mercy-and-forgiveness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The name of the expedition is cut off in the OCR ('Expedition of.'). Closing OCR debris is ignored."
+},
+ {
+  "id": "n00991",
+  "summary": "Abdur Rahmaan bin Auf says he was present when Uthmaan brought seven hundred awqiya of gold to the Prophet for the expedition.",
+  "people": [
+    { "id": "abdur-rahmaan-bin-awf", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00992",
+  "summary": "Qataadah and Hasan report the numbers of camels and horses that Uthmaan gave for the Tabook expedition.",
+  "people": [
+    { "id": "qataada", "role": "narrator" },
+    { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "jihaad"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrators give different figures, and the text ends with a translator's cross-reference. The Hasan here is not identified; he could be Hasan bin Ali or Hasan al-Basri, so the approved 'hasan' entry (marked yes) was not used. Please check."
+},
+ {
+  "id": "n00993",
+  "summary": "Aa'isha heard the noise of Abdur Rahmaan bin Auf's caravan of seven hundred camels, recalled the Prophet's words about him entering Jannah, and he gave the whole caravan away.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "aaisha", "role": "subject" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "aakhirah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00994",
+  "summary": "Imaam Zuhri reports Abdur Rahmaan bin Auf's large donations of money, horses and camels during the Prophet's lifetime.",
+  "people": [
+    { "id": "imaam-zuhri", "role": "narrator" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00995",
+  "summary": "Another report from Zuhri says Abdur Rahmaan bin Auf donated five hundred camels in the path of Allaah.",
+  "people": [
+    { "id": "imaam-zuhri", "role": "narrator" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+},
+ {
+  "id": "n00996",
+  "summary": "Zuhri reports a house sale and a dispute over its price; Hakeem gave the money to the poor and to freeing slaves, and asked who had really been cheated.",
+  "people": [
+    { "id": "imaam-zuhri", "role": "narrator" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+    { "id": "muaawiya", "role": "mentioned" },
+    { "id": "hakeem", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "honest-dealings"],
+  "new_themes": ["freeing slaves"],
+  "boundary": "starts-mid",
+  "notes": "OCR cut the opening ('Hadhrat Abdur ... for sixty thousand Dirhams'), so the seller is taken from the heading and the buyer is not clear from the text. The Hakeem here is not fully named; he is probably Hakeem bin Hizaam, but the approved 'hakeem' entry (unsure) was used. A second report (the house for a hundred thousand) is joined at the end. Closing OCR debris is ignored. Low confidence: please check."
+},
+ {
+  "id": "n00997",
+  "summary": "Naafi reports that Abdullaah bin Umar sold a property for two hundred camels, gave a hundred in charity, and made the riders promise not to sell them before Waadi Qura.",
+  "people": [
+    { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The riders are unnamed."
+},
+ {
+  "id": "n00998",
+  "summary": "A translator's note recalls earlier donations for Tabook by Umar, Aasim, Abbaas, Talha, Sa'd bin Ubaadah, Muhammad bin Maslama and Qais bin Sala.",
+  "people": [
+    { "id": "umar", "role": "mentioned" },
+    { "id": "aasim-ansaari", "role": "mentioned" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": "sad-bin-ubaadah", "role": "mentioned" },
+    { "id": "muhammad-bin-maslama", "role": "mentioned" },
+    { "id": "qais-bin-sala-ansaari", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["sadaqah", "jihaad"],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "Editorial cross-reference to earlier narrations, not a report. The people are only mentioned there."
+},
+ {
+  "id": "n00999",
+  "summary": "Aa'isha reports that the Prophet's remark about long arms meant giving in charity, and that Zaynab bint Jahash had the longest arms because she gave away what she made by hand.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": null, "name": "Zaynab bint Jahash", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins two narrations from Aa'isha; the second adds the wives measuring their arms after the Prophet's death. The wives are unnamed."
+},
+ {
+  "id": "n01000",
+  "summary": "Aa'isha reports that Zaynab bint Jahash wove cloth for those going to battle, and that the women's jewellery filled a cloth laid before the Prophet for Tabook.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": null, "name": "Zaynab bint Jahash", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sadaqah", "jihaad", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with a translator's cross-reference to an earlier account. The women are unnamed."
+}
+]

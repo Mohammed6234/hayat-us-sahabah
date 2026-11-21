@@ -1,0 +1,1071 @@
+[
+ {
+  "id": "n02641",
+  "summary": "Abdullaah bin Mas'ood relays the Prophet's warning that after earlier Nabis came people who did not practise, and that whoever resists them by hand, tongue or heart is a Mu'min.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "enjoining-good",
+   "steadfastness"
+  ],
+  "new_themes": [
+   "degrees of imaan"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02642",
+  "summary": "Abdullaah bin Amr relays the Prophet's saying that knowledge is of three kinds, the clear verses of the Qur'aan, authentic Ahadeeth and matching injunctions, and everything beyond these is extra.",
+  "people": [
+   {
+    "id": "abdullaah-bin-amr",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02643",
+  "summary": "Amr bin Auf relays the Prophet's saying that he has left two things, the Book of Allaah and the Sunnah, and that holding fast to them keeps people from going astray.",
+  "people": [
+   {
+    "id": null,
+    "name": "Amr bin Auf",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "No approved entry for this Amr bin Auf; 'amr-bin-al-auf-ansaari' is a different name in the list. The OCR drops the closing quotation mark."
+ },
+ {
+  "id": "n02644",
+  "summary": "Abu Hurayrah reports that the Prophet called the learning of an Allaamah, a man who knows Arabic, poetry and the differences between Arab tribes, knowledge that does not benefit.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "prophets-character"
+  ],
+  "new_themes": [
+   "beneficial knowledge"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02645",
+  "summary": "Abdullaah bin Umar says that knowledge rests on three things: the Qur'aan, the constant Sunnah, and saying 'I do not know' when one does not know.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "quraan",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02646",
+  "summary": "Abdullaah bin Abbaas insists that knowledge comes only from the Book and the Sunnah, and corrects his students, who had ruled from their own opinion on a man troubled by a fluid after urinating, saying that wudhu is enough for him.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Mujaahid",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "ataa-bin-abi-rabaah",
+    "role": "mentioned"
+   },
+   {
+    "id": "taaoos",
+    "role": "mentioned"
+   },
+   {
+    "id": "ikrimah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "personal opinion in fiqh"
+  ],
+  "boundary": "ok",
+  "notes": "Mujaahid is the narrator and also one of the students in the scene. Ataa and Taawoos are identified only by first name, matched to the approved entries for the well-known students of Ibn Abbaas. Ikramah is the one sent to bring the man back."
+ },
+ {
+  "id": "n02647",
+  "summary": "Amr bin Yahya bin Ja'dah reports that the Prophet rebuked a man who brought him a scripture written on an animal's shoulder blade, and that the verse saying the Qur'aan is sufficient was then revealed.",
+  "people": [
+   {
+    "id": null,
+    "name": "Amr bin Yahya bin Ja'dah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The approved 'yahya-bin-jadah' is a different name, so not used. The sahabi status is unclear."
+ },
+ {
+  "id": "n02648",
+  "summary": "Khaalid bin Urfuta says Umar beat a man from the Abd Qais who had copied the scripture of Daaniyaal and ordered it erased, and Umar recalls the Prophet's anger when he once brought him a scripture from the People of the Book; Jaabir reports a similar rebuke.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khaalid bin Urfuta",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Daaniyaal",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "narrator"
+   },
+   {
+    "id": "moosa",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "sufficiency of the Qur'aan"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports: Khaalid bin Urfuta on Umar, and Jaabir on Umar and the Prophet, joined by a passage on the Ansaar. Daaniyaal is a Nabi, not a Sahabi. The Abd Qais tribe and Soos are not tagged."
+ },
+ {
+  "id": "n02649",
+  "summary": "Abdullaah bin Thaabit reports that Umar brought the Prophet some quotations from the Torah, the Prophet's face reddened with anger, and the Prophet said that even Moosa could not be followed instead of him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Thaabit",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "moosa",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Same incident as n02648 but a separate report. The Banu Qurayzah friend who gave Umar the quotations is unnamed."
+ },
+ {
+  "id": "n02650",
+  "summary": "Maymoon bin Mahraan reports that Umar whipped a man who had brought a scripture found in Madaa'in that did not match the Qur'aan, and said earlier nations were destroyed by turning to the books of their scholars.",
+  "people": [
+   {
+    "id": "maymoon-bin-mahraan",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "quraan",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02651",
+  "summary": "Hurayth bin Zuhayr reports that Abdullaah bin Mas'ood told people never to question the People of the Book, since they are misguided and may give them truth to reject or falsehood to believe.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hurayth bin Zuhayr",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "quraan"
+  ],
+  "new_themes": [
+   "not questioning the People of the Book"
+  ],
+  "boundary": "ok",
+  "notes": "'Hurayth' is not the approved 'bujayr-bin-zuhayr', so it is left as a new name."
+ },
+ {
+  "id": "n02652",
+  "summary": "Abdullaah bin Mas'ood and Abdullaah bin Abbaas each say that people should not ask the People of the Book, since they have Allaah's latest Book, which has not been altered.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate sayings, one from Ibn Mas'ood and one from Ibn Abbaas."
+ },
+ {
+  "id": "n02653",
+  "summary": "A variant report has Abdullaah bin Abbaas asking why people question the People of the Book when they have Allaah's latest Book, which is new and which they can read.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is not named; this repeats the point of n02652."
+ },
+ {
+  "id": "n02654",
+  "summary": "Shufay Asbahi reports Abu Hurayrah's hadith that the reciter of the Qur'aan, the martyr and the wealthy man will be the first fuel for Jahannam because they acted for show; Mu'aawiya wept on hearing it. The report also has Abdullaah bin Umar weeping after hearing from Abdullaah bin Amr a hadith about pride.",
+  "people": [
+   {
+    "id": null,
+    "name": "Shufay Asbahi",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abu-hurayrah",
+    "role": "subject"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Alaa bin Hakeem",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abu-salma-bin-abdir-rahmaan",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-amr",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "aakhirah",
+   "sincerity",
+   "fear-of-allaah",
+   "humility"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several separate reports: Shufay on Abu Hurayrah, Alaa bin Hakeem on Shufay and Mu'aawiya, and Abu Salamah on Ibn Umar. Mu'aawiya is taken as Mu'aawiya bin Abi Sufyaan (called Khalifah), not Mu'aawiya bin Haydah. Abu Salamah is the son of Abdur Rahmaan bin Awf, whose name is a genealogy and is left out. The text ends mid-reference (Surah Hood)."
+ },
+ {
+  "id": "n02655",
+  "summary": "Abul Hasan reports that Abdullaah bin Rawaaha and Hassaan bin Thaabit came weeping to the Prophet when Surah Shu'araa was revealed, and he told them that the exception for poets who believe applies to them. A separate report by Abu Saalih has the people of Yemen weeping at the Qur'aan in Abu Bakr's time.",
+  "people": [
+   {
+    "id": "abul-hasan",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   },
+   {
+    "id": "hassaan-bin-thaabit",
+    "role": "subject"
+   },
+   {
+    "id": "abu-saalih",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Nu'aym",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "weeping-and-grief",
+   "humility"
+  ],
+  "new_themes": [
+   "poetry and the poets"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports, the poets' tears and the Yemenis' tears. Abu Nu'aym is a later commentator whose gloss sits inside the text, so he is tagged as a mention only. Abul Hasan is marked as the freed slave of Banu Naufal, which is the approved entry's identity; check if unsure."
+ },
+ {
+  "id": "n02656",
+  "summary": "Abzah Abu Abdur Rahmaan reports the Prophet's sermon rebuking tribes who neither teach Deen to their neighbours nor learn it, and the Ash'ar people who asked for a year's grace to teach theirs.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abzah Abu Abdur Rahmaan",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Dawood",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "isa-bin-maryam",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "enjoining-good",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Dawood is a Nabi named only in the Qur'anic verse quoted, and is not in the approved list. The Ash'ar people are a group, not tagged."
+ },
+ {
+  "id": "n02657",
+  "summary": "Abdullaah bin Salamah reports that Mu'aadh bin Jabal told a weeping man at his bedside that whoever strives for knowledge and Imaan will be granted them, as Ibraheem was.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Salamah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text labels Ibraheem as 'RA', but he is a Nabi, so sahabi is set to no. The weeping man is unnamed."
+ },
+ {
+  "id": "n02658",
+  "summary": "Haarith bin Umayrah reports Mu'aadh bin Jabal's advice as he was dying: knowledge and Imaan remain until Qiyaamah, so seek them from Umar, Uthmaan, Ali and four men, and judge every claim by the Qur'aan and Sunnah.",
+  "people": [
+   {
+    "id": "haarith-bin-umayrah",
+    "role": "narrator"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "mentioned"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-salaam",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "quraan",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Uwaymir (Abu Dardaa)' is tagged as abu-dardaa. The Prophet's words about Abdullaah bin Salaam are a mention inside Mu'aadh's advice."
+ },
+ {
+  "id": "n02659",
+  "summary": "Yazeed bin Umayrah reports Mu'aadh bin Jabal's advice as he was dying: take knowledge from four named men, beware the blunders of a wise man and the words of a hypocrite, and take sound knowledge from wherever it comes.",
+  "people": [
+   {
+    "id": null,
+    "name": "Yazeed bin Umayrah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-salaam",
+    "role": "mentioned"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "hypocrisy"
+  ],
+  "new_themes": [
+   "truth from any source"
+  ],
+  "boundary": "ok",
+  "notes": "'Uwaymir' is Abu Dardaa. The Yazeed here is not the approved 'yazeed-bin-abi-habeeb' or others, so left as a new name."
+ },
+ {
+  "id": "n02660",
+  "summary": "Amr bin Maymoon reports that Mu'aadh bin Jabal, who had come to Yemen as the Prophet's envoy, consoled him when he wept at Mu'aadh's death by saying that knowledge and Imaan will remain until Qiyaamah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Amr bin Maymoon",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "seeking-knowledge",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text ends with The rest of the narration is similar to the ones above, so it is cut short. The Prophet is only mentioned, as the sender of Mu'aadh to Yemen, so the prophet field is mentioned."
+ },
+ {
+  "id": "n02661",
+  "summary": "Abdullaah bin Umar says that in the Prophet's time people learnt Imaan before the Qur'aan and then knew its commands; now people read the Qur'aan without knowing what it commands. Jundub bin Abdullaah says that learning Imaan first with the Prophet made their Imaan grow when they learnt the Qur'aan.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": "jundub-bin-abdullaah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "learning imaan before the Qur'aan"
+  ],
+  "boundary": "merged",
+  "notes": "Two separate statements, from Ibn Umar and from Jundub. The heading also names Ali, who does not appear in this text."
+ },
+ {
+  "id": "n02662",
+  "summary": "Ali says each revelation in the Prophet's time strengthened the Mu'mineen's Imaan and that they abstained at once from any prohibition. Abu Abdur Rahmaan Sulami says the Sahabah did not go on to the next ten verses until they had learnt to practise the ones before.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Abdur Rahmaan Sulami",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [
+   "learning the Qur'aan with practice"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports, from Ali and from Sulami. Sulami relays about an unnamed Sahabi who taught him."
+ },
+ {
+  "id": "n02663",
+  "summary": "An unnamed Sahabi says the companions learnt the Qur'aan together with how to act on it. Abdullaah bin Mas'ood says they learnt ten verses from the Prophet before going on to the next ten, and Shareek confirms that this meant acting on them first.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Shareek",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three strands: the unnamed Sahabi, Ibn Mas'ood, and Shareek's clarification. 'Shareek' is not the approved 'abdullaah-bin-shareek', so kept as null."
+ },
+ {
+  "id": "n02664",
+  "summary": "Hafs bin Umar Sa'di reports that Salmaan told Hudhayfah to learn only the Deen he needs, since knowledge is abundant and life short. Abul Bakhtari relates Salmaan's lesson with the sip of water from the Tigris: knowledge never decreases.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hafs bin Umar Sa'di",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   },
+   {
+    "id": "hudhayfa-bin-yamaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "abul-bakhtari",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, from Hafs and from Abul Bakhtari. Hafs's uncle is unnamed. The Hudhayfah addressed here is taken as Hudhayfah bin Yamaan."
+ },
+ {
+  "id": "n02665",
+  "summary": "Abu Qayla reports that when he asked Abdullaah bin Umar about knowledge, Ibn Umar replied in a letter that the most important thing is to meet Allaah with a tongue that did not dishonour a Muslim, with no Muslim's blood or wealth on one's hands, and united with the Muslims.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Qayla",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "muslim-rights"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who wrote to Ibn Umar is unnamed. The approved 'abu-qilaaba' is a different name."
+ },
+ {
+  "id": "n02666",
+  "summary": "Abu Rifaa'ah reports that he interrupted the Prophet during a sermon to say a stranger had come to learn his Deen, and the Prophet came down from the pulpit and sat to teach him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Rifaa'ah",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "seeking-knowledge",
+   "dawah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Rifaa'ah is not an approved entry (the approved Rifaa'ah names are different people)."
+ },
+ {
+  "id": "n02667",
+  "summary": "Jareer reports that a Bedouin asked the Prophet to teach him Islaam, and the Prophet listed the Shahaadah, salaah, zakaah, Ramadhaan, Hajj and loving for others what one loves for oneself. Muhammad bin Umaarah then says Farwah bin Musayk gave up Kindah's royalty to join the Prophet and learnt the Qur'aan and Shari'ah from Sa'd bin Ubaadah.",
+  "people": [
+   {
+    "id": "jareer-bin-abdillaah",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Umaarah bin Khuzaymah bin Thaabit",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "farwa-bin-musayk-ghutayfi",
+    "role": "subject"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "seeking-knowledge",
+   "delegations"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, Jareer's and Muhammad bin Umaarah's on Farwah, and the text says 'the narration continues further'. Farwah is 'Muraadi' in the text but the approved entry reads 'Ghutayfi'; assumed to be the same man, check in review."
+ },
+ {
+  "id": "n02668",
+  "summary": "Dubaa'ah bint Zubayr reports that a delegation of thirteen men from Bahraa came to Madinah, was hosted by Miqdaad bin Amr, accepted Islaam before the Prophet, learnt the Faraa'idh, and left with gifts after farewell.",
+  "people": [
+   {
+    "id": null,
+    "name": "Dubaa'ah bint Zubayr bin Abdul Muttalib",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "miqdaad-bin-amr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "delegations",
+   "hospitality"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The thirteen delegates are unnamed."
+ },
+ {
+  "id": "n02669",
+  "summary": "Ibn Seereen reports that Abu Bakr and Umar, when teaching Islaam, told people to worship Allaah alone, keep salaah on time, pay zakaah cheerfully, fast in Ramadhaan and obey their leaders.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ibn Seereen",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "salaah",
+   "zakaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02670",
+  "summary": "Hasan reports that a Bedouin asked Umar to teach him the Deen, and Umar listed the Shahaadah, salaah, zakaah, Hajj and fasting, and told him to judge only outward actions and not to probe people's private lives.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hasan",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "muslim-rights"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "This Hasan is not identified in the text; most likely Hasan al-Basri, a Tabi'i, so sahabi is set to no. It is not the approved 'hasan-bin-ali'."
+ },
+ {
+  "id": "n02671",
+  "summary": "Another narration adds that Umar told the same Bedouin to hold fast to this advice, and that when he meets Allaah he may tell Him whatever comes to mind.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "An addendum to n02670 with no narrator named."
+ },
+ {
+  "id": "n02672",
+  "summary": "Hasan reports that a countryman asked Umar for a sure path to Jannah, and Umar advised him to worship Allaah alone, keep salaah, zakaah, Hajj, Umrah and obedience, and not to probe people's private lives; the man said he would tell his Rabb that Umar had instructed him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hasan",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "seeking-knowledge",
+   "salaah",
+   "muslim-rights"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Same unidentified Hasan as n02670, most likely Hasan al-Basri."
+ },
+ {
+  "id": "n02673",
+  "summary": "Abu Maalik Ashja'ee reports from his father that the Prophet taught salaah first to anyone who accepted Islaam.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Maalik Ashja'ee",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "accepting-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ashja'ee is not the approved 'abu-maalik-ashari' (Ash'ari), a different name. The father is unnamed."
+ },
+ {
+  "id": "n02674",
+  "summary": "Hakam bin Umayr reports that the Prophet taught them that on standing for salaah they should say Allaahu Akbar, raise their hands without passing the ears, and recite the opening words of praise.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hakam bin Umayr",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "dhikr"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text stops mid-supplication ('...but'). Hakam bin Umayr is not the approved 'hakam-bin-kaysaan'."
+ },
+ {
+  "id": "n02675",
+  "summary": "Abdullaah bin Umar reports that Abu Bakr taught the Tashahhud from the pulpit as children are taught. Abdullaah bin Abbaas reports that Umar took his hand and taught him the Tashahhud, which the Prophet had also taught Umar. Abdur Rahmaan Al Qaari says he heard Umar teach the Tashahhud to the people from the pulpit.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abdur-rahmaan-al-qaari",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports strung together (Ibn Umar, Ibn Abbaas, Abdur Rahmaan Al Qaari) and the text says 'continues further'. The OCR damages the Tashahhud words, so none are quoted. The heading names Ibn Mas'ood, who does not appear in the text."
+ },
+ {
+  "id": "n02676",
+  "summary": "Abdullaah bin Abbaas says the Prophet taught them the Tashahhud just as he taught them a Surah of the Qur'aan.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "A short report that follows n02675."
+ },
+ {
+  "id": "n02677",
+  "summary": "Abdullaah bin Mas'ood says the Prophet taught him the Tashahhud with his hand in the Prophet's hand, as he taught him a Surah. Aswad reports that Ibn Mas'ood taught them the Tashahhud the same way and corrected their small mistakes.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Aswad",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, from Ibn Mas'ood and from Aswad. The text breaks off mid-word ('in the and Waaw'), an OCR gap. Aswad is not identified, so sahabi is unsure."
+ },
+ {
+  "id": "n02678",
+  "summary": "Zaid bin Wahab reports that Hudhayfah saw a man pray for forty years without carrying out the salaah properly and told him he had not prayed at all, then taught him to perform ruku and sajdah correctly.",
+  "people": [
+   {
+    "id": "zaid-bin-wahab",
+    "role": "narrator"
+   },
+   {
+    "id": "hudhayfa-bin-yamaan",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "salaah",
+   "seeking-knowledge"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who was praying is unnamed. Hudhayfah is matched to hudhayfa-bin-yamaan, since the text names him only as Hudhayfah. The Prophet is mentioned only as the creed in which Allaah created Muhammad."
+ },
+ {
+  "id": "n02679",
+  "summary": "Ali bin Abi Taalib reports that the Prophet offered him five phrases for his Deen and worldly life rather than five thousand goats, and taught him to ask for forgiveness, good character, lawful earnings, contentment and no craving for what is not decreed.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "mercy-and-forgiveness",
+   "halaal-and-haraam"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The trailing 'O-' after the supplication is OCR debris. The phrases themselves are given in the text."
+ },
+ {
+  "id": "n02680",
+  "summary": "Abdullaah bin Ja'far reports that Ali taught him words the Prophet used to recite in difficulty, and that Ali promised entry to Jannah for whoever recites them at death, with the Tasbeeh repeated three times each; the text breaks off in the middle of the list.",
+  "people": [
+   {
+    "id": "abdullaah-bin-jafar",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "dhikr",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Abdullaah bin Ja'far teaches his daughters the words and also reports Ali's teaching. The text ends in the middle of the last phrase."
+ }
+]

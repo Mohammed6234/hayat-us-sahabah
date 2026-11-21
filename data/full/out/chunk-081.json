@@ -1,0 +1,842 @@
+[
+ {
+  "id": "n03201",
+  "summary": "Abdullaah bin Mas'ood reports that the Prophet ﷺ used to ask Allaah for guidance, Taqwa, chastity and independence.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "guidance",
+   "taqwa",
+   "modesty",
+   "self-reliance"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03202",
+  "summary": "Abu Moosa Ash'ari reports one of the Prophet's ﷺ frequent du'aas asking Allaah to forgive his sins, known and unknown.",
+  "people": [
+   {
+    "id": "abu-moosa-ashari",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03203",
+  "summary": "Three Companions each report a du'aa the Prophet ﷺ made: Abu Hurayrah on setting right the affairs of the Deen and the Aakhirah, Ibn Abbaas on submission and trust in Allaah, and Umm Salamah on steadfastness in the Deen.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "umm-salama",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "trust-in-allaah",
+   "aakhirah",
+   "steadfastness"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three separate reports (Abu Hurayrah, Ibn Abbaas, Umm Salamah) run together in the text; Abu Hurayrah's report also breaks off in the OCR at 'a means . for me'."
+ },
+ {
+  "id": "n03204",
+  "summary": "Two Companions report du'aas of the Prophet ﷺ: Aa'isha on well-being in body and sight, and Ibn Abbaas asking for help, guidance and a steadfast heart.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "guidance",
+   "gratitude",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports (Aa'isha, then Ibn Abbaas) in one item."
+ },
+ {
+  "id": "n03205",
+  "summary": "Abdullaah bin Mas'ood reports a du'aa of the Prophet ﷺ asking for Allaah's mercy, forgiveness, safety from sin, Jannah and protection from Jahannam.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "mercy-and-forgiveness",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The OCR of the text is garbled in one word ('doeverygoodjforthe'); the meaning is clear."
+ },
+ {
+  "id": "n03206",
+  "summary": "Three narrators report du'aas of the Prophet ﷺ asking forgiveness for sins committed in jest, earnestness, error or intent, and asking Allaah to make his character beautiful.",
+  "people": [
+   {
+    "id": "abdullaah-bin-amr",
+    "role": "narrator"
+   },
+   {
+    "id": "imraan-bin-husayn",
+    "role": "narrator"
+   },
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "mercy-and-forgiveness",
+   "good-character"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three separate reports (Abdullaah bin Amr, Imraan bin Husayn, Aa'isha) in one item; the first is heavily garbled by OCR."
+ },
+ {
+  "id": "n03207",
+  "summary": "Umm Salamah reports the Prophet ﷺ asking Allaah to forgive him, have mercy on him and guide him to the most upright path.",
+  "people": [
+   {
+    "id": "umm-salama",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "mercy-and-forgiveness",
+   "guidance"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03208",
+  "summary": "Anas bin Maalik reports the Prophet ﷺ asking Allaah to keep him steadfast on Islaam until he meets Him.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "steadfastness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03209",
+  "summary": "Busr bin Abi Artaat reports hearing the Prophet ﷺ ask Allaah to conclude all affairs well and to save from disgrace in this world and punishment in the Aakhirah.",
+  "people": [
+   {
+    "id": "busr-bin-artaat",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The approved id is 'busr-bin-artaat' (?); Companion status is marked unsure in the vocabulary but the text says (RA)."
+ },
+ {
+  "id": "n03210",
+  "summary": "The Prophet ﷺ said that whoever recites the preceding du'aa will die before being put through tribulations.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "aakhirah"
+  ],
+  "new_themes": [
+   "the virtue of a particular du'aa"
+  ],
+  "boundary": "starts-mid",
+  "notes": "An addition to the du'aa in the previous narration ('this du'aa'), with no narrator named; the reference only makes sense with the item before it."
+ },
+ {
+  "id": "n03211",
+  "summary": "Abu Sirma reports the Prophet ﷺ asking Allaah to grant independence to him and to those associated with him.",
+  "people": [
+   {
+    "id": "abu-sirma-qais-bin-abi-anas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "self-reliance"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Matched to the approved 'abu-sirma-qais-bin-abi-anas' (?) on the strength of the text's '(RA)'; the vocabulary marks that Companion status as unsure."
+ },
+ {
+  "id": "n03212",
+  "summary": "Thowbaan reports the Prophet ﷺ asking Allaah for what is lawful, for resolve to avoid evil, for love of the poor, for acceptance of repentance, and to be taken before any trial.",
+  "people": [
+   {
+    "id": "thowbaan",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "halaal-and-haraam",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03213",
+  "summary": "Aa'isha reports a du'aa of the Prophet ﷺ asking Allaah to give the greatest share of provision in his old age and in the period just before death.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "trust-in-allaah"
+  ],
+  "new_themes": [
+   "provision and sustenance"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03214",
+  "summary": "Aa'isha reports that the Prophet ﷺ loved comprehensive du'aas and preferred them to any other kind.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "prophets-character"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03215",
+  "summary": "While Aa'isha was praying, the Prophet ﷺ told her to make comprehensive du'aas, and afterwards taught her a du'aa asking for all good and protection from all evil in this world and the next.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "prophets-character"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03216",
+  "summary": "In another narration of the same event, Aa'isha describes how the Prophet ﷺ asked her to make a concise and comprehensive du'aa and then taught her one.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "prophets-character"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "A second report of the event described in the previous narration (Aa'isha again), with different wording; the du'aa itself is not repeated, so it is referred to as 'quoted above'."
+ },
+ {
+  "id": "n03217",
+  "summary": "Abu Umaama reports that the Prophet ﷺ taught the Companions one comprehensive du'aa that covers all the du'aas he had been making, asking for all good he asked for and protection from all he sought protection from.",
+  "people": [
+   {
+    "id": "abu-umaama",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "prophets-character",
+   "trust-in-allaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03218",
+  "summary": "Anas reports the Prophet ﷺ asking Allaah for protection from helplessness, laziness, cowardice, old age, miserliness, punishment in the grave and the trials of life and death, and another narration adds protection from debt and oppression.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "death-and-burial"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "merged",
+  "notes": "The second half ('Another narration adds...') is a variant that adds words to the same du'aa, so it counts as a second report."
+ },
+ {
+  "id": "n03219",
+  "summary": "Aa'isha reports that the Prophet ﷺ included in his du'aa a request for protection from the evil of what he did and of what he did not do.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03220",
+  "summary": "Three narrators report du'aas of the Prophet ﷺ: Abdullaah bin Umar on protection from losing blessings and from Allaah's wrath; Zaid bin Arqam teaching a du'aa for protection from helplessness, grave punishment and useless knowledge, asking Allaah to grant taqwa to the self; and Aa'isha on protection from the trial of Jahannam and the evils of wealth and poverty.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   },
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "taqwa"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "merged",
+  "notes": "Three separate reports (Abdullaah bin Umar, Zaid bin Arqam, Aa'isha) in one item. Zaid bin Arqam is the speaker teaching the du'aa, so he is tagged as subject."
+ },
+ {
+  "id": "n03221",
+  "summary": "Qutba bin Maalik reports the Prophet ﷺ asking Allaah for protection from evil character, actions and desires.",
+  "people": [
+   {
+    "id": null,
+    "name": "Qutba bin Maalik",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "good-character",
+   "seeking protection from harm"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": "No approved id for Qutba bin Maalik (only 'qutba-bin-qataadah' exists, a different person). Proposed as a new person entry."
+ },
+ {
+  "id": "n03222",
+  "summary": "Anas reports the Prophet ﷺ asking Allaah for protection from leprosy, insanity and all debilitating diseases.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "illness-and-cure",
+   "seeking protection from harm"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03223",
+  "summary": "Abu Yasar reports the Prophet ﷺ asking Allaah for protection from being crushed, falling, drowning, burning, extreme old age, Shaytaan's madness at death, dying while fleeing a battle, and dying from a poisonous bite.",
+  "people": [
+   {
+    "id": "abu-yasar",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "death-and-burial",
+   "seeking protection from harm"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03224",
+  "summary": "Abu Hurayrah reports the Prophet ﷺ asking Allaah for protection from starvation, the worst companion, and from treachery, the worst confidant.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "hunger-and-hardship",
+   "honest-dealings"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03225",
+  "summary": "The Prophet ﷺ used to ask Allaah for protection from disputes, hypocrisy and bad character.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "hypocrisy",
+   "good-character"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Another narration' with no narrator named; it is a separate du'aa, not a variant of the previous item."
+ },
+ {
+  "id": "n03226",
+  "summary": "Several narrations of the Prophet's ﷺ du'aas: Anas on protection from helplessness, poverty, sinfulness, hypocrisy, deafness, insanity and leprosy; Uqba bin Aamir on protection from a terrible day, night, companion and neighbour; Umar on protection from miserliness, cowardice and punishment in the grave; and Umar on a protective du'aa for Hasan and Husayn.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "uqba-bin-aamir",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "narrator"
+   },
+   {
+    "id": "hasan-bin-ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "husayn-bin-ali",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "hypocrisy",
+   "illness-and-cure"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "merged",
+  "notes": "Four separate reports (Anas, Uqba bin Aamir, Umar, Umar for Hasan and Husayn) in one item. The text is partly garbled by OCR at the end of the Umar reports."
+ },
+ {
+  "id": "n03227",
+  "summary": "Abu Tayyaah asks Abdur Rahmaan, who met the Prophet ﷺ, what happened the night the jinn plotted against him; he describes how Jibra'eel taught the Prophet ﷺ a protective du'aa and the jinn's flame was put out.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Tayyaah",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Khambash Taymi",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "jibraeel",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "the-unseen",
+   "seeking protection from harm",
+   "duaa"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": "Abu Tayyaah is written without (RA), so he is tagged as not a Companion; he has no approved id. Abdur Rahmaan is not in the approved list under this name; the nearest entry is abdur-rahmaan-tameemi, which may or may not be the same Companion, so I have not assumed a match."
+ },
+ {
+  "id": "n03228",
+  "summary": "Ubay bin Ka'b reports that a Bedouin came to the Prophet ﷺ about his brother afflicted by jinn, and the Prophet ﷺ recited protective verses and surahs over him, after which the man was cured.",
+  "people": [
+   {
+    "id": "ubay-bin-kab",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "illness-and-cure",
+   "quraan",
+   "the-unseen"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Bedouin and his brother are unnamed and left out. The verse references are garbled by OCR; the list of recited passages is kept as summarised."
+ },
+ {
+  "id": "n03229",
+  "summary": "Abu Umaama reports that Khaalid bin Waleed told the Prophet ﷺ about frightening dreams that kept him from night prayer, and the Prophet ﷺ taught him a du'aa to recite to dispel them.",
+  "people": [
+   {
+    "id": "abu-umaama",
+    "role": "narrator"
+   },
+   {
+    "id": "khaalid-bin-waleed",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text of the du'aa itself is missing: it ends at 'recite the following du'aa:' followed by a cross-reference to an earlier chapter. The dream-related content is complete."
+ },
+ {
+  "id": "n03230",
+  "summary": "Anas reports that whenever the Prophet ﷺ faced difficulty he would say that he sought help through Allaah's mercy, the Ever Living and Controller.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "trust-in-allaah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03231",
+  "summary": "Asmaa bint Umays reports that whenever the Prophet ﷺ was troubled or faced difficulty he would say that Allaah is his Rabb and he would not associate any partner with Him.",
+  "people": [
+   {
+    "id": "asmaa-bint-umays",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03232",
+  "summary": "In another narration, Asmaa says the Prophet ﷺ taught her the above du'aa to say when in difficulty.",
+  "people": [
+   {
+    "id": "asmaa-bint-umays",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "A second report (Asmaa again) restating the du'aa of the previous narration, with the teaching added."
+ },
+ {
+  "id": "n03233",
+  "summary": "Abdullaah bin Abbaas reports that the Prophet ﷺ, holding the door-frame, told those in the room, the family of Abdul Muttalib, to say that Allaah is their Rabb and they would not associate any partner with Him when they face difficulties.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'The family of Abdul Muttalib' is an address to a group, not a named person, so Abdul Muttalib is left out."
+ },
+ {
+  "id": "n03234",
+  "summary": "A variant of the previous narration gives the words as 'Allaah! Allaah has no partner'.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "A second report of the previous narration, with no narrator named. It only makes sense together with the previous item."
+ },
+ {
+  "id": "n03235",
+  "summary": "Abdullaah bin Abbaas reports the du'aa the Prophet ﷺ recited in times of difficulty, affirming that there is none worthy of worship but Allaah, the Rabb of the Throne, the heavens and the earth.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03236",
+  "summary": "Thowbaan reports that whenever something alarmed the Prophet ﷺ he would say that Allaah is his Rabb and he would not associate any partner with Him.",
+  "people": [
+   {
+    "id": "thowbaan",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03237",
+  "summary": "Abu Dardaa says that reciting a particular du'aa seven times will relieve all worries, and Ibn Abbaas recited another du'aa for any anxiety or fear of a ruler, asking Allaah on the strength of his belief in Him.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "trust-in-allaah",
+   "tawheed"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Abu Dardaa's statement, and a reported practice of Ibn Abbaas (introduced with 'It is reported'). The Prophet is not mentioned."
+ },
+ {
+  "id": "n03238",
+  "summary": "Ali reports that the Prophet ﷺ taught him a du'aa to recite before a tyrannical ruler; Abu Raafi reports that Abdullaah bin Ja'far advised his daughter to recite a du'aa when Hajjaaj came to her, and she was protected from him.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abu-raafi",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-jafar",
+    "role": "subject"
+   },
+   {
+    "id": "hajjaaj",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "trust-in-allaah"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "merged",
+  "notes": "Two separate reports (Ali, and Abu Raafi on Abdullaah bin Ja'far's daughter) in one item. Ali's du'aa is cut off by OCR ('from the evil of Your' followed by the next report)."
+ },
+ {
+  "id": "n03239",
+  "summary": "Ibn Abbaas teaches that when a person faces a fearsome ruler who may oppress him, he should recite a du'aa three times seeking Allaah's protection from the ruler, his army and his partisans among jinn and mankind.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "the-unseen"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "ok",
+  "notes": "The Prophet is not mentioned in this item. The ruler is unnamed and left out."
+ },
+ {
+  "id": "n03240",
+  "summary": "Ibn Mas'ood teaches that a person who fears a tyrannical ruler should recite a du'aa seeking protection from him, his armies and partisans among jinn and mankind; in another version the tyrant's name is said as well, and Ibn Mas'ood says the tyrant will then be unable to harm him.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "seeking protection from harm",
+   "the-unseen"
+  ],
+  "new_themes": [
+   "seeking protection from harm"
+  ],
+  "boundary": "merged",
+  "notes": "Two versions of Ibn Mas'ood's teaching ('In another narration'). The Prophet is not mentioned."
+ }
+]

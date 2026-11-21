@@ -1,0 +1,529 @@
+[
+ {
+  "id": "n02401",
+  "summary": "Abu Hurayrah narrates that Talha dreamt that a man who died later entered Jannah before the martyr, and the Prophet explained it by the man's Ramadan fast and his extra salaah.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "martyrdom", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02402",
+  "summary": "Ali narrates that a man confessed a sin to the Prophet in the Masjid, and the Prophet told him that his salaah performed with proper wudhu was compensation for it.",
+  "people": [
+    { "id": "ali", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02403",
+  "summary": "Abdullaah bin Amr narrates that the Prophet named salaah, then jihaad, then kindness to parents as the best deeds, and told a man who vowed to leave his parents for jihaad to judge whether they had others to care for them.",
+  "people": [
+    { "id": "abdullaah-bin-amr", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "jihaad", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02404",
+  "summary": "Amr bin Murrah Juhani narrates that the Prophet told a man who asked his rank that the five salaahs, zakaah, Ramadan fasting and Nafl salaah in Ramadan would place him among the Siddeeqeen and the martyrs.",
+  "people": [
+    { "id": "amr-bin-murrah-juhani", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "zakaah", "fasting"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02405",
+  "summary": "Anas says that the Prophet's last emphasis on his deathbed was salaah and the treatment of slaves, which he repeated even when he could no longer speak clearly.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-final-illness", "kindness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports of the same words from Anas, the second introduced as another narration."
+ },
+ {
+  "id": "n02406",
+  "summary": "Ali narrates that the Prophet asked for a writing so that his Ummah would never forget salaah, zakaah and the treatment of slaves, and Ali offered to memorise the words instead.",
+  "people": [
+    { "id": "ali", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "zakaah", "prophets-final-illness", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02407",
+  "summary": "Ali relates that the Prophet's last words, up to the departure of his soul, stressed salaah, zakaah, kindness to slaves and the Shahaadah, and that the Fire is forbidden to one who testifies to it.",
+  "people": [
+    { "id": "ali", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "kalimah", "prophets-final-illness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several narrations from Ali joined together."
+ },
+ {
+  "id": "n02408",
+  "summary": "Abu Bakr says that a person secures Allaah's protection on earth by performing salaah.",
+  "people": [
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "trust-in-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02409",
+  "summary": "Abu Maleeh reports that Umar said from the pulpit that there can be no Islaam in a person who does not perform salaah.",
+  "people": [
+    { "id": null, "name": "Abu Maleeh", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02410",
+  "summary": "Zaid bin Thaabit, Hudhayfah, Abdullaah bin Umar and Abdullaah bin Amr each give a saying on salaah, including that the ground will testify for the one who prays on it on the day he meets Allaah.",
+  "people": [
+    { "id": "zaid-bin-thaabit", "role": "subject" },
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Four separate sayings from four Companions."
+ },
+ {
+  "id": "n02411",
+  "summary": "Abdullaah bin Amr narrates that a cyst on Aadam's neck moved down his body and finally left him each time he performed salaah.",
+  "people": [
+    { "id": "abdullaah-bin-amr", "role": "narrator" },
+    { "id": null, "name": "Aadam", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02412",
+  "summary": "Abdullaah bin Mas'ood says that while a person performs salaah he is knocking at the King's door, and the door opens to whoever knocks.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02413",
+  "summary": "Ibn Mas'ood and Salmaan Faarsi say that salaah compensates for sins committed between prayers, and Ibn Mas'ood tells how Aadam's cyst fell away with each salaah; Ibn Mas'ood also advises making du'aa after the Fardh salaahs.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": null, "name": "Aadam", "role": "subject", "sahabi": "no" },
+    { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "mercy-and-forgiveness", "duaa"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several sayings of Ibn Mas'ood and Salmaan joined together."
+ },
+ {
+  "id": "n02414",
+  "summary": "Salmaan Faarsi says that a person's sins gather above his head while he stands in salaah and fall away at each prostration, like leaves falling from a tree.",
+  "people": [
+    { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02415",
+  "summary": "Taariq bin Shihaab spent a night with Salmaan Faarsi, who advised guarding the Fardh salaahs and moderation in worship, and Abu Moosa Ash'ari said that salaah compensates for the sins that burn a person up.",
+  "people": [
+    { "id": "taariq-bin-shihaab", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "mercy-and-forgiveness"],
+  "new_themes": ["moderation in worship"],
+  "boundary": "merged",
+  "notes": "Two sayings joined: Salmaan's advice and Abu Moosa's statement."
+ },
+ {
+  "id": "n02416",
+  "summary": "Anas narrates that the Prophet said perfume and women were made beloved to him and the coolness of his eyes was placed in salaah, and Ibn Abbaas narrates that Jibra'eel told the Prophet to take from salaah as much as he pleased.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "jibraeel", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Anas and Ibn Abbaas."
+ },
+ {
+  "id": "n02417",
+  "summary": "Ibn Abbaas narrates that the Prophet said every Nabi had a yearning, his being standing in Tahajjud salaah at night, and that his income is the Khums, which goes to the leaders after him.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02418",
+  "summary": "Anas narrates that the Prophet stood so long in Tahajjud salaah that his feet swelled, and when asked why, he said he should not then be a grateful servant.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "gratitude", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02419",
+  "summary": "Abu Hurayrah, Ibn Mas'ood, Nu'maan bin Basheer, Aa'isha, Mughiera and Anas describe the Prophet's long Tahajjud standing until his feet swelled or cracked, and Anas, through Humayd, describes how his night prayer, sleep and fasting varied through the month.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": "numaan-bin-basheer", "role": "narrator" },
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "mughiera-bin-shuba", "role": "narrator" },
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": null, "name": "Humayd", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "gratitude", "fasting", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Many reports joined. The OCR runs the Humayd report straight into the Aa'isha one; it is a separate narration."
+ },
+ {
+  "id": "n02420",
+  "summary": "Ibn Mas'ood says he followed the Prophet in salaah and nearly sat down out of the length of his standing, and Abu Dharr narrates that the Prophet stood all night reciting one verse about Allaah's punishment and forgiveness.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "abu-dharr-ghifaari", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "quraan", "prophets-character", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Ibn Mas'ood and Abu Dharr."
+ },
+ {
+  "id": "n02421",
+  "summary": "Anas narrates that after the Prophet was injured he still recited seven long Surahs in the night.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "quraan", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02422",
+  "summary": "Hudhayfah narrates praying behind the Prophet at night, when he recited Surah Baqarah, Nisaa and Aal Imraan unhurriedly, pausing to glorify, ask and seek refuge as he passed each relevant verse, with long ruku and sajdah.",
+  "people": [
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "quraan", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02423",
+  "summary": "Hudhayfah narrates joining the Prophet's salaah from behind, when the Prophet prolonged four rakaahs, and that the Prophet said he would have shortened it had he known Hudhayfah was there.",
+  "people": [
+    { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02424",
+  "summary": "Aa'isha describes the Prophet's long night prayer and his final illness, when he asked Abu Bakr to lead the people in salaah despite her objections, and Ubaydullaah bin Abdullaah reports that the Prophet bathed repeatedly and fell unconscious each time he tried to go out to the people.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": null, "name": "Aswad", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Ubaydullaah bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "bilaal", "role": "mentioned" },
+    { "id": "yusuf", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "quraan", "prophets-final-illness", "khilaafah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Many narrations joined (Aa'isha, Aswad, Ubaydullaah). Ubaydullaah bin Abdullaah may be Ubaydullaah bin Abdullaah bin Utba, a Tabi'i; the approved list marks that entry as a Sahabi, so it needs a check. Left unmatched and marked unsure."
+ },
+ {
+  "id": "n02425",
+  "summary": "Anas narrates that Abu Bakr led the people in salaah during the Prophet's final illness, and that when the Prophet lifted the curtain and looked at them, they almost broke their salaah with joy; the Prophet passed away that day.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-final-illness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02426",
+  "summary": "Anas narrates a second account of the Prophet lifting the curtain during Abu Bakr's leading of salaah on the Monday of his final illness, and indicating to them to complete the salaah.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-final-illness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "A second narration of the same incident from Anas, introduced as another narration."
+ },
+ {
+  "id": "n02427",
+  "summary": "Miswar bin Makhramah narrates going to see Umar, who lay in a coma after being stabbed, and that Umar roused when told salaah was due, saying he must perform it, and then prayed with blood still flowing from his wound.",
+  "people": [
+    { "id": "miswar-bin-makhrama", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02428",
+  "summary": "Miswar narrates a second account in which Umar, after being stabbed, regained consciousness when told the time for salaah had set in, and said that there is no part in Islaam for one who does not perform it.",
+  "people": [
+    { "id": "miswar-bin-makhrama", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02429",
+  "summary": "Muhammad bin Miskeen narrates that Uthmaan's wife told the rebels surrounding his house that he spent whole nights reciting the entire Qur'aan in a single rakaah of salaah.",
+  "people": [
+    { "id": null, "name": "Muhammad bin Miskeen", "role": "narrator", "sahabi": "no" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02430",
+  "summary": "Another narration reports that after Uthmaan bin Affaan was assassinated, his wife said he had spent whole nights reciting the entire Qur'aan in a single rakaah of salaah.",
+  "people": [
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02431",
+  "summary": "Uthmaan bin Abdur Rahmaan Taymi relates that his father once saw Uthmaan recite the entire Qur'aan in one rakaah by the Maqaam Ibraheem, and Ataa bin Abi Rabaah and Muhammad bin Seereen are also reported to have spent nights reciting the whole Qur'aan in one rakaah.",
+  "people": [
+    { "id": "uthmaan", "role": "subject" },
+    { "id": null, "name": "Uthmaan bin Abdur Rahmaan Taymi", "role": "narrator", "sahabi": "no" },
+    { "id": "ataa-bin-abi-rabaah", "role": "narrator" },
+    { "id": null, "name": "Muhammad bin Seereen", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several narrations joined: the father's account, Uthmaan bin Abdur Rahmaan Taymi, Ataa, and Muhammad bin Seereen."
+ },
+ {
+  "id": "n02432",
+  "summary": "Musayyib bin Raafi narrates that Ibn Abbaas refused a treatment for his blindness that would have stopped his salaah for seven days, after the Sahabah asked what he would do with his salaah if he died in that time.",
+  "people": [
+    { "id": null, "name": "Musayyib bin Raafi", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "aaisha", "role": "mentioned" },
+    { "id": "abu-hurayrah", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02433",
+  "summary": "Another narration says that when Ibn Abbaas lost his sight and was offered a treatment that required him to give up salaah for a few days, he refused, quoting the Prophet that whoever neglects salaah will meet Allaah in a state of His anger.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02434",
+  "summary": "Ali bin Abu Jameelah reports that Ibn Abbaas made sajdah a thousand times every day.",
+  "people": [
+    { "id": null, "name": "Ali bin Abu Jameelah", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02435",
+  "summary": "Ibn Mas'ood fasted optional fasts rarely, saying he grew too weak to perform salaah when fasting and loved salaah more, so he fasted only three days a month; another report says he was irregular only in the Duhaa salaah.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": null, "name": "Abdur Rahmaan bin Yazeed", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["fasting", "salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: the first on Ibn Mas'ood's fasting, the second from Abdur Rahmaan bin Yazeed on the same habit."
+ },
+ {
+  "id": "n02436",
+  "summary": "Abdur Rahmaan bin Yazeed reports that Ibn Mas'ood fasted optional fasts less than anyone he had seen, preferring salaah because fasting made him too weak to perform it.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Yazeed", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fasting", "salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02437",
+  "summary": "Aa'isha narrates that the Prophet praised Saalim, freed slave of Abu Hudhayfah, for his beautiful night recitation of the Qur'aan in the Masjid, saying Allaah had made such people amongst his Ummah.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": "saalim", "role": "subject" },
+    { "id": "abu-hudhayfa-bin-utba", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "salaah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02438",
+  "summary": "Masrooq describes Abu Moosa Ash'ari's night salaah and supplications on a journey, and Abu Uthmaan Nahdi says he was the guest of Abu Hurayrah for seven days, when the household took turns worshipping through a third of each night.",
+  "people": [
+    { "id": null, "name": "Masrooq", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-moosa-ashari", "role": "subject" },
+    { "id": null, "name": "Abu Uthmaan Nahdi", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "duaa", "hospitality"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Masrooq on Abu Moosa, and Abu Uthmaan Nahdi on Abu Hurayrah."
+ },
+ {
+  "id": "n02439",
+  "summary": "Abdullaah bin Abu Bakr narrates that Abu Talha lost his focus in salaah on seeing a bird in his orchard, so he gave the orchard to the Prophet in charity; an unnamed Ansaari did the same with his orchard, which Uthmaan sold for 50,000 Dirhams.",
+  "people": [
+    { "id": "abdullaah-bin-abi-bakr", "role": "narrator" },
+    { "id": "abu-talha", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["salaah", "sadaqah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two stories joined: Abu Talha's orchard, then an unnamed Ansaari's orchard given to Uthmaan."
+ },
+ {
+  "id": "n02440",
+  "summary": "Asmaa narrates that her son Abdullaah bin Zubayr prayed through the nights and fasted through the days, and was therefore called the pigeon of the Masjid.",
+  "people": [
+    { "id": "asmaa-bint-abi-bakr", "role": "narrator" },
+    { "id": "abdullaah-bin-zubayr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "fasting", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ }
+]

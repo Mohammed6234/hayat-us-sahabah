@@ -1,0 +1,559 @@
+[
+ {
+  "id": "n01201",
+  "summary": "Salmaan Faarsi tells a man of the Banu Abs that the treasures now in Muslim hands are a worry, recalling that in the Prophet's time the Sahabah began their mornings with nothing and the Prophet never filled his belly for three days.",
+  "people": [
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "kisra", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "merged",
+  "notes": "Two separate reports by the same unnamed Banu Abs narrator: the talk by the grain silos, then the talk on the Tigris bank."
+ },
+ {
+  "id": "n01202",
+  "summary": "Sa'd bin Abi Waqqaas visits the dying Salmaan Faarsi, who weeps and gives advice to fear Allaah in judgement, in distribution and in intentions.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": null, "name": "Abu Sufyaan", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "sincerity"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "ok",
+  "notes": "The narrator 'Abu Sufyaan' is not Abu Sufyaan bin Harb (approved id abu-sufyaan), so he is given as a new entry. The Prophet's instruction is quoted, so he is tagged as subject."
+ },
+ {
+  "id": "n01203",
+  "summary": "In Salmaan Faarsi's last illness Sa'd bin Abi Waqqaas asks why he weeps; Salmaan says he fears he broke the Prophet's instruction to own only a traveller's provision, gives Sa'd advice, and leaves an estate of about twenty Dirhams.",
+  "people": [
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": null, "name": "Thaabit", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "sincerity"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "merged",
+  "notes": "Two reports: the Anas account of the visit, then the Thaabit note on the estate. 'Thaabit' has no approved entry and is not Hassaan bin Thaabit. OCR debris ('Sfilis') ignored."
+ },
+ {
+  "id": "n01204",
+  "summary": "On his deathbed Salmaan Faarsi is uneasy because he had more than a traveller's provision; his estate is valued at about fifteen Dirhams, and the reports on its value differ.",
+  "people": [
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": null, "name": "Aamir bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Ali bin Badheemah", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "hunger-and-hardship"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "ok",
+  "notes": "The Prophet is referred to only as 'my beloved friend' in a quoted instruction. The translator's footnote on the estate value is inside the text. 'Aamir bin Abdullaah' is not matched to the approved 'aamir'."
+ },
+ {
+  "id": "n01205",
+  "summary": "Mu'aawiya visits Abu Haashim bin Utba as he weeps on his deathbed; Abu Haashim says he failed to keep the Prophet's advice to own only a servant and a conveyance, and his estate is valued at thirty Dirhams.",
+  "people": [
+    { "id": "muaawiya", "role": "subject" },
+    { "id": null, "name": "Abu Haashim bin Utba bin Rabee'ah", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Abu Waa'il", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Razeen", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "merged",
+  "notes": "Two reports: the deathbed visit and the Razeen estate note. The text says only 'Mu'aawiya', so the approved 'muaawiya' (unsure) is used, not confirmed as Mu'aawiya bin Abi Sufyaan."
+ },
+ {
+  "id": "n01206",
+  "summary": "Abu Ubaydah bin Jarraah weeps, fearing that his house full of servants and animals means he cannot face the Prophet, who said the dearest person to him is the one who meets him in the state he left him.",
+  "people": [
+    { "id": "abu-ubaydah", "role": "subject" },
+    { "id": "abdullaah-bin-aamir", "role": "mentioned" },
+    { "id": null, "name": "Abu Hasanah Muslim bin Akyas", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "love-for-the-prophet"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Aamir is the narrator's master (freed slave), tagged as mentioned."
+ },
+ {
+  "id": "n01207",
+  "summary": "Heading only: the section title on the abstinence of the Prophet and the Sahabah. No narration follows.",
+  "people": [],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "The text is a section heading cut off after 'The Abstinence of Rasulullaah'. The themes come from the heading alone and are weak."
+ },
+ {
+  "id": "n01208",
+  "summary": "Umar tells Ibn Abbaas how he found the Prophet on a straw mat that had marked his side, with only a handful of barley and some leaves in the room; the Prophet consoles him that the others have the world and the Muslims have the Aakhirah.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": ["simplicity of life"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01209",
+  "summary": "Umar describes again finding the Prophet on a coarse mat and asking why he does not take softer bedding; the Prophet replies that his link with the world is like a traveller resting under a tree in summer. A second report follows.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": ["simplicity of life"],
+  "boundary": "ends-mid",
+  "notes": "Contains two reports (Umar's own account, then 'another narration') and is cut off at 'leaving the tree'."
+ },
+ {
+  "id": "n01210",
+  "summary": "Aa'isha says the Prophet returned a woollen bedding that an Ansaari woman sent, saying that if he wished, Allaah would make mountains of gold and silver travel with him.",
+  "people": [
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "aakhirah"],
+  "new_themes": ["simplicity of life"],
+  "boundary": "ok",
+  "notes": "The Ansaari woman is unnamed and is not tagged."
+ },
+ {
+  "id": "n01211",
+  "summary": "Anas reports that the Prophet wore wool and patched shoes and ate coarse barley called Bashi; Hasan explains what Bashi was.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "hasan", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Hasan' has no (RA) and could be Hasan Basri rather than Hasan bin Ali. The approved bare 'hasan' entry is used; please check."
+ },
+ {
+  "id": "n01212",
+  "summary": "Ummu Ayman makes the Prophet bread from refined flour; he asks her to put it back and knead the coarse flour he was used to.",
+  "people": [
+    { "id": "ummu-ayman", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "steadfastness"],
+  "new_themes": ["simplicity of life"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01213",
+  "summary": "Salma, wife of Abu Raafi, serves Hasan bin Ali, Abdullaah bin Ja'far and Abdullaah bin Abbaas coarse barley bread with olive oil and chillies, the food the Prophet liked.",
+  "people": [
+    { "id": null, "name": "Salma", "role": "narrator", "sahabi": "yes" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "abdullaah-bin-jafar", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "abu-raafi", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "hunger-and-hardship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Salma is the wife of Abu Raafi, so she is given as a new entry."
+ },
+ {
+  "id": "n01214",
+  "summary": "Abdullaah bin Umar reports that the Prophet, four days without food, ate dates from the ground in an Ansaari orchard, and warns of a time when people will store provisions and their trust in Allaah will be weak; a verse about provision for animals is revealed.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading is garbled ('Sell'), which is ignored. The Ansaari owner is unnamed."
+ },
+ {
+  "id": "n01215",
+  "summary": "Aa'isha says the Prophet refused a cup of milk mixed with honey as excess, saying he fears being questioned about worldly luxury on the Day of Qiyaamah and that he humbles himself before Allaah.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01216",
+  "summary": "Zaid bin Arqam reports that Abu Bakr wept when offered honeyed water, because he had seen the Prophet repel the world, and feared that the world would take hold of him and that he might oppose the Prophet's way.",
+  "people": [
+    { "id": null, "name": "Zaid bin Arqam", "role": "narrator", "sahabi": "yes" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "following-the-sunnah"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "ok",
+  "notes": "Zaid bin Arqam has no approved entry. The approved 'arqam' is Arqam bin Abil Arqam, a different person."
+ },
+ {
+  "id": "n01217",
+  "summary": "A second version of the same incident: Abu Bakr weeps twice when offered honeyed water, and says the world told the Prophet that those after him would not escape it.",
+  "people": [
+    { "id": null, "name": "Zaid bin Arqam", "role": "narrator", "sahabi": "yes" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "following-the-sunnah"],
+  "new_themes": ["fear of worldly prosperity"],
+  "boundary": "ok",
+  "notes": "A variant of n01216; the rest of the story is said to be similar to it."
+ },
+ {
+  "id": "n01218",
+  "summary": "Aa'isha says Abu Bakr left no dinar or dirham and gave all his money to the Baytul Maal; a second report says he deposited all his money on becoming Khalifah, since public affairs left him no time to trade.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "aakhirah"],
+  "new_themes": ["giving up trade for public affairs"],
+  "boundary": "merged",
+  "notes": "Two reports. The second has its narrator missing in the text ('Hadhrat (RA)') and is not tagged."
+ },
+ {
+  "id": "n01219",
+  "summary": "When Abu Bakr became Khalifah and went to the market, Umar stopped him, and Abu Ubaydah set his allowance from the Baytul Maal: the average of a Muhaajir's, a set of clothing for each season, and half a goat a day.",
+  "people": [
+    { "id": null, "name": "Ataa bin Saa'ib", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-ubaydah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["self-reliance", "khilaafah"],
+  "new_themes": ["Khalifah's allowance from the treasury"],
+  "boundary": "ok",
+  "notes": "Ataa bin Saa'ib is the narrator and is not the approved 'saaib'. OCR debris ('S.IS1K') ignored."
+ },
+ {
+  "id": "n01220",
+  "summary": "Humayd bin Hilaal reports that the Sahabah agreed Abu Bakr should receive two shawls, a travelling animal and household expenses from the Baytul Maal as Khalifah, and he was happy with it.",
+  "people": [
+    { "id": null, "name": "Humayd bin Hilaal", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "self-reliance"],
+  "new_themes": ["Khalifah's allowance from the treasury"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01221",
+  "summary": "Umar finds Abu Bakr's allowance hard to live on; Zubayr suggests raising it, Uthmaan advises first asking Hafsa, who reports Umar's anger, and Umar explains that the Prophet's and Abu Bakr's frugality is his model.",
+  "people": [
+    { "id": null, "name": "Saalim bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "talha", "role": "subject" },
+    { "id": "zubayr", "role": "subject" },
+    { "id": "hafsa", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["khilaafah", "hunger-and-hardship"],
+  "new_themes": ["Khalifah's allowance from the treasury"],
+  "boundary": "ok",
+  "notes": "The Muhaajireen group is unnamed beyond the named men."
+ },
+ {
+  "id": "n01222",
+  "summary": "Hasan Basri reports a gathering in Basrah where Ahnaf bin Qais says Umar shunned them for wearing Persian cloth until they changed, then welcomed them and shared the booty; the Sahabah then asked Ali, Hafsa and Aa'isha to ask Umar to dress and eat better, and Umar answered with the Prophet's frugal life.",
+  "people": [
+    { "id": null, "name": "Hasan Basri", "role": "narrator", "sahabi": "no" },
+    { "id": "ahnaf-bin-qais", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "ali", "role": "subject" },
+    { "id": "hafsa", "role": "subject" },
+    { "id": "aaisha", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["simplicity of life"],
+  "boundary": "merged",
+  "notes": "Several reports nested together, with translator footnotes (Tabari, Ibn Asaakir) and OCR debris inline."
+ },
+ {
+  "id": "n01223",
+  "summary": "Hafsa, Ibn Mutee and Abdullaah bin Umar urge Umar to eat good food for strength; he replies that he will keep to the route his two companions, the Prophet and Abu Bakr, took.",
+  "people": [
+    { "id": null, "name": "Ikrama bin Khaalid", "role": "narrator", "sahabi": "unsure" },
+    { "id": "hafsa", "role": "subject" },
+    { "id": null, "name": "Ibn Mutee", "role": "subject", "sahabi": "unsure" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hunger-and-hardship", "khilaafah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "'Ibn Mutee' has no approved entry and is written as printed."
+ },
+ {
+  "id": "n01224",
+  "summary": "Abu Umaamah bin Sahl reports that Umar took nothing from the Baytul Maal until poverty set in; he consults the Sahabah, Uthmaan and Sa'eed bin Zaid advise a sum that lets him feed others, and Ali advises enough for morning and evening meals, which Umar accepts.",
+  "people": [
+    { "id": null, "name": "Abu Umaamah bin Sahl bin Hunayf", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "self-reliance"],
+  "new_themes": ["Khalifah's allowance from the treasury"],
+  "boundary": "ok",
+  "notes": "Abu Umaamah bin Sahl is not the approved 'abu-umaama' (Abu Umaama, yes)."
+ },
+ {
+  "id": "n01225",
+  "summary": "Qataadah reports Umar saying he could have the best food and clothing but prefers to keep his luxuries for the Aakhirah; on reaching Shaam and seeing rich food, Umar weeps for the poor Muslims who die hungry and are in Jannah.",
+  "people": [
+    { "id": null, "name": "Qataadah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Umar bin Waleed", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "The text marks Qataadah (RA), but the approved 'qataada' (no) is not used because identity is unconfirmed. 'Umar bin waleed' is written as printed and may be garbled. Footnote and OCR debris ignored."
+ },
+ {
+  "id": "n01226",
+  "summary": "Abdullaah bin Umar reports Umar refusing to eat meat with butter at his house, because the Prophet ate only one and gave the other away; Abu Haazim reports Umar refusing Hafsa's two gravies, saying he will not eat them until he meets Allaah.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "hafsa", "role": "subject" },
+    { "id": null, "name": "Abu Haazim", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["sadaqah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "Two reports: Abdullaah bin Umar's account, then Abu Haazim's report about Hafsa. The 'prophet' entry in people is a placeholder."
+ },
+ {
+  "id": "n01227",
+  "summary": "Anas and Saa'ib bin Yazeed report that Umar as Khalifah ate inferior dates and dry bread and meat, wiping his hands on his feet; a report through Thaabit and Deenowri adds that Umar told Jaarood to wipe his hands on his sleeve.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "saaib-bin-yazeed", "role": "subject" },
+    { "id": null, "name": "Thaabit", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Deenowri", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Jaarood", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["hunger-and-hardship", "khilaafah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence. Also contains a second report through Thaabit and Deenowri. 'Deenowri' may be a source title rather than a person; unverified."
+ },
+ {
+  "id": "n01228",
+  "summary": "Abdur Rahmaan bin Abu Layla reports that Umar, seeing Iraqis eat little of his plain food, rebuked them with the Ahqaaf verse about luxuries used up in worldly life; Umar also rebuked Hafs bin Abul Aas, who would not eat the plain food, saying he could have refined meals made if he wished.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Abu Layla", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": "jareer-bin-abdillaah", "role": "mentioned" },
+    { "id": null, "name": "Habeeb bin Abi Thaabit", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Humayd bin Hilaal", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Hafs bin Abul Aas", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "aakhirah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "Several short reports joined. The companion of Habeeb bin Abi Thaabit is unnamed and not tagged. Humayd bin Hilaal has no approved entry."
+ },
+ {
+  "id": "n01229",
+  "summary": "Saalim bin Abdullaah reports Umar saying they could easily have refined food and drink but prefer to keep their luxuries for the Aakhirah, citing the Ahqaaf verse about good things used up in the world.",
+  "people": [
+    { "id": null, "name": "Saalim bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "khilaafah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01230",
+  "summary": "Abu Moosa Ash'ari reports that Umar, when a Basrah delegation ate with him, rejected luxuries and quoted the Ahqaaf verse; when the delegates asked for food from the Baytul Maal, Umar granted two goats and two bags of flour a day, warning that a town which takes that daily will be ruined.",
+  "people": [
+    { "id": "abu-moosa-ashari", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "The closing sentence is garbled ('1 swear by Allaah that despite this I have allotted)'), so its last clause is uncertain."
+ },
+ {
+  "id": "n01231",
+  "summary": "Utba bin Farqad brings Umar baskets of sweetmeats; Umar asks whether every Muslim has one, then serves Utba coarse bread and tough meat, explaining that the camel's neck is kept for his own family.",
+  "people": [
+    { "id": null, "name": "Utba bin Farqad", "role": "subject", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "Text is garbled in places ('Qais tribe', 'nabeedh'), and the tribe is not tagged. The sahabi status of Utba bin Farqad is not confirmed."
+ },
+ {
+  "id": "n01232",
+  "summary": "Hasan reports that when Umar was thirsty and offered honey mixed in water, he refused it, fearing he would be questioned about it on the Day of Qiyaamah.",
+  "people": [
+    { "id": "hasan", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "khilaafah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "'Hasan' has no (RA), so it may be Hasan Basri. See n01211."
+ },
+ {
+  "id": "n01233",
+  "summary": "Another report: Umar, offered water mixed with honey, calls it excellent but refuses it, citing the Ahqaaf verse about good things used up in worldly life.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "khilaafah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ends-mid",
+  "notes": "Cut off inside the Qur'an verse reference. The narrator is unnamed."
+ },
+ {
+  "id": "n01234",
+  "summary": "Urwa reports that when Umar's upper garment tore on a long journey, the priest mended it and made a new one; Umar gave the new one back and wore the mended garment, saying it better absorbs sweat.",
+  "people": [
+    { "id": "urwa", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "The text says 'Hadhrat Urwa (RA)', but the approved 'urwa' entry is marked unsure. Urwa bin Zubayr and Urwa bin Mas'ood are different people. The priest is unnamed."
+ },
+ {
+  "id": "n01235",
+  "summary": "Qataadah reports that Umar as Khalifah wore a patched woollen robe with leather patches, carried a whip to correct people in the marketplace, and picked up stray thread and date stones to throw into people's yards.",
+  "people": [
+    { "id": null, "name": "Qataadah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "Same Qataadah identity question as n01225."
+ },
+ {
+  "id": "n01236",
+  "summary": "Hasan and Anas report Umar's clothing: he gave a lecture wearing a lower garment with twelve patches, and Anas saw a garment with three patches between the shoulders.",
+  "people": [
+    { "id": "hasan", "role": "narrator" },
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "Two short reports joined (Hasan, then Anas). 'Hasan' has no (RA), see n01211."
+ },
+ {
+  "id": "n01237",
+  "summary": "Abdullaah bin Umar reports that Umar took from the Baytul Maal only what his family needed, plus one set of summer clothing, and patched rather than replaced; Muhammad bin Ibraheem reports that Umar's daily allowance was two Dirhams.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "hafsa", "role": "mentioned" },
+    { "id": null, "name": "Muhammad bin Ibraheem", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "honest-dealings"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "The text is spliced: Abdullaah's report runs into the Muhammad bin Ibraheem report, and a sentence is cut off ('suffices for')."
+ },
+ {
+  "id": "n01238",
+  "summary": "Abdul Malik bin Shaddaad saw Uthmaan on the pulpit in a plain garment; Hasan says Uthmaan slept in the Masjid and got up with the mark of a straw mat on his side; Shurahbeel bin Muslim says Uthmaan fed guests royally but ate only vinegar and oil at home.",
+  "people": [
+    { "id": null, "name": "Abdul Malik bin Shaddaad", "role": "narrator", "sahabi": "unsure" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "hasan", "role": "narrator" },
+    { "id": null, "name": "Shurahbeel bin Muslim", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "Three reports joined. 'Hasan' has no (RA), see n01211. 'Shurahbeel bin Muslim' is not the approved 'shurahbeel'."
+ },
+ {
+  "id": "n01239",
+  "summary": "A man of the Thaqeef tribe reports that Ali, when he appointed him governor of Ukbara, ate barley flour mixed with water from a sealed bag; A'mash reports that Ali fed guests well but ate only food brought from Madinah.",
+  "people": [
+    { "id": "ali", "role": "subject" },
+    { "id": null, "name": "A'mash", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "hunger-and-hardship"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "merged",
+  "notes": "Two reports joined. The Thaqeefi narrator is unnamed and not tagged. A citation to Ibn Sa'd in the text is garbled."
+ },
+ {
+  "id": "n01240",
+  "summary": "Abdullaah bin Shareek reports from his grandfather that when Faalooda was served to Ali, Ali said he did not want to grow used to something he was not accustomed to.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Shareek", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hunger-and-hardship", "steadfastness"],
+  "new_themes": ["avoiding extravagance"],
+  "boundary": "ok",
+  "notes": "The grandfather is unnamed. 'Abdullaah bin Shareek' is not the approved 'abdullaah-bin-shaqeeq'."
+ }
+]

@@ -1,0 +1,536 @@
+[
+ {
+  "id": "n01521",
+  "summary": "Safiyya's camel fell ill and the Prophet asked Zaynab to give her one, but Zaynab refused with an insult, so the Prophet stayed away from her for months.",
+  "people": [
+    { "id": "zaynab-bint-jahash", "role": "subject" },
+    { "id": null, "name": "Safiyya bint Huyay", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "'Hadhrat Zaynab' is read as Zaynab bint Jahash, the Prophet's wife, not Zaynab bint Muhammad."
+ },
+ {
+  "id": "n01522",
+  "summary": "Aa'isha reports that the Prophet made her spit out flesh after she backbit a woman's long hem, and Zaid bin Aslam reports that he rebuked his wives for winking at each other while mocking Safiyya's sincere words.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": "zaynab-bint-jahash", "role": "subject" },
+    { "id": "zaid-bin-aslam", "role": "narrator" },
+    { "id": null, "name": "Safiyya bint Huyay", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "merged",
+  "notes": "Joins three reports: Zaynab's long absence (the same story as n01521), Aa'isha's report, and Zaid bin Aslam's report."
+ },
+ {
+  "id": "n01523",
+  "summary": "Abu Hurayrah reports that when some Sahabah called a companion who left a gathering feeble, the Prophet said they had backbitten him and eaten the flesh of their brother.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "merged",
+  "notes": "Abu Hurayrah's report is followed by a Tabraani variant of the same incident."
+ },
+ {
+  "id": "n01524",
+  "summary": "Mu'aadh bin Jabal reports the same incident, with the Prophet explaining that mentioning a fault a person really has is backbiting, while mentioning one he does not have is slander.",
+  "people": [
+    { "id": "muaadh-bin-jabal", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "OCR garbles part of the Prophet's explanation, so its wording is partly reconstructed."
+ },
+ {
+  "id": "n01525",
+  "summary": "Abdullaah bin Amr reports that the Sahabah described a companion as lazy, and the Prophet said that mentioning a real fault in a brother is backbiting.",
+  "people": [
+    { "id": "abdullaah-bin-amr", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01526",
+  "summary": "Abdullaah bin Mas'ood reports that after a companion left a gathering, someone spoke ill of him, and the Prophet told that man to repent for eating his brother's flesh.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01527",
+  "summary": "In a terse report the Prophet tells a man to pick his teeth, and the man asks why, since he has eaten no meat.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "Very short. The backbiting lesson comes from the heading and the report before it, not from the text itself."
+ },
+ {
+  "id": "n01528",
+  "summary": "Anas reports that the Prophet told two young women who had fasted all day, while backbiting, to vomit, and said that their backbiting had broken their fast and would have burned them in Jahannam.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["fear-of-allaah", "fasting"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "The two women are unnamed in the text."
+ },
+ {
+  "id": "n01529",
+  "summary": "In another report the two women vomit blood and flesh, and the Prophet says they broke their lawful fast with the forbidden act of backbiting.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["fear-of-allaah", "fasting"],
+  "new_themes": ["backbiting"],
+  "boundary": "starts-mid",
+  "notes": "A variant of the incident in n01528, beginning mid-story."
+ },
+ {
+  "id": "n01530",
+  "summary": "Anas bin Maalik reports that when Abu Bakr and Umar mocked their sleeping servant, the Prophet told them they had eaten his flesh and advised them to ask the servant to forgive them.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "mercy-and-forgiveness"],
+  "new_themes": ["backbiting"],
+  "boundary": "ok",
+  "notes": "The servant is unnamed."
+ },
+ {
+  "id": "n01531",
+  "summary": "Abdur Rahmaan bin Auf reports that he and Umar, on night patrol, found wine being drunk behind an open door, and Umar, recalling the prohibition on spying, went away and left them alone.",
+  "people": [
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Rabee'ah bin Umayyah bin Khalaf", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "virtues-of-the-sahabah"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": "The house is said to belong to Rabee'ah bin Umayyah bin Khalaf, who is not in the approved list."
+ },
+ {
+  "id": "n01532",
+  "summary": "Sha'bi reports that Umar and Abdur Rahmaan bin Auf spied on a companion of Umar who was drinking in his house, and Abdur Rahmaan advised that the repentance for spying is to keep what was learned private and think well of him.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "brotherhood"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": "Sha'bi is a Tabi'i. The companion and his wife are unnamed."
+ },
+ {
+  "id": "n01533",
+  "summary": "Taa'oos reports that Umar, on night patrol, called out to a house where people were drinking, and when one of them reminded him that spying was forbidden, Umar left them alone.",
+  "people": [
+    { "id": null, "name": "Taa'oos", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "virtues-of-the-sahabah"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01534",
+  "summary": "Thowr Kindi reports that Umar scaled a wall to confront a man singing in his house, and when the man rebuked him with the Qur'aanic prohibitions on spying and on entering without permission, Umar pardoned him.",
+  "people": [
+    { "id": null, "name": "Thowr Kindi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "mercy-and-forgiveness", "quraan"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": "The singer is unnamed."
+ },
+ {
+  "id": "n01535",
+  "summary": "Suddi reports that after Umar caught an old man drinking and was rebuked for spying, Umar swore privately that he had told no one, and the old man said he had never repeated what he had done.",
+  "people": [
+    { "id": null, "name": "Suddi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-masood", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "mercy-and-forgiveness"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": "OCR has run words together in the middle of the report."
+ },
+ {
+  "id": "n01536",
+  "summary": "Abu Qilaabah reports that Umar found Abu Mihjin Thaqafi drinking at his house and left him alone when Abu Mihjin reminded him that spying was forbidden, with Zaid bin Thaabit and Abdur Rahmaan bin Arqam agreeing.",
+  "people": [
+    { "id": "abu-qilaaba", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-mihjin-thaqafi", "role": "subject" },
+    { "id": "zaid-bin-thaabit", "role": "mentioned" },
+    { "id": null, "name": "Abdur Rahmaan bin Arqam", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "virtues-of-the-sahabah"],
+  "new_themes": ["spying on Muslims"],
+  "boundary": "ok",
+  "notes": "Ends with a stray section heading ('Concealing the Faults of Muslims') that leaked into the text. The approved list marks Abu Qilaabah as a Sahabi, but he is usually counted as a Tabi'i; worth checking."
+ },
+ {
+  "id": "n01537",
+  "summary": "Sha'bi reports that Umar forbade a father from exposing his daughter's repented past, which Allaah had concealed, to her suitors, and told him to marry her as he would any chaste Muslim woman.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "mercy-and-forgiveness"],
+  "new_themes": ["concealing the faults of Muslims"],
+  "boundary": "ok",
+  "notes": "The father and daughter are unnamed."
+ },
+ {
+  "id": "n01538",
+  "summary": "Sha'bi reports that when a woman's uncle asked Umar whether he must disclose her repented past before her marriage, Umar told him to marry her off as he would any righteous girl.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "mercy-and-forgiveness"],
+  "new_themes": ["concealing the faults of Muslims"],
+  "boundary": "ok",
+  "notes": "The woman and her uncle are unnamed."
+ },
+ {
+  "id": "n01539",
+  "summary": "Sha'bi reports that when Umar tried to identify a foundling's mother, one of the women rebuked him for trying to expose a woman Allaah had concealed, and Umar admitted he was wrong and told the nurse not to question the visitors.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["kindness", "mercy-and-forgiveness"],
+  "new_themes": ["concealing the faults of Muslims"],
+  "boundary": "ok",
+  "notes": "The woman who found the child, the nurse and the four women are unnamed."
+ },
+ {
+  "id": "n01540",
+  "summary": "Saalih bin Karz reports that Anas bin Maalik persuaded him to take back his slave girl, who had committed fornication, instead of having her punished, urging him to fear Allaah and conceal her sin.",
+  "people": [
+    { "id": null, "name": "Saalih bin Karz", "role": "subject", "sahabi": "unsure" },
+    { "id": "anas-bin-maalik", "role": "subject" },
+    { "id": null, "name": "Hakam bin Ayyoob", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["kindness", "mercy-and-forgiveness"],
+  "new_themes": ["concealing the faults of Muslims"],
+  "boundary": "ok",
+  "notes": "Saalih bin Karz and Hakam bin Ayyoob are not in the approved list, and their Sahabi status is unverified."
+ },
+ {
+  "id": "n01541",
+  "summary": "Dukhayn, scribe to Uqba bin Aamir, reports Uqba's advice against reporting neighbours who drank wine; the text then runs into Haatib bin Abi Balta'ah's secret letter to Quraysh, which the Prophet forgave because Haatib had fought at Badr.",
+  "people": [
+    { "id": null, "name": "Dukhayn Abul Haytham", "role": "subject", "sahabi": "unsure" },
+    { "id": "uqba-bin-aamir", "role": "subject" },
+    { "id": "haatib-bin-abi-baltaah", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "mercy-and-forgiveness", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two stories are joined: the Uqba/Dukhayn report is cut off and runs straight into the Haatib incident. The Mumtahina verse reference is OCR-garbled. The text ends with stray OCR debris ('15')."
+ },
+ {
+  "id": "n01542",
+  "summary": "Abu Matar reports that Ali released a man who had confessed to theft once he retracted, and cites the Prophet's teaching that people should pardon one another's wrongs rather than demand punishment.",
+  "people": [
+    { "id": null, "name": "Abu Matar", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": "qambar", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["justice", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The thief is unnamed. Qambar is Ali's slave."
+ },
+ {
+  "id": "n01543",
+  "summary": "Abu Maajid Hanafi reports that Ibn Mas'ood had a drunkard lightly flogged, and then quotes the Prophet's grief over a thief's hand being cut and his call to forgive rather than demand punishment.",
+  "people": [
+    { "id": null, "name": "Abu Maajid Hanafi", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": null, "name": "Amr bin Shu'ayb", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "justice", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports are joined: Ibn Mas'ood's flogging, the Prophet's hadith on the thief, and an Amr bin Shu'ayb variant. The drunkard and the uncle are unnamed."
+ },
+ {
+  "id": "n01544",
+  "summary": "Abdullaah bin Umar reports that a man whom Abu Moosa Ash'ari had flogged and paraded for drinking came to Umar in despair, and Umar warned Abu Moosa that he would be disgraced the same way if he repeated it, and ordered the man to be accepted if he repents.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["halaal-and-haraam", "mercy-and-forgiveness"],
+  "new_themes": ["repentance"],
+  "boundary": "ok",
+  "notes": "The man from Banu Taym is unnamed. The narration ends with a stray fragment ('Hadhrat Umar (RA)') after the letter."
+ },
+ {
+  "id": "n01545",
+  "summary": "Abu Own reports that Khaalid bin Waleed had Maalik bin Nuwayrah executed for apostasy despite testimony in his favour and then married his widow, and that Abu Bakr refused Umar's demands to punish Khaalid, saying he had erred in judgement.",
+  "people": [
+    { "id": null, "name": "Abu Own", "role": "narrator", "sahabi": "unsure" },
+    { "id": "khaalid-bin-waleed", "role": "subject" },
+    { "id": null, "name": "Maalik bin Nuwayrah", "role": "subject", "sahabi": "yes" },
+    { "id": "abu-qataadah", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "diraar-bin-azoor", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Ummu Mutammim", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["apostasy", "justice", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator's name is OCR-garbled ('Abu Own') and is not in the approved list. The line about 'Maalik Sink's wife' is garbled; Ummu Mutammim is taken as her name as given. Abu Qataadah is matched to 'abu-qataadah'; the vocabulary also has a duplicate 'abu-qataada'."
+ },
+ {
+  "id": "n01546",
+  "summary": "Abu Qilaabah reports Abu Dardaa's advice to hate a sinner's sin rather than the sinner, and Ibn Mas'ood's instruction not to help Shaytaan by cursing a brother who sins.",
+  "people": [
+    { "id": "abu-qilaaba", "role": "narrator" },
+    { "id": "abu-dardaa", "role": "subject" },
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "fear-of-allaah"],
+  "new_themes": ["hating the sin, not the sinner"],
+  "boundary": "merged",
+  "notes": "Two reports are joined: Abu Dardaa's saying and an 'another narration' from Ibn Mas'ood."
+ },
+ {
+  "id": "n01547",
+  "summary": "Anas reports that Abdullaah bin Amr followed a man the Prophet had named as one of the people of Jannah, and stayed with him three days, learning that the man's secret was harbouring no envy or ill-feeling towards any Muslim.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["freedom from envy"],
+  "boundary": "ok",
+  "notes": "The Ansaari man is unnamed here."
+ },
+ {
+  "id": "n01548",
+  "summary": "A variant names the companion as Sa'd, who says he never sleeps harbouring ill-feeling towards any Muslim, and Abdullaah bin Amr says he cannot match this.",
+  "people": [
+    { "id": null, "name": "Sa'd", "role": "subject", "sahabi": "yes" },
+    { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["freedom from envy"],
+  "boundary": "merged",
+  "notes": "Two variant reports are joined. 'Sa'd' has no surname here. n01549 names Sa'd bin Abi Waqqaas, but this text does not confirm which Sa'd is meant, so it is left unlinked."
+ },
+ {
+  "id": "n01549",
+  "summary": "A variant names the companion as Sa'd bin Abi Waqqaas, who says he harbours no ill-feeling towards any Muslim and never speaks ill of them, and Abdullaah bin Amr says he cannot match this.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["freedom from envy"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01550",
+  "summary": "Zaid bin Aslam reports that Abu Dujaanah's face shone during his illness, which he credited to speaking only when necessary and keeping a clear heart towards all Muslims.",
+  "people": [
+    { "id": "zaid-bin-aslam", "role": "narrator" },
+    { "id": "abu-dujaanah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["visiting-the-sick", "brotherhood"],
+  "new_themes": ["guarding the tongue"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01551",
+  "summary": "Buraydah Aslami reports that when someone insulted Abdullaah bin Abbaas, he listed three things that made him happy: wishing all people shared his knowledge of the Qur'aan, joy at a just Muslim ruler, and joy at rain falling on Muslim cities.",
+  "people": [
+    { "id": "buraydah-bin-khusayb", "role": "narrator" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "justice", "virtues-of-the-sahabah"],
+  "new_themes": ["rejoicing in others' good"],
+  "boundary": "ok",
+  "notes": "The vocabulary lists Buraydah twice ('buraydah-bin-khusayb' and 'buraydah-bin-husayb'); this may be the same man. The first entry is used here."
+ },
+ {
+  "id": "n01552",
+  "summary": "Aa'isha reports that the Prophet received a man he had called the worst of his tribe warmly, and that he explained the worst people are those whose abuse others must guard against.",
+  "people": [
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": ["cordiality towards people"],
+  "boundary": "ok",
+  "notes": "The two visitors are unnamed."
+ },
+ {
+  "id": "n01553",
+  "summary": "Safwaan bin Assaal reports that the Prophet welcomed a man he had called the worst of his tribe, saying he was a hypocrite and that he treated him kindly so that the man would not spoil the Prophet's name among others.",
+  "people": [
+    { "id": null, "name": "Safwaan bin Assaal", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["hypocrisy", "kindness"],
+  "new_themes": ["cordiality towards people"],
+  "boundary": "ok",
+  "notes": "Safwaan bin Assaal is not in the approved list. The hypocrite is unnamed."
+ },
+ {
+  "id": "n01554",
+  "summary": "Buraydah reports that the Prophet welcomed a wealthy Quraysh man as a close friend, then said that Allaah will not set up a scale of deeds for him on the Day of Qiyaamah because he has no good deeds.",
+  "people": [
+    { "id": "buraydah-bin-khusayb", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "kindness"],
+  "new_themes": ["cordiality towards people"],
+  "boundary": "ok",
+  "notes": "The Quraysh man is unnamed."
+ },
+ {
+  "id": "n01555",
+  "summary": "Abu Dardaa says that they may smile in the faces of some people while their hearts curse them.",
+  "people": [
+    { "id": "abu-dardaa", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sincerity", "kindness"],
+  "new_themes": ["cordiality towards people"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01556",
+  "summary": "A variant adds Abu Dardaa's words that they also laugh with such people.",
+  "people": [
+    { "id": "abu-dardaa", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sincerity", "kindness"],
+  "new_themes": ["cordiality towards people"],
+  "boundary": "starts-mid",
+  "notes": "A one-line continuation of the saying in n01555."
+ },
+ {
+  "id": "n01557",
+  "summary": "Abu Dardaa reports that after Abu Bakr and Umar quarrelled, the Prophet asked the Companions to leave Abu Bakr alone, and Abdullaah bin Umar gives a parallel report that the Prophet urged Umar to forgive him.",
+  "people": [
+    { "id": "abu-dardaa", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "mercy-and-forgiveness", "virtues-of-the-sahabah"],
+  "new_themes": ["reconciliation between Muslims"],
+  "boundary": "merged",
+  "notes": "Two reports are joined: Abu Dardaa's account and Abdullaah bin Umar's account of the same reconciliation."
+ },
+ {
+  "id": "n01558",
+  "summary": "Aa'isha reports that Ummu Habeebah, on her deathbed, asked her forgiveness for the rivalries between co-wives, and then did the same with Ummu Salamah.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": null, "name": "Ummu Habeebah", "role": "subject", "sahabi": "yes" },
+    { "id": "umm-salama", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["family", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ummu Habeebah is not in the approved list."
+ },
+ {
+  "id": "n01559",
+  "summary": "Sha'bi reports that Abu Bakr asked Faatima's permission to visit her in her last illness, and calmed her by affirming his devotion to Allaah, His Rasool and her household until she was pleased.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "faatima", "role": "subject" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["family", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01560",
+  "summary": "Sha'bi reports that when Umar disliked Abdullaah bin Amr, Abdullaah explained that his unbroken fasts and night worship had been corrected by the Prophet, who told him to alternate fasting with sleep and to obey his father.",
+  "people": [
+    { "id": null, "name": "Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-amr", "role": "subject" },
+    { "id": "amr-bin-al-aas", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["fasting", "family"],
+  "new_themes": ["balance in worship"],
+  "boundary": "ok",
+  "notes": "A heading leaks into the first sentence. The exchange with Umar is garbled by OCR. The speaker is identified as Abdullaah bin Amr from the complaint about his father, which is inferred from the text."
+ }
+]

@@ -1,0 +1,1054 @@
+[
+ {
+  "id": "n01681",
+  "summary": "Abu Umaamah urged patience and recalled how the Companions greeted each other with Salaam even when a tree separated them, as Anas reports.",
+  "people": [
+   {
+    "id": "abu-umaama",
+    "role": "subject"
+   },
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "patience",
+   "zuhd",
+   "brotherhood"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports in one narration (Abu Umaamah's lecture and Anas's report); the quoted Companions' saying is cut mid-sentence in the OCR."
+ },
+ {
+  "id": "n01682",
+  "summary": "Tufayl bin Ubay reports that Abdullaah bin Umar greeted everyone he met in the marketplace and went there only for the sake of Salaam.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Tufayl bin Ubay bin Ka'b",
+    "role": "subject",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "kindness",
+   "humility"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Tufayl's own statement is cut off mid-sentence. Tufayl is not marked (RA) in the text, and I am not certain of his status."
+ },
+ {
+  "id": "n01683",
+  "summary": "Abu Umaamah greets everyone with Salaam and tells a Jew who beat him to it that the Prophet said Salaam is a greeting for the Ummah and a security for non-Muslims under Muslim rule.",
+  "people": [
+   {
+    "id": "abu-umaama",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "brotherhood",
+   "kindness"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "The Jew is unnamed and left out."
+ },
+ {
+  "id": "n01684",
+  "summary": "Muhammad bin Ziyaad reports that Abu Umaamah greeted every Muslim, Christian and child he passed and urged his nephew to spread Salaam among Muslims.",
+  "people": [
+   {
+    "id": "abu-umaama",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Ziyaad",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "brotherhood",
+   "kindness"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01685",
+  "summary": "Basheer bin Yasaar says that no one ever beat Abdullaah bin Umar to making Salaam.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Basheer bin Yasaar",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "Basheer bin Yasaar is not marked (RA); sahabi 'no' is from my own knowledge of him as a Tabi'i, not from the text."
+ },
+ {
+  "id": "n01686",
+  "summary": "Salmaan reports that the Prophet answered a greeting in full and, when asked why he answered differently for later greeters, cited Surah Nisaa on returning a greeting in kind.",
+  "people": [
+   {
+    "id": "salmaan-faarsi",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "quraan",
+   "brotherhood"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "OCR garbles the greeting formulas themselves, so the wording of the Salaam is not tagged. The unnamed Sahabi who asks is left out."
+ },
+ {
+  "id": "n01687",
+  "summary": "The Prophet tells Aa'isha that Jibra'eel sends her Salaams, and Jibra'eel blesses the Ahlul Bayt.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Jibra'eel",
+    "role": "subject",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophethood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "Jibra'eel is an angel, included as a named speaker. Remove him if people should be limited to humans. Aa'isha's reply is lost in the OCR."
+ },
+ {
+  "id": "n01688",
+  "summary": "Anas and other Companions report that the Prophet sought permission at the door of Sa'd bin Ubaadah, who answered each Salaam softly and then served him olive oil and received his du'aa.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hospitality",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "Several Companions are the sources, and the Salaam formulas are garbled in the OCR."
+ },
+ {
+  "id": "n01689",
+  "summary": "Anas reports that the Prophet greeted the children of the Ansaar and, at Sa'd bin Ubaadah's door, greeted three times before leaving, and Sa'd ran after him as in the previous narration.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kindness",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "The ending refers back to n01688 for the rest of the story. The closing debris mark is ignored."
+ },
+ {
+  "id": "n01690",
+  "summary": "Umar complains to Abu Bakr that Uthmaan did not return his greeting, and Uthmaan explains he was lost in thought about Shaytaan's whisperings, so Abu Bakr relates the Prophet's teaching that the Kalimah is the salvation of this Ummah.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Jubayr",
+    "role": "narrator",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kalimah",
+   "brotherhood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "greeting with salaam",
+   "resisting evil thoughts"
+  ],
+  "boundary": "merged",
+  "notes": "Contains the main report and a second, longer version of the same story. Muhammad bin Jubayr is not marked (RA); sahabi 'no' is from my own knowledge of him as a Tabi'i. The OCR garbles one sentence of Abu Bakr's speech."
+ },
+ {
+  "id": "n01691",
+  "summary": "Jareer bin Abdullaah and a companion visit Salmaan Faarsi with greetings from Abu Dardaa, and Salmaan says that the greeting is the only gift he wanted.",
+  "people": [
+   {
+    "id": "jareer-bin-abdillaah",
+    "role": "subject"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "brotherhood",
+   "honest-dealings",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "greeting with salaam"
+  ],
+  "boundary": "ok",
+  "notes": "The second companion is unnamed."
+ },
+ {
+  "id": "n01692",
+  "summary": "Jundub reports that the Prophet never shook hands before first greeting, Abu Dharr says the Prophet always shook his hand, and Hasan reports Umar embracing his companions after Fajr.",
+  "people": [
+   {
+    "id": "jundub",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-dharr-ghifaari",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Hasan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "brotherhood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "shaking hands and embracing"
+  ],
+  "boundary": "merged",
+  "notes": "Three separate reports. The 'Jundub' id is the approved entry but may not be the same Jundub. Hasan is probably Hasan al-Basri, which I have not confirmed. OCR garbles part of Abu Dharr's answer."
+ },
+ {
+  "id": "n01693",
+  "summary": "Urwa reports that when Umar reached Shaam he dismounted and embraced Abu Ubaydah on his arrival.",
+  "people": [
+   {
+    "id": null,
+    "name": "Urwa",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "humility"
+  ],
+  "new_themes": [
+   "shaking hands and embracing"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Which Urwa this is cannot be determined from the text, so no approved id is used. The narration ends with 'will soon be quoted'."
+ },
+ {
+  "id": "n01694",
+  "summary": "Sha'bi reports that the Prophet embraced Ja'far bin Abi Taalib and kissed him between the eyes on his return from Khaybar.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sha'bi",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Sha'bi is not marked (RA); sahabi 'no' is from my own knowledge of him as a Tabi'i."
+ },
+ {
+  "id": "n01695",
+  "summary": "Abdur Rahmaan bin Razeen reports that Salamah bin Akwa showed the hand he had pledged allegiance with, and the people kissed it without his stopping them.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Razeen",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "salama-bin-akwa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "bayah",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "OCR garbles one name in the last sentence, which is read as Salamah."
+ },
+ {
+  "id": "n01696",
+  "summary": "Abdullaah bin Umar reports that he kissed the Prophet's hands.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01697",
+  "summary": "Umar reports that he kissed the Prophet's hands.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01698",
+  "summary": "Ka'b bin Maalik reports that when the verses of his forgiveness (after Tabook) were revealed, he went to the Prophet and kissed his hands.",
+  "people": [
+   {
+    "id": "kab-bin-maalik",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "mercy-and-forgiveness",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01699",
+  "summary": "Zaari bin Aamir and Mazeedah Abdi report that visitors kissed the Prophet's hands, and that Ashaj kissed them too, and the Prophet told Ashaj that Allah and His Messenger love two of his qualities.",
+  "people": [
+   {
+    "id": null,
+    "name": "Zaari bin Aamir",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Mazeedah Abdi",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Ashaj",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Sahabi status comes from the (RA) markers in the text. Ashaj is not in the approved list, and his full name is not given."
+ },
+ {
+  "id": "n01700",
+  "summary": "Abu Rajaa saw Umar kissing Abu Bakr's head in Madinah for his stand against those who refused to pay zakaah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Rajaa Utaaridi",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "virtues-of-the-sahabah",
+   "zakaah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "The parenthesis in the text is the author's own comment and is included in the summary."
+ },
+ {
+  "id": "n01701",
+  "summary": "Tameem bin Salamah reports that Abu Ubaydah welcomed Umar in Shaam, shook his hand and kissed it, and that kissing the hand of pious people is Sunnah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Tameem bin Salamah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01702",
+  "summary": "Yahya bin Haarith asks Waathilah bin Asqa whether he pledged allegiance to the Prophet with those hands, and then kisses his hand.",
+  "people": [
+   {
+    "id": null,
+    "name": "Yahya bin Haarith Dhimaari",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "waathila-bin-asqa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "bayah",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01703",
+  "summary": "Yunus bin Maysarah reports that Yazeed bin Aswad, when ill, took Waathilah bin Asqa's hand and rubbed it on his face, and Waathilah told him the hadith that Allah treats His slaves according to their expectation of Him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Yunus bin Maysarah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Yazeed bin Aswad",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "waathila-bin-asqa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "mercy-and-forgiveness",
+   "trust-in-allaah"
+  ],
+  "new_themes": [
+   "good opinion of Allah",
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Yazeed bin Aswad is not in the approved list and is not marked (RA). Allah speaks in the hadith but is not a person entry."
+ },
+ {
+  "id": "n01704",
+  "summary": "Abdur Rahmaan bin Razeen reports that Salamah bin Akwa showed them his large hand, the one he pledged with, and they stood and kissed it.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Razeen",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "salama-bin-akwa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "bayah",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Here he tells his own experience, so he is listed as subject."
+ },
+ {
+  "id": "n01705",
+  "summary": "Abu Jad'aan reports that Thaabit Bunaani asked Anas whether he had touched the Prophet's hand, and when Anas said he had, Thaabit kissed his hand.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Jad'aan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "thaabit-bunaani",
+    "role": "subject"
+   },
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "love-for-the-prophet",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Thaabit is given as Hadhrat Thaabit without a surname here. I assumed Thaabit Bunaani, based on the later mention of Anas's student."
+ },
+ {
+  "id": "n01706",
+  "summary": "Suhayb says he saw Ali kiss the hand and feet of Abbaas.",
+  "people": [
+   {
+    "id": "suhayb",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abbaas-bin-abdil-muttalib",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "kissing a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "A stray heading ('Standing Out of Respect for a Muslim') runs on at the end of the text. It is a section title and is ignored."
+ },
+ {
+  "id": "n01707",
+  "summary": "Aa'isha describes how Faatima most resembled the Prophet in speech and manner, how he welcomed and kissed her, and what passed between them during his final illness.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "faatima",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "love-for-the-prophet",
+   "prophets-final-illness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The closing sentence has OCR loss around the words 'Rasulullaah ... for himself a house in Jahannam', so its wording is inferred. The unnamed women are left out."
+ },
+ {
+  "id": "n01708",
+  "summary": "Waathila bin Khattaab reports that the Prophet moved from his place in the Masjid for a man who entered, and Waathila bin Asqa reports the same and that Abu Bakr moved for Ali.",
+  "people": [
+   {
+    "id": null,
+    "name": "Waathila bin Khattaab Qurashi",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "waathila-bin-asqa",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "brotherhood",
+   "humility"
+  ],
+  "new_themes": [
+   "honouring a fellow Muslim"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports. The first narrator ('Waathila bin Khattaab Qurashi') is not in the approved list, and it may be a garbled form of Waathila bin Asqa, so please check. The text refers back to an earlier narration."
+ },
+ {
+  "id": "n01709",
+  "summary": "Katheer bin Murra found Awf bin Maalik Ashja'ee folding in his outstretched legs in a gathering, saying he had stretched them out so that a pious person would come and sit there.",
+  "people": [
+   {
+    "id": null,
+    "name": "Katheer bin Murra",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "awf-bin-maalik-ashjaee",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "humility"
+  ],
+  "new_themes": [
+   "honouring a fellow Muslim"
+  ],
+  "boundary": "ok",
+  "notes": "Katheer bin Murra is not marked (RA); sahabi 'no' is from my own knowledge of him as a Tabi'i."
+ },
+ {
+  "id": "n01710",
+  "summary": "Abdullaah bin Abbaas said that the person he respects most is the one sitting with him, and two chains report his words.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Abbaad bin Ja'far",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "ibn-abi-mulaykah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "brotherhood",
+   "humility"
+  ],
+  "new_themes": [
+   "honouring a fellow Muslim"
+  ],
+  "boundary": "merged",
+  "notes": "Two transmission chains with slightly different wording of the same saying."
+ },
+ {
+  "id": "n01711",
+  "summary": "Ali gave two visitors cushions and told the man sitting on the ground to take the cushion, since only a donkey refuses hospitality.",
+  "people": [
+   {
+    "id": "abu-jafar",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "hospitality",
+   "humility"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Ja'far is the approved id for Abu Ja'far (unsure). A footnote reference inside the text is ignored."
+ },
+ {
+  "id": "n01712",
+  "summary": "Umar reports that Abu Bakr gave him no reply when he proposed Hafsah to him, because he had heard the Prophet mention a proposal and kept the secret, and then Umar married Hafsah to the Prophet.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "hafsa",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Khunays bin Hudhaafah Sahmi",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "marriage",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "keeping a confidence"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Khunays is named as a Badr veteran in the text. The narration ends mid-sentence."
+ },
+ {
+  "id": "n01713",
+  "summary": "Anas refuses to tell his mother the Prophet's secret errand and tells Thaabit Bunaani that he would trust no one else with it.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   },
+   {
+    "id": "thaabit-bunaani",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "youth",
+   "honest-dealings"
+  ],
+  "new_themes": [
+   "keeping a confidence"
+  ],
+  "boundary": "ok",
+  "notes": "Anas's mother is not named in the text, so she is left out."
+ },
+ {
+  "id": "n01714",
+  "summary": "Abu Hurayrah reports that when a man complained of a hard heart, the Prophet told him to stroke an orphan's head and feed the poor.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kindness",
+   "sadaqah"
+  ],
+  "new_themes": [
+   "honouring orphans"
+  ],
+  "boundary": "ok",
+  "notes": "The complaining man is unnamed and left out."
+ },
+ {
+  "id": "n01715",
+  "summary": "Abu Dardaa reports the Prophet's advice to a man with a hard heart: show mercy to an orphan, stroke his head and feed him, which will soften the heart and fulfil needs.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kindness",
+   "sadaqah"
+  ],
+  "new_themes": [
+   "honouring orphans"
+  ],
+  "boundary": "ok",
+  "notes": "The complaining man is unnamed and left out."
+ },
+ {
+  "id": "n01716",
+  "summary": "Basheer bin Aqrabah reports that on the day of Uhud, after his father was martyred, the Prophet comforted him, stroked his head and offered to be his father and Aa'isha his mother.",
+  "people": [
+   {
+    "id": null,
+    "name": "Basheer bin Aqrabah Juhani",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "aaisha",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kindness",
+   "martyrdom"
+  ],
+  "new_themes": [
+   "honouring orphans"
+  ],
+  "boundary": "ok",
+  "notes": "Sahabi status comes from the (RA) marker. His father is unnamed and left out."
+ },
+ {
+  "id": "n01717",
+  "summary": "Abdullaah bin Umar gives his donkey and his turban to a Bedouin whose father had been a friend of Umar, citing the Prophet's teaching to keep ties with a father's friends.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "kindness"
+  ],
+  "new_themes": [
+   "honouring one's father's friends"
+  ],
+  "boundary": "ends-mid",
+  "notes": "The Bedouin and the companion are unnamed. The text ends without a full close on 'Umar', and it continues in n01718."
+ },
+ {
+  "id": "n01718",
+  "summary": "Another narration adds that when someone asked whether two dirhams would not suffice, Abdullaah bin Umar cited the Prophet's command to care for a father's associates.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "kindness"
+  ],
+  "new_themes": [
+   "honouring one's father's friends"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Opens as 'Another narration adds' and continues the story of n01717. The questioner is unnamed."
+ },
+ {
+  "id": "n01719",
+  "summary": "Abu Usayd Saa'idi reports the Prophet's advice on how to treat parents after their death: make du'aa and seek forgiveness for them, fulfil their promises, keep their ties and honour their friends.",
+  "people": [
+   {
+    "id": "abu-usayd-saaidi",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "duaa"
+  ],
+  "new_themes": [
+   "honouring parents after their death"
+  ],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed."
+ },
+ {
+  "id": "n01720",
+  "summary": "Ziyaad bin An'am reports that Abu Ayyoob Ansaari, while fasting, accepted an invitation to a meal because the Prophet said a Muslim owes six rights to his brother.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ziyaad bin An'am Afriqi",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-ayyoob-ansaari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "brotherhood",
+   "hospitality"
+  ],
+  "new_themes": [
+   "rights of a fellow Muslim"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Mu'aawiya is mentioned only as the time of the voyage. Ziyaad is not in the approved list, and his status is not marked. The narration ends with 'the narration continues further'."
+ }
+]

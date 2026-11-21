@@ -1,0 +1,510 @@
+[
+  {
+    "id": "n03041",
+    "summary": "Hadhrat Ibraheem (RA) greeted the Prophet before addressing him and welcomed him.",
+    "people": [
+      { "id": null, "name": "Ibraheem", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Begins with 'Another adds', so the report it belongs to is in an earlier item. The text is a single fragment; the Companion is not in the approved list and is not identified further."
+  },
+  {
+    "id": "n03042",
+    "summary": "Abdullaah bin Abbaas explains the reward of saying Subhaanallaah, Al Hamdulillaah, Allaahu Akbar, Laa Ilaaha Illallaah and Laa Howla wa Laa Quwwata Illa Billaah, which become an adornment and treasure for the speaker in Jannah.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "kalimah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The OCR is garbled around the Arabic phrases; the summary follows the English sentence."
+  },
+  {
+    "id": "n03043",
+    "summary": "Mutarraf reports that Imraan bin Husayn told him that the best of Allaah's bondsmen on the Day of Qiyaamah will be those who praised Him most excessively.",
+    "people": [
+      { "id": "imraan-bin-husayn", "role": "subject" },
+      { "id": null, "name": "Mutarraf", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Imraan calls it a Hadith but does not name the Prophet. Mutarraf is not the 'Father of Mutarrif' in the list, which is a different person."
+  },
+  {
+    "id": "n03044",
+    "summary": "Umar asked what is meant by the phrases Subhaanallaah, Al Hamdulillaah and Laa Ilaaha Illallaah, and Ali replied that Allaah chose them for Himself and loves them to be said; a second report has Ibn Kawwaa asking Ali about Subhaanallaah, and Ali said it proclaims Allaah's purity from all evil.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "abu-dhabyaan", "role": "narrator" },
+      { "id": "ibnul-kawwaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "tawheed"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports under one heading: Ibn Abbaas relating Umar's question, and Abu Dhabyaan relating Ibn Kawwaa's question to Ali."
+  },
+  {
+    "id": "n03045",
+    "summary": "Umar lessened the lashing of a man who had said Subhaanallaah while being punished, saying tasbeeh can only find a place in a believer's heart; Ibn Mas'ood then says that angels carry up the words of one who recites these phrases and seek forgiveness for him.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "mercy-and-forgiveness", "the-unseen"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports under one heading: Umar's ruling on the two men, and Ibn Mas'ood's saying with a Qur'anic verse."
+  },
+  {
+    "id": "n03046",
+    "summary": "The Prophet told Juwayriyyah that four phrases he recited three times after leaving her would outweigh all the dhikr she had done since morning, and gave the wording of the dhikr in its variant forms.",
+    "people": [
+      { "id": "juwayriyya", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "duaa"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-sentence, just before the Nasa'ee variant of the du'aa is given. Several variant wordings are OCR-garbled."
+  },
+  {
+    "id": "n03047",
+    "summary": "Sa'd bin Abi Waqqaas reports that when he went with the Prophet to see a woman, they found her counting tasbeeh on date seeds or pebbles, and the Prophet taught her easier phrases to say instead.",
+    "people": [
+      { "id": "sad-bin-abi-waqqaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The woman is not named."
+  },
+  {
+    "id": "n03048",
+    "summary": "The Prophet taught Abu Umaamah a long dhikr praising and glorifying Allaah in measures covering all He has created, all that fills the earth and heavens, and all that His Book counts, and told him to teach it to everyone.",
+    "people": [
+      { "id": "abu-umaama", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Several variant wordings of the same dhikr are given under 'another narration'. Some of the Arabic is OCR-garbled."
+  },
+  {
+    "id": "n03049",
+    "summary": "The Prophet taught Abu Dardaa a comprehensive dhikr of glorifying and praising Allaah in measures covering all He has created, all that is on earth and all that His Book counts.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03050",
+    "summary": "Anas reports that a Sahabi greeted the Prophet and praised Allaah in a gathering, and the Prophet said ten angels raced to record the words, and Allaah ordered them to be recorded exactly as His servant said them.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Sahabi who spoke is not named."
+  },
+  {
+    "id": "n03051",
+    "summary": "Abu Ayyoob Ansaari reports that the Prophet praised a man's words of praise; the man said he had spoken them hoping for reward, and the Prophet said thirteen angels raced to present them to Allaah.",
+    "people": [
+      { "id": "abu-ayyoob-ansaari", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "the-unseen"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant of the report in the previous item, from Abu Ayyoob. The man who spoke is not named."
+  },
+  {
+    "id": "n03052",
+    "summary": "Sa'eed bin Jubayr reports that Umar saw a man counting tasbeeh on a rosary and advised him to say instead that he glorifies and praises Allaah and magnifies Him as much as fills the heavens, the earth and all that Allaah wills.",
+    "people": [
+      { "id": "saeed-bin-jubayr", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "enjoining-good"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03053",
+    "summary": "The poor Muhaajireen complained that the wealthy had taken the rewards through charity and freeing slaves, and the Prophet taught them to glorify, praise and magnify Allaah after every salaah; Sumay recounts a dispute with his family about the counts, and Abu Hurayrah reports a similar account from Abu Dharr.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": null, "name": "Sumay", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-saalih", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "salaah", "sadaqah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Starts without the narrator's name, so the first report begins mid-attribution. Holds three reports: the Muhaajireen, Sumay's account of checking the counts with Abu Saalih, and Abu Hurayrah's report about Abu Dharr. Sumay is not in the approved list and his status is uncertain."
+  },
+  {
+    "id": "n03054",
+    "summary": "Ummu Dardaa reports that Abu Dardaa told a traveller of his own conversation with the Prophet about the wealthy taking the rewards, and that the Prophet taught him to glorify, praise and magnify Allaah thirty-three, thirty-three and thirty-four times after every salaah.",
+    "people": [
+      { "id": "ummu-dardaa", "role": "narrator" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03055",
+    "summary": "Qataadah reports that some poor believers complained that the wealthy had all the rewards, and the Prophet taught them a dhikr whose roots are on earth and whose branches are in heaven, to be recited ten times after every salaah.",
+    "people": [
+      { "id": "qataada", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "sadaqah", "salaah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-dhikr after Laa Ilaaha Illallaah and Allaahu Akbar; the rest of the wording is missing."
+  },
+  {
+    "id": "n03056",
+    "summary": "Ali says that he and Faatima asked the Prophet for a servant because of their hardships, and the Prophet taught them to recite three phrases ten times after every salaah and thirty-three, thirty-three and thirty-four times at bedtime, as better than a servant.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" },
+      { "id": "ibnul-kawwaa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "slaves-and-servants", "hunger-and-hardship", "ahl-us-suffa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends with Ibn Kawwaa's question about the Battle of Siffeen, which is part of the same report. The Prophet's remark about selling the slaves for the men of Suffa is a point the reader may want to see."
+  },
+  {
+    "id": "n03057",
+    "summary": "In another narration the Prophet tells Ali and Faatima that the dhikr to be recited after every salaah and at bedtime is better for them than a servant.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "slaves-and-servants"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03058",
+    "summary": "Ummu Salamah reports that Faatima complained to the Prophet about the callouses on her hands from grinding and making dough, and he taught her the dhikr to say at bedtime and after Fajr and Maghrib, which he said is better for her than a servant and brings protection.",
+    "people": [
+      { "id": "umm-salama", "role": "narrator" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "slaves-and-servants", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The final protective dhikr passage is garbled in the OCR, so the wording is not reproduced."
+  },
+  {
+    "id": "n03059",
+    "summary": "The Prophet used to recite after salaah that there is none worthy of worship but Allaah, to Him belong all kingdom and praise, and that none can prevent what He gives or give what He prevents.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["dhikr", "salaah", "duaa"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "The narrator's name is missing from the text ('Hadhrat (RA) narrates'), so the attribution is unknown."
+  },
+  {
+    "id": "n03060",
+    "summary": "Abdul Hameed reports a morning du'aa that the Prophet taught a daughter of his, which protects until evening; Abu Dardaa reports that a dhikr said seven times morning and evening relieves all worries, though the dhikr itself is not legible in the text.",
+    "people": [
+      { "id": null, "name": "Abdul Hameed", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dardaa", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports under one heading. The du'aa and the dhikr wording are missing from the OCR, so only their effects are summarised. The daughter is not named."
+  },
+  {
+    "id": "n03061",
+    "summary": "Ismah reports that the Prophet called dhikr in the marketplace, when people are negligent of Allaah, the action Allaah loves most, and explained the two terms used for it, Subhatul Hadith and Tahreef.",
+    "people": [
+      { "id": "ismah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Tahreef is explained as complaining falsely of hardship to neighbours or companions; the Arabic terms are kept as in the book."
+  },
+  {
+    "id": "n03062",
+    "summary": "Abu Idrees Khowlaani reports Mu'aadh's advice to give full attention to Allaah when people are negligent of Him, which the chain says is the sign of an accepted du'aa; Abu Qilaabah reports that two men in a marketplace asked Allaah's forgiveness together, and one later saw the other forgiven in a dream.",
+    "people": [
+      { "id": null, "name": "Abu Idrees Khowlaani", "role": "narrator", "sahabi": "no" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": null, "name": "Waleed", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Abdur Rahmaan bin Yazeed bin Jaabir", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Abu Talha Hakeem bin Dinaar", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-qilaaba", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "duaa", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several chained reports under one heading. The narrators Waleed, Abdur Rahmaan bin Yazeed and Abu Talha Hakeem bin Dinaar are not in the approved list and their status is inferred from the chain. The marketplace story is attributed to Abu Qilaabah."
+  },
+  {
+    "id": "n03063",
+    "summary": "Abu Laas Khuzaa'ee says the Prophet gave them a Zakaah camel to use for Hajj and told them to mention Allaah whenever they mount, because a shaytaan sits in the hump of every camel, and that they could ride them as Allaah permits.",
+    "people": [
+      { "id": null, "name": "Abu Laas Khuzaa'ee", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "hajj", "the-unseen"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "Abu Laas is not in the approved list."
+  },
+  {
+    "id": "n03064",
+    "summary": "Abdullaah bin Abbaas says the Prophet let him ride behind him and recited a set of glorifying phrases while mounting, then leaned on him and smiled, saying that Allaah smiles on a person who mounts and does the same.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "prophets-character"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "The exact phrases recited are garbled in the OCR, so the summary does not name them."
+  },
+  {
+    "id": "n03065",
+    "summary": "Usaamah reports that when the camel tripped with him behind the Prophet, he said may Shaytaan be destroyed, and the Prophet told him to say Bismillaah instead, since Shaytaan then shrinks to the size of a fly; Abu Tameemah Hujaymi relays a similar incident with another rider.",
+    "people": [
+      { "id": "usaama-bin-zaid", "role": "subject" },
+      { "id": "abu-tameema-hujaymi", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "the-unseen"],
+    "new_themes": ["travel"],
+    "boundary": "merged",
+    "notes": "Two reports under one heading: Usaamah's account and Abu Tameemah's account of an unnamed rider."
+  },
+  {
+    "id": "n03066",
+    "summary": "Anas reports that when the Prophet mounted a high place while travelling, he said a du'aa that all prominence belongs to Allaah on every high place and all praise belongs to Him in every condition.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dhikr", "gratitude"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03067",
+    "summary": "Anas reports that whenever the Companions reached a destination they glorified Allaah until they had unloaded their carriages.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "virtues-of-the-sahabah"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "The last sentence is the book's cross-reference to an earlier chapter, not part of the report."
+  },
+  {
+    "id": "n03068",
+    "summary": "Awf reports the du'aa Ibn Mas'ood recited when leaving home, trusting only in Allaah and affirming that there is no power or might except with Allaah; Ka'b Qurazi cites the travel du'aa in the Qur'aan from Surah Hood.",
+    "people": [
+      { "id": null, "name": "Awf", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Ka'b Qurazi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["dhikr", "trust-in-allaah"],
+    "new_themes": ["travel"],
+    "boundary": "ok",
+    "notes": "Awf is not identified in the approved list, and neither is Ka'b Qurazi."
+  },
+  {
+    "id": "n03069",
+    "summary": "Ubay bin Ka'b tells the Prophet that he wants to give all his time to sending salutations on him, after the Prophet warned the people to remember Allaah as the great events of the Last Day were near; the Prophet said his worries would be taken care of and he would be forgiven.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03070",
+    "summary": "Abdur Rahmaan bin Auf reports that the Prophet prostrated for so long in a date orchard that he feared the Prophet had died, and the Prophet said he prostrated in gratitude that whoever sends one salutation on him earns ten good deeds and has ten sins removed.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr", "gratitude"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03071",
+    "summary": "The Prophet tells his Companions that Jibra'eel brought the good news that Allaah sends salutations on whoever sends salutations on the Prophet and greets of peace whoever greets him, and that this was why he prostrated.",
+    "people": [
+      { "id": "jibraeel", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A similar version of the report in the previous item. The narrator is not named."
+  },
+  {
+    "id": "n03072",
+    "summary": "Abu Talha Ansaari reports that the Prophet was joyful because a messenger from his Lord said that whoever sends one salutation on him earns ten good deeds, has ten sins removed and ten stages raised; Ka'b bin Ujrah reports that on three steps of the pulpit the Prophet said Aameen after Jibra'eel named three people who are far from Allaah's mercy: one who does not get forgiven in Ramadhaan, one who does not send salutations when the Prophet is mentioned, and one whose parents grow old and do not get him into Jannah.",
+    "people": [
+      { "id": "abu-talha", "role": "narrator" },
+      { "id": null, "name": "Ka'b bin Ujrah", "role": "narrator", "sahabi": "yes" },
+      { "id": "jibraeel", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations joined in the text: Abu Talha's report is cut off mid-sentence where Ka'b bin Ujrah's report begins. Ka'b bin Ujrah is not in the approved list."
+  },
+  {
+    "id": "n03073",
+    "summary": "Abu Dharr reports that the Prophet asked whether he should tell them who the most miserly person is, and said it is the one in whose presence his name is mentioned and who does not send salutations on him.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03074",
+    "summary": "Abu Mas'ood reports that Basheer bin Sa'd asked the Prophet how the Companions should send salutations on him, and the Prophet taught them a salutation asking Allaah to shower mercies on Muhammad and his family as He did on Ibraheem, then said that the greeting of peace is already taught in the Tashahhud.",
+    "people": [
+      { "id": "abu-masood-ansaari", "role": "narrator" },
+      { "id": "basheer-bin-sad", "role": "subject" },
+      { "id": "sad-bin-ubaadah", "role": "mentioned" },
+      { "id": "numaan-bin-basheer", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'd bin Ubaadah is the host of the gathering, and Nu'maan bin Basheer is named as Basheer's son."
+  },
+  {
+    "id": "n03075",
+    "summary": "Abdullaah bin Mas'ood tells the people to send salutations on the Prophet properly, since they do not know whether their salutations will be presented to him, and teaches them a form of salutation.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["love-for-the-prophet", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The wording of the salutation is missing from the OCR. The closing line is the book's cross-reference to Ali's salutation, not part of the report, so Ali is not tagged."
+  },
+  {
+    "id": "n03076",
+    "summary": "Abu Bakr said that sending salutations on the Prophet removes sins more effectively than water extinguishes fire, that greeting him is more rewarding than freeing slaves, and that love for him is more rewarding than both freeing slaves and wielding a sword in Allaah's path.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["love-for-the-prophet", "dhikr", "freeing-slaves"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03077",
+    "summary": "Umar bin Khattaab said that du'aas remain suspended between heaven and earth and do not rise until salutations are sent on the Prophet.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03078",
+    "summary": "Umar said that all du'aas stop just short of the heavens until salutations are sent on the Prophet, and only then is the du'aa raised.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant of the saying in the previous item."
+  },
+  {
+    "id": "n03079",
+    "summary": "Ali said that every du'aa is held back until salutations are sent on the Prophet.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03080",
+    "summary": "Ali said that whoever sends a hundred salutations on the Prophet on a Friday will have so much light on his face on the Day of Qiyaamah that people will wonder what great deed he did; Abdullaah bin Abbaas said it is not appropriate to send salutations on anyone other than the Prophets.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["love-for-the-prophet", "dhikr", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate sayings from two Companions under one heading."
+  }
+]

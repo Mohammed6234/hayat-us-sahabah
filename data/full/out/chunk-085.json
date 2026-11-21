@@ -1,0 +1,544 @@
+[
+  {
+    "id": "n03361",
+    "summary": "Ali (RA) opens a lecture praising Allaah, reminding people of death, resurrection and accountability, and warning them not to be deceived by this world.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["zuhd", "aakhirah", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Only the opening of a fuller lecture; the text says the rest is as quoted above and ends in '. . .'."
+  },
+  {
+    "id": "n03362",
+    "summary": "At a funeral, Ali (RA) tells the mourners what the dead man has witnessed and urges them to fear Allaah and prepare for the Aakhirah.",
+    "people": [
+      { "id": "jafar-bin-muhammad", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "aakhirah", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The book says Ja'far bin Muhammad reports from his grandfather (Ali); Ja'far's grandfathers were not Ali bin Abi Taalib, so the chain is as printed and may need checking against the source."
+  },
+  {
+    "id": "n03363",
+    "summary": "Ali (RA) urges people to act for the Aakhirah, warning that this world is departing and the Aakhirah is arriving, and that they should be neither deceived nor heedless.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "fear-of-allaah", "guidance"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The sermon is followed by a variant sentence from another narration (Ali's words on passions and long hopes)."
+  },
+  {
+    "id": "n03364",
+    "summary": "Ziyaad A'raabi reports that Ali (RA) wept in the pulpit at Kufa after the battle of Nahrwaan and then warned against people who speak like the righteous but act like lovers of the world.",
+    "people": [
+      { "id": null, "name": "Ziyaad A'raabi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Khawaarij are a group, not individuals, so they are not tagged."
+  },
+  {
+    "id": "n03365",
+    "summary": "Yahya bin Yamur reports Ali (RA) teaching that Allaah's decisions come down like rain, so adversity should be met with humility and du'aa, and that enjoining good neither cuts off sustenance nor brings death closer.",
+    "people": [
+      { "id": null, "name": "Yahya bin Yamur", "role": "narrator", "sahabi": "no" },
+      { "id": "ali", "role": "subject" },
+      { "id": "sufyaan-bin-uyayna", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["enjoining-good", "qadr", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sufyaan bin Uyaynah's closing remark is praise of Ali's words, with the narrator line attached to him as the relayer."
+  },
+  {
+    "id": "n03366",
+    "summary": "A variant of the same lecture on Allaah's decisions adds that a believer who makes du'aa gets either what he asks or a reward in the Aakhirah, and that the harvest of this world is wealth and Taqwa.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["qadr", "duaa", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n03365 with a different ending; no narrator is named."
+  },
+  {
+    "id": "n03367",
+    "summary": "Abu Waa'il reports Ali's warnings in Kufa about pretending to poverty, long life, authority and consultation, and Ali's answer that Qiyaamah is near when the knowledge of Deen rests with the downtrodden.",
+    "people": [
+      { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "khilaafah", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "An unnamed man in the audience asks when these things will happen; he is not tagged."
+  },
+  {
+    "id": "n03368",
+    "summary": "In a long sermon Ali (RA) advises taqwa, the Qur'aan, following the Sunnah and sincerity, and reminds people that this world is ending while the Aakhirah is arriving.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["taqwa", "quraan", "following-the-sunnah", "sincerity", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Long sermon with some OCR debris left as printed (for example 'ail-jthings' and the 'deceived \\ 'ill' phrase). Verses quoted in the sermon are not tagged."
+  },
+  {
+    "id": "n03369",
+    "summary": "Abu Khayrah reports Ali (RA) warning the people of Kufa that they would attack the Prophet's descendants among them, and reciting verses about Husayn being brought to Kufa by deception and pressed to pledge to Yazeed.",
+    "people": [
+      { "id": null, "name": "Abu Khayrah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "mentioned" },
+      { "id": "yazeed-bin-muaawiya", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["martyrdom", "avoiding-fitnah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The lines of verse are quoted as the book gives them; the Prophet is mentioned only as the progeny of Rasulullaah."
+  },
+  {
+    "id": "n03370",
+    "summary": "Ibraheem Taymi reports that Ali (RA) denied the family had any secret writings beyond the Qur'aan and a note with camel ages for zakaah, injury laws and the Prophet's ruling that Madinah is sacred, with curses for fabrication and false claims of parentage.",
+    "people": [
+      { "id": "ibraheem-taymi", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["following-the-sunnah", "muslim-rights", "zakaah"],
+    "new_themes": ["innovation in the Deen (bid'ah)"],
+    "boundary": "ok",
+    "notes": "The narration is from Ibraheem Taymi relaying his father, who is not named, so only Ibraheem is tagged."
+  },
+  {
+    "id": "n03371",
+    "summary": "Ibraheem Nakha'ee reports Alqama bin Qais repeating from the same pulpit Ali's words that the best after the Prophet were Abu Bakr and Umar, and that later innovations are for Allaah to judge.",
+    "people": [
+      { "id": null, "name": "Ibraheem Nakha'ee", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Alqama bin Qais", "role": "narrator", "sahabi": "no" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Alqama bin Qais is given a null id, not the approved 'alqama' entry, because the approved entry could not be confirmed as the same person."
+  },
+  {
+    "id": "n03372",
+    "summary": "Abu Juhayfah reports Ali (RA) saying from the pulpit that the best person of this Ummah after the Prophet was Abu Bakr, and then Umar.",
+    "people": [
+      { "id": "abu-juhayfah", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03373",
+    "summary": "A variant report in which Ali (RA) says it never seemed far-fetched that an angel spoke through the tongue of Umar.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text stops mid-quotation with no closing quote, and no narrator is named in this variant."
+  },
+  {
+    "id": "n03374",
+    "summary": "Alqama bin Qais reports Ali (RA) rebuking those who rank him above Abu Bakr and Umar, announcing that anyone who says so after this will be punished as a slanderer, and stating the order of the best after the Prophet.",
+    "people": [
+      { "id": null, "name": "Alqama bin Qais", "role": "narrator", "sahabi": "no" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ali's announced penalty of eighty lashes for slander is not tagged as a separate theme."
+  },
+  {
+    "id": "n03375",
+    "summary": "Zaid bin Wahab reports that Suwayd bin Ghafalah, visiting Ali, led the salaah without adhaan or iqaamah and then gave the Prophet's ruling on eating sacrificial meat after three days, noting that the prohibition was later lifted.",
+    "people": [
+      { "id": "zaid-bin-wahab", "role": "narrator" },
+      { "id": "suwayd-bin-ghafala", "role": "subject" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "eating-and-drinking"],
+    "new_themes": ["sacrificial meat (udhiyah)"],
+    "boundary": "ok",
+    "notes": "The sentence that the prohibition was lifted is the book's own explanatory addition."
+  },
+  {
+    "id": "n03376",
+    "summary": "Ribee bin Hiraash reports Ali (RA) saying in a lecture not to lie about him, because whoever lies about him will enter Jahannam.",
+    "people": [
+      { "id": "ribee-bin-hiraash", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03377",
+    "summary": "Abu Abdur Rahmaan Sulami reports Ali (RA) saying that the Shari'ah penalties must be enforced on slaves and recounting the Prophet's approval of his delayed sentence on a slave woman; Abdullaah bin Sabt reports Ali foretelling his own assassination and forbidding the people to kill anyone but the killer.",
+    "people": [
+      { "id": null, "name": "Abu Abdur Rahmaan Sulami", "role": "narrator", "sahabi": "no" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Abdullaah bin Sabt", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["justice", "slaves-and-servants", "martyrdom", "khilaafah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. The text reads Ali's name as 'Mi' and 'Mi.' (OCR); the context makes it Ali. The slave woman is not named, and the assassin is not named."
+  },
+  {
+    "id": "n03378",
+    "summary": "Umayr bin Abdul Malik reports Ali (RA) telling the people he had taken nothing from their wealth except a perfume vial given to him as a gift, and then relaying the Prophet's report of Allaah's mercy and wrath towards those who obey or disobey.",
+    "people": [
+      { "id": null, "name": "Umayr bin Abdul Malik", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["honest-dealings", "mercy-and-forgiveness", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The first report's narrator reads 'Amr bin Maa' in the OCR, which is not a recognisable name, so it is left out. 'Hadhrat Mi' is Ali."
+  },
+  {
+    "id": "n03379",
+    "summary": "Hubayrah reports Hasan bin Ali (RA) addressing the people after his father Ali's death, praising Ali's merits and the night of his martyrdom, and Abu Tufayl reports Hasan reciting his lineage to the Prophet's household.",
+    "people": [
+      { "id": null, "name": "Hubayrah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": null, "name": "Abu Tufayl", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "martyrdom"],
+    "new_themes": ["love for the Prophet's household (Ahl al-Bayt)"],
+    "boundary": "merged",
+    "notes": "Several reports joined: Hubayrah's account, a second narration of the same sermon, and Abu Tufayl's report. Quranic prophets (Isa, Moosa, Yusha bin Noon, Yusuf, Ibraheem, Is'haaq, Ya'qoob) and the angels Jibra'eel and Mikaa'eel are not tagged as people. The 'Hadhrat Mi' in the text is Ali."
+  },
+  {
+    "id": "n03380",
+    "summary": "Abu Jameela reports that after Ali's death and after Hasan was stabbed in the buttock, Hasan addressed the people of Iraq about fearing Allaah and about the Prophet's household, until everyone in the Masjid was weeping.",
+    "people": [
+      { "id": null, "name": "Abu Jameela", "role": "narrator", "sahabi": "unsure" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["weeping-and-grief", "fear-of-allaah"],
+    "new_themes": ["love for the Prophet's household (Ahl al-Bayt)"],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Jameela's account, and a variant that Hasan kept repeating his words until the Masjid was sobbing. The attacker is not named."
+  },
+  {
+    "id": "n03381",
+    "summary": "Sha'bi reports that at Nakheelah, after making peace with Mu'aawiya, Hasan told the people he had relinquished the Khilaafah to Mu'aawiya to save the blood of the Ummah.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sha'bi says he personally heard the lecture. The Qur'aan verse quoted in the sermon is not tagged."
+  },
+  {
+    "id": "n03382",
+    "summary": "In a second report from Sha'bi, Hasan at Nakheelah says the Khilaafah is temporary, that the Prophet's family guided the people while his own peace saved their blood, and concludes by asking Allaah's forgiveness.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["avoiding-fitnah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two versions of the same speech are joined, including a further narration with Hasan's Qur'aan verse."
+  },
+  {
+    "id": "n03383",
+    "summary": "Muhammad bin Ka'b Qurazi reports Mu'aawiya's sermon in Madinah that Allaah grants understanding of the Deen to whoever He wishes good, and that Mu'aawiya heard this from the Prophet.",
+    "people": [
+      { "id": "muhammad-bin-kab", "role": "narrator" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator tagged as the approved 'muhammad-bin-kab' entry, identified from the Qurazi nisba; that entry's Companion status is marked unsure in the vocabulary."
+  },
+  {
+    "id": "n03384",
+    "summary": "Several chains report Mu'aawiya's sermon: the Prophet said that Allaah grants understanding of the Deen to whoever He wishes good, and that a group of this Ummah will stay upon the truth until Qiyaamah; Maalik bin Yakhaamir adds that Mu'aadh bin Jabal identified them as the people of Shaam.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Abdur Rahmaan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": null, "name": "Umayr bin Haani", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Maalik bin Yakhaamir", "role": "narrator", "sahabi": "no" },
+      { "id": "muaadh-bin-jabal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several chains joined. Muhammad bin Abdur Rahmaan is not identifiable from the approved list; 'muhammad-bin-abdur-rahmaan-bin-husayn' is a different person."
+  },
+  {
+    "id": "n03385",
+    "summary": "Yunus bin Halbas Janadi reports Mu'aawiya's sermon, in which he recites a verse about Isa's elevation and the Ummah prevailing until Qiyaamah, and Makhool reports the Prophet's words that a group of the Ummah will prevail until Qiyaamah.",
+    "people": [
+      { "id": null, "name": "Yunus bin Halbas Janadi", "role": "narrator", "sahabi": "no" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "makhool", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["steadfastness", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. Isa, named in the quoted verse, is not tagged as a person."
+  },
+  {
+    "id": "n03386",
+    "summary": "Muhammad bin Abdullaah reports Ibn Zubayr's Hajj lecture in Makkah just before the Day of Tarwiyah, covering the verses on the months of Hajj, Arafaat, Muzdalifah, the Talbiyah, the miqaats and Tamattu, with much dhikr and du'aa.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hajj", "dhikr", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Long lecture. The curse on disbelieving People of the Book and the remark on Tamattu are the speaker's own words in the report."
+  },
+  {
+    "id": "n03387",
+    "summary": "Hishaam bin Urwa reports Ibn Zubayr teaching that pilgrims may stay at any part of Arafah except Batn Urna, and at any part of Muzdalifah except Batn Muhassar.",
+    "people": [
+      { "id": "hishaam-bin-urwa", "role": "narrator" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hajj", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03388",
+    "summary": "Abbaas bin Sahl reports Ibn Zubayr quoting the Prophet that a person given a valley of gold would want a second, and that only the grave's sand fills the belly; Ataa bin Abi Rabaah reports Ibn Zubayr relating the Prophet's ruling on the reward of salaah in Madinah's Masjid and the Masjidul Haraam, and that the whole Haram is a Masjid.",
+    "people": [
+      { "id": null, "name": "Abbaas bin Sahl bin Sa'd Saa'idi Ansaari", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "ataa-bin-abi-rabaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "masjid", "salaah"],
+    "new_themes": ["repentance (tawbah)"],
+    "boundary": "merged",
+    "notes": "Three reports joined: Abbaas bin Sahl's report, Ataa's report of the Masjid ruling, and Ataa's question answered by Ibn Zubayr (addressed as Abu Muhammad)."
+  },
+  {
+    "id": "n03389",
+    "summary": "Wahab bin Kaysaan, a freed slave of Ibn Zubayr, reports that Ibn Zubayr led the Eid salaah before the lecture, saying this is the way shown by Allaah and His Rasool.",
+    "people": [
+      { "id": null, "name": "Wahab bin Kaysaan", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Wahab's Companion status is inferred (freed slave, later generation) and marked no."
+  },
+  {
+    "id": "n03390",
+    "summary": "Thaabit reports Ibn Zubayr relating the Prophet's ruling against men wearing silk in this world, and the Prophet's dhikr after salaah; Abu Zubayr reports Ibn Zubayr narrating the same from the same pulpit.",
+    "people": [
+      { "id": null, "name": "Thaabit", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "narrator" },
+      { "id": null, "name": "Abu Zubayr", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["clothing", "salaah", "dhikr"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The silk ruling is cut off mid-sentence ('will not wear it in the') before the Hereafter part, and the join to the second report is garbled in the text."
+  },
+  {
+    "id": "n03391",
+    "summary": "Thuwayr reports Ibn Zubayr telling the people from the pulpit to fast on the Day of Aashura because the Prophet gave the instruction to fast.",
+    "people": [
+      { "id": null, "name": "Thuwayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["fasting", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03392",
+    "summary": "Kulthoom bin Hibr reports Ibn Zubayr warning the people of Makkah about a gambling game called Nardsheer, quoting Surah Maa'idah verse 90, and vowing severe punishment for anyone caught playing it.",
+    "people": [
+      { "id": null, "name": "Kulthoom bin Hibr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "enjoining-good"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The punishment is Ibn Zubayr's own vow, not a ruling of the Prophet."
+  },
+  {
+    "id": "n03393",
+    "summary": "Abu Dardaa reports that the Prophet asked Abu Bakr, Umar and then Ibn Mas'ood to speak, and praised Ibn Mas'ood's short address on Allaah as Rabb, Islaam as Deen, the Qur'aan as Imaam and the Prophet as the one they follow, while warning against bombastic speech.",
+    "people": [
+      { "id": "abu-dardaa", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "saeed-bin-jubayr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "following-the-sunnah", "good-character"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text stops mid-sentence ('displeases Ibn'), cutting off Sa'eed bin Jubayr's variant. 'Ibn Ummi Abd' is Ibn Mas'ood."
+  },
+  {
+    "id": "n03394",
+    "summary": "A similar report of the Prophet asking Ibn Mas'ood to speak, in which Ibn Mas'ood says he is pleased with Allaah as Rabb and Islaam as his religion, and the Prophet says he is pleased with what Ibn Ummi Abd likes for them.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n03393; no narrator is named."
+  },
+  {
+    "id": "n03395",
+    "summary": "Abul Ahwas Jushami reports Ibn Mas'ood killing a snake during his lecture on the Prophet's ruling that killing a snake is like killing a mushrik; Abu Waa'il reports Ibn Mas'ood's address in Kufa after Uthmaan became Khalifah, urging the people to pledge allegiance to him.",
+    "people": [
+      { "id": "abul-ahwas", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abu-waail-shaqeeq-bin-salama", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["bayah", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: the snake story and Abu Waa'il's report of the address on Uthmaan's Khilaafah."
+  },
+  {
+    "id": "n03396",
+    "summary": "Khaalid bin Umayr Adawi reports Utba bin Ghazwaan's sermon as governor of Basrah, on the world's ending, the stones of Jahannam, the gates of Jannah, his memory of living on tree leaves with the Prophet, and his fear of being esteemed by himself while humbled before Allaah.",
+    "people": [
+      { "id": null, "name": "Khaalid bin Umayr Adawi", "role": "narrator", "sahabi": "no" },
+      { "id": "utba-bin-ghazwaan", "role": "subject" },
+      { "id": "sad-bin-abi-waqqaas", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["zuhd", "aakhirah", "hunger-and-hardship", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says Sa'd bin Maalik; tagged as Sa'd bin Abi Waqqaas (Sa'd bin Malik is his usual full name). Khaalid is marked no as a later-generation narrator."
+  },
+  {
+    "id": "n03397",
+    "summary": "A variant of Utba bin Ghazwaan's address in which leadership after the Prophethood degenerates into kingship and many leaders and governors will test the people.",
+    "people": [
+      { "id": "utba-bin-ghazwaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "zuhd"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins the end of one variant with the opening of another narration of the first Basrah lecture."
+  },
+  {
+    "id": "n03398",
+    "summary": "Abu Abdur Rahmaan Sulami reports Hudhayfah bin Yamaan's Jumu'ah lectures at Madaa'in on Qiyaamah drawing near and the race towards Jannah through good deeds.",
+    "people": [
+      { "id": null, "name": "Abu Abdur Rahmaan Sulami", "role": "narrator", "sahabi": "no" },
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "zuhd"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports joined: the first Jumu'ah, a variant of it, and Hudhayfah's next Jumu'ah. The narrator's father is not named."
+  },
+  {
+    "id": "n03399",
+    "summary": "Kurdoos reports Hudhayfah bin Yamaan at Madaa'in telling the people to check what their slaves earn, because the Prophet said no flesh nourished with haraam will enter Jannah.",
+    "people": [
+      { "id": null, "name": "Kurdoos", "role": "narrator", "sahabi": "unsure" },
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "slaves-and-servants"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03400",
+    "summary": "A variant of Hudhayfah bin Yamaan's Madaa'in lecture, warning the people to watch their slaves' sources of income and saying the seller, buyer and maker of wine are like the one who drinks it.",
+    "people": [
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "slaves-and-servants"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of n03399; no narrator is named. The wine sentence is not attributed to the Prophet."
+  }
+]

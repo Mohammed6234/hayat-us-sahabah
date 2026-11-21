@@ -1,0 +1,140 @@
+[
+  {
+    "id": "n00031",
+    "summary": "Adi bin Haatim recounts how the Prophet invited him to Islaam, foretold the safety of Heera and the conquest of Kisra's treasures, and how he later saw these prophecies fulfilled.",
+    "people": [
+      { "name": "Adi bin Haatim", "as_written": "Hadhrat Adi bin Haatim (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Kisra bin Hurmuz", "as_written": "Kisra bin Hurmuz", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "prophecies of the prophet", "safety brought by islaam"],
+    "events": ["Conquest of the treasures of Kisra"],
+    "places": ["Rome", "Heera", "Kabah"],
+    "boundary": "ok",
+    "notes": "Ends with OCR debris ('Rasulullaah Msaidit'); the sense is clear."
+  },
+  {
+    "id": "n00032",
+    "summary": "Adi bin Haatim's captured aunt is freed and sent back with help, and when Adi meets the Prophet he accepts Islaam; the Prophet then urges the Companions to give charity even if it is only a date.",
+    "people": [
+      { "name": "Adi bin Haatim", "as_written": "Hadhrat Adi bin Haatim (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Kisra", "as_written": "the king Kisra", "role": "mentioned", "sahabi": "no" },
+      { "name": "Shu'ba", "as_written": "one of the narrators by the name of Shu'ba", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["giving sadaqah", "accepting islaam", "accountability on the day of qiyaamah", "kindness of the prophet"],
+    "events": [],
+    "places": ["Aqrab", "Heera", "Madinah"],
+    "boundary": "ok",
+    "notes": "Unsure: the text says a companion walking with the Prophet was 'believed to be Hadhrat Ali'; not tagged since the text does not name him. Shu'ba tagged as a narrator in a variant chain. OCR debris ('Adi t's aunt', 'Js anyone') ignored."
+  },
+  {
+    "id": "n00033",
+    "summary": "Dhi Jowshin Dhababi declines Islaam after Badr, receives provisions from the Prophet, and later regrets not accepting when he hears Makkah is under Muslim control.",
+    "people": [
+      { "name": "Dhi Jowshin Dhababi", "as_written": "Hadhrat Dhi Jowshin Dhababi (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Bilaal", "as_written": "Hadhrat Bilaal (RA)", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "regret over delaying islaam", "generosity of the prophet", "conditional acceptance of islaam"],
+    "events": ["Battle of Badr"],
+    "places": ["Ghowr", "Heera", "Kabah"],
+    "boundary": "ok",
+    "notes": "OCR damage mid-dialogue ('Rasulullaah asked, not?') makes one exchange unclear; the overall meaning is not affected."
+  },
+  {
+    "id": "n00034",
+    "summary": "Basheer bin Khasaasiyah accepts Islaam, is renamed Basheer by the Prophet, lives with the people of Suffa, and follows the Prophet to Baqee where the Prophet addresses the dead.",
+    "people": [
+      { "name": "Basheer bin Khasaasiyah", "as_written": "Hadhrat Basheer bin Khasaasiyah (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting islaam", "ahl us-suffa", "sadaqah", "visiting the graves", "protecting the prophet"],
+    "events": [],
+    "places": ["Suffa", "Baqee"],
+    "boundary": "ok",
+    "notes": "OCR damage ('Rasulullaah H asked him'). A footnote reference (Bukhari; Bidaaya wan Nihaaya, Vol. 5 Pg. 65) is merged into the text. The original name ('Nadheer') is garbled in the OCR."
+  },
+  {
+    "id": "n00035",
+    "summary": "Two reports are joined: a man of the Baladawiyyah tribe recounts meeting the Prophet on the road to Madinah, accepting Islaam and being taught leniency in trade and respect for people's rights; then Anas reports the Prophet inviting his maternal uncle from Banu Najjaar to Islaam.",
+    "people": [
+      { "name": "Anas bin Maalik", "as_written": "Hadhrat Anas bin Maalik (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "leniency in buying and selling", "respecting the rights of people", "dawah to family"],
+    "events": [],
+    "places": ["Madinah"],
+    "boundary": "merged",
+    "notes": "Contains two separate reports that should be split: (1) the Baladawiyyah man's account, narrated from his grandfather (unnamed); (2) Anas bin Maalik's report about the Prophet visiting his maternal uncle of Banu Najjaar (uncle unnamed)."
+  },
+  {
+    "id": "n00036",
+    "summary": "Anas reports that the Prophet visited a sick Jewish boy who served him and invited him to Islaam, and the boy accepted with his father's consent.",
+    "people": [
+      { "name": "Anas", "as_written": "Hadhrat Anas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "dawah to non-muslims", "accepting islaam", "visiting the sick", "saved from jahannam"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "The boy and his father are unnamed and not listed. The text names only 'Anas' here."
+  },
+  {
+    "id": "n00037",
+    "summary": "Anas reports that the Prophet invited an unnamed person to Islaam, and the person said he disliked it, to which the Prophet replied.",
+    "people": [
+      { "name": "Anas", "as_written": "Hadhrat Anas (RA)", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam"],
+    "events": [],
+    "places": [],
+    "boundary": "ok",
+    "notes": "Very short report; the person addressed is unnamed."
+  },
+  {
+    "id": "n00038",
+    "summary": "Asma bint Abi Bakr reports that on the day Makkah was conquered, the Prophet invited her father Abu Quhaafa to Islaam and told him to remain in peace.",
+    "people": [
+      { "name": "Asma bint Abi Bakr", "as_written": "Hadhrat Asma bint Abi Bakr (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Quhaafa", "as_written": "Hadhrat Abu Quhaafa (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "accepting islaam", "peace and safety through islaam"],
+    "events": ["Conquest of Makkah"],
+    "places": ["Makkah"],
+    "boundary": "ok",
+    "notes": "Possibly the same event as n00039 (same narrator, fuller account); they are kept as separate narrations."
+  },
+  {
+    "id": "n00039",
+    "summary": "Asma bint Abi Bakr reports that after the Prophet entered Makkah, Abu Bakr brought his father Abu Quhaafa, who accepted Islaam and recited the Kalimah when the Prophet placed a hand on his chest and invited him.",
+    "people": [
+      { "name": "Asma bint Abi Bakr", "as_written": "Hadhrat Asma bint Abi Bakr (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Bakr", "as_written": "Hadhrat Abu Bakr (RA)", "role": "subject", "sahabi": "yes" },
+      { "name": "Abu Quhaafa", "as_written": "Hadhrat Abu Quhaafa (RA)", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting islaam", "respect for elders", "dawah to family", "kalimah"],
+    "events": ["Conquest of Makkah"],
+    "places": ["Makkah", "Masjidul Haraam"],
+    "boundary": "ok",
+    "notes": "Unsure about Abu Bakr's role: he speaks and brings his father, so tagged subject, though the narration is mainly about Abu Quhaafa. Possibly the same event as n00038."
+  },
+  {
+    "id": "n00040",
+    "summary": "Mughiera bin Shu'ba recounts meeting the Prophet walking with Abu Jahal in Makkah, where Abu Jahal admitted the message was true but refused Islaam because of Bani Qusay's precedence over the other Quraysh clans.",
+    "people": [
+      { "name": "Mughiera bin Shu'ba", "as_written": "Hadhrat Mughiera bin Shu'ba (RA)", "role": "narrator", "sahabi": "yes" },
+      { "name": "Abu Jahal", "as_written": "Abu Jahal", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "tribal pride preventing islaam", "knowing the truth but refusing"],
+    "events": [],
+    "places": ["Makkah"],
+    "boundary": "ok",
+    "notes": "OCR debris at the end ('(,)') ignored. Bani Qusay and Quraysh are tribes/clans, not tagged as people."
+  }
+]

@@ -1,0 +1,520 @@
+[
+  {
+    "id": "n02281",
+    "summary": "Suwayd bin Haarith (RA) relates how a delegation of seven met the Prophet, who asked them the reality of their Imaan, and they listed its fifteen attributes.",
+    "people": [
+      { "id": null, "name": "Suwayd bin Haarith", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "delegations"],
+    "new_themes": ["the reality of Imaan"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02282",
+    "summary": "Abdullaah bin Umar relates how Harmalah bin Zaid Ansaari confessed that his heart held hypocrisy, and the Prophet prayed for him and left the obstinate hypocrites to Allaah.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": null, "name": "Harmalah bin Zaid Ansaari", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "dhikr", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02283",
+    "summary": "Aa'isha (RA) relates that an unnamed Sahabi who led prayers always ended with Surah Ikhlaas, and the Prophet said Allaah loves him for loving it.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "tawheed"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The author summarises part of the narration; not cut off."
+  },
+  {
+    "id": "n02284",
+    "summary": "Abdullaah bin Mas'ood relates the words of a Jewish scholar about Allaah's power over creation, which the Prophet confirmed with a smile and a verse of Surah Zumar.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "aakhirah", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02285",
+    "summary": "Anas bin Maalik relates the Prophet's answer about the disbelievers being raised on their faces, and Hudhayfah bin Usayd reports Abu Dharr's account of the three groups in which people will be resurrected and of the calamity that will destroy all riding animals.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Hudhayfah bin Usayd", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports: Anas bin Maalik's (the Prophet on resurrection on the face) and Hudhayfah bin Usayd's report of Abu Dharr's words. Hudhayfah bin Usayd is not in the approved list and his sahabi status is not stated in the text."
+  },
+  {
+    "id": "n02286",
+    "summary": "Tufayl bin Abdullaah (RA) relates his dream about Christians and Jews, after which the Prophet told the Sahabah not to say what Allaah and Muhammad wills but to say that the One Allaah wills.",
+    "people": [
+      { "id": null, "name": "Tufayl bin Abdullaah", "role": "subject", "sahabi": "yes" },
+      { "id": "aaisha", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02287",
+    "summary": "Hudhayfah relates a Muslim's dream about the Ahlul Kitaab and the Prophet's correction of the phrase what Allaah and Muhammad wills, and Abdullaah bin Abbaas reports the Prophet rebuking a man who equated him with Allaah.",
+    "people": [
+      { "id": "hudhayfah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports: Hudhayfah's dream and Ibn Abbaas's account. The text gives only the bare name Hudhayfah, so it is matched to the approved hudhayfah entry; please confirm it is not Hudhayfah bin Yamaan."
+  },
+  {
+    "id": "n02288",
+    "summary": "Awzaa'ee reports that a Jew asked the Prophet about free will, and each action was affirmed as Allaah's will, after which Jibra'eel said the Prophet had been inspired with the correct facts as Ibraheem was.",
+    "people": [
+      { "id": null, "name": "Awzaa'ee", "role": "narrator", "sahabi": "no" },
+      { "id": "jibraeel", "role": "subject" },
+      { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "trust-in-allaah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02289",
+    "summary": "Abdullaah bin Mas'ood relates how the Prophet and the Sahabah overslept Fajr on the way back from Hudaybiyyah and the Prophet said Allaah had willed it as a lesson, and Abu Qataadah reports the Prophet saying Allaah takes souls in sleep when He wills.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "abu-qataadah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["salaah", "tawheed"],
+    "new_themes": ["predestination"],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Mas'ood's account of the oversleeping and the separate saying of Abu Qataadah on the souls, attached by the author."
+  },
+  {
+    "id": "n02290",
+    "summary": "Taariq bin Shihaab relates that a Jew asked Umar where Jahannam is, given the verse about the vastness of Jannah, and Umar answered by comparing it to where the day goes at night, which the Jew said matched the Torah.",
+    "people": [
+      { "id": "taariq-bin-shihaab", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02291",
+    "summary": "Muhammad relates that Ali questioned a man who debated volition, asking whether Allaah creates, sickens, cures and moves people as He wills or as they will, and the narration breaks off mid-sentence.",
+    "people": [
+      { "id": null, "name": "Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["tawheed", "trust-in-allaah"],
+    "new_themes": ["predestination"],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-sentence in Ali's words. A footnote (Bayhaqi reference) is mixed into the text. The narrator is given only as Muhammad, which cannot be matched to an approved entry."
+  },
+  {
+    "id": "n02292",
+    "summary": "Anas bin Maalik relates that the Sahabah feared hypocrisy when they left the Prophet's company, and the Prophet said that Allaah being their Rabb in private and in public is not hypocrisy.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["hypocrisy", "sincerity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02293",
+    "summary": "Abu Hurayrah relates how a Bedouin asked who will call creation to account on the Day of Qiyaamah, and when told it is Allaah, the Bedouin said they were saved because the Magnanimous One forgives.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02294",
+    "summary": "Sa'eed bin Musayyib relates that Umar sent Mu'aadh bin Jabal to collect zakaah, and Mu'aadh gave it all to the poor and told his wife an inspector had gone with him, after which Umar laughed and gave her a gift.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["zakaah", "honest-dealings", "generosity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The wife is unnamed. The author's note about Ibn Jareer is a reference line and is not tagged."
+  },
+  {
+    "id": "n02295",
+    "summary": "Aa'isha (RA) relates that Allaah hears everything, and that a verse was revealed about Khowla bint Tha'laba's debate with the Prophet over her husband, though Aa'isha could hear nothing from the corner of the room.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "khowlah-bint-thalaba", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02296",
+    "summary": "Aa'isha (RA) relates Khowla bint Tha'laba's complaint to the Prophet about her husband, and that Jibra'eel brought the verse before she had stood up.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "khowlah-bint-thalaba", "role": "subject" },
+      { "id": "jibraeel", "role": "subject" },
+      { "id": null, "name": "Aws bin Saamit", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The final sentence naming the husband as Aws bin Saamit is an editorial addition by the author. Aws bin Saamit is not in the approved list."
+  },
+  {
+    "id": "n02297",
+    "summary": "Abdullaah bin Umar reports Abu Bakr's address after the Prophet's death, which recounts a woman who died while in sajdah, and Aa'isha reflects on the sudden death of her brother Abdur Rahmaan bin Abu Bakr.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abdur-rahmaan-bin-abu-bakr", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["death-and-burial", "gratitude"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Bakr's address and Aa'isha's reflection on her brother. The opening sentence of the address is garbled OCR and the address appears cut off."
+  },
+  {
+    "id": "n02298",
+    "summary": "Ali (RA) explains that the water of the Flood and the wind that destroyed Aad were released by Allaah directly, without the angel who normally measures them, and cites the verses of Surah Haaqqah.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "nooh", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["tawheed", "quraan"],
+    "new_themes": ["angels"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02299",
+    "summary": "Buqayrah (RA), the wife of Salmaan Faarsi, relates that on his deathbed Salmaan had the doors opened for expected visitors and musk sprinkled around his bed, and she found him dead as if asleep.",
+    "people": [
+      { "id": "buqayrah", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "miracles-and-blessings"],
+    "new_themes": ["angels"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02300",
+    "summary": "Aamir Sha'bi relates that Salmaan on his deathbed had musk dissolved in water and sprinkled, saying angels who smell fragrance but eat no food would come to him, and Ataa bin Saa'ib adds a brief version of the same.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" },
+      { "id": "ataa-bin-saaib", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "miracles-and-blessings"],
+    "new_themes": ["angels"],
+    "boundary": "merged",
+    "notes": "Two reports: Sha'bi's account and the brief narration from Ataa bin Saa'ib. The closing line pointing to later narrations is an editorial note and is not tagged."
+  },
+  {
+    "id": "n02301",
+    "summary": "Aa'isha (RA) remarks on a child of the Ansaar who died young, and the Prophet explains that Allaah created the people of Jannah and Jahannam with their destinies set while they were still in their fathers' backs.",
+    "people": [
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "aakhirah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02302",
+    "summary": "Waleed bin Ubaadah relates his father Ubaadah bin Saamit's deathbed advice that one cannot taste Imaan without believing in predestination, quoting the Prophet that the pen was the first thing Allaah created.",
+    "people": [
+      { "id": null, "name": "Waleed bin Ubaadah", "role": "subject", "sahabi": "unsure" },
+      { "id": "ubaadah-bin-saamit", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "family"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02303",
+    "summary": "Abu Nadhrah relates that Abu Abdullaah, a companion of the Prophet, wept on his deathbed because he did not know which of the two handfuls of souls Allaah had set aside for him.",
+    "people": [
+      { "id": "abu-nadhrah", "role": "narrator" },
+      { "id": null, "name": "Abu Abdullaah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "fear-of-allaah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": "The companion is given only as Abu Abdullaah, so he is not matched to an approved entry."
+  },
+  {
+    "id": "n02304",
+    "summary": "Muaadh bin Jabal (RA) weeps on his deathbed, saying he does not know which of the two handfuls of souls he will be placed in, as the Prophet had said.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "fear-of-allaah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02305",
+    "summary": "Muhammad bin Ubayd Makki relates that Ibn Abbaas, on hearing of a man who denied predestination, vowed to break his neck and bite off his nose, quoting the Prophet's warning that denying predestination would be the first Shirk in this Ummah.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Ubayd Makki", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "avoiding-fitnah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": "The OCR drops Ibn Abbaas's first name in the text; he is matched from the heading."
+  },
+  {
+    "id": "n02306",
+    "summary": "Ataa bin Abu Rabaah relates Ibn Abbaas's words about people who objected to predestination, whom he called the worst of this Ummah and whose sick he would not visit or whose dead he would not bury.",
+    "people": [
+      { "id": "ataa-bin-abi-rabaah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "tawheed"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": "The OCR drops Ibn Abbaas's first name in the text; he is matched from the heading."
+  },
+  {
+    "id": "n02307",
+    "summary": "Ibn Abbaas says he wishes he could trample the head of anyone who denied predestination, because the Lowhul Mahfoodh is written by Allaah's glances that create, give life, give death and honour as He pleases.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["tawheed", "avoiding-fitnah"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": "The OCR drops Ibn Abbaas's first name in the text; he is matched from the heading."
+  },
+  {
+    "id": "n02308",
+    "summary": "Naafi relates that Abdullaah bin Umar cut off a correspondent in Shaam who objected to predestination, quoting the Prophet's warning that people in his Ummah would deny it.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["avoiding-fitnah", "tawheed"],
+    "new_themes": ["predestination"],
+    "boundary": "ends-mid",
+    "notes": "The Prophet's quotation is cut off mid-sentence. The name Abdullaah is missing from the OCR (Hadhrat (RA) bin Umar); matched as Abdullaah bin Umar from the heading."
+  },
+  {
+    "id": "n02309",
+    "summary": "Nazzaal bin Sabrah relates that Ali corrected a claim that Allaah does not know something until it happens, explaining the verse about testing, and quotes his earlier saying that nothing happens on earth until it is decided in the heavens.",
+    "people": [
+      { "id": null, "name": "Nazzaal bin Sabrah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "tawheed"],
+    "new_themes": ["predestination"],
+    "boundary": "merged",
+    "notes": "Two reports: Ali's pulpit address and the saying Ali gave in the Tawakkul chapter, which is quoted here by cross-reference. The questioner is unnamed."
+  },
+  {
+    "id": "n02310",
+    "summary": "Abdullaah bin Mas'ood reports that Umar used to recite couplets from the pulpit saying that the destinies of all matters are in Allaah's hand, so that what He thwarts can never reach a person and what He commands can never be thwarted.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["trust-in-allaah", "tawheed"],
+    "new_themes": ["predestination"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02311",
+    "summary": "Ibn Abbaas relates that when the verse about the trumpet was revealed, the Prophet said he could not live in ease with the trumpet-blower poised to blow, and taught the Sahabah to say that Allaah is sufficient for them.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "trust-in-allaah"],
+    "new_themes": ["signs of Qiyaamah"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02312",
+    "summary": "Another narration of the trumpet incident says that when the Sahabah heard the warning they were troubled, and the Prophet told them to recite that Allaah is sufficient for them.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["aakhirah", "trust-in-allaah"],
+    "new_themes": ["signs of Qiyaamah"],
+    "boundary": "ok",
+    "notes": "A variant report of the incident in the previous narration (n02311). The narrator is not named."
+  },
+  {
+    "id": "n02313",
+    "summary": "Hafsa (RA) tells Sauda Yamaaniyyah (RA) that the one-eyed Dajjaal has appeared, and Sauda hides in a tent until the Prophet comes, clarifies that he has not yet appeared, and dusts her off.",
+    "people": [
+      { "id": "hafsa", "role": "subject" },
+      { "id": null, "name": "Sauda Yamaaniyyah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "kindness"],
+    "new_themes": ["signs of Qiyaamah"],
+    "boundary": "ok",
+    "notes": "The text calls her Sauda Yamaaniyyah, so she is not matched to the approved sauda-bint-zamah entry; a reviewer should check whether they are the same person. The opening sentence is a cross-reference to an earlier narration; the story itself is complete."
+  },
+  {
+    "id": "n02314",
+    "summary": "Sa'eed bin Musayyib relates that Abu Bakr asked whether there is a place in Iraq called Khurasaan, from which Dajjaal would emerge, and Abu Bakr also stated that Dajjaal would come from the Jews of Marw.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "seeking-knowledge"],
+    "new_themes": ["signs of Qiyaamah"],
+    "boundary": "merged",
+    "notes": "Two statements of Abu Bakr joined: the Khurasaan question and the separate Marw statement, which is given without its own chain of narrators."
+  },
+  {
+    "id": "n02315",
+    "summary": "Ibn Abi Mulaykah relates that Ibn Abbaas stayed awake fearing the smoke sign of the Last Day after a tailed star appeared, and another report has him fearing that Dajjaal would appear.",
+    "people": [
+      { "id": "ibn-abi-mulaykah", "role": "narrator" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "fear-of-allaah"],
+    "new_themes": ["signs of Qiyaamah"],
+    "boundary": "merged",
+    "notes": "Two reports: the tailed-star account and a similar report about Dajjaal, appended with Another similar narration."
+  },
+  {
+    "id": "n02316",
+    "summary": "Ubaadah bin Nasi reports that Abu Bakr on his deathbed told Aa'isha to bury him in his two garments, since the dead will be either richly clothed or stripped in the grave.",
+    "people": [
+      { "id": null, "name": "Ubaadah bin Nasi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "aaisha", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02317",
+    "summary": "Aa'isha (RA) reports that when Abu Bakr was dying she recited a couplet on the uselessness of wealth, and he corrected her with a verse of Surah Qaaf and asked to be buried in his two garments, since the living need new clothing more than the dead.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02318",
+    "summary": "Aa'isha (RA) relates Abu Bakr's last days: he rebuked her weeping, asked which day the Prophet died, hoped to die that same night, and asked that his saffron-stained garment be washed and added to the Prophet's three-sheet shroud.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["death-and-burial", "prophets-final-illness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "A variant report (Another narration states) is appended at the end, and the text contains OCR quote marks and debris."
+  },
+  {
+    "id": "n02319",
+    "summary": "Yahya bin Abu Raashid Nasri relates Umar's deathbed instructions to his son about washing, shrouding, the grave and the funeral, based on the hope of good with Allaah.",
+    "people": [
+      { "id": null, "name": "Yahya bin Abu Raashid Nasri", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "fear-of-allaah", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The second part recalls two earlier narrations by cross-reference (Umar's oath about ransoming himself from the frightening scene, and the incident of his head being placed on the ground in his son Abdullaah's lap). The son in the first part is unnamed; Abdullaah is named only in the second."
+  },
+  {
+    "id": "n02320",
+    "summary": "Uthmaan (RA) wept whenever he stood at a grave, and when asked, said the Prophet called the grave the first stage of the Aakhirah and had never seen a sight more frightening.",
+    "people": [
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "aakhirah", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The opening sentence is a cross-reference to an earlier narration of Haani, which is not tagged here. The questioner is unnamed."
+  }
+]

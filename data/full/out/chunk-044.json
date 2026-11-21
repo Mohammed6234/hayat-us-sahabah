@@ -1,0 +1,898 @@
+[
+ {
+  "id": "n01721",
+  "summary": "Umar and Uthmaan accepted a meal invitation, but Umar wished he had not gone, fearing it was hosted for show; later Uthmaan accepted Mughiera bin Shu'ba's wedding invitation while fasting, to pray for blessings.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "mughiera-bin-shuba",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Humayd bin Nu'aym",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "hospitality",
+   "sincerity"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: the meal story (Umar and Uthmaan) and, in the second paragraph, Uthmaan at Mughiera's wedding, which has no narrator given. Text is OCR-garbled at 'Uthmaan Sffiife'' (read as Uthmaan)."
+ },
+ {
+  "id": "n01722",
+  "summary": "Salmaan Faarsi advises accepting a gift or meal invitation from a friend, neighbour or relative who works for the state, even when his earnings are doubtful, since any sin of unlawful earnings is his.",
+  "people": [
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "halaal-and-haraam",
+   "hospitality"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01723",
+  "summary": "Mu'aawiya bin Qurra says Ma'qal Muzani removed an obstacle from the road and told him, quoting the Prophet, that removing an obstacle from the Muslims' path earns a good deed and that whoever has a single good deed accepted enters Jannah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ma'qal Muzani",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "muaawiya-bin-qurra",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "kindness",
+   "aakhirah"
+  ],
+  "new_themes": [
+   "good deeds"
+  ],
+  "boundary": "ok",
+  "notes": "Ma'qal Muzani is not linked to an approved id (maqal-bin-yasaar or muzani) because the text gives no father's name. Check against the approved list."
+ },
+ {
+  "id": "n01724",
+  "summary": "Abdullaah bin Umar reports that when the Prophet sneezed while sitting with the Sahabah and they answered Yarhamukallah, he prayed that Allaah guide them and set their affairs right.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01725",
+  "summary": "Aa'isha reports that a man who sneezed in the Prophet's presence asked what he should say, and the Prophet taught him the words for his own sneeze and for the reply to it.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": "The Arabic phrases are OCR-garbled; the sense is clear."
+ },
+ {
+  "id": "n01726",
+  "summary": "Abdullaah bin Mas'ood says the Prophet taught the Sahabah to respond whenever someone sneezed.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01727",
+  "summary": "Abdullaah bin Mas'ood describes the Prophet's teaching: the sneezer says Alhamdulillah, those present say Yarhamukallah, and the sneezer replies with a prayer for their guidance and the setting right of their affairs.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": "Arabic phrases are OCR-garbled."
+ },
+ {
+  "id": "n01728",
+  "summary": "Umm Salamah reports that the Prophet replied to a sneezer who said Alhamdulillah, and said that a second sneezer who gave a longer praise had surpassed the first by nineteen stages.",
+  "people": [
+   {
+    "id": "umm-salama",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": "Arabic phrases are OCR-garbled."
+ },
+ {
+  "id": "n01729",
+  "summary": "Anas reports that the Prophet replied only to the sneezer who said Alhamdulillah, and Abu Hurayrah reports the same ruling with a nobleman who was refused a reply for not praising Allaah.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dhikr",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "merged",
+  "notes": "Two reports: Anas (first paragraph) and Abu Hurayrah (second, about a nobleman and another man). The unnamed men are not tagged."
+ },
+ {
+  "id": "n01730",
+  "summary": "Abu Burdah reports that his father Abu Moosa Ash'ari did not reply to his sneeze because he had not said Alhamdulillah, but did reply to a woman's sneeze that did, and his mother approved.",
+  "people": [
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Burdah",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Ummu Fadhl",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": "Abu Burdah is the son of Abu Moosa Ash'ari, not abu-burda-bin-niyaar. The place name 'Ummu Fadhl bin Abba as' is OCR-garbled, so the name is given as 'Ummu Fadhl' only."
+ },
+ {
+  "id": "n01731",
+  "summary": "Makhool Azdi reports that when someone sneezed in the Masjid, Abdullaah bin Umar said Yarhamukallah only if the sneezer had said Alhamdulillah.",
+  "people": [
+   {
+    "id": "makhool",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "following-the-sunnah",
+   "dhikr"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": "Arabic phrases and the end of the sentence are OCR-garbled."
+ },
+ {
+  "id": "n01732",
+  "summary": "Naafi reports that whenever someone answered Abdullaah bin Umar's sneeze with Yarhamukallah, Abdullaah bin Umar replied with a prayer for their mercy and forgiveness.",
+  "people": [
+   {
+    "id": "naafi",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01733",
+  "summary": "Naafi reports that Abdullaah bin Umar rebuked a man who said Alhamdulillah on sneezing for not sending salutations on the Prophet as well.",
+  "people": [
+   {
+    "id": "naafi",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "love-for-the-prophet",
+   "dhikr"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text is cut off mid-sentence after 'Alhamdu'."
+ },
+ {
+  "id": "n01734",
+  "summary": "Dahhaak bin Qais Yashkari reports that Abdullaah bin Umar asked a man who had said Alhamdulillah on sneezing why he had not completed it by sending salutations on the Prophet.",
+  "people": [
+   {
+    "id": null,
+    "name": "Dahhaak bin Qais Yashkari",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "love-for-the-prophet",
+   "dhikr"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Dahhaak bin Qais Yashkari is not the approved entry 'dahhaak' (no), which is a different person."
+ },
+ {
+  "id": "n01735",
+  "summary": "Abu Jamara reports hearing Abdullaah bin Abbaas reply to someone's sneeze with a prayer for their mercy and forgiveness.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Jamara",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "duaa",
+   "following-the-sunnah"
+  ],
+  "new_themes": [
+   "manners and etiquette"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01736",
+  "summary": "Zaid bin Arqam says the Prophet visited him when he was suffering from an eye infection.",
+  "people": [
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "kindness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01737",
+  "summary": "Sa'd bin Abi Waqqaas says that when he fell gravely ill in the year of the Farewell Hajj and wished to give away most of his wealth, the Prophet advised a third, and told him that what he spends for Allaah's pleasure is rewarded, even a morsel placed in his wife's mouth.",
+  "people": [
+   {
+    "id": "sad-bin-abi-waqqaas",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Sa'd bin Khowlah",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "sadaqah",
+   "hijrah",
+   "family"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet's prayer for the Muhaajireen names Sa'd bin Khowlah, who is not in the approved list."
+ },
+ {
+  "id": "n01738",
+  "summary": "Jaabir bin Abdillaah says that when he was unconscious from illness, the Prophet and Abu Bakr visited him, and he asked how to dispose of his wealth but got no answer until the verses of inheritance were revealed.",
+  "people": [
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "quraan"
+  ],
+  "new_themes": [
+   "inheritance"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01739",
+  "summary": "Usaama bin Zaid recounts the Prophet riding to visit Sa'd bin Ubaadah past a gathering that included Abdullaah bin Ubay, and Abu Faakhita relates Abu Moosa visiting Hasan and Ali's hadith on the reward for visiting the sick.",
+  "people": [
+   {
+    "id": "usaama-bin-zaid",
+    "role": "narrator"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-ubay-bin-salool",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   },
+   {
+    "id": "hasan-bin-ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Faakhita",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "hypocrisy",
+   "brotherhood"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Usaama bin Zaid's account of the ride (the sentence about Abdullaah bin Ubay has an OCR gap and is incomplete) and Abu Faakhita's account of Abu Moosa visiting Hasan, with Ali's hadith. Abu Faakhita is not the approved 'faakih' (no)."
+ },
+ {
+  "id": "n01740",
+  "summary": "Abdullaah bin Yasaar reports that Ali objected to Amr bin Hurayth visiting the ailing Hasan bin Ali when Amr's opinion opposed his, and then reminded Amr of the Prophet's hadith on the seventy thousand angels who pray for the one who visits the sick.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Yasaar",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Amr bin Hurayth",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "hasan-bin-ali",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "brotherhood"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01741",
+  "summary": "Sa'eed reports that he was with Salmaan when they visited a sick man in Kindah, and Salmaan said a believer's illness brings forgiveness, while a sinner's is like a camel tied and released without knowing why.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sa'eed",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "visiting-the-sick",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is named only as 'Sa'eed', so no approved id is given (the approved entry 'saeed' may or may not be him). Same visit as n01742."
+ },
+ {
+  "id": "n01742",
+  "summary": "Sa'eed bin Wahab reports the same visit with Salmaan to a sick Kindah man, with the same comparison of a believer's illness to forgiveness and a sinner's to a released camel.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sa'eed bin Wahab",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "visiting-the-sick",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Variant of n01741 (same visit, fuller wording)."
+ },
+ {
+  "id": "n01743",
+  "summary": "Naafi reports that whenever Abdullaah bin Umar visited a sick person he asked how they were, and on leaving he only prayed that Allaah give them the best.",
+  "people": [
+   {
+    "id": "naafi",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01744",
+  "summary": "Abdullaah bin Abu Hudhayl reports that Abdullaah bin Mas'ood rebuked a man who stared at a woman in the house of a sick person, saying it would be better for him if his eye burst.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Abu Hudhayl",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "modesty",
+   "visiting-the-sick"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01745",
+  "summary": "Abdullaah bin Abbaas reports that when the Prophet visited a sick person he sat by his head and recited a prayer seven times asking the Majestic Allaah to cure him, and the person recovered if his time had not yet come.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01746",
+  "summary": "Ali reports the prayer the Prophet said whenever he visited a sick person, asking the Lord of mankind to remove the difficulty and grant a cure that only He can give.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01747",
+  "summary": "Another narration adds words to the Prophet's prayer for the sick, asking for a cure that leaves no illness.",
+  "people": [],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Fragment with no narrator and no name for the Prophet; the attribution comes from the heading. Continues the prayer in n01746 and n01749."
+ },
+ {
+  "id": "n01748",
+  "summary": "Ali reports that when the Prophet visited a sick person he placed his right hand on the person's right cheek and prayed for a cure.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "An OCR symbol before the prayer text is ignored."
+ },
+ {
+  "id": "n01749",
+  "summary": "Anas reports the prayer the Prophet said for a sick person, asking the Lord of mankind to remove the difficulty and grant a cure that leaves no illness.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01750",
+  "summary": "Aa'isha reports that when the Prophet visited a sick person he placed his hand on the part of the body that was in pain before saying a prayer.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text ends at the colon before the words of the prayer."
+ },
+ {
+  "id": "n01751",
+  "summary": "Salmaan says the Prophet visited him when he was ill and prayed that Allaah ease his difficulty, forgive his sins and grant him well-being in his Deen and body until death.",
+  "people": [
+   {
+    "id": "salmaan-faarsi",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01752",
+  "summary": "Aa'isha reports that whenever the Prophet went to see a sick person, or a sick person was brought to him, he prayed for a cure in the same words.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01753",
+  "summary": "Aa'isha reports that she passed the Prophet's hand over his body with protective words as he lay dying, and he drew his hand away and asked Allaah to forgive him and let him meet the Highest Friend.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophets-final-illness",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01754",
+  "summary": "Anas reports that when the Prophet gave Salaam to seek permission to enter a home he did so three times, and when he said something important he repeated it three times.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01755",
+  "summary": "Qais bin Sa'd narrates that when the Prophet visited his father's house and gave Salaam, his father Sa'd bin Ubaadah answered quietly so that he could hear more Salaams, then hosted him with food, a shawl and a donkey.",
+  "people": [
+   {
+    "id": "qais-bin-sad-bin-ubaadah",
+    "role": "subject"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "hospitality"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Qais is matched to qais-bin-sad-bin-ubaadah because the text names his father Sa'd bin Ubaadah."
+ },
+ {
+  "id": "n01756",
+  "summary": "Rib'ee bin Hiraash reports a man of Banu Aamir who asked permission to enter without first giving Salaam, and the Prophet had a slave girl teach him the greeting, after which he was admitted.",
+  "people": [
+   {
+    "id": null,
+    "name": "Rib'ee bin Hiraash",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text ends 'The Hadith continues further'. The Banu Aamir man is unnamed and not tagged."
+ },
+ {
+  "id": "n01757",
+  "summary": "Abdullaah bin Abbaas reports that Umar asked permission with Salaam to enter the Prophet's upper room, and Abu Hurayrah reports that the Companions asked permission when they came after being summoned.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Multiple reports (Ibn Abbaas with variant wordings, and Abu Hurayrah). Ali is named in the heading but not in the body text, so he is not tagged. The Salaam wording is OCR-garbled."
+ },
+ {
+  "id": "n01758",
+  "summary": "Safeenah reports that when Ali came to the Prophet's room and knocked very lightly, the Prophet had the door opened for him.",
+  "people": [
+   {
+    "id": null,
+    "name": "Safeenah",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01759",
+  "summary": "Sa'd bin Ubaadah reports that the Prophet told him not to seek permission while standing directly in front of the door, because asking permission is meant to protect the sight.",
+  "people": [
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "following-the-sunnah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The second version of the incident in this item is by the same narrator; his name in that part is OCR-garbled and taken as Sa'd."
+ },
+ {
+  "id": "n01760",
+  "summary": "Anas bin Maalik reports that when a man peeped into one of the Prophet's rooms, the Prophet stood up with an arrowhead in his hand as if looking for a chance to strike him.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "modesty",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who peeped is unnamed and not tagged."
+ }
+]

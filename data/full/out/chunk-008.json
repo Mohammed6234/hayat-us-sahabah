@@ -1,0 +1,593 @@
+[
+ {
+  "id": "n00281",
+  "summary": "Aa'isha asks whether the Prophet ever had a harder day than Uhud, and he recounts the rejection at Taa'if, after which Addaas, a Christian slave of Utba and Shayba, recognised his words and honoured him.",
+  "people": [
+    { "id": "aaisha", "role": "subject" },
+    { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Ibn Shihaab", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Abd Yaleel bin Amr", "role": "subject", "sahabi": "no" },
+    { "id": null, "name": "Habeeb bin Amr", "role": "mentioned", "sahabi": "no" },
+    { "id": null, "name": "Mas'ood bin Amr", "role": "mentioned", "sahabi": "no" },
+    { "id": "utba-bin-rabeeah", "role": "subject" },
+    { "id": "shayba-bin-rabeeah", "role": "subject" },
+    { "id": null, "name": "Addaas", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Yunus bin Matta", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["opposition", "dawah", "steadfastness", "prophets-concern"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several chains are joined: Aa'isha's report through Urwa, then Ibn Shihaab's account and Urwa bin Zubayr's account of Taa'if. The Taa'if 'Abd Yaleel' is named Ibn Abd Yaleel in one sentence and Abd Yaleel bin Amr in the next; both are tagged as the same chief."
+ },
+ {
+  "id": "n00282",
+  "summary": "The people of Taa'if lined the road and stoned the Prophet until he bled, and he sheltered in the orchard of Utba and Shayba before returning to Makkah.",
+  "people": [
+    { "id": "utba-bin-rabeeah", "role": "mentioned" },
+    { "id": "shayba-bin-rabeeah", "role": "mentioned" },
+    { "id": null, "name": "Ibn Is'haaq", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["opposition", "dawah", "steadfastness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Opens with 'Another narration' and includes an Ibn Is'haaq report and a closing report about a woman of Banu Jamh. The narrator of the closing sentence is not named."
+ },
+ {
+  "id": "n00283",
+  "summary": "Once safe from the Taa'if mob, the Prophet made a du'aa confessing his weakness and asking Allaah for protection from His anger.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["duaa", "steadfastness", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00284",
+  "summary": "Utba and Shayba send grapes by their Christian slave Addaas, who recognises the Prophet's words, learns of Yunus from him, and kisses his head, hands and feet, and his masters rebuke him.",
+  "people": [
+    { "id": "utba-bin-rabeeah", "role": "subject" },
+    { "id": "shayba-bin-rabeeah", "role": "subject" },
+    { "id": null, "name": "Addaas", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Yunus bin Matta", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah", "prophethood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Addaas's words 'He is my brother. He was a Nabi and I am a Nabi' are as printed in the text and the claim is unusual; check the wording against the source. Addaas's Companion status is unsure."
+ },
+ {
+  "id": "n00285",
+  "summary": "Addaas says he testifies that the Prophet is Allaah's servant and messenger, and Aa'isha relays her father Abu Bakr's account of the climb to the cave of Thowr, when the Prophet's feet were bleeding.",
+  "people": [
+    { "id": null, "name": "Addaas", "role": "subject", "sahabi": "unsure" },
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "hijrah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Addaas's testimony, then Aa'isha's report of Abu Bakr's words on the journey to Madinah."
+ },
+ {
+  "id": "n00286",
+  "summary": "At Uhud the Prophet's canine tooth was broken and his head injured, and he asked how a nation could prosper after this; Maalik bin Sinaan then wiped and swallowed his blood.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": null, "name": "Abu Sa'eed Khudri", "role": "narrator", "sahabi": "yes" },
+    { "id": null, "name": "Maalik bin Sinaan", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Anas (the injury and the revealed verse of Aal Imraan 128) and Abu Sa'eed Khudri (Maalik bin Sinaan)."
+ },
+ {
+  "id": "n00287",
+  "summary": "Aa'isha relays Abu Bakr's account of Uhud: Talha defended the Prophet, Abu Ubaydah pulled the helmet links from his face at the cost of two front teeth, and they then nursed Talha's many wounds.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "talha", "role": "subject" },
+    { "id": "abu-ubaydah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00288",
+  "summary": "Abu Bakr openly preached at the Ka'bah and was beaten almost to death, his tribe carried him home, Ummul Khayr and Ummu Jameel tended him, and after the Prophet prayed for her, his mother accepted Islaam.",
+  "people": [
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "utba-bin-rabeeah", "role": "subject" },
+    { "id": null, "name": "Ummul Khayr", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Ummu Jameel bint Khattaab", "role": "subject", "sahabi": "unsure" },
+    { "id": "arqam", "role": "mentioned" },
+    { "id": "abu-quhaafa", "role": "mentioned" },
+    { "id": "hamza", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "sacrifice", "dawah-to-family", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ummu Jameel's acceptance of Islaam is not stated in the text, so her Companion status is unsure. The closing sentence about Hamza's Islaam is placed here by the author."
+ },
+ {
+  "id": "n00289",
+  "summary": "Umar accepts Islaam after the Prophet's du'aa, openly declares it at the Ka'bah, and drives off anyone who tries to attack him, while Abu Jahal and the Quraysh look on.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "utba-bin-rabeeah", "role": "mentioned" },
+    { "id": "abu-jahal", "role": "subject" },
+    { "id": "hamza", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "opposition", "virtues-of-the-sahabah", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The last paragraph is the author's note on the date of Umar's Islaam, not a report."
+ },
+ {
+  "id": "n00290",
+  "summary": "Aa'isha says her parents followed only Islaam, and Abu Bakr planned to emigrate to Abyssinia until Ibnud Daghina took him under protection on condition he worship at home; when he built a courtyard prayer place, the Quraysh asked Ibnud Daghina to withdraw the protection.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": null, "name": "Ibnud Daghina", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hijrah", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The author notes that the full hadith is given under Hijrah."
+ },
+ {
+  "id": "n00291",
+  "summary": "In Ibn Is'haaq's version, Ibnud Daghina brings Abu Bakr back to Makkah under his protection, then withdraws it when Abu Bakr's public worship annoys the Quraysh, and Abu Bakr releases him from it.",
+  "people": [
+    { "id": "ibn-ishaaq", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": null, "name": "Ibnud Daghina", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["hijrah", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Overlaps n00290 on the same events, told in another chain."
+ },
+ {
+  "id": "n00292",
+  "summary": "After Abu Bakr gave up Ibnud Daghina's protection, a Quraysh man threw dust on his head and he was beaten; Asmaa recalls her father's words as the mob turned on him.",
+  "people": [
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "waleed-bin-mughiera", "role": "mentioned" },
+    { "id": "aas-bin-waail", "role": "mentioned" },
+    { "id": "asmaa-bint-abi-bakr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["opposition", "steadfastness", "tawheed"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Ibn Is'haaq's account is joined with Asmaa's report, which the text says has already passed. Whether the reply came from Waleed or from Aas is not clear in the text, so both are tagged mentioned."
+ },
+ {
+  "id": "n00293",
+  "summary": "Abdullaah bin Umar describes his father Umar accepting Islaam and going to Jameel bin Ma'mar to announce it, after which the Quraysh mobbed Umar until an old man of Banu Adi sent them away; a second report gives Aas bin Waa'il's protection of Umar.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": null, "name": "Jameel bin Ma'mar Jumhi", "role": "mentioned", "sahabi": "no" },
+    { "id": "aas-bin-waail", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["accepting-islaam", "opposition", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports from Abdullaah bin Umar. In the first, the father's answer naming the old man is cut off by the second report. The old man is not named in the first report."
+ },
+ {
+  "id": "n00294",
+  "summary": "Hakam bin Abil Aas bound his nephew Uthmaan in ropes after he accepted Islaam, and released him when he saw Uthmaan would not give up his new faith.",
+  "people": [
+    { "id": "uthmaan", "role": "subject" },
+    { "id": null, "name": "Hakam bin Abil Aas bin Umayyah", "role": "subject", "sahabi": "no" },
+    { "id": null, "name": "Muhammad bin Ibraheem Taymi", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["steadfastness", "opposition", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00295",
+  "summary": "Mas'ood bin Khiraash saw Talha bin Ubaydillaah, who had accepted Islaam, walking between Safa and Marwa with his arm in a sling while his mother Sa'ba cursed him.",
+  "people": [
+    { "id": "talha", "role": "subject" },
+    { "id": null, "name": "Mas'ood bin Khiraash", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Sa'ba bint Khadrami", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["opposition", "family", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00296",
+  "summary": "Talha recounts a monk at the Busra fair asking whether the Prophet Ahmad had appeared yet, which drove him back to Makkah, where he learned that Muhammad had appeared; the text breaks off there.",
+  "people": [
+    { "id": "talha", "role": "subject" },
+    { "id": null, "name": "Ibraheem bin Muhammad bin Talha", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["prophethood", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence at 'who is known by'. The rest of the account is not in this item."
+ },
+ {
+  "id": "n00297",
+  "summary": "Abdullaah bin Mas'ood names the first seven to make their Islaam public, and says that those without tribal protection were tortured, with Bilaal dragged through Makkah repeating 'Ahad! Ahad!'.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": null, "name": "Sumayya", "role": "subject", "sahabi": "yes" },
+    { "id": "suhayb", "role": "subject" },
+    { "id": "bilaal", "role": "subject" },
+    { "id": "miqdaad-bin-amr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sacrifice", "opposition", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00298",
+  "summary": "Mujaahid reports that the other Muslims were left in steel armour under the sun, and Abu Jahal came at night with his spear to taunt and threaten them.",
+  "people": [
+    { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "no" },
+    { "id": "abu-jahal", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["opposition", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Muslims in this item are not named."
+ },
+ {
+  "id": "n00299",
+  "summary": "Mujaahid reports that the Mushrikeen led Bilaal through the two mountains of Makkah with a rope around his neck.",
+  "people": [
+    { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "no" },
+    { "id": "bilaal", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["opposition", "sacrifice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00300",
+  "summary": "Urwa bin Zubayr reports that Umayyah tortured Bilaal on the sand until Abu Bakr bought and freed him, after Waraqa bin Naufal had promised to make the grave of Bilaal a place of blessing if he were killed.",
+  "people": [
+    { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+    { "id": "bilaal", "role": "subject" },
+    { "id": "umayyah-bin-khalaf", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": null, "name": "Waraqa bin Naufal", "role": "subject", "sahabi": "no" },
+    { "id": "khadeeja", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "opposition", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Urwa's account of Waraqa is repeated in the middle of the item. Khadeeja is named as Waraqa's cousin."
+ },
+ {
+  "id": "n00301",
+  "summary": "Umayyah threw Bilaal onto the burning sand with a heavy rock on his chest, demanding he reject Muhammad and worship Laat and Uzza, and Bilaal kept saying 'Ahad! Ahad!'; the item then introduces Ammaar reciting couplets about Abu Bakr's freeing of the slaves.",
+  "people": [
+    { "id": null, "name": "Ibn Is'haaq", "role": "narrator", "sahabi": "no" },
+    { "id": "umayyah-bin-khalaf", "role": "subject" },
+    { "id": "bilaal", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["sacrifice", "opposition", "steadfastness"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ends at the introduction to Ammaar's couplets, which follow in n00302."
+ },
+ {
+  "id": "n00302",
+  "summary": "Ammaar's verses praise Abu Bakr for freeing Bilaal, condemn Abu Jahal and Faakih for torturing him, and affirm Bilaal's stand on the Oneness of Allaah, citing the prophets Ibraheem, Yunus, Moosa and Isa.",
+  "people": [
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": "abu-jahal", "role": "mentioned" },
+    { "id": null, "name": "Faakih", "role": "mentioned", "sahabi": "no" },
+    { "id": "bilaal", "role": "mentioned" },
+    { "id": "abu-bakr", "role": "mentioned" },
+    { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" },
+    { "id": null, "name": "Yunus", "role": "mentioned", "sahabi": "no" },
+    { "id": null, "name": "Moosa", "role": "mentioned", "sahabi": "no" },
+    { "id": null, "name": "Isa", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "tawheed", "steadfastness"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Poetry in translation with OCR damage in several lines. The first line continues from n00301. 'Ateeq' is the title given to Abu Bakr, so Abu Bakr is tagged mentioned. Faakih is named only as Faakih."
+ },
+ {
+  "id": "n00303",
+  "summary": "Jaabir reports the Prophet telling the family of Yaasir to be patient, as Jannah is their promised home, and Uthmaan reports the same scene while Ammaar and his parents were tortured in the sun, with the Prophet praying for their forgiveness.",
+  "people": [
+    { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "ammaar-bin-yaasir", "role": "mentioned" },
+    { "id": null, "name": "Yaasir", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "aakhirah", "family"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Jaabir's and Uthmaan's."
+ },
+ {
+  "id": "n00304",
+  "summary": "Abdullaah bin Ja'far reports the Prophet's words to the family of Yaasir, and Kalbi adds that Sumayya was killed when Abu Jahal thrust a spear into her, Yaasir died under torture, and Abdullaah bin Yaasir was shot dead by an arrow.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Ja'far", "role": "narrator", "sahabi": "yes" },
+    { "id": null, "name": "Kalbi", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Abdullaah bin Yaasir", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Sumayya", "role": "subject", "sahabi": "yes" },
+    { "id": "abu-jahal", "role": "subject" },
+    { "id": null, "name": "Yaasir", "role": "subject", "sahabi": "yes" },
+    { "id": "ammaar-bin-yaasir", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "family", "opposition", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Abdullaah bin Ja'far's, then Kalbi's account of the deaths."
+ },
+ {
+  "id": "n00305",
+  "summary": "Mujaahid states that Sumayya, the mother of Ammaar, was the first martyr in Islaam, killed when Abu Jahal thrust a spear into her.",
+  "people": [
+    { "id": null, "name": "Mujaahid", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Sumayya", "role": "subject", "sahabi": "yes" },
+    { "id": "ammaar-bin-yaasir", "role": "mentioned" },
+    { "id": "abu-jahal", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "opposition", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00306",
+  "summary": "Ammaar, tortured until he spoke against the Prophet and praised the Mushrikeen's gods, tells the Prophet his heart still held Imaan, and the Prophet allows him to say it again if the torture recurs.",
+  "people": [
+    { "id": null, "name": "Abu Ubaydah bin Muhammad bin Ammaar", "role": "narrator", "sahabi": "no" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["steadfastness", "opposition"],
+  "new_themes": ["speaking kufr under compulsion"],
+  "boundary": "ok",
+  "notes": "Abu Ubaydah here is not Abu Ubaydah bin Jarraah, so he is not given the approved id."
+ },
+ {
+  "id": "n00307",
+  "summary": "Muhammad bin Ammaar reports the Prophet wiping Ammaar's tears and saying he may repeat the forced words, and Ameerul Mu'mineen bin Maymoon reports the Prophet's prayer over Ammaar while he was being burned, and the Prophet's word that rebels would kill him.",
+  "people": [
+    { "id": null, "name": "Muhammad bin Ammaar", "role": "narrator", "sahabi": "no" },
+    { "id": null, "name": "Ameerul Mu'mineen bin Maymoon", "role": "narrator", "sahabi": "no" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" },
+    { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["steadfastness", "opposition", "prophethood"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Muhammad bin Ammaar's and Ameerul Mu'mineen bin Maymoon's. The name 'Ameerul Mu'mineen bin Maymoon' is as printed and may be an OCR or translation error for another name; check the source."
+ },
+ {
+  "id": "n00308",
+  "summary": "Sha'bi reports that when Khabbaab came to Umar's gathering, Umar gave him the cushion of honour, saying only Bilaal deserved it more, and Khabbaab showed the back that had been burned.",
+  "people": [
+    { "id": null, "name": "Imaam Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" },
+    { "id": "bilaal", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "sacrifice", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00309",
+  "summary": "Sha'bi reports Umar asking Khabbaab about his torture, and Khabbaab shows his back and says only the fat on it put out the fire the Mushrikeen had lit under him.",
+  "people": [
+    { "id": null, "name": "Imaam Sha'bi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["sacrifice", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00310",
+  "summary": "Abu Layla Kindi reports that Umar had Khabbaab brought to the front, calling Ammaar bin Yaasir the only man more deserving of that place, and Khabbaab showed him the scars left by the Mushrikeen.",
+  "people": [
+    { "id": null, "name": "Abu Layla Kindi", "role": "narrator", "sahabi": "no" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" },
+    { "id": "ammaar-bin-yaasir", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "sacrifice", "opposition"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Differs from n00308 on who Umar names as the more deserving man (Bilaal there, Ammaar here)."
+ },
+ {
+  "id": "n00311",
+  "summary": "Khabbaab, a blacksmith, says Aas bin Waa'il refused to repay his debt unless he rejected Muhammad, and Khabbaab refused; the Qur'aan verses on Aas's claim to wealth and children in the Aakhirah are then quoted.",
+  "people": [
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" },
+    { "id": "aas-bin-waail", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["opposition", "aakhirah", "honest-dealings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00312",
+  "summary": "Khabbaab asks the Prophet to pray for relief from the persecution, and the Prophet replies that earlier believers endured worse, and that Allaah will complete this Deen until a lone rider travels safely from Sa'aa to Hadramaut.",
+  "people": [
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["steadfastness", "spread-of-islaam", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00313",
+  "summary": "Abdullaah bin Abbaas reports that Abu Dharr sent his brother to Makkah to find the man claiming to be a Rasul, and the brother returned describing good character and words that were not poetry, which did not satisfy Abu Dharr.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": null, "name": "Abu Dharr", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Abu Dharr's brother", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["prophethood", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The brother is unnamed in the text, so his name field is a placeholder and the entry can be dropped at review."
+ },
+ {
+  "id": "n00314",
+  "summary": "Ali takes Abu Dharr home for three nights until he leads him to the Prophet, who tells him to return to his people; Abu Dharr then proclaims the testimony at the Masjidul Haraam, is beaten, and is shielded by Abbaas.",
+  "people": [
+    { "id": null, "name": "Abu Dharr", "role": "subject", "sahabi": "yes" },
+    { "id": "ali", "role": "subject" },
+    { "id": null, "name": "Abbaas", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "dawah", "opposition", "sacrifice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports are joined: the arrival and Ali's help, the Bukhari version with Abbaas, and the next-day repeat. The narrator of the Bukhari version is not named in this item."
+ },
+ {
+  "id": "n00315",
+  "summary": "In Muslim's account, Abu Dharr is stoned in Makkah after his brother's visit, hides near the Ka'bah for fifteen days, then meets the Prophet and Abu Bakr, and is the first to greet him with the greeting of Islaam.",
+  "people": [
+    { "id": null, "name": "Abu Dharr", "role": "subject", "sahabi": "yes" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "sacrifice", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The author's reference to Imaam Muslim is not treated as a narrator."
+ },
+ {
+  "id": "n00316",
+  "summary": "Abu Dharr stays with the Prophet learning Islaam and some Qur'aan, then publicly declares his faith and is beaten senseless, and the Prophet sends him home to wait for news of his victory.",
+  "people": [
+    { "id": null, "name": "Abu Dharr", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["sacrifice", "opposition", "dawah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two accounts of the same event: Abu Dharr's own telling and 'another narration' that quotes him."
+ },
+ {
+  "id": "n00317",
+  "summary": "Qais reports that Sa'eed bin Zaid, speaking in the mosque of Kufa, recalled being tied with ropes by Umar after he accepted Islaam, and began the complete account.",
+  "people": [
+    { "id": null, "name": "Qais", "role": "narrator", "sahabi": "no" },
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["opposition", "accepting-islaam", "family"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off before the account is given. It continues in n00318 and then n00319."
+ },
+ {
+  "id": "n00318",
+  "summary": "Sa'eed bin Zaid says that Umar bound him in ropes before Umar became a Muslim, because he had accepted Islaam.",
+  "people": [
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": "umar", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["opposition", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "A fragment continuing n00317. 'He' is Sa'eed bin Zaid."
+ },
+ {
+  "id": "n00319",
+  "summary": "Anas reports that Umar set out to kill the Prophet, was turned back by the recitation of Surah Taa-Haa in his sister's and brother-in-law's house, and after reading it himself went to the Prophet, who prayed for him, and Umar accepted Islaam.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Faatima bint Khattaab", "role": "subject", "sahabi": "yes" },
+    { "id": "saeed-bin-zaid", "role": "subject" },
+    { "id": null, "name": "Khabbaab bin Arat", "role": "subject", "sahabi": "yes" },
+    { "id": "hamza", "role": "subject" },
+    { "id": "talha", "role": "mentioned" },
+    { "id": "waleed-bin-mughiera", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "opposition", "family", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The sister and brother-in-law are named from the section heading, not from the text of this item. Khabbaab has no approved id, so he is tagged with a null id."
+ },
+ {
+  "id": "n00320",
+  "summary": "Thowbaan reports the Prophet's du'aa for Umar; Umar beat his sister after hearing her recite Surah Alaq, then went to the Prophet's door, where Bilaal let him in, and he accepted Islaam when asked to testify.",
+  "people": [
+    { "id": "thowbaan", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "bilaal", "role": "subject" },
+    { "id": null, "name": "Faatima bint Khattaab", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "duaa", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The sister is unnamed in the text and is named from the section heading."
+ }
+]

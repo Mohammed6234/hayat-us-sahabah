@@ -1,0 +1,807 @@
+[
+  {
+    "id": "n03001",
+    "summary": "Jaabir, Irbaadh and Aa'isha report that the Prophet did not sleep until he had recited particular Surahs, and Tawoos comments on the virtue of those Surahs.",
+    "people": [
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Tawoos",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Irbaadh bin Saariya",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [
+      "reciting before sleep"
+    ],
+    "boundary": "merged",
+    "notes": "Four separate reports under one heading (Jaabir with Tawoos, Irbaadh, Aa'isha). Jaabir is read as Jaabir bin Abdillaah, which the text does not say outright."
+  },
+  {
+    "id": "n03002",
+    "summary": "Farwah bin Naufal asks the Prophet for something to recite on going to sleep, and the Prophet names Surah Kaafiroon as an exoneration from Shirk.",
+    "people": [
+      {
+        "id": null,
+        "name": "Farwah bin Naufal",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "tawheed"
+    ],
+    "new_themes": [
+      "reciting before sleep"
+    ],
+    "boundary": "ok",
+    "notes": "OCR garbles the Prophet's opening words; the Surah name and 'exoneration from Shirk' are legible."
+  },
+  {
+    "id": "n03003",
+    "summary": "Abdullaah bin Mas'ood says that Surah Mulk protects its reciter from punishment in the grave and that reciting it at night is a great virtue.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "death-and-burial",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'The Torah' is a reference to scripture, not a person, so it is not listed."
+  },
+  {
+    "id": "n03004",
+    "summary": "Abdullaah bin Mas'ood repeats that Surah Mulk protects from the punishment of the grave, and Umar says that whoever recites Baqarah, Aal Imraan and Nisaa in one night is counted among the obedient.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "quraan",
+      "death-and-burial",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate statements under one heading: Ibn Mas'ood on Surah Mulk and Umar on the three long Surahs."
+  },
+  {
+    "id": "n03005",
+    "summary": "The Prophet teaches Jubayr bin Mut'im to recite the last Surahs on journeys, and Jubayr reports that he was always best placed and best provided for while doing so.",
+    "people": [
+      {
+        "id": "jubayr-bin-mutim",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles the list of Surah names and the start of the instruction on how to begin each Surah."
+  },
+  {
+    "id": "n03006",
+    "summary": "Abdullaah bin Khubayb says that on a dark rainy night, when the Companions went out to find the Prophet to lead salaah, the Prophet told him to recite Surah Ikhlaas and the Mu'awwadhatayn three times each morning and evening for protection.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdullaah bin Khubayb",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not the same person as Khubayb bin Adi or Khubayb bin Abdir Rahmaan in the approved list."
+  },
+  {
+    "id": "n03007",
+    "summary": "Ali says that whoever recites Surah Ikhlaas ten times after Fajr salaah will commit no sin that day, even if Shaytaan tries hard to make him sin.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "dhikr",
+      "salaah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03008",
+    "summary": "Ali reports the Prophet saying that reciting Aayatul Kursi after every salaah leaves nothing but death between a person and Jannah, and that reciting it at bedtime protects his house and those around it.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "dhikr",
+      "salaah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03009",
+    "summary": "Ali says that no person with understanding should spend the night without reciting Aayatul Kursi, which was given to the Prophet from the treasures beneath the Throne, and that he himself recites it three times each night.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Trailing OCR debris after the closing quotation mark is ignored."
+  },
+  {
+    "id": "n03010",
+    "summary": "Ali says that no person with understanding should spend the night without reciting the final verses of Surah Baqarah, which come from the treasures beneath the Throne.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03011",
+    "summary": "Uthmaan says that whoever recites the final verses of Surah Aal Imraan at night receives the reward of spending the night in worship.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03012",
+    "summary": "Ibn Mas'ood says that reciting ten verses of Surah Baqarah at home keeps Shaytaan from entering that home all night.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "the-unseen"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03013",
+    "summary": "Ubay bin Ka'b catches a jinn stealing from his dates, and the jinn tells him that Aayatul Kursi protects people from jinn from evening until morning and from morning until evening; Ubay reports this to the Prophet, who confirms the jinn spoke the truth.",
+    "people": [
+      {
+        "id": "ubay-bin-kab",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "quraan",
+      "the-unseen"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The jinn is unnamed and not listed."
+  },
+  {
+    "id": "n03014",
+    "summary": "Abdullaah bin Busr says that when jinn came to him at night near Hims, he recited a verse of Surah A'raaf, and they kept watch over him until morning.",
+    "people": [
+      {
+        "id": "abdullaah-bin-busr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "the-unseen"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR debris at the end ('2)') is ignored."
+  },
+  {
+    "id": "n03015",
+    "summary": "Alaa bin Jalaaj asks his sons to recite the beginning and end of Surah Baqarah at his grave, as he saw Abdullaah bin Umar do; and Ali says that reciting Surah Saaffaat verses 180 to 182 three times weighs one's deeds on a large scale.",
+    "people": [
+      {
+        "id": null,
+        "name": "Alaa bin Jalaaj",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "mentioned"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "death-and-burial",
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports under one heading: Alaa's instruction to his sons, and Ali's statement on Saaffaat. The heading also names Ibn Awf, but his report is not in the text. The approved list has 'Jalaaj' but not 'Alaa bin Jalaaj', so Alaa is left as null."
+  },
+  {
+    "id": "n03016",
+    "summary": "Abdullaah bin Ubayd bin Umayr reports that whenever Abdur Rahmaan bin Awf entered his house, he recited Aayatul Kursi in every corner of it.",
+    "people": [
+      {
+        "id": "abdullaah-bin-ubayd-bin-umayr",
+        "role": "narrator"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "quraan",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03017",
+    "summary": "Abu Hurayrah asks the Prophet who will be most fortunate to receive his intercession, and the Prophet answers whoever says Laa Ilaaha Illallaah with complete sincerity; Zaid bin Arqam and Abu Sa'eed Khudri add reports on the same Kalimah, and Abu Sa'eed also reports Moosa's request to Allaah.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "subject"
+      },
+      {
+        "id": "zaid-bin-arqam",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-saeed-khudri",
+        "role": "narrator"
+      },
+      {
+        "id": "moosa",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "kalimah",
+      "sincerity",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three separate reports under one heading: Abu Hurayrah on intercession, Zaid bin Arqam on sincerity, and Abu Sa'eed on Moosa. 'Zadi bin Arqam' in the OCR is read as Zaid bin Arqam. Some of the Kalimah is garbled in the OCR."
+  },
+  {
+    "id": "n03018",
+    "summary": "Another narration quotes Allaah saying that Laa Ilaaha Illallaah placed on one side of a scale would outweigh the seven heavens, their inhabitants and the seven earths on the other.",
+    "people": [],
+    "prophet": "absent",
+    "themes": [
+      "kalimah",
+      "tawheed",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant of the scale report in the previous narration; the narrator is unnamed."
+  },
+  {
+    "id": "n03019",
+    "summary": "Abdullaah bin Umar reports the Prophet's account of the advice Nooh gave his sons, to affirm Laa Ilaaha Illallaah and the tasbeeh of Azeem wa Bihamdihi and to avoid Shirk and pride, and the Prophet explains that pride is looking down on others.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "nooh",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "kalimah",
+      "tawheed",
+      "humility"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Contains Nooh's advice, a Companion's question about pride, and a separate 'another narration' about the Kalimah. The text is cut off mid-sentence ('looks down on'), and the tasbeeh formula is partly garbled in the OCR."
+  },
+  {
+    "id": "n03020",
+    "summary": "Ya'la bin Shaddaad reports, confirmed by Ubaadah bin Saamit, that his father Shaddaad bin Aws reported the Prophet having the Companions raise their hands and recite Laa Ilaaha Illallaah, and then giving them glad tidings that Allaah had forgiven them all.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ya'la bin Shaddaad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ubaadah-bin-saamit",
+        "role": "narrator"
+      },
+      {
+        "id": "shaddaad-bin-aws",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "kalimah",
+      "tawheed",
+      "mercy-and-forgiveness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Shaddaad bin Aws is the original reporter and Ubaadah confirms it; the Ahlul Kitaab question in the middle is not in the summary."
+  },
+  {
+    "id": "n03021",
+    "summary": "Abu Dharr asks the Prophet for advice and is told to follow a sin with a good deed to erase it; when Abu Dharr asks whether a particular recitation is a good deed, the Prophet calls it the best of all good deeds.",
+    "people": [
+      {
+        "id": "abu-dharr-ghifaari",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "mercy-and-forgiveness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The recitation Abu Dharr asks about is garbled in the OCR and is not named in the summary, so the dhikr tag rests on the text's 'recitation' wording only."
+  },
+  {
+    "id": "n03022",
+    "summary": "Umar says that when he saw people reciting Allaahu Akbar, it was the word of Taqwa that the Sahabah deserved most.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "taqwa",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The formula is partly garbled in the OCR; Allaahu Akbar is read from the text's transliteration."
+  },
+  {
+    "id": "n03023",
+    "summary": "Ali says that the word of Taqwa mentioned in Surah Fath verse 26 is the Kalimah.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "taqwa",
+      "kalimah",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The word Ali names is OCR-garbled; 'the Kalimah' is read from context."
+  },
+  {
+    "id": "n03024",
+    "summary": "A further narration says that Allaahu Akbar is also part of the word of Taqwa, and lists other formulas of dhikr that go with it.",
+    "people": [],
+    "prophet": "absent",
+    "themes": [
+      "taqwa",
+      "dhikr"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The list of formulas is badly garbled in the OCR; only Al Hamdulillaah, Laa Ilaaha Illallaah, Allaahu Akbar and Laa Howla are legible. The narrator is unnamed."
+  },
+  {
+    "id": "n03025",
+    "summary": "Abu Sa'eed Khudri reports that the Prophet called Allaahu Akbar, Laa Ilaaha Illallaah, Al Hamdulillaah and Laa Howla wa Laa Quwwata Ilia Billaah the everlasting good deeds.",
+    "people": [
+      {
+        "id": "abu-saeed-khudri",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The formulas are partly OCR-garbled; the list is taken as written."
+  },
+  {
+    "id": "n03026",
+    "summary": "Abu Hurayrah reports that the Prophet told the Companions to take up their shields, meaning Al Hamdulillaah and Allaahu Akbar, which protect against Jahannam and go before and behind them on the Day of Qiyaamah.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions who asked whether the enemy had come are unnamed."
+  },
+  {
+    "id": "n03027",
+    "summary": "Another narration quotes the Prophet calling the same formulas the saviours, and adds Laa Howla wa Laa Quwwata Ilia Billaah.",
+    "people": [],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant of the previous narration; the narrator is unnamed."
+  },
+  {
+    "id": "n03028",
+    "summary": "Anas reports that the Prophet described the same formulas as going before and behind people, as saviours, and as everlasting good deeds.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03029",
+    "summary": "Imraan bin Husayn reports that the Prophet asked whether anyone could do deeds as large as Mount Uhud every day, and then said that Subhaanallaah, Al Hamdulillaah, Laa Ilaaha Illallaah and Allaahu Akbar each weigh more than Mount Uhud.",
+    "people": [
+      {
+        "id": "imraan-bin-husayn",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions who asked how this is possible are unnamed."
+  },
+  {
+    "id": "n03030",
+    "summary": "Abu Hurayrah says that when the Prophet passed him while he was planting, the Prophet told him that Al Hamdulillaah, Laa Ilaaha Illallaah and Allaahu Akbar are better plants, and that a tree is planted in Jannah for each one said.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03031",
+    "summary": "Abu Hurayrah reports the Prophet saying that the gardens of Jannah are the masjids, and that one eats one's fill there by reciting Al Hamdulillaah, Laa Ilaaha Illallaah and Allaahu Akbar.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "masjid",
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions who ask are unnamed."
+  },
+  {
+    "id": "n03032",
+    "summary": "Anas reports that the Prophet shook a branch three times, its leaves falling only on the third, and then said that Al Hamdulillaah, Laa Ilaaha Illallaah and Allaahu Akbar shake off sins as leaves fall from a tree.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "mercy-and-forgiveness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03033",
+    "summary": "Sa'd bin Abi Waqqaas reports that a Bedouin asked the Prophet to teach him something to recite, and the Prophet taught him a prayer for forgiveness, mercy, guidance, provision and safety, and said that the Bedouin left with his hands full of good.",
+    "people": [
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "duaa"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several variant reports under one heading, including a separate request about the reward of learning the Qur'aan. The Bedouin is unnamed and the closing sentence is garbled in the OCR."
+  },
+  {
+    "id": "n03034",
+    "summary": "Abu Dharr reports that the Prophet named Subhaanallaahi wa Bihamdihi as the words most loved by Allaah, and other narrations give variant wordings of the same answer.",
+    "people": [
+      {
+        "id": "abu-dharr-ghifaari",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "tawheed"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The variant wordings are garbled in the OCR; the main form is the one used in the summary."
+  },
+  {
+    "id": "n03035",
+    "summary": "Abu Talha reports that the Prophet said whoever says Laa Ilaaha Illallaah enters Jannah, and that reciting Subhaanallaahi wa Bihamdihi a hundred times earns a great number of good deeds, though the Companions' deeds still need Allaah's mercy.",
+    "people": [
+      {
+        "id": "abu-talha",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "kalimah",
+      "dhikr",
+      "mercy-and-forgiveness",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions' question and the Prophet's reply are both in the text; the formula between the two parts is garbled in the OCR."
+  },
+  {
+    "id": "n03036",
+    "summary": "Sa'd (RA) reports that the Prophet asked whether anyone could not earn a thousand good deeds each day, and said that reciting a formula a hundred times earns a thousand good deeds or erases a thousand sins.",
+    "people": [
+      {
+        "id": null,
+        "name": "Sa'd",
+        "role": "narrator",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "mercy-and-forgiveness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text does not say which Sa'd is meant, so he is not matched to a listed Companion. The formula itself is not named."
+  },
+  {
+    "id": "n03037",
+    "summary": "Qais bin Sa'd bin Ubaadah says that after he had prayed two rakaahs, the Prophet nudged him with his foot and told him that reciting Laa Howla wa Laa Quwwata Ilia Billaah is a door of Jannah.",
+    "people": [
+      {
+        "id": "qais-bin-sad-bin-ubaadah",
+        "role": "subject"
+      },
+      {
+        "id": "sad-bin-ubaadah",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "His father Sa'd bin Ubaadah is mentioned as the one who placed him in the Prophet's service. Parts of the Prophet's words are OCR-garbled."
+  },
+  {
+    "id": "n03038",
+    "summary": "Abu Dharr reports that while he was walking behind the Prophet, the Prophet told him that reciting Laa Howla wa Laa Quwwata Ilia Billaah is a treasure of Jannah.",
+    "people": [
+      {
+        "id": "abu-dharr-ghifaari",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The formula is cut off mid-phrase in the OCR ('Laa Howla wa Laa Quwwata Ilia.'), so the reading relies on the same formula in the parallel narrations."
+  },
+  {
+    "id": "n03039",
+    "summary": "Abdullaah bin Sa'd bin Abi Waqqaas reports that Abu Ayyoob Ansaari told him the Prophet had named abundant recitation of Laa Howla wa Laa Quwwata Ilia Billaah as a treasure of Jannah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdullaah bin Sa'd bin Abi Waqqaas",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-ayyoob-ansaari",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives the Prophet's words only through Abu Ayyoob. Abdullaah's status as a Companion is not stated in the text."
+  },
+  {
+    "id": "n03040",
+    "summary": "Abu Ayyoob Ansaari reports that on the Mi'raaj the Prophet passed Ibraheem, who told him to urge his Ummah to plant plenty of the plants of Jannah, which are the words Laa Howla wa Laa Quwwata Ilia Billaah.",
+    "people": [
+      {
+        "id": "abu-ayyoob-ansaari",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Ibraheem",
+        "role": "subject",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "dhikr",
+      "miracles-and-blessings",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibraheem is the Prophet Ibraheem, who is not in the approved list, although the text gives him RA. Jibra'eel also speaks but is an angel, so he is not listed."
+  }
+]

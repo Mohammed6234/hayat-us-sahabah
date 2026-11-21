@@ -1,0 +1,509 @@
+[
+ {
+  "id": "n03380",
+  "summary": "Abdullaah bin Mas'ood warns that frequenting the doors of rulers brings tribulation and that the Deen is lost in exchange for their wealth.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "avoiding-fitnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hadhrat Hudhayfah appears only in the heading, not the text, so he is not tagged."
+ },
+ {
+  "id": "n03397",
+  "summary": "Asked which jihaad carries most reward, the Prophet said it is the jihaad of those who engage most in dhikr, and a man is told to keep his tongue moist with the dhikr of Allaah.",
+  "people": [
+    { "id": "muaadh-bin-anas", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "abdullaah-bin-busr", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dhikr", "jihaad", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Mu'aadh bin Anas (the jihaad and dhikr answers, with Abu Bakr's remark to Umar) and Abdullaah bin Busr (the man told to keep his tongue moist)."
+ },
+ {
+  "id": "n03401",
+  "summary": "Umar says to engage in the dhikr of Allaah because it is a cure, and to avoid discussing people because it is a disease.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03402",
+  "summary": "Uthmaan says that had their hearts been pure they would never tire of the dhikr of Allaah.",
+  "people": [
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03420",
+  "summary": "Mu'aadh bin Jabal says he prefers the dhikr of Allaah from morning to night over providing thoroughbred horses for jihaad.",
+  "people": [
+    { "id": "muaadh-bin-jabal", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03434",
+  "summary": "Abu Barzah reports the words the Prophet recited at the end of every gathering, which he said are an expiation for the sins of that gathering.",
+  "people": [
+    { "id": "abu-barzah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dhikr", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03452",
+  "summary": "Aa'isha reports that the Prophet would not sleep until he had recited Surah Zumar and Surah Bani Israa'eel.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "dhikr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03456",
+  "summary": "Umar says that whoever recites Surah Baqarah, Aal Imraan and Nisaa in a single night is recorded among the obedient.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Heading names Ibn Mas'ood and Ibn Umar, but the text is Umar's statement only."
+ },
+ {
+  "id": "n03457",
+  "summary": "Jubayr bin Mut'im reports that the Prophet taught him to recite the last five surahs on journeys, after which he always had the best position and the most provisions.",
+  "people": [
+    { "id": "jubayr-bin-mutim", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "travel"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR has mangled the names of the five surahs in the text, so they are not transcribed here."
+ },
+ {
+  "id": "n03470",
+  "summary": "Zaid bin Arqam reports that whoever recites the Kalimah with sincerity enters Jannah, and Abu Sa'eed Khudri reports Allaah's answer to Musa that the Kalimah outweighs the seven heavens and earths.",
+  "people": [
+    { "id": "zaid-bin-arqam", "role": "narrator" },
+    { "id": "abu-saeed-khudri", "role": "narrator" },
+    { "id": "moosa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["kalimah", "sincerity", "tawheed"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined (Zaid bin Arqam, then Abu Sa'eed Khudri). The text says 'Zadi bin Arqam', read here as Zaid bin Arqam. Arabic phrases are OCR-garbled."
+ },
+ {
+  "id": "n03473",
+  "summary": "The Prophet says that if the heavens, the earth and everything in them were made into a ring with the Kalimah placed on top, it would shatter them all.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["kalimah", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Kalimah phrase is OCR-garbled in the text. The heading mentions Nooh (RA) but the text does not, so he is not tagged."
+ },
+ {
+  "id": "n03499",
+  "summary": "Ibn Kawwaa asks Ali about the phrase Subhaanallaah, and Ali explains it is a phrase Allaah chose for Himself to proclaim His purity from all evil.",
+  "people": [
+    { "id": "abu-dhabyaan", "role": "narrator" },
+    { "id": "ibnul-kawwaa", "role": "subject" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "tawheed"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03500",
+  "summary": "Umar eases the lashing of one of two men he had flogged, because that man was saying tasbeeh, which can only find a place in the heart of a believer.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The OCR dropped the word naming which man's phrase Umar meant ('the one who said ...'), so it is unclear whether the leniency went to the Bismillaah sayer or the Subhaanallaah sayer; the summary follows the sense of the passage, which points to the tasbeeh sayer. Please check against the print."
+ },
+ {
+  "id": "n03501",
+  "summary": "Ibn Mas'ood explains that when a person recites the tasbeeh and dhikr words an angel carries them up to the heavens, and he cites the verse that the pure word rises to Allaah.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03519",
+  "summary": "Abu Qilaabah reports that two men who met in the marketplace sought Allaah's forgiveness together, and one later saw the other in a dream and learned that they had been forgiven.",
+  "people": [
+    { "id": "abu-qilaaba", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The vocab lists abu-qilaaba as a Companion (no mark). Abu Qilaabah is usually a Tabi'i, so please check the list entry."
+ },
+ {
+  "id": "n03523",
+  "summary": "Abu Tameemah Hujaymi reports that the Prophet taught a rider behind him on a stumbling animal to say Bismillaah, which humiliates Shaytaan.",
+  "people": [
+    { "id": "abu-tameema-hujaymi", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["dhikr", "travel"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "The text says the narration continues 'like the one above', so the opening is in an earlier narration. The rider is not named here; the text does not clearly say whether Abu Tameemah is the rider or relaying someone else. The vocab lists abu-tameema-hujaymi as not a Companion; Abu Tameemah Hujaymi is usually counted as one, so please check."
+ },
+ {
+  "id": "n03525",
+  "summary": "Anas reports that whenever the Sahabah reached a destination they recited Subhaanallaah until they had unloaded their carriages.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["dhikr", "travel"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03531",
+  "summary": "Ka'b bin Ujrah reports that the Prophet said Aameen on each step of the pulpit after Jibra'eel's curses on the person who misses forgiveness in Ramadhaan, who fails to send salutations on him, and who fails his aged parents.",
+  "people": [
+    { "id": "kab-bin-ujrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Jibra'eel is named as the speaker of the three curses. He is an angel, so he is not tagged as a person."
+ },
+ {
+  "id": "n03540",
+  "summary": "Ibn Abbaas says that it is not appropriate to send salutations upon anyone other than the Ambiyaa.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["love-for-the-prophet", "prophethood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Heading names Ali (RA) but the text is Ibn Abbaas's statement only."
+ },
+ {
+  "id": "n03581",
+  "summary": "Aa'isha says the Prophet raised his hands in du'aa for so long that she would grow tired watching.",
+  "people": [
+    { "id": "aaisha", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03591",
+  "summary": "Abu Umaamah Baahili reports that when the Prophet was asked for du'aa he prayed for forgiveness, mercy, acceptance, Jannah and protection from Jahannam for them, and said he had included all their affairs.",
+  "people": [
+    { "id": null, "name": "Abu Umaamah Baahili", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Not tagged to the vocab entry abu-umaamah (?) because the list does not say which Abu Umaamah that is. Please check whether it should be linked."
+ },
+ {
+  "id": "n03594",
+  "summary": "The Prophet tells people who meet Uwais Qarni to ask him to seek forgiveness on their behalf.",
+  "people": [
+    { "id": "uwais-qarni", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "mercy-and-forgiveness"],
+  "new_themes": ["seeking duaa from the righteous"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03602",
+  "summary": "Abu Ayaash adds that the Prophet's du'aa also asked Allaah for Jannah and for protection from Jahannam.",
+  "people": [
+    { "id": "abu-ayaash-zaid-bin-saamit-zuraqi", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The first added words are OCR-garbled and not transcribed. The vocab entry for Abu Ayaash is abu-ayaash-zaid-bin-saamit-zuraqi, the only Abu Ayaash listed; please confirm it is the one meant."
+ },
+ {
+  "id": "n03605",
+  "summary": "Salamah and Anas report that the Prophet began every du'aa with a praise and always included the request for the best of this world and the Aakhirah and protection from the Fire.",
+  "people": [
+    { "id": null, "name": "Salamah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The text gives Salamah's name as 'Salamah bin' with the father's name cut off, so the entry is left unlinked. The opening words of Salamah's report are missing in the OCR. Two reports joined (Salamah, then Anas)."
+ },
+ {
+  "id": "n03614",
+  "summary": "Ibn Mas'ood reports the Prophet's du'aa, 'O Allaah! Assist Islaam through Umar.'",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03616",
+  "summary": "Abu Sa'eed Khudri reports that the Prophet three times said he was pleased with Uthmaan and asked Allaah to be pleased with him too.",
+  "people": [
+    { "id": "abu-saeed-khudri", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03617",
+  "summary": "Ibn Mas'ood reports the Prophet's du'aa asking Allaah to forgive all of Uthmaan's past and future sins, public and private.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03622",
+  "summary": "Ibn Abbaas reports the Prophet's du'aa for Ali: 'O Allaah! Guide him in passing judgement.'",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03627",
+  "summary": "Ali reports that the Prophet drew a shawl over himself, Faatimah, Hasan and Husayn and prayed that Allaah be pleased with them as he was.",
+  "people": [
+    { "id": "ali", "role": "subject" },
+    { "id": "faatima", "role": "mentioned" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "husayn-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "duaa", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03630",
+  "summary": "Usaama reports the Prophet added that he loves whoever loves Hasan and Husayn, and Abu Hurayrah reports that he added that he detests whoever detests them; the Prophet called them his children.",
+  "people": [
+    { "id": null, "name": "Usaama", "role": "narrator", "sahabi": "yes" },
+    { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrations joined (Usaama, then Abu Hurayrah). 'Hadhrat Usaama' is not qualified, so it could be Usaama bin Zaid or another Usaama; left unlinked. Hasan and Husayn are named in the text but only as the people prayed for, so they are not listed here."
+ },
+ {
+  "id": "n03631",
+  "summary": "Abu Hurayrah, Sa'eed bin Zaid and Aa'isha report the Prophet's du'aa 'I love Hasan, so love him too', and Muhammad bin Seereen reports his du'aa that Hasan be kept safe and keep others safe through him.",
+  "people": [
+    { "id": "abu-hurayrah", "role": "narrator" },
+    { "id": "saeed-bin-zaid", "role": "narrator" },
+    { "id": "aaisha", "role": "narrator" },
+    { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+    { "id": "hasan-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports joined. Muhammad bin Seereen is not in the vocab, and his tabi'i status is inferred from general knowledge."
+ },
+ {
+  "id": "n03632",
+  "summary": "Baraa reports seeing the Prophet carry Husayn on his shoulders and pray, 'O Allaah! I love him, so You love him too.'",
+  "people": [
+    { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" },
+    { "id": "husayn-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Baraa' is not qualified; the vocab has baraa-bin-aazib and baraa-bin-maalik, so this was left unlinked. Please check which one it is."
+ },
+ {
+  "id": "n03636",
+  "summary": "Abu Usayd Saa'idi reports the Prophet gathering Abbaas and his household under a shawl and praying that Allaah shelter them from Jahannam; Ibn Abbaas reports the Prophet's du'aa for his understanding of the Deen and the Qur'aan.",
+  "people": [
+    { "id": "abu-usayd-saaidi", "role": "narrator" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "maymoona-bint-haarith", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrations joined: Abu Usayd Saa'idi, then Ibn Abbaas (who is the narrator of the second part telling his own story). The OCR dropped the words at the start of the greeting exchange."
+ },
+ {
+  "id": "n03638",
+  "summary": "Ibn Umar reports the Prophet's du'aa, 'O Allaah! Bless him and spread the Deen through him.'",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "spread-of-islaam"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says only 'him'; Abbaas is tagged as mentioned because the heading says this du'aa was for Abbaas and his children. Please check against the print."
+ },
+ {
+  "id": "n03648",
+  "summary": "Jareer reports that after the Prophet placed his hand on Jareer's chest and prayed that he be steady and rightly guided, he never fell from a horse again.",
+  "people": [
+    { "id": "jareer-bin-abdillaah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "guidance"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Heading names Amr bin al-Aas, Hakeem bin Hizaam and the family of Busr, but the text does not, so they are not tagged."
+ },
+ {
+  "id": "n03649",
+  "summary": "Jareer reports the Prophet asking him to relieve him of Dhu Khalasa, the Khath'am idol-house, and Jareer repeats that he cannot stay steady on a horse.",
+  "people": [
+    { "id": "jareer-bin-abdillaah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["spread-of-islaam", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text ends 'the rest of the narration is like the one above', so it relies on the previous narration (n03648) for the du'aa."
+ },
+ {
+  "id": "n03650",
+  "summary": "Abdullaah bin Busr reports that the Prophet ate at his family's door and prayed for blessings on them, after which they always saw abundant sustenance.",
+  "people": [
+    { "id": "abdullaah-bin-busr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "hospitality"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two narrations joined (the first, then the 'another narration' about the sustenance). The father who speaks is not named in the text, so he is not listed."
+ },
+ {
+  "id": "n03660",
+  "summary": "The Prophet prays after rising from a Fajr rakah for the release of Waleed bin Waleed, Salamah bin Hishaam, Ayaash bin Abu Rabee'ah and the other oppressed Muslims in Makkah, and against Mudhar; the text then breaks into a farewell du'aa.",
+  "people": [
+    { "id": "waleed-bin-waleed", "role": "mentioned" },
+    { "id": "salama-bin-hishaam-bin-mughiera", "role": "mentioned" },
+    { "id": "ayaash-bin-abi-rabeeah", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "opposition"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text is OCR-garbled and runs into the next heading ('The Du'aas Rasulullaah Recited When Bidding Farewell'), so the farewell du'aa is not part of this narration. The narrator is not named ('another narration')."
+ },
+ {
+  "id": "n03702",
+  "summary": "Umar reports the Prophet's words seeking Allaah's complete protection for Hasan and Husayn from every Shaytaan, harmful creature and evil eye.",
+  "people": [
+    { "id": "umar", "role": "narrator" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "husayn-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Arabic protection words are OCR-garbled and not transcribed."
+ },
+ {
+  "id": "n03707",
+  "summary": "Khaalid bin Waleed often woke frightened from sleep, and the Prophet taught him to say Bismillaah on waking and then the du'aa to dispel what he saw in his dreams.",
+  "people": [
+    { "id": "khaalid-bin-waleed", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "dhikr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is not named ('another narration'). The du'aa is only referred to ('quoted above'), so its words are not in this text."
+ }
+]

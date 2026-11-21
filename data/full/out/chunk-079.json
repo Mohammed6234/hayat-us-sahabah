@@ -1,0 +1,526 @@
+[
+  {
+    "id": "n03121",
+    "summary": "Rasulullaah ﷺ made du'aa asking Allaah not to punish him for any verbal abuse or hurt he had caused a Mu'min, saying he is only a human.",
+    "people": [],
+    "prophet": "subject",
+    "themes": ["duaa", "prophets-character", "humility"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Opens with 'Another narration adds', so the report it adds to is not in this chunk. Two du'aa variants are tagged together. No narrator is named."
+  },
+  {
+    "id": "n03122",
+    "summary": "Rasulullaah ﷺ raised his hands and cursed the coalition of armies that had destroyed a Bedouin tribe's settlement, and Abdullaah bin Umar and Abdullaah bin Zubayr were seen wiping their faces after du'aa.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Abu Nu'aym Wahab", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "following-the-sunnah", "prophets-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Urwa's account of the curse, and Abu Nu'aym Wahab's observation of the two Abdullaahs. 'Hadhrat Urwa' is not qualified in the text, so it is not linked to any approved Urwa. Abu Nu'aym is not marked (RA). The Bedouins are unnamed."
+  },
+  {
+    "id": "n03123",
+    "summary": "Zaid bin Thaabit tells a man to go to Abu Hurayrah, because Rasulullaah ﷺ said Aameen to his du'aa and Abu Hurayrah's, and Abu Hurayrah's request for knowledge he would never forget was granted first.",
+    "people": [
+      { "id": "zaid-bin-thaabit", "role": "subject" },
+      { "id": "abu-hurayrah", "role": "subject" },
+      { "id": null, "name": "Qais Madani", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The second Companion in the story is unnamed. The heading has OCR garbage in Abu Hurayrah's name; the text does not."
+  },
+  {
+    "id": "n03124",
+    "summary": "Umar asked the people to say Aameen to three du'aas he made, asking Allaah to strengthen his weakness, soften his sternness and make him generous.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Jaami bin Shaddaad", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "kindness", "generosity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Jaami bin Shaddaad relays from an unnamed relative, who is left out."
+  },
+  {
+    "id": "n03125",
+    "summary": "In the Year of Ashes, Saa'ib bin Yazeed saw Umar weeping and seeking forgiveness in du'aa, then asking Allaah to accept the intercession of the Prophet's uncle Abbaas, who wept as he prayed beside him.",
+    "people": [
+      { "id": "saaib-bin-yazeed", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "fear-of-allaah"],
+    "new_themes": ["seeking intercession"],
+    "boundary": "ok",
+    "notes": "The Prophet appears only as Abbaas's nephew, so prophet is absent. The Year of Ashes is the drought year."
+  },
+  {
+    "id": "n03126",
+    "summary": "Abu Sa'eed, a freed slave of Usayd, recounts how Umar patrolled the masjid at night, sat with a group making Dhikr and du'aa, and asked each to pray in turn, weeping himself when it came to Abu Sa'eed.",
+    "people": [
+      { "id": null, "name": "Abu Sa'eed", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "dhikr", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text stops mid-sentence after 'You may all'. The text calls him 'Hadhrat Abu Sa'eed', but the vocab has no entry for him, so sahabi is unsure. Usayd is not tagged as a person because he is only a reference for the freed slave."
+  },
+  {
+    "id": "n03127",
+    "summary": "Abu Hurayrah reports that Habeeb bin Maslamah, whose du'aas were always accepted, asked his army to say Aameen and prayed for protection of their blood and the reward of martyrs while facing the Roman army.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "habeeb-bin-maslamah", "role": "subject" },
+      { "id": "numaan-bin-muqarrin", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "martyrdom", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The second part refers back to an earlier narration about Nu'maan bin Muqarrin's du'aa for martyrdom, and adds that others said Aameen. The Roman commander who came to surrender is unnamed."
+  },
+  {
+    "id": "n03128",
+    "summary": "Uqba bin Aamir reports that Rasulullaah ﷺ said Abdullaah Dhul Bijaadayn sighs very deeply, because he made Dhikr and du'aa aloud, reciting the Qur'aan.",
+    "people": [
+      { "id": "uqba-bin-aamir", "role": "narrator" },
+      { "id": "abdullaah-bin-dhul-bijaadayn", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text ends with a section title ('Requesting Du'aas from the Pious') that is not part of the narration. It is ignored."
+  },
+  {
+    "id": "n03129",
+    "summary": "Umar asked Rasulullaah ﷺ for permission to perform Umrah and was asked not to forget them in his du'aas; Abu Umaama reports the comprehensive du'aa Rasulullaah ﷺ made for the people when they wished for more.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-umaama", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports, from Umar and from Abu Umaama Baahili. Abu Umaama is matched to the unqualified approved id 'abu-umaama'."
+  },
+  {
+    "id": "n03130",
+    "summary": "Talha reports a Companion who, while rolling in hot sand and chiding his nafs, was told by Rasulullaah ﷺ to ask his brothers to include them in their du'aas; Buraydah reports the same incident and the du'aa that followed.",
+    "people": [
+      { "id": "talha", "role": "narrator" },
+      { "id": "buraydah-bin-khusayb", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "exertion-in-worship", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports. 'Hadhrat Talha bin Ubaydullaah' is matched to the unqualified approved id 'talha'; please confirm that is the same person. The rolling Companion is unnamed and left out. The text has a stray quote mark after the first report."
+  },
+  {
+    "id": "n03131",
+    "summary": "Aseer bin Jaabir reports that Umar asked Uwais Qarni to pray for his forgiveness, citing the Prophet's words that the best of the Taabi'een is a man called Uwais, and that whoever meets him should ask for his du'aa.",
+    "people": [
+      { "id": null, "name": "Aseer bin Jaabir", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Uwais Qarni", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "humility"],
+    "new_themes": ["virtues of the Taabi'een"],
+    "boundary": "ok",
+    "notes": "Uwais Qarni is not in the approved list. Sahabi 'no' follows the text, where Uwais points out that Umar is a Companion of Rasulullaah and he is not. The Prophet's words are a second narration, but they add to the same story."
+  },
+  {
+    "id": "n03132",
+    "summary": "Abdullaah bin Roomi reports that when people from Basrah asked Anas bin Maalik for du'aa, he prayed for forgiveness, mercy, the best of this world and the Aakhirah, and salvation from Jahannam.",
+    "people": [
+      { "id": "abdullaah-roomi", "role": "narrator" },
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved entry for Abdullaah bin Roomi carries a (?) mark on Companion status. The people from Basrah are unnamed."
+  },
+  {
+    "id": "n03133",
+    "summary": "Yazeed bin Asam reports that when a fierce warrior from Shaam took to drink, Umar wrote him a letter reminding him of Allaah's forgiveness and punishment, and asked the people to pray that the man's heart turn to Allaah.",
+    "people": [
+      { "id": null, "name": "Yazeed bin Asam", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["mercy-and-forgiveness", "duaa", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Shaami man and Umar's scribe are unnamed and left out. The story continues in the next narration (n03134)."
+  },
+  {
+    "id": "n03134",
+    "summary": "The man stopped drinking after reading Umar's letter, and Umar told the people to correct a brother who slips, encourage him, pray for his forgiveness, and not help Shaytaan against him.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["mercy-and-forgiveness", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens with 'Another narration adds', continuing the story in n03133. The narrator is not named."
+  },
+  {
+    "id": "n03135",
+    "summary": "A fragment in which someone is said to have called on Allaah by His Ismul A'zam, too damaged by OCR to say more.",
+    "people": [],
+    "prophet": "absent",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "The text is only the tail of a sentence. The heading names Abu Ayaash (RA) and another Companion, but the text does not name anyone, so no people are tagged. The two themes rest on very little text; a reviewer may drop dhikr."
+  },
+  {
+    "id": "n03136",
+    "summary": "Buraydah reports that Rasulullaah ﷺ overheard a Companion's du'aa that called on Allaah's Oneness and His Ismul A'zam, and told him he had asked by the name through which requests are granted.",
+    "people": [
+      { "id": "buraydah-bin-khusayb", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "tawheed"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Arabic of the du'aa is garbled by OCR; the English translation is used. The Companion is unnamed and left out."
+  },
+  {
+    "id": "n03137",
+    "summary": "Mu'aadh bin Jabal reports that Rasulullaah ﷺ overheard a Companion making du'aa and told him that his du'aa had been accepted, so he should ask for what he wants.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Very short, and the du'aa's words are lost to OCR, so only one theme is supported. A reviewer may add a second theme. The Companion is unnamed."
+  },
+  {
+    "id": "n03138",
+    "summary": "Anas bin Maalik reports that Rasulullaah ﷺ passed Abu Ayaash Zaid bin Saamit Zuraqi while he prayed, praising Allaah and calling on Him by His Ismul A'zam, and told him that with this name any du'aa is accepted.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Abu Ayaash Zaid bin Saamit Zuraqi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "tawheed"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Ayaash is not in the approved list, and the heading names him (RA). The text has OCR garbling in the narrator's name, which is not tagged from it."
+  },
+  {
+    "id": "n03139",
+    "summary": "Two further variants add to Abu Ayaash's du'aa: one with a phrase the OCR has lost, and another in which he asks Allaah for Jannah and protection from Jahannam.",
+    "people": [
+      { "id": null, "name": "Abu Ayaash Zaid bin Saamit Zuraqi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Fragment, starting 'Another states'. The first variant's words are lost to OCR. The variants' narrators are unnamed, so no narrator is tagged."
+  },
+  {
+    "id": "n03140",
+    "summary": "Anas bin Maalik reports that Rasulullaah ﷺ gave gold to a Bedouin who praised Allaah beautifully in salaah, and explained that he gave it for the manner of his praise rather than for family ties.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "generosity", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text stops mid-sentence at 'in which you praise Allaah,'. The Bedouin is unnamed; his tribe, Banu Aamir, is not tagged. The opening of the Bedouin's du'aa is garbled by OCR."
+  },
+  {
+    "id": "n03141",
+    "summary": "Aa'isha reports that Rasulullaah ﷺ made du'aa using Allaah's most beloved name, refused to teach her the Ismul A'zam, and she then made du'aa calling on Allaah by His names.",
+    "people": [
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "tawheed"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles parts of the Arabic du'aa and of her question to the Prophet. The report moves from Aa'isha's question to her own du'aa."
+  },
+  {
+    "id": "n03142",
+    "summary": "Anas bin Maalik says that however many du'aas Rasulullaah ﷺ made, he always began, paused and ended with asking for the best of this world and the Aakhirah and protection from the fire of Jahannam.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "aakhirah"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "The start of the narrator's name is cut off by OCR ('Hadhrat Salamah bin (RA)'), so Salamah is not tagged. Anas is the only identified narrator. The heading is a leaked fragment and is not used."
+  },
+  {
+    "id": "n03143",
+    "summary": "Fudhaala bin Ubayd reports that Rasulullaah ﷺ told a man who prayed and made du'aa too hastily to first praise Allaah and send salutations on him, and a later Companion who did so had his du'aa accepted.",
+    "people": [
+      { "id": "fudhaala-bin-ubayd", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The first man and the later Companion are unnamed and left out."
+  },
+  {
+    "id": "n03144",
+    "summary": "Abdullaah bin Mas'ood advises that anyone making du'aa should begin by praising Allaah and sending salutations on the Prophet before asking for his need.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["duaa", "dhikr"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "This is advice rather than an event. The Prophet is named only as the one to whom salutations are sent."
+  },
+  {
+    "id": "n03145",
+    "summary": "Abbaas bin Mirdaas reports that at Arafaat Rasulullaah ﷺ prayed at length for his Ummah, and Allaah forgave all but wrongs between people, forgave those too at Muzdalifah, and Iblees fell to the ground in grief.",
+    "people": [
+      { "id": "abbaas-bin-mirdaas", "role": "narrator" },
+      { "id": null, "name": "Iblees", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "prophets-concern", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Iblees is a named figure but not a human; he is tagged as mentioned so the reader can find him. Remove him if the review excludes non-human figures."
+  },
+  {
+    "id": "n03146",
+    "summary": "Abdullaah bin Amr reports that Rasulullaah ﷺ recited the words of Ibraheem and Isa, then wept calling for his Ummah, and Allaah sent Jibraeel to tell him that his Ummah would please him.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" },
+      { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" },
+      { "id": "isa", "role": "mentioned" },
+      { "id": "jibraeel", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "prophets-concern", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibraheem and Isa are quoted through their Qur'aanic words. Jibraeel is tagged as subject because he is sent to ask and to deliver Allaah's message. One passage is garbled by OCR ('Yam reason')."
+  },
+  {
+    "id": "n03147",
+    "summary": "Anas bin Maalik reports the Prophet's du'aa that Allaah turn the hearts of his Ummah to obedience, and Aa'isha reports that when she asked for du'aa he prayed for forgiveness of all her sins, which he said he prays for his Ummah in every salaah.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Anas's du'aa for the Ummah, and Aa'isha's account of the du'aa made for her."
+  },
+  {
+    "id": "n03148",
+    "summary": "Anas bin Maalik reports that Rasulullaah ﷺ asked Allaah to include Abu Bakr in his own rank on the Day of Qiyaamah.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03149",
+    "summary": "Khabbaab reports that Rasulullaah ﷺ prayed that Islaam be strengthened through whichever of Umar bin Khattaab and Abu Jahal bin Hishaam Allaah loves more.",
+    "people": [
+      { "id": "khabbaab-bin-arat", "role": "narrator" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abu-jahal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Jahal is named only as the other candidate in the du'aa. He is in the approved list with the not-sahabi mark."
+  },
+  {
+    "id": "n03150",
+    "summary": "Aa'isha and Abdullaah bin Mas'ood each report that Rasulullaah ﷺ prayed for Islaam to be strengthened through Umar.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports of the same kind of du'aa, one from Aa'isha and one from Ibn Mas'ood."
+  },
+  {
+    "id": "n03151",
+    "summary": "Zaid bin Aslam reports that Rasulullaah ﷺ asked Allaah to let Uthmaan pass speedily over the Siraat, Abu Sa'eed Khudri reports the Prophet's thrice-repeated words that he is pleased with Uthmaan, and Abdullaah bin Mas'ood reports a du'aa for the forgiveness of Uthmaan's sins.",
+    "people": [
+      { "id": "zaid-bin-aslam", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports. Uthmaan's gift of a camel is the occasion. Zaid bin Aslam is matched to the approved entry, which carries a (?) mark on Companion status."
+  },
+  {
+    "id": "n03152",
+    "summary": "Ali reports that when he had severe pain Rasulullaah ﷺ covered him with his shawl and prayed, and he was cured, and the Prophet said that whatever he asked for himself he had asked for Ali, and that there would be no prophet after him.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "illness-and-cure", "prophethood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ali's own account, so he is tagged as subject."
+  },
+  {
+    "id": "n03153",
+    "summary": "Zaid bin Yuthay, Sa'eed bin Wahab and Amr bin Dhi Murr report that Ali called on those who heard the Prophet at Ghadeer Khum to stand, thirteen Companions testified that they heard him say he is closer to the believers than they are to themselves, and the Prophet then prayed for whoever befriends Ali.",
+    "people": [
+      { "id": null, "name": "Zaid bin Yuthay", "role": "narrator", "sahabi": "unsure" },
+      { "id": "saeed-bin-wahab", "role": "narrator" },
+      { "id": null, "name": "Amr bin Dhi Murr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ghadeer Khum narration about Ali's standing. It could also fit 'khilaafah', which is not tagged because the text does not speak of succession. Zaid bin Yuthay and Amr bin Dhi Murr are not in the approved list. The footnote marker '9' is OCR debris."
+  },
+  {
+    "id": "n03154",
+    "summary": "Ibn Abbaas reports that Rasulullaah ﷺ prayed for Ali to be helped, for others to be helped through him, for mercy on him, and for Allaah to befriend Ali's friends and oppose his enemies.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Opens with 'Another narration', a separate du'aa for Ali that is related to n03153."
+  },
+  {
+    "id": "n03155",
+    "summary": "Ali reports that Rasulullaah ﷺ prayed that Allaah keep his tongue firm on the truth and guide his heart, and Ibn Abbaas reports a du'aa asking Allaah to guide Ali in passing judgement.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports. The OCR garbles Ali's name in the opening of the first report; the name is confirmed by the phrase 'Hadhrat Ali' in the text."
+  },
+  {
+    "id": "n03156",
+    "summary": "Abu Bakr reports that Rasulullaah ﷺ prayed for Sa'd bin Abi Waqqaas that his arrows travel straight, that his du'aas be accepted, and that Allaah love him.",
+    "people": [
+      { "id": "abu-bakr", "role": "narrator" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03157",
+    "summary": "Sa'd reports that Rasulullaah ﷺ prayed that his du'aas be accepted, and Zubayr bin Awwaam reports that the Prophet made du'aa for him, his children and his progeny.",
+    "people": [
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "zubayr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports. Sa'd and Zubayr each narrate their own du'aa, so both are subjects. Zubayr bin Awwaam is matched to the unqualified approved id 'zubayr'; please confirm."
+  },
+  {
+    "id": "n03158",
+    "summary": "Umm Salamah reports that Rasulullaah ﷺ gathered Faatima, her husband and her two sons under a blanket and prayed that Allaah send mercy and blessings on the family of Muhammad as He did on the family of Ibraheem.",
+    "people": [
+      { "id": "umm-salama", "role": "narrator" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Her husband and two sons are not named in the text, so they are left out. Faatima is named only as the one called over."
+  },
+  {
+    "id": "n03159",
+    "summary": "Abu Ammaar reports that Waathila bin Asqa told him how Rasulullaah ﷺ covered Ali, Faatima, Hasan and Husayn with a blanket and prayed for their purity, and Ali reports the Prophet tying a shawl over them and praying that Allaah be pleased with them.",
+    "people": [
+      { "id": null, "name": "Abu Ammaar", "role": "narrator", "sahabi": "unsure" },
+      { "id": "waathila-bin-asqa", "role": "narrator" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "mentioned" },
+      { "id": "hasan-bin-ali", "role": "mentioned" },
+      { "id": "husayn-bin-ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "virtues-of-the-sahabah", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Waathila's, passed on by Abu Ammaar, and Ali's own. Abu Ammaar is not in the approved list and his Companion status is not clear. The names in Ali's report are partly garbled by OCR."
+  },
+  {
+    "id": "n03160",
+    "summary": "Abdullaah bin Mas'ood reports that Rasulullaah ﷺ prayed for Hasan and Husayn, saying that whoever loves them loves him too.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "subject" },
+      { "id": "husayn-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "virtues-of-the-sahabah", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text has a garbled phrase in the du'aa ('IloveJhem,soYou love them too'), read here as 'I love them, so You love them too'."
+  }
+]

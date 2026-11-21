@@ -1,0 +1,561 @@
+[
+  {
+    "id": "n00241",
+    "summary": "Before the Battle of Ahzaab the Prophet ﷺ prayed for the Muhaajireen and Ansaar digging the trench in cold and hunger, and they pledged to wage jihaad as long as they lived; similar pledges by Basheer, Ya'la and Mujaashi are cited.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "basheer-bin-khasaasiyah", "role": "mentioned" },
+      { "id": null, "name": "Ya'la bin Munyah", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Mujaashi", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "prophets-concern"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00242",
+    "summary": "After pledging allegiance under a tree, Salama bin Akwa was asked by the Prophet ﷺ to pledge again, and the pledge he gave was to death.",
+    "people": [
+      { "id": null, "name": "Salama bin Akwa", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00243",
+    "summary": "During the Battle of Harra, Abdullaah bin Zaid said that no one may pledge to die after the demise of the Prophet ﷺ, when people were pledging to die against Ibn Handhala.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Zaid", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ibn Handhala", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "Several Companions share the name Abdullaah bin Zaid; the text gives no way to tell which. Ibn Handhala's Companion status is not stated."
+  },
+  {
+    "id": "n00244",
+    "summary": "Ubaadah bin Saamit, having torn open a shipment of wine, recounted the terms of his pledge to the Prophet ﷺ: to listen and obey, to spend in hardship and ease, to speak the truth and to protect the Prophet ﷺ, in exchange for Jannah. A second version of his words follows.",
+    "people": [
+      { "id": null, "name": "Ubaydullaah bin Raafi", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Ubaadah bin Saamit", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["sacrifice", "steadfastness"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "merged",
+    "notes": "Two versions of Ubaadah's statement are given under one number."
+  },
+  {
+    "id": "n00245",
+    "summary": "Jareer bin Abdillaah pledged to listen, obey and wish well for all Muslims; the Prophet ﷺ told him to pledge only to the best of his ability. Jareer's custom in trade of letting the other party decide is also recorded.",
+    "people": [
+      { "id": null, "name": "Jareer bin Abdillaah", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ibn Jareer", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "honest-dealings"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "merged",
+    "notes": "Contains Ibn Jareer's report, a second narration from Jareer, and an account of his trading."
+  },
+  {
+    "id": "n00246",
+    "summary": "Abdullaah bin Umar reports that when the Sahabah pledged to listen and obey, the Prophet ﷺ told them to add the clause 'to the best of my ability'.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "steadfastness"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "The section heading names 'Utba bin Abd', but the narration itself is Abdullaah bin Umar's."
+  },
+  {
+    "id": "n00247",
+    "summary": "Utba bin Abd narrates that he pledged allegiance to the Prophet ﷺ seven times, five of them pledges of obedience and two of love.",
+    "people": [
+      { "id": null, "name": "Utba bin Abd", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance", "love for the Prophet"],
+    "boundary": "ok",
+    "notes": "The name appears truncated in the source ('Utba bin Abd'). Not linked to any approved entry."
+  },
+  {
+    "id": "n00248",
+    "summary": "Anas says that with his own hands he pledged allegiance to the Prophet ﷺ to listen and obey to the best of his ability.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "steadfastness"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00249",
+    "summary": "Ummu Atiyya relates how the Prophet ﷺ sent Umar to the women of the Ansaar and took their pledge not to associate partners with Allaah, steal, commit adultery, kill their children, slander or disobey him in good. Umar then gave instructions on the Eid salaah, funerals and Jumu'ah for women.",
+    "people": [
+      { "id": null, "name": "Ummu Atiyya", "role": "narrator", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "family", "salaah"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "A stray citation to Targheeb wat Tarheeb is embedded mid-sentence and is not tagged."
+  },
+  {
+    "id": "n00250",
+    "summary": "Salma bint Qais, the Prophet's maternal aunt, pledged with the Ansaar women. Uqayla bint Ateeq and Umaymah bint Ruqayqah each give their own pledges, and the Prophet ﷺ says his pledge to women is confirmed by speech, not by handshake.",
+    "people": [
+      { "id": null, "name": "Salma bint Qais", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Uqayla bint Ateeq bin Haarith", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Qareera bint Haarith Utwaariyyah", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Umaymah bint Ruqayqah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "family", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "merged",
+    "notes": "Three separate reports: Salma bint Qais, Uqayla bint Ateeq and Umaymah bint Ruqayqah. OCR debris throughout."
+  },
+  {
+    "id": "n00251",
+    "summary": "Abdullaah bin Amr relates how Umayma bint Ruqayqa came to pledge to Islaam, and the Prophet ﷺ set out the clauses: no shirk, theft, adultery, killing children, slander, wailing, or display like the women of the Period of Ignorance.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Amr", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Umayma bint Ruqayqa", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["tawheed", "family"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Amr is not Abdullaah bin Umar (approved abdullaah-bin-umar). Umayma bint Ruqayqa is probably the same woman as Umaymah bint Ruqayqah in n00250."
+  },
+  {
+    "id": "n00252",
+    "summary": "Aa'isha relates that Faatima bint Utba came to pledge; the Prophet ﷺ asked her to pledge the clauses of the Qur'aanic verse, and she accepted after Aa'isha confirmed that all the women had agreed to them.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Faatima bint Utba", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "tawheed"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "Faatima bint Utba is not the approved 'faatima' entry."
+  },
+  {
+    "id": "n00253",
+    "summary": "Azza bint Khaabil pledged not to commit adultery, steal or bury her children alive, and explains her understanding that burying them alive in secret means spoiling them.",
+    "people": [
+      { "id": null, "name": "Azza bint Khaabil", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["family", "honest-dealings"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00254",
+    "summary": "Faatima bint Utba and her sister Hind bint Utba come with Abu Hudhayfa to pledge. Hind is permitted by her husband Abu Sufyaan to take food from his house, and her gold bangles are described as coals of Jahannam if zakaah is not paid. The Prophet ﷺ says no one has true Imaan until he is more beloved to them than their children and parents.",
+    "people": [
+      { "id": null, "name": "Faatima bint Utba", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Hudhayfa bin Utba", "role": "subject", "sahabi": "yes" },
+      { "id": "hind-bint-utba", "role": "subject" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "honest-dealings", "family"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "merged",
+    "notes": "Contains Faatima's account and a separate narration from Aa'isha about Hind. One sentence has OCR debris ('Spies')."
+  },
+  {
+    "id": "n00255",
+    "summary": "Further accounts of Hind bint Utba's pledge: she goes with Umar to the Prophet ﷺ after Abu Sufyaan's remark, and Abu Sufyaan pardons her past taking of his wealth. The Prophet ﷺ recognises her, takes her pledge and recites its clauses, including the prohibition of wailing.",
+    "people": [
+      { "id": "hind-bint-utba", "role": "subject" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Imaam Sha'bi", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Ibn Jareer", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "mercy-and-forgiveness", "honest-dealings"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "merged",
+    "notes": "Several narrations are joined: an 'another narration' version, Imaam Sha'bi's account, and Ibn Jareer's report from Ibn Abbaas."
+  },
+  {
+    "id": "n00256",
+    "summary": "Muhammad bin Ali bin Husayn relates that the Prophet ﷺ accepted the pledge of Hasan, Husayn, Abdullaah bin Abbaas and Abdullaah bin Ja'far while they were still young boys, and accepted pledges from no other children except those of his household.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Ali bin Husayn", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Hasan", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Husayn", "role": "subject", "sahabi": "yes" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": null, "name": "Abdullaah bin Ja'far", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["youth", "family", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "Hasan and Husayn are named only as in the text, and are not the approved 'husayn-father-of-imraan'."
+  },
+  {
+    "id": "n00257",
+    "summary": "Abdullaah bin Zubayr and Abdullaah bin Ja'far say they went to pledge to the Prophet ﷺ at the age of seven. He smiled, stretched out his hands and accepted their pledges.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Zubayr", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Ja'far", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["youth", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Zubayr is not the approved 'zubayr' (Zubayr bin Awwaam)."
+  },
+  {
+    "id": "n00258",
+    "summary": "Hirmaas bin Ziyaad recounts that as a child he stretched out his hand to pledge to the Prophet ﷺ, but the pledge was not accepted from him.",
+    "people": [
+      { "id": null, "name": "Hirmaas bin Ziyaad", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["youth", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00259",
+    "summary": "Muntashir relates the terms on which the Sahabah pledged to the Prophet ﷺ, and Abu Bakr's condition that they obey him only while he obeys Allaah. Ibn Afeef describes Abu Bakr taking pledges after the Prophet's demise, to obey Allaah, His Book and the Ameer.",
+    "people": [
+      { "id": null, "name": "Muntashir", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": null, "name": "Ibn Afeef", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["quraan", "steadfastness"],
+    "new_themes": ["pledge of allegiance", "caliphate"],
+    "boundary": "merged",
+    "notes": "Two reports: Muntashir (from his father) and Ibn Afeef. Some words are garbled by OCR."
+  },
+  {
+    "id": "n00260",
+    "summary": "Abu Safar relates that whenever Abu Bakr sent an army to Shaam he made the soldiers pledge to fight with spears if needed and to stay steadfast in a plague.",
+    "people": [
+      { "id": null, "name": "Abu Safar", "role": "narrator", "sahabi": "yes" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "steadfastness"],
+    "new_themes": ["pledge of allegiance"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00261",
+    "summary": "Anas went to Madinah after Abu Bakr's death and asked Umar to let him pledge as he had to Abu Bakr. Umayr bin Atiyya and Abdullaah bin Ukaym also pledged to Umar, who said the pledge gives each side rights over the other.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Umayr bin Atiyya Laythi", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Ukaym", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "brotherhood"],
+    "new_themes": ["pledge of allegiance", "caliphate"],
+    "boundary": "merged",
+    "notes": "Three reports: Anas, Umayr bin Atiyya and Abdullaah bin Ukaym."
+  },
+  {
+    "id": "n00262",
+    "summary": "Saleem Abu Aamir relates that a delegation from Hamraa pledged to Uthmaan not to associate partners with Allaah, to establish salaah, pay zakaah, fast in Ramadhaan and give up the festivities of the fire-worshippers. Uthmaan accepted their pledge only after they agreed to all of these.",
+    "people": [
+      { "id": null, "name": "Saleem Abu Aamir", "role": "narrator", "sahabi": "unsure" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["accepting-islaam", "tawheed", "salaah"],
+    "new_themes": ["pledge of allegiance", "fasting"],
+    "boundary": "ok",
+    "notes": "The place name is spelled 'Hamraa' in the source. The delegation is unnamed."
+  },
+  {
+    "id": "n00263",
+    "summary": "Miswar bin Makhrama relates how the six Sahabah appointed by Umar consulted, and Abdur Rahmaan bin Auf took their choice. After private talks with Ali and Uthmaan he pledged to Uthmaan, and the Muhaajireen, Ansaar, army leaders and the public followed.",
+    "people": [
+      { "id": "miswar-bin-makhrama", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "zubayr", "role": "mentioned" },
+      { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+      { "id": "ali", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["brotherhood", "virtues-of-the-sahabah"],
+    "new_themes": ["pledge of allegiance", "caliphate"],
+    "boundary": "ok",
+    "notes": "The text gives only 'Sa'd'. It is taken as Sa'd bin Abi Waqqaas, one of the six, which is not stated explicitly."
+  },
+  {
+    "id": "n00264",
+    "summary": "Nufayr relates that Miqdaad bin Aswad rebuked a man who wished he had lived in the Prophet's time. He reminded him of the darkness before Islaam, of the Qur'aan separating truth from falsehood even between father and son, and of the hardships believers bore, citing Surah Furqaan 74.",
+    "people": [
+      { "id": null, "name": "Nufayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Miqdaad bin Aswad", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["guidance", "quraan", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Possibly the same man as the approved 'miqdaad-bin-amr' (Miqdaad bin Amr, also called Miqdaad bin Aswad). Left unlinked for review."
+  },
+  {
+    "id": "n00265",
+    "summary": "A man from Kufa asks Hudhayfa what life was like with the Prophet ﷺ. Hudhayfa describes the fear, hunger and bitter cold of the Battle of the Trench and tells him not to wish for such a time.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Ka'b Qurazi", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Hudhayfa", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "sacrifice", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends with a forward reference to a fuller account later in the book. The Muslim, Haakim and Bayhaqi references are not tagged."
+  },
+  {
+    "id": "n00266",
+    "summary": "Anas reports the Prophet ﷺ saying that he was harassed and threatened for Allaah's sake more than anyone, and that for thirty days and nights he and Bilaal had almost no food.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "bilaal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "sacrifice", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00267",
+    "summary": "The Quraysh complain to Abu Taalib about the Prophet ﷺ. Abu Taalib asks Aqeel to bring him, and the Prophet ﷺ says he cannot give up his mission even if the sun and moon were in his hands. Abu Taalib then vows to protect him. A Bayhaqi variant gives the same outcome.",
+    "people": [
+      { "id": "aqeel-bin-abi-taalib", "role": "subject" },
+      { "id": "abu-taalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "steadfastness", "dawah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Aqeel's account and a separate Bayhaqi narration of the same meeting."
+  },
+  {
+    "id": "n00268",
+    "summary": "Abdullaah bin Ja'far relates that after Abu Taalib died a foolish man of the Quraysh threw sand at the Prophet ﷺ. His daughter wiped it away and wept, and he told her that Allaah would protect her father. He also said the Quraysh had not dared harm him while Abu Taalib lived.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Ja'far", "role": "narrator", "sahabi": "yes" },
+      { "id": "abu-taalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00269",
+    "summary": "Abu Hurayrah relates that after Abu Taalib died the Quraysh treated the Prophet ﷺ very harshly, and the Prophet ﷺ said he was quickly feeling his uncle's loss.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abu-taalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00270",
+    "summary": "Haarith bin Haarith recounts seeing the Prophet ﷺ calling people to Tawheed and Imaan and being harmed, until a girl, Zaynab, brought him water and a cloth. Muneeb Azdi describes the Prophet ﷺ calling people to La ilaaha illallaah while being abused, and the same girl bringing him water.",
+    "people": [
+      { "id": null, "name": "Haarith bin Haarith", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Zaynab", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Muneeb Azdi", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "kalimah", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Haarith bin Haarith and Muneeb Azdi. Zaynab is the Prophet's daughter, named only as in the text, and is not an approved entry."
+  },
+  {
+    "id": "n00271",
+    "summary": "Abul Aas describes the worst thing the mushrikeen did to the Prophet ﷺ: Uqba bin Abi Mu'eet throttled him with a cloth while he prayed at the Hateem, until Abu Bakr pushed Uqba away and recited Surah Mu'min 28.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Abul Aas", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Uqba bin Abi Mu'eet", "role": "subject", "sahabi": "no" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Urwa' is given without a second name and may be Urwa bin Zubayr, a Tabi'i, which the text does not say. Abul Aas is not the approved 'amr-bin-al-aas'."
+  },
+  {
+    "id": "n00272",
+    "summary": "Amr bin Al Aas recounts the one time he saw the Quraysh try to kill the Prophet ﷺ: Uqba bin Abi Mu'eet throttled him while he prayed near the Maqaam of Ibraheem, and Abu Bakr rescued him. The Prophet ﷺ then warned the Quraysh that he had been sent to slaughter them, and Abu Jahal replied to him.",
+    "people": [
+      { "id": "amr-bin-al-aas", "role": "subject" },
+      { "id": null, "name": "Uqba bin Abi Mu'eet", "role": "subject", "sahabi": "no" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "abu-jahal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00273",
+    "summary": "Urwa bin Zubayr asks Abdullaah bin Amr about the worst Quraysh treatment of the Prophet ﷺ. Abdullaah describes their mockery and their final confrontation with the Prophet ﷺ, when Abu Bakr defended him. Asmaa bint Abi Bakr adds her own account of the attack and of her father being beaten.",
+    "people": [
+      { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Abdullaah bin Amr", "role": "subject", "sahabi": "yes" },
+      { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abdullaah bin Amr's and Asmaa bint Abi Bakr's. Urwa bin Zubayr is marked (RA) in the text but his Companion status is unsure."
+  },
+  {
+    "id": "n00274",
+    "summary": "Anas relates that the mushrikeen beat the Prophet ﷺ until he was unconscious, and Abu Bakr protested that they were killing a man for saying Allaah is his Rabb. Another report says the attackers then turned on Abu Bakr.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The 'another states' variant is a separate report of the same event."
+  },
+  {
+    "id": "n00275",
+    "summary": "Ali asks the people who is most courageous and answers Abu Bakr: at Badr he stood guard by the Prophet ﷺ with a drawn sword, and when the Quraysh seized the Prophet ﷺ he alone defended him. Ali says a moment of Abu Bakr's life is better than the believer of Fir'oun's court, who hid his Imaan, since Abu Bakr made his Imaan public.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": null, "name": "Fir'oun", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "opposition"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00276",
+    "summary": "Abdullaah bin Mas'ood relates that Hamza, angered on learning what Abu Jahal had done to the Prophet ﷺ at the Ka'bah, struck Abu Jahal with his bow and then accepted Islaam. Muhammad bin Ka'b Qurazi gives a second version in which Hamza struck Abu Jahal's head with his bow near Safa and Marwa.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "hamza", "role": "subject" },
+      { "id": "abu-jahal", "role": "subject" },
+      { "id": null, "name": "Muhammad bin Ka'b Qurazi", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abdullaah bin Mas'ood's and Muhammad bin Ka'b Qurazi's. The section heading mentions Abul Bakhtari, who does not appear in the text."
+  },
+  {
+    "id": "n00277",
+    "summary": "Abbaas relates that Abu Jahal vowed to trample the Prophet ﷺ's neck if he saw him in sajdah. The Prophet ﷺ went to the Masjid in anger, recited Surah Alaq and prostrated, and Abu Jahal said the horizons had closed in on him.",
+    "people": [
+      { "id": null, "name": "Abbaas", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-jahal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "quraan", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives only 'Abbaas'. Probably the Prophet's uncle Abbaas bin Abdil Muttalib, which is not stated. Left unlinked."
+  },
+  {
+    "id": "n00278",
+    "summary": "Barra bint Abi Tajra relates that Tulayb bin Umayr struck Abu Jahal's head when Abu Jahal harmed the Prophet ﷺ, and Abu Lahab stood up to defend Tulayb. Arwa, Tulayb's mother, called it his best day. Later Arwa accepted Islaam, and when Abu Lahab reproached her she told him to defend his nephew, the Prophet ﷺ.",
+    "people": [
+      { "id": null, "name": "Barra bint Abi Tajra", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Tulayb bin Umayr", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-jahal", "role": "subject" },
+      { "id": "abu-lahab", "role": "subject" },
+      { "id": "arwa-bint-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "family", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Tulayb bin Umayr is given without (RA) in the text, so his Companion status is unsure."
+  },
+  {
+    "id": "n00279",
+    "summary": "Qataada relates that Abu Lahab's sons Utayba and Utba divorced the Prophet ﷺ's daughters after Surah Lahab was revealed. Utayba rejected the Prophet ﷺ's religion, assaulted him, and was killed by a lion on a trade journey, as the Prophet ﷺ had said. Uthmaan later married Ummu Kulthoom.",
+    "people": [
+      { "id": null, "name": "Qataada", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Ummu Kulthoom", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Ruqayya", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Utayba bin Abi Lahab", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Utba bin Abi Lahab", "role": "mentioned", "sahabi": "no" },
+      { "id": "abu-lahab", "role": "subject" },
+      { "id": "uthmaan", "role": "mentioned" },
+      { "id": null, "name": "Zuhayr bin Alaa", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Hishaam bin Urwa", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "apostasy", "family", "prophethood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The lion episode is given with a second chain (Zuhayr bin Alaa, from Hishaam bin Urwa). Utba bin Abi Lahab is not the approved 'utba-bin-rabeeah'."
+  },
+  {
+    "id": "n00280",
+    "summary": "Rabee'ah bin Ubayd Deeli says the Prophet ﷺ's house lay between those of Abu Lahab and Uqba bin Abi Mu'eet, and filth and entrails were hung on his door. The Prophet ﷺ cleared them away with his bow and said the two were terrible neighbours.",
+    "people": [
+      { "id": null, "name": "Rabee'ah bin Ubayd Deeli", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-lahab", "role": "mentioned" },
+      { "id": null, "name": "Uqba bin Abi Mu'eet", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Rabee'ah's Companion status is not stated in the text."
+  }
+]

@@ -1,0 +1,1093 @@
+[
+ {
+  "id": "n01921",
+  "summary": "Anas accompanies the Prophet to visit Zaid bin Arqam during an eye ailment, and the Prophet tells Zaid that losing his sight with patience and hope of reward will bring him to Allaah without sin.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "visiting-the-sick"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01922",
+  "summary": "Zaid bin Arqam relates that the Prophet visited him in illness and told him that if he lost his sight in old age and bore it patiently he would enter Jannah without reckoning.",
+  "people": [
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "visiting-the-sick",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01923",
+  "summary": "A variant report says Zaid bin Arqam went blind after the Prophet's death but Allaah restored his sight before Zaid died.",
+  "people": [
+   {
+    "id": "zaid-bin-arqam",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "patience",
+   "miracles-and-blessings"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Variant of the report in n01922."
+ },
+ {
+  "id": "n01924",
+  "summary": "Qaasim bin Muhammad reports that a blind Companion said he would not want his sight back now that the Prophet has passed away, since he wanted it only to see the Prophet.",
+  "people": [
+   {
+    "id": "qaasim-bin-muhammad",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "patience",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The blind Companion is unnamed and so left out of people."
+ },
+ {
+  "id": "n01925",
+  "summary": "Anas relates that the Prophet wept at the death of his son Ibraheem and said they grieve but say only what pleases Allaah, and Makhool reports that Abdur Rahmaan bin Awf asked why he wept and the Prophet explained that tears come from mercy.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   },
+   {
+    "id": "ibraheem",
+    "role": "mentioned"
+   },
+   {
+    "id": "makhool",
+    "role": "narrator"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "death-and-burial",
+   "kindness"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "merged",
+  "notes": "Joins Anas's account with a separate report introduced by 'Hadhrat Makhool narrates' (Abdur Rahmaan bin Awf and the Prophet). The OCR is broken in the middle of the Makhool report."
+ },
+ {
+  "id": "n01926",
+  "summary": "Usaama bin Zaid relates that when the Prophet's grandson was dying, the Prophet went with several Companions, and seeing the child's last moments he wept and explained that Allaah places mercy in the hearts of His servants.",
+  "people": [
+   {
+    "id": "usaama-bin-zaid",
+    "role": "subject"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   },
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "mentioned"
+   },
+   {
+    "id": "ubay-bin-kab",
+    "role": "mentioned"
+   },
+   {
+    "id": "zaid-bin-thaabit",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "kindness",
+   "death-and-burial"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "ok",
+  "notes": "Contains an embedded OCR reference footnote in the middle of the narration."
+ },
+ {
+  "id": "n01927",
+  "summary": "Abu Hurayrah and Ibn Abbaas report the Prophet's grief at the mutilated body of his uncle Hamza after Uhud, his vow to mutilate in return, the revelation of Surah Nahl verse 126 counselling patience over revenge, and his funeral prayer for Hamza and the other martyrs.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   },
+   {
+    "id": "hamza",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "martyrdom",
+   "patience",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins Abu Hurayrah's report and Ibn Abbaas's report. The text is also cut off mid-sentence at 'forsook the idea of'."
+ },
+ {
+  "id": "n01928",
+  "summary": "Usaama bin Zaid relates that the Prophet wept when Usaama came to him after the martyrdom of Usaama's father Zaid bin Haaritha, and Khaalid bin Shumayr reports that the Prophet wept again when Zaid's daughter cried, calling it the longing a friend has for his friend.",
+  "people": [
+   {
+    "id": "usaama-bin-zaid",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-haaritha",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Shumayr",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "martyrdom",
+   "death-and-burial",
+   "kindness"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "merged",
+  "notes": "Joins Usaama bin Zaid's report and Khaalid bin Shumayr's report. The book gives Khaalid bin Shumayr (RA), but he is not in the approved list and his Companion status is unclear, so sahabi is unsure. The start of Usaama's quoted words is cut off in the OCR."
+ },
+ {
+  "id": "n01929",
+  "summary": "Aa'isha reports that the Prophet's eyes filled with tears when he kissed Uthmaan bin Madh'oon after his death, and said the reason was that he had been killed by the People of the Book.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan-bin-madhoon",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "death-and-burial",
+   "kindness"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "ok",
+  "notes": "The question about the reason is partly lost in the OCR; who asked is not legible."
+ },
+ {
+  "id": "n01930",
+  "summary": "Anas relates that Ummu Sulaym refused Abu Talha's proposal until he accepted Islaam, which she made her dowry, the Prophet married them on that basis, and after their son died she bore it patiently, so the Prophet promised them another child.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   },
+   {
+    "id": "ummu-sulaym",
+    "role": "subject"
+   },
+   {
+    "id": "abu-talha",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abu Anas",
+    "role": "subject",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "accepting-islaam",
+   "marriage",
+   "patience",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Anas is Anas's father, who the text says died as a Mushrik. He is not in the approved list and is named only by his kunya."
+ },
+ {
+  "id": "n01931",
+  "summary": "Anas relates that Ummu Sulaym did not tell Abu Talha of their son's death until after the night, that the Prophet prayed for a blessing on that night, and that the newborn received tahneek from the Prophet with a date.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "subject"
+   },
+   {
+    "id": "abu-talha",
+    "role": "subject"
+   },
+   {
+    "id": "ummu-sulaym",
+    "role": "subject"
+   },
+   {
+    "id": "sufyaan",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "death-and-burial",
+   "family",
+   "miracles-and-blessings"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins the main report, an 'Another narration' variant, and Sufyaan's separate report about nine children who were scholars of the Qur'aan (a man from the Ansaar is the source). The child's name is missing from the text ('named the child', then 'Another narration')."
+ },
+ {
+  "id": "n01932",
+  "summary": "Qaasim bin Muhammad relates that Abdullaah, son of Abu Bakr, was struck by an arrow at Taa'if and died when the wound reopened forty days after the Prophet's death, that Abu Bakr bore it with patience, and that he thanked Allaah for his son's martyrdom when he showed the arrow to the Thaqeef delegation and learned who had shot it.",
+  "people": [
+   {
+    "id": "qaasim-bin-muhammad",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abi-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Sa'd bin Ubayd of the Banu Ajlaan",
+    "role": "subject",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "martyrdom",
+   "patience",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The archer is placed among the Thaqeef (people of Taa'if), so he is not matched to the approved Sa'd bin Ubayd Qaari, who is an Ansaari."
+ },
+ {
+  "id": "n01933",
+  "summary": "A short variant has Abu Bakr telling the two people addressed that Allaah's good to them in this loss is vast.",
+  "people": [
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "A fragment of the report in n01932. 'Both of you' refers to people named in that report, which is not in this text."
+ },
+ {
+  "id": "n01934",
+  "summary": "Amr bin Sa'eed relates that Uthmaan smelled each newborn while it was still wrapped so that he would feel more love and need more patience if it died, and that Abu Dharr thanked Allaah when told none of his children seemed to survive, since Allaah stores them as treasure for him in the Aakhirah.",
+  "people": [
+   {
+    "id": "amr-bin-saeed",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-dharr-ghifaari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "family",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins Amr bin Sa'eed's report about Uthmaan with a separate, unattributed anecdote about Abu Dharr."
+ },
+ {
+  "id": "n01935",
+  "summary": "Umar bin Abdur Rahmaan relates that Umar bin Khattaab consoled himself with patience after his brother Zaid bin Khattaab's death, and told the man who killed Zaid that he thought of him every time the wind blew.",
+  "people": [
+   {
+    "id": null,
+    "name": "Umar bin Abdur Rahmaan bin Zaid bin Khattaab",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "zaid-bin-khattaab",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "death-and-burial",
+   "family"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator is not in the approved list and his Companion status is not stated."
+ },
+ {
+  "id": "n01936",
+  "summary": "Abdullaah bin Abbaas relates that Safiyyah came looking for Hamza after his death, that Ali and Zubayr did not tell her, that the Prophet calmed her with a hand on her chest and a du'aa, and that she accepted it saying 'To Allaah we belong'; the Prophet then prayed the funeral prayer for the martyrs one group at a time, leaving Hamza's body until last.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "safiyya-bint-abdul-muttalib",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "zubayr",
+    "role": "subject"
+   },
+   {
+    "id": "hamza",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "martyrdom",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01937",
+  "summary": "Zubayr relates how the Prophet forbade women to see the bodies at Uhud, how his mother Safiyyah insisted on bringing two sheets for Hamza, and how lots were drawn between Hamza and an unnamed Ansaari for the sheets; a second report has Safiyyah bearing the news with patience and the Prophet letting her go to Hamza's body.",
+  "people": [
+   {
+    "id": "zubayr",
+    "role": "subject"
+   },
+   {
+    "id": "safiyya-bint-abdul-muttalib",
+    "role": "subject"
+   },
+   {
+    "id": "hamza",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "martyrdom",
+   "patience",
+   "women-and-children-in-jihaad",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins Zubayr's direct account of the sheets with a second report introduced by 'it is reported'. The two overlap on the same scene."
+ },
+ {
+  "id": "n01938",
+  "summary": "Ummu Salamah relates that her husband Abu Salamah told her of the Prophet's promise that a Muslim who says 'To Allaah we belong' and the calamity du'aa will be given something better, that she recited it at his death, and that the Prophet later proposed marriage to her.",
+  "people": [
+   {
+    "id": "umm-salama",
+    "role": "subject"
+   },
+   {
+    "id": "abu-salma",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "marriage",
+   "duaa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01939",
+  "summary": "Aa'isha relates that Usayd bin Hudhayr wept on hearing of his wife's death, and when she asked why, he said the Prophet had said the Arsh shook at the death of Sa'd bin Mu'aadh.",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "usayd-bin-hudhayr",
+    "role": "subject"
+   },
+   {
+    "id": "sad-bin-muaadh",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "death-and-burial",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with variant wordings of the same report, kept as one entry."
+ },
+ {
+  "id": "n01940",
+  "summary": "Awn relates that Abdullaah bin Mas'ood wept at the news of his brother Utba's death, saying he would rather be left to hope for reward for his patience than die first.",
+  "people": [
+   {
+    "id": null,
+    "name": "Awn",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Utba bin Mas'ood",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "death-and-burial",
+   "family",
+   "patience"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01941",
+  "summary": "Khaytama relates that Abdullaah bin Mas'ood's eyes welled with tears at his brother Utba's death, and he said the weeping was a mercy Allaah placed in the heart.",
+  "people": [
+   {
+    "id": "khaytama",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Utba bin Mas'ood",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "death-and-burial",
+   "kindness"
+  ],
+  "new_themes": [
+   "grief and tears"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01942",
+  "summary": "Abdullaah bin Abu Saleet relates that Abu Ahmad bin Jahash, who was blind, carried the bier of his sister Zaynab bint Jahash in tears, and when Umar asked him to step aside he said carrying her bier cooled his grief, so Umar told him to hold on tight.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Abu Saleet",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "abd-bin-jahash",
+    "role": "subject"
+   },
+   {
+    "id": "zaynab-bint-jahash",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "death-and-burial",
+   "family",
+   "patience"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The book gives only the kunya Abu Ahmad bin Jahash; it is matched to Abd bin Jahash, the approved entry for that name."
+ },
+ {
+  "id": "n01943",
+  "summary": "Ahnaf bin Qais relates that after Umar was stabbed he asked Suhayb to lead prayer for three days and had food served, and that the grieving people refused to eat until Abbaas bin Abdul Muttalib began, which showed Ahnaf what Umar meant when he said the Quraysh are leaders.",
+  "people": [
+   {
+    "id": "ahnaf-bin-qais",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "suhayb",
+    "role": "mentioned"
+   },
+   {
+    "id": "abbaas-bin-abdil-muttalib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "death-and-burial",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01944",
+  "summary": "Abu Uyaynah relates that Abu Bakr consoled a bereaved person by saying there is no calamity where there is patience, and that thinking of the loss of the Prophet makes one's own loss seem light.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Uyaynah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "patience",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator's name is garbled in the OCR ('Sftgtg'); 'Abu Uyaynah' is read from the legible part."
+ },
+ {
+  "id": "n01945",
+  "summary": "Sufyaan relates that Ali consoled Ash'ath bin Qais on the death of his son, saying grief is a family right but patience brings reward while irritation brings sin.",
+  "people": [
+   {
+    "id": "sufyaan",
+    "role": "narrator"
+   },
+   {
+    "id": "ashath-bin-qais",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "death-and-burial"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01946",
+  "summary": "Abdullaah bin Abbaas relates that an Ansaari woman who suffered seizures chose to persevere for the reward of meeting Allaah without sin rather than be cured, and that after the Prophet prayed for her she would cling to the Kabah's shroud and the spirit would leave her.",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "duaa",
+   "miracles-and-blessings"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Ansaari woman is unnamed and so left out of people."
+ },
+ {
+  "id": "n01947",
+  "summary": "Ataa relates Abdullaah bin Abbaas's account of a black woman with epilepsy who chose patience for Jannah over a cure, asking only that her body not be exposed, which the Prophet prayed for; Ataa adds that she was called Ummu Zufar.",
+  "people": [
+   {
+    "id": "ataa-bin-abi-rabaah",
+    "role": "narrator"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Ummu Zufar",
+    "role": "subject",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "duaa",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ummu Zufar is named only in the 'another narration' addition. It is not stated whether she is the Ansaari woman in n01946."
+ },
+ {
+  "id": "n01948",
+  "summary": "Abdullaah bin Mughaffal relates that the Prophet told a man who struck his face on a wall after looking at a woman who had been a prostitute that Allaah intends good for him by hastening his punishment in this world; two further reports have Umar saying that anything a believer dislikes is a calamity, over a broken sandal strap and a broken shoe.",
+  "people": [
+   {
+    "id": "abdullaah-bin-mughaffal",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Khalifah",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "saeed-bin-musayyab",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "patience",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins three separate reports: Abdullaah bin Mughaffal's account of the Prophet, and Umar's remarks reported separately by Abdullaah bin Khalifah and by Sa'eed bin Musayyib."
+ },
+ {
+  "id": "n01949",
+  "summary": "Aslam relates that Abu Ubaydah wrote to Umar about the Romans' massive offensive, and Umar's reply urges steadfastness and patience, quoting the Qur'aanic command to persevere and fear Allaah.",
+  "people": [
+   {
+    "id": "aslam",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "jihaad"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off after 'Aal imraan, verse'. The heading also mentions Uthmaan's perseverance, which is in the next narration."
+ },
+ {
+  "id": "n01950",
+  "summary": "Mahdi says that Uthmaan had two virtues that Abu Bakr and Umar did not have: he persevered until his martyrdom, and he united the Muslims on one standard text of the Qur'aan.",
+  "people": [
+   {
+    "id": null,
+    "name": "Mahdi",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "virtues-of-the-sahabah",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator's name is damaged in the OCR; only 'Mahdi' is legible, so he is not matched to an approved entry."
+ },
+ {
+  "id": "n01951",
+  "summary": "Abdur Rahmaan bin Awf relates that the Prophet prolonged his sajdah in his room until he feared he had died, and told him that Jibra'eel had brought word that Allaah sends mercy on whoever invokes blessings upon the Prophet, so he prostrated in gratitude.",
+  "people": [
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01952",
+  "summary": "Mu'aadh bin Jabal relates that the Prophet stood in prayer until dawn and made a long sajdah, and explained that his Lord had asked about his Ummah and promised he would never be made to grieve over it, so he prostrated in thanks.",
+  "people": [
+   {
+    "id": "muaadh-bin-jabal",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "prophets-concern"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01953",
+  "summary": "Abdur Rahmaan bin Abu Bakr relates that the Prophet recited Surah Sajdah and prostrated so long that people gathered, explaining he did so in gratitude that seventy thousand of his Ummah would enter Jannah without reckoning, and Abu Bakr and Umar remarked on how great a gift that was.",
+  "people": [
+   {
+    "id": "abdur-rahmaan-bin-abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "aaisha",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "salaah",
+   "prophets-concern"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": "The narrator's name is garbled in the OCR ('Abdur Rahmaan Abu Bakr'); read as Abdur Rahmaan bin Abu Bakr."
+ },
+ {
+  "id": "n01954",
+  "summary": "Abdullaah bin Umar relates that the Prophet dismounted and prostrated when he passed a man with a terminal illness, and that Abu Bakr and then Umar did the same.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "visiting-the-sick",
+   "kindness"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01955",
+  "summary": "Ali relates that the Prophet prayed that if Allaah returned his family safely from an expedition he would thank Him as He deserves, and when they returned he thanked Allaah and told Ali that he had just done so.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "family",
+   "miracles-and-blessings"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01956",
+  "summary": "Anas relates that the Prophet gave a beggar a single date, which the beggar threw away, and that when a second beggar was delighted with a date he had the Prophet's instruction to have forty dirhams given to him through Ummu Salamah; a second report from Hasan has a beggar who was made wealthy after the Prophet told people to treat him well.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "umm-salama",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Hasan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "sadaqah",
+   "miracles-and-blessings"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins Anas's report with a second report from Hasan. The Prophet's reply in Hasan's report is cut off mid-sentence in the OCR ('multitudes of atoms in'). Hasan is not matched to an approved entry because the text does not give his full name."
+ },
+ {
+  "id": "n01957",
+  "summary": "Sulaymaan bin Yasaar relates that passing Dajnaan, Umar recalled herding animals there for his stern father Khattaab, thanked Allaah for making him the guide of the Ummah of Muhammad, and recited verses that worldly wealth and children are temporary while Allaah remains.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sulaymaan bin Yasaar",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Khattaab",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "zuhd",
+   "aakhirah"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01958",
+  "summary": "Umar says that when he comes to the conveyance of gratitude or the conveyance of patience, he does not mind which of the two he rides.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01959",
+  "summary": "Ikramah relates that Umar, passing a leper who was also blind, deaf and dumb, asked his companions whether they saw any bounty in him, and pointed out that the man could urinate with ease, which is a great bounty.",
+  "people": [
+   {
+    "id": "ikrimah",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "miracles-and-blessings",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01960",
+  "summary": "Ibraheem relates that Umar heard a man say he wished to spend his wealth and his life in Allaah's path, and rebuked the people for not staying silent, advising patience in difficulty and gratitude in prosperity instead.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "patience",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "gratitude to Allaah"
+  ],
+  "boundary": "ok",
+  "notes": "'Hadhrat ibraheem' is not matched to an approved entry because the text does not say which Ibraheem is meant."
+ }
+]

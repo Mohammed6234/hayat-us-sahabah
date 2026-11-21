@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "n03321",
+    "summary": "Umar bin Khattaab tells the people in his first sermon as Khalifah to take account of themselves before Allaah takes account of them.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "fear-of-allaah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03322",
+    "summary": "Abul Firaas reports that Umar told the people he now judges them only by their outward conduct, warned against reciting the Qur'aan for worldly show, and instructed his governors to teach rather than oppress.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abul Firaas",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "sincerity",
+      "justice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Abul Firaas' is not spelled as in the approved list; abul-furaat (?) may be the same person, so recorded as new. Please confirm."
+  },
+  {
+    "id": "n03323",
+    "summary": "Ibnul Ajfaa reports that Umar warned against inflated dowries and against calling every slain man a martyr, since he may have carried trade goods.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ibnul Ajfaa",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "martyrdom"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03324",
+    "summary": "Masrooq reports that Umar, from the pulpit, asked why dowries were inflated when those of the Prophet and his Companions were modest.",
+    "people": [
+      {
+        "id": null,
+        "name": "Masrooq",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "marriage",
+      "following-the-sunnah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03325",
+    "summary": "At Jaabiya, Umar rebukes a priest who denied that Allaah misleads anyone, and explains that the dispute about predestination arose after the people were created and their destinies recorded.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Aadam",
+        "role": "mentioned",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "qadr",
+      "guidance"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03326",
+    "summary": "Abdur Rahmaan bin Abzah reports that Umar threatened to execute any two people he heard disputing predestination, and the dispute only resurfaced in Shaam under Hajjaaj.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdur Rahmaan bin Abzah",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "hajjaaj",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "qadr",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03327",
+    "summary": "Baahili reports Umar's long lecture at Jaabiya urging people to learn and act on the Qur'aan, to be patient in seeking sustenance, to avoid wine, tyrants and prohibited dealings, and to refrain from abusing or cutting off fellow Muslims.",
+    "people": [
+      {
+        "id": null,
+        "name": "Baahili",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "seeking-knowledge",
+      "halaal-and-haraam",
+      "muslim-rights"
+    ],
+    "new_themes": [
+      "sustenance"
+    ],
+    "boundary": "ends-mid",
+    "notes": "The lecture breaks off after the warning about sorcerers and fortune-tellers, with no closing quotation mark. The rest of it is not in this narration."
+  },
+  {
+    "id": "n03328",
+    "summary": "Moosa bin Uqba reports Umar's comprehensive Jaabiya lecture on fearing Allaah, the times of salaah, fasting, zakaah, true jihaad and hijrah, and the duties of rulers to their subjects.",
+    "people": [
+      {
+        "id": "moosa-bin-aqba",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "salaah",
+      "fasting",
+      "zakaah",
+      "jihaad",
+      "hijrah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Matched to approved moosa-bin-aqba, although the list spells it Aqba and the text says Uqba. Please confirm."
+  },
+  {
+    "id": "n03329",
+    "summary": "Umar, at Jaabiya, urges people to put their private lives in order, stay with the united body of Muslims, and never be alone with a non-Mahram woman.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "avoiding-fitnah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The transmitter is anonymous ('another narration'), so no narrator is listed."
+  },
+  {
+    "id": "n03330",
+    "summary": "Abdullaah bin Umar reports Umar's Jaabiya lecture quoting the Prophet on honouring the Sahabah and on unity, and Suwayd bin Ghafala reports Umar's ban on men wearing silk beyond a trivial amount.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "suwayd-bin-ghafala",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "avoiding-fitnah",
+      "clothing"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports in one item: Abdullaah bin Umar on the Jaabiya lecture, and Suwayd bin Ghafala on silk."
+  },
+  {
+    "id": "n03331",
+    "summary": "Sayf reports that just before returning to Madinah, Umar told the people in Shaam that he had been just in sharing the booty, camps and borders, and invited them to point out anything else worth doing.",
+    "people": [
+      {
+        "id": null,
+        "name": "Sayf",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "justice",
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03332",
+    "summary": "Urwa bin Zubayr reports Umar's first address as Khalifah on accountability, Taqwa and fair treatment of the people; a second address, from an anonymous transmitter, covers the same ground.",
+    "people": [
+      {
+        "id": "urwa-bin-zubayr",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "taqwa",
+      "justice"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate addresses in one item: the first reported by Urwa bin Zubayr, the second introduced as 'another narration' with no named transmitter."
+  },
+  {
+    "id": "n03333",
+    "summary": "Umar warns against greed and miserliness, urges generous sadaqah and earning only halaal wealth, forbids women from wearing sheer Egyptian cloth, and gives advice on buying a camel.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "sadaqah",
+      "modesty",
+      "halaal-and-haraam",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "No transmitter is named in this item."
+  },
+  {
+    "id": "n03334",
+    "summary": "Urwa and others report Umar's sermon on Allaah's countless bounties to the Ummah and the duty to be grateful, quoting the Qur'aan on how Allaah addressed Musa and the Prophet.",
+    "people": [
+      {
+        "id": null,
+        "name": "Urwa",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "moosa",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "gratitude",
+      "khilaafah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is only 'Hadhrat Urwa (RA)'. Not matched to urwa-bin-zubayr or urwa-bin-masood. Please confirm."
+  },
+  {
+    "id": "n03335",
+    "summary": "Ibn Kulayb reports that Umar, reciting Surah Aal Imraan from the pulpit on a Friday, recounted how he ran up Uhud and threatened to kill anyone who said the Prophet had been martyred.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ibn Kulayb",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "martyrdom"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ibn Kulayb is not in the approved list (kulayb (?) is a different name). Recorded as new."
+  },
+  {
+    "id": "n03336",
+    "summary": "Ibn Kulayb reports Umar's account, given while reciting Surah Aal Imraan, of seeing the Prophet alive after the rumour of his death at Uhud and of the verse revealed then.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ibn Kulayb",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "prophethood",
+      "jihaad",
+      "martyrdom"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03337",
+    "summary": "Abdullaah bin Adi bin Khiyaar reports Umar's lecture that Allaah raises the one who humbles himself for Him and humbles the one who is proud.",
+    "people": [
+      {
+        "id": "abdullaah-bin-adi-bin-khiyaar",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "sincerity"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03338",
+    "summary": "Abu Sa'eed Khudri reports Umar telling people to avoid any transaction that raises doubt about interest, since the Prophet died before explaining its details.",
+    "people": [
+      {
+        "id": "abu-saeed-khudri",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "halaal-and-haraam",
+      "honest-dealings"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03339",
+    "summary": "Aswad bin Yazeed reports Umar's list of the Miqaat places for Hajj, and Abdullaah bin Abbaas reports Umar's lecture that the Prophet had adulterers stoned and that this penalty must not be doubted.",
+    "people": [
+      {
+        "id": null,
+        "name": "Aswad bin Yazeed",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hajj",
+      "halaal-and-haraam",
+      "the-unseen"
+    ],
+    "new_themes": [
+      "stoning for adultery"
+    ],
+    "boundary": "merged",
+    "notes": "Two separate reports in one item: Aswad bin Yazeed on the Miqaat, and Abdullaah bin Abbaas on rajm (stoning)."
+  },
+  {
+    "id": "n03340",
+    "summary": "Sa'eed bin Musayyib reports Umar's du'aa at Abtah, his Madinah speech on the ordained duties and on stoning for adultery, and that he was stabbed within the month of Dhul Hijjah.",
+    "people": [
+      {
+        "id": "saeed-bin-musayyab",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "duaa",
+      "khilaafah",
+      "halaal-and-haraam"
+    ],
+    "new_themes": [
+      "stoning for adultery"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03341",
+    "summary": "Ma'daan bin Abu Talha reports Umar's last Friday sermon: his dream of his death, the six-man consultation to choose a successor, his concern about the law of kalaalah inheritance, and the rule that garlic and onions must be cooked before entering the Masjid.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ma'daan bin Abu Talha",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      },
+      {
+        "id": "asmaa-bint-umays",
+        "role": "mentioned"
+      },
+      {
+        "id": "uthmaan",
+        "role": "mentioned"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      },
+      {
+        "id": "zubayr",
+        "role": "mentioned"
+      },
+      {
+        "id": "talha",
+        "role": "mentioned"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "mentioned"
+      },
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "khilaafah",
+      "consultation",
+      "eating-and-drinking"
+    ],
+    "new_themes": [
+      "inheritance of a kalaalah"
+    ],
+    "boundary": "ok",
+    "notes": "Ma'daan bin Abu Talha is not in the approved list; recorded as new."
+  },
+  {
+    "id": "n03342",
+    "summary": "Yasaar bin Maroor reports Umar saying that the Prophet built the Masjid for the Muhaajireen and Ansaar, so that when crowds grew, people should make sajdah on each other's backs and pray inside rather than in the streets.",
+    "people": [
+      {
+        "id": null,
+        "name": "Yasaar bin Maroor",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "masjid",
+      "salaah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Yasaar bin Maroor is not in the approved list (yasaar (?) and maroor-bin-suwayd (?) are different names). Recorded as new."
+  },
+  {
+    "id": "n03343",
+    "summary": "Abdullaah bin Umar reports Umar's statement that the Prophet permitted Mut'ah for three days before it was forbidden, and Abdullaah bin Sa'eed reports Umar's warning about children born to non-Arab slave women.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abdullaah bin Sa'eed",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "marriage",
+      "halaal-and-haraam",
+      "slaves-and-servants"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports in one item: Abdullaah bin Umar, and Abdullaah bin Sa'eed (who heard it from an unnamed grandfather)."
+  },
+  {
+    "id": "n03344",
+    "summary": "Ma'roor Tameemi reports hearing Umar urge people from the pulpit to adopt Taqwa and to obey those entrusted with their affairs.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ma'roor Tameemi",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "taqwa",
+      "khilaafah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The source gives the narrator as 'Ma'roor or Ibn Ma'roor Tameemi'. Recorded as written. Please confirm."
+  },
+  {
+    "id": "n03345",
+    "summary": "Abu Hurayrah, Qabeesah, Urwa and Abdullaah bin Khiraash each report short sayings of Umar on truthfulness, mercy, greed and independence, and a du'aa asking Allaah to keep them on His Deen.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Qabeesah",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Urwa",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-khiraash",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "good-character",
+      "mercy-and-forgiveness",
+      "zuhd",
+      "duaa"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Four separate reports in one item. 'Qabeesah' and 'Urwa' are not spelled as in the approved list, so they are not matched to qabeesah-bin-dhuwayb or urwa-bin-zubayr. Please confirm."
+  },
+  {
+    "id": "n03346",
+    "summary": "Another narration adds Umar's du'aa phrase 'and provide for us from Your grace'.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "duaa",
+      "mercy-and-forgiveness"
+    ],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Continues the du'aa at the end of the previous narration (n03345). The transmitter is anonymous."
+  },
+  {
+    "id": "n03347",
+    "summary": "Abu Sa'eed, Abdullaah bin Zubayr, Abu Ubayd, Alqama and Sulaymaan bin Yasaar each report Umar's sayings on Hajj and Umrah, silk, the prohibition of fasting on the two Eids, intention, and his du'aa for rain during a drought.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Sa'eed",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-zubayr",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-ubayd",
+        "role": "narrator"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "mentioned"
+      },
+      {
+        "id": "alqama-bin-waqqaas-laythi",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Sulaymaan bin Yasaar",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hajj",
+      "fasting",
+      "sincerity",
+      "duaa",
+      "clothing"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate reports in one item. 'Abu Sa'eed' is not named further, so he may be Abu Sa'eed Khudri (abu-saeed-khudri) or another; not matched. The 'Abu Ubayd' entry follows the approved list (abu-ubayd)."
+  },
+  {
+    "id": "n03348",
+    "summary": "Abu Uthmaan Nahdi reports Umar reciting the Qur'aanic verses on the passing nature of wealth and children and the lasting value of good deeds, after which the people came forward to pledge allegiance.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Uthmaan Nahdi",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "aakhirah",
+      "bayah"
+    ],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Begins mid-verse, with an OCR gap in the quoted Qur'aan. Possibly abu-uthmaan (?) in the approved list, which is not confirmed."
+  },
+  {
+    "id": "n03349",
+    "summary": "Utba reports Uthmaan's first address as Khalifah: he will follow the Book, the Sunnah and what the people agree on, and he warns against being drawn to the world.",
+    "people": [
+      {
+        "id": null,
+        "name": "Utba",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "following-the-sunnah",
+      "zuhd"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is only 'Hadhrat Utba'. The approved list has no plain 'utba'. Please confirm."
+  },
+  {
+    "id": "n03350",
+    "summary": "Mujaahid reports Uthmaan's address warning that the angel of death is closing in and that each person must prepare for death and take charge of his own soul.",
+    "people": [
+      {
+        "id": null,
+        "name": "Mujaahid",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "death-and-burial",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03351",
+    "summary": "Hasan reports Uthmaan's address urging Taqwa, control of the soul for the life after death, and trust in Allaah above all else.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hasan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "taqwa",
+      "aakhirah",
+      "trust-in-allaah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Hasan' is not named further. He may be Hasan al-Basri (hasan-bin-abil-hasan) or Hasan bin Ali (hasan-bin-ali). Not matched."
+  },
+  {
+    "id": "n03352",
+    "summary": "Several reports are strung together: Uthmaan's advice to fear Allaah in private, his account of serving the Prophet on journeys and at home, his orders against child labour, slave-girl earning and backgammon, his full prayer at Mina, and a Hajjaaj report on the grave.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hasan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Abbaad bin Zaahir",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "A'yan bin Imra'atul Farazdaq",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Maalik",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Zaid bin Silt",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "saalim",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Abdur Rahmaan bin Humayd",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Qutaybah bin Muslim",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "hajjaaj",
+        "role": "subject"
+      },
+      {
+        "id": "abdul-malik",
+        "role": "narrator"
+      },
+      {
+        "id": "marwaan",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "fear-of-allaah",
+      "halaal-and-haraam",
+      "salaah",
+      "death-and-burial",
+      "slaves-and-servants"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Many separate reports: Hasan; Abbaad bin Zaahir; A'yan's challenge to Uthmaan; Maalik; Zaid bin Silt; Saalim; Qutaybah bin Muslim (chain: Hajjaaj, Abdul Malik, Marwaan, Uthmaan). Several narrators are not in the approved list."
+  },
+  {
+    "id": "n03353",
+    "summary": "Sa'eed bin Musayyib reports Uthmaan's account of buying dates from the Banu Qaynuqaa and the Prophet's advice to weigh them when buying and again when selling; Hasan reports Uthmaan ordering that dangerous dogs be killed and sporting pigeons slaughtered.",
+    "people": [
+      {
+        "id": "saeed-bin-musayyab",
+        "role": "narrator"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Hasan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "honest-dealings",
+      "halaal-and-haraam"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports in one item (Sa'eed bin Musayyib; Hasan). The first is cut off mid-sentence ('when you weigh them again when you'). 'Hasan' is not matched, as for n03351."
+  },
+  {
+    "id": "n03354",
+    "summary": "Badr bin Uthmaan reports Uthmaan's final public address: the world is given to be used for the Aakhirah, not to be clung to; people should fear Allaah, avoid splintering, and stay united.",
+    "people": [
+      {
+        "id": null,
+        "name": "Badr bin Uthmaan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "zuhd",
+      "avoiding-fitnah",
+      "taqwa"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The source says 'from his uncle'; the uncle is unnamed and is not listed."
+  },
+  {
+    "id": "n03355",
+    "summary": "A cross-reference: Uthmaan's praise of guarding in the path of Allaah was already narrated earlier in the chapter on Jihaad.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "not-narration",
+    "notes": "Editorial pointer with no narration of its own. The theme reflects only the chapter it points to."
+  },
+  {
+    "id": "n03356",
+    "summary": "Ali bin Husayn reports that when Ali became Khalifah, his first address urged obedience to Allaah, avoiding harm to Muslims, and readiness for death and the Aakhirah.",
+    "people": [
+      {
+        "id": "ali-bin-husayn",
+        "role": "narrator"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "muslim-rights",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03357",
+    "summary": "Ali says that a man's tribe is more valuable to him than he is to them, citing the Qur'aanic accounts of Loot and Shu'ayb and their tribes.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Loot",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": "shuayb",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "prophethood",
+      "opposition"
+    ],
+    "new_themes": [
+      "the value of a tribe"
+    ],
+    "boundary": "ok",
+    "notes": "No transmitter is named in this item."
+  },
+  {
+    "id": "n03358",
+    "summary": "Sha'bi reports that at the start of each Ramadhaan, Ali reminded people that fasting means abstaining from lies and falsehood as well as food, and that the month must be fixed by sighting the moon.",
+    "people": [
+      {
+        "id": "aamir-shabi",
+        "role": "narrator"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "fasting",
+      "nafl-salaah",
+      "good-character"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03359",
+    "summary": "Ali speaks about death and the grave, warning that the grave is either a pit of Jahannam or a garden of Jannah, and describes the coming Day of Resurrection; Asbagh bin Nabaatah reports the same sermon with additions, and Ali weeps.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": "asbagh-bin-nabaatah",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "death-and-burial",
+      "the-unseen"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations in one item: an anonymous first report, then Asbagh bin Nabaatah's report, which adds passages about the Day of Resurrection."
+  },
+  {
+    "id": "n03360",
+    "summary": "Saalih Ijli reports Ali's address on the transience of the world, the lonely graves of those who have passed away, and the Day of Judgement when every deed is laid open.",
+    "people": [
+      {
+        "id": null,
+        "name": "Saalih Ijli",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "aakhirah",
+      "death-and-burial"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Saalih Ijli is not in the approved list (saalih (?) and related names differ). Recorded as new."
+  }
+]

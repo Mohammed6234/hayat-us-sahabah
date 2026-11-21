@@ -1,0 +1,538 @@
+[
+  {
+    "id": "n03641",
+    "summary": "Tufayl bin Amr Dowsi's whip shone with light after a du'aa of the Prophet, Abbaas advised treating people well, and a cloud shaded Amr bin Abasa.",
+    "people": [
+      { "id": "tufayl-bin-amr-dowsi", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "amr-bin-abasa", "role": "subject" },
+      { "id": null, "name": "Miqdaad bin Aswad", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Shaafi bin Habeeb Hudhali", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Ka'b", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa", "kindness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three separate reports under one heading: Tufayl's light (an earlier quotation that the text refers back to), Abbaas's saying, and the cloud over Amr bin Abasa. The freed slave who narrates the cloud story is unnamed; Ka'b is only named as his master and is not matched to the vocabulary."
+  },
+  {
+    "id": "n03642",
+    "summary": "This is a broken fragment ('and the Sahabah') from the section on rain sent through the Prophet's du'aa, and it does not say who did what.",
+    "people": [],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Only a few OCR words survive. The themes come from the heading, not from the text, so treat them as provisional."
+  },
+  {
+    "id": "n03643",
+    "summary": "The Prophet ﷺ asked for rain during a Friday sermon, then asked for it to stop, and rain fell until Abu Lubaabah plugged his granary gutter with his loincloth.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abu-lubaba", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports under one heading: the first Friday rain, the stopping of the rain, a second Anas narration, and Abu Lubaabah's account. The unnamed man who asks for rain and the Ansaar are left out."
+  },
+  {
+    "id": "n03644",
+    "summary": "When the Sahabah had no water, the Prophet ﷺ made du'aa and Allaah sent a cloud that rained enough for all their needs.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Abu Bakr bin Ayaash bin Sahal", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator has no (RA) mark and is not in the vocabulary, so Companion status is unclear."
+  },
+  {
+    "id": "n03645",
+    "summary": "Khawwaat bin Jubayr prayed for rain during Umar's caliphate and rain fell at once, and in a dream the Prophet ﷺ sent Umar word that rain was coming.",
+    "people": [
+      { "id": null, "name": "Khawwaat bin Jubayr", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "maalik-daar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "miracles-and-blessings", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Khawwaat's prayer with the Bedouins' account, and Maalik Daar's account of the dream. The Bedouins and the man at the grave are unnamed. Khawwaat has no (RA) mark."
+  },
+  {
+    "id": "n03646",
+    "summary": "In the Year of Ashes Umar asked other provinces for food, led prayer for rain, and a Bedouin was told in a dream that rain would come and Umar should keep applying his intelligence.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-kab", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "bilaal-bin-haarith", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "miracles-and-blessings", "consultation"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Abdur Rahmaan bin Ka'b bin Maalik is matched to abdur-rahmaan-bin-kab, which is marked (?) in the vocabulary; please confirm it is the same man. The item merges Abdur Rahmaan's account with the Muzaynah Bedouin account and ends by pointing to the similar narration before it. The Muzaynah family and the slave are unnamed."
+  },
+  {
+    "id": "n03647",
+    "summary": "During a drought Mu'aawiya had Yazeed bin Aswad raise his hands in du'aa, and a cloud came with rain straight after.",
+    "people": [
+      { "id": null, "name": "Sulaymaan bin Aamir Khabaa'iri", "role": "narrator", "sahabi": "unsure" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "yazeed-bin-aswad", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["duaa", "miracles-and-blessings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The 'Ibn Jareer' footnote reference is left out. Yazeed is matched to yazeed-bin-aswad, which is marked (?) in the vocabulary."
+  },
+  {
+    "id": "n03648",
+    "summary": "Anas's orchard keeper asked for rain in summer and rain fell only on Anas's land after Anas prayed, and Hujr bin Adi asked for water while held by Mu'aawiya's forces and a cloud rained on him.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": null, "name": "Thumaamah bin Abdullaah", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Bishr bin Shaghaaf", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Hujr bin Adi", "role": "subject", "sahabi": "yes" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "duaa", "martyrdom"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two stories under one heading: Anas's rain and Hujr bin Adi's water. Hujr's companions are martyred in the final line. The orchard keeper is unnamed. Bishr bin Shaghaaf has no vocabulary match and no (RA) mark."
+  },
+  {
+    "id": "n03649",
+    "summary": "A tribe of the Ansaar had rain fall on the grave of each member through an earlier du'aa of the Prophet, including on a freed slave who was counted as one of them.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is only 'Hadhrat Hasan'. It may be Hasan al-Basri or Hasan bin Ali, and the text does not say, so it is not matched to the vocabulary. The Ansaar tribe and the freed slave are unnamed."
+  },
+  {
+    "id": "n03650",
+    "summary": "Ummu Ayman, thirsty while fasting on her migration to Madinah, was given water from a bucket let down from the sky, and after that she never felt thirst on hot fasting days.",
+    "people": [
+      { "id": null, "name": "Uthmaan bin Qaasim", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ummu-ayman", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "fasting", "hijrah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Uthmaan bin Qaasim has no (RA) mark and is not matched to the vocabulary."
+  },
+  {
+    "id": "n03651",
+    "summary": "At Asr time with no water for wudhu, the Prophet ﷺ placed his hand in a vessel and water gushed from under his fingers so that everyone could make wudhu.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03652",
+    "summary": "Water flowed from the Prophet's fingers at a basin and at Zowraa, and at Hudaybiyyah he made du'aa and spat into the well, which then gave enough water for everyone.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "baraa-bin-aazib", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa", "hudaybiyyah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports under one heading: Anas at the basin, Anas at Zowraa, and Baraa at Hudaybiyyah. The final line is an author's cross-reference to the Treaty of Hudaybiyyah, which is not counted."
+  },
+  {
+    "id": "n03653",
+    "summary": "During the shortage at Hudaybiyyah, water flowed between the Prophet's fingers from a leather bag and gave the Sahabah enough to drink and make wudhu.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "baraa-bin-aazib", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hudaybiyyah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Baraa is named only as the source of the figure of fifteen hundred people."
+  },
+  {
+    "id": "n03654",
+    "summary": "On a journey, when there was little water for salaah, the Prophet ﷺ poured it into a dish and water gushed from his fingers, and Ibn Mas'ood drank some of it.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "salaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03655",
+    "summary": "On a journey the Prophet ﷺ made wudhu from a small container of water, and once the container was opened it gave seven hundred people enough to drink with some left over.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" },
+      { "id": "abu-qataadah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "selflessness", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Attribution is unclear. The header names Abdullaah bin Mas'ood as narrator, but the speaker who is addressed as 'O Abu Qataadah' and who says 'I insisted' seems to be Abu Qataadah, so the first-person 'I' may be Abu Qataadah. Narrator is marked as the header states; please check against the source."
+  },
+  {
+    "id": "n03656",
+    "summary": "On the way to Tabook the Prophet ﷺ washed his hands and face in a thin spring, after which the water gushed out for everyone, and he told Mu'aadh that the area would one day be full of gardens.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text opens by referring to a narration about combining salaahs on the expedition; the salaah part is not in this item. The two men who reached the spring first are unnamed."
+  },
+  {
+    "id": "n03657",
+    "summary": "On a journey with no water, the Prophet ﷺ passed his hand over a woman's two waterskins so that forty thirsty men drank and filled their vessels, and her tribe then became Muslims.",
+    "people": [
+      { "id": "imraan-bin-husayn", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narration is abridged ('The narration continues to the point...') and closes with a variant from another narration. The woman, her child and her tribe are unnamed."
+  },
+  {
+    "id": "n03658",
+    "summary": "Ziyaad bin Haarith Sudaa'ee saw water gush from the Prophet's fingers, and after his tribe became Muslims the Prophet ﷺ had seven stones thrown into their well so that it gave abundant water.",
+    "people": [
+      { "id": "ziyaad-bin-haarith-sudaaee", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports under one heading: the water on the journey and the tribe's well. The tribe is unnamed."
+  },
+  {
+    "id": "n03659",
+    "summary": "Husayn bin Ali gargled with water from Ibn Mutee's well and returned it to the well, and afterwards the water increased and became sweeter.",
+    "people": [
+      { "id": null, "name": "Abu Awn", "role": "narrator", "sahabi": "unsure" },
+      { "id": "husayn-bin-ali", "role": "subject" },
+      { "id": "ibn-mutee", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text is abridged with an ellipsis after the first sentence. Abu Awn is not matched: the vocabulary has abu-own (?), which is a different spelling and may or may not be the same man."
+  },
+  {
+    "id": "n03660",
+    "summary": "On an expedition the army was starving until Umar suggested pooling the remaining food, the Prophet ﷺ made du'aa over it, and everyone ate their fill with food still left over.",
+    "people": [
+      { "id": "abu-amra-ansaari", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa", "hunger-and-hardship", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Amrah Ansaari is matched to abu-amra-ansaari, which is marked (?) in the vocabulary. The man who brought a Saa of dates is unnamed."
+  },
+  {
+    "id": "n03661",
+    "summary": "At Usfaan the army drank rainwater after the Prophet ﷺ ordered them to leave, and on the Tabook expedition the Sahabah asked to slaughter their water camels for food until Umar intervened.",
+    "people": [
+      { "id": "abu-khunays-ghifaari", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Khunays on the Usfaan expedition, and Abu Hurayrah with Abu Sa'eed on Tabook. The text says 'the rest is like the one above', so the item is partial."
+  },
+  {
+    "id": "n03662",
+    "summary": "At Khaybar the Prophet ﷺ had the Sahabah's dates gathered on a leather cloth, and after about 1,400 people had eaten, the pile was still the size of a sitting goat.",
+    "people": [
+      { "id": "salamah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "eating-and-drinking", "jihaad"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The item ends by saying the narration continues with a water incident that is not in this text."
+  },
+  {
+    "id": "n03663",
+    "summary": "Salamah says that after they had eaten to their fill they also filled their satchels.",
+    "people": [
+      { "id": "salamah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["miracles-and-blessings", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Very short. It continues the Khaybar dates in n03662 and cannot be understood alone."
+  },
+  {
+    "id": "n03664",
+    "summary": "While the trench was being dug, the Prophet ﷺ made one goat and a little bread enough for the whole group, and at a boulder he promised the palaces of Shaam and Persia while the hypocrites scoffed.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The host and his wife are unnamed. The hypocrites (Munaafiqeen) are a group and are not listed. The closing cross-reference to another chapter is not counted as a person."
+  },
+  {
+    "id": "n03665",
+    "summary": "A plate of Thareed was served to the Prophet ﷺ and the Sahabah, and they kept eating until near Zuhr, and Samurah said the extra food came from the heavens.",
+    "people": [
+      { "id": null, "name": "Samurah bin Jundub", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The person who asked the question is unnamed. The second narration gives a second version of the same answer."
+  },
+  {
+    "id": "n03666",
+    "summary": "Waathila bin Asqa and the men of Suffa were fed bread and Thareed that the Prophet ﷺ made with his own hands, which kept increasing until the plate was full and each group had eaten its fill.",
+    "people": [
+      { "id": "waathila-bin-asqa", "role": "subject" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "ahl-us-suffa", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports, one with Waathila's own bread and one with Aa'isha's bread, plus a note that another version gives twenty men. Companions in the story are unnamed."
+  },
+  {
+    "id": "n03667",
+    "summary": "Faatima kept the bread and meat a neighbour gave her for the Prophet ﷺ, and when he had eaten it with his household the platter stayed full and he told her to give it to the neighbours.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": "faatima", "role": "subject" },
+      { "id": "ali", "role": "narrator" },
+      { "id": "hasan-bin-ali", "role": "mentioned" },
+      { "id": "husayn-bin-ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "family", "generosity"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports under one heading: Jaabir's account, Faatima's own account, and Ali's account of the Banu Haashim. Cross-references to other chapters (Abu Hurayrah, Abu Talha, Abu Bakr, Zaynab) are left out. The neighbour is unnamed."
+  },
+  {
+    "id": "n03668",
+    "summary": "Ummu Shareek Dowsiyyah was given a drink in a dream when thirsty on her migration, the Prophet ﷺ married her to Zaid with thirty Saa of barley, and her butter kept coming until the bag was tied shut.",
+    "people": [
+      { "id": null, "name": "Ummu Shareek Dowsiyyah", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": null, "name": "Zaid", "role": "mentioned", "sahabi": "yes" },
+      { "id": "yahya-bin-saeed", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "marriage", "hijrah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two accounts (Abu Hurayrah and Yahya bin Sa'eed) plus the butter story. 'Zaid' is probably Zaid bin Haaritha, but the text does not say so, so it is not matched. The Jewish man and his wife are unnamed. The text is abridged with ellipses."
+  },
+  {
+    "id": "n03669",
+    "summary": "A man asked the Prophet ﷺ for food and received half a Wasaq of barley, which lasted until they weighed it, after which it ran out.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man, his wife and his servant are unnamed."
+  },
+  {
+    "id": "n03670",
+    "summary": "Naufal bin Haarith asked the Prophet ﷺ for help with marriage, and barley pawned for thirty Saa lasted half a year without decreasing until they weighed it.",
+    "people": [
+      { "id": null, "name": "Naufal bin Haarith bin Abdul Muttalib", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-raafi", "role": "mentioned" },
+      { "id": "abu-ayyoob-ansaari", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "marriage", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Ayyoob is matched to abu-ayyoob-ansaari, the only Abu Ayyoob in the vocabulary. The Jew who held the armour is unnamed."
+  },
+  {
+    "id": "n03671",
+    "summary": "After the Prophet ﷺ passed away, Aa'isha had barley on a shelf that lasted for a very long time until she weighed it.",
+    "people": [
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["miracles-and-blessings", "hunger-and-hardship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03672",
+    "summary": "Jaabir's father left debts, and when the Prophet ﷺ walked around the heaps of dates and made du'aa, Jaabir's creditors were paid in full with dates left over.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "duaa"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "The first word, 'made', is the end of the heading ('because of a Du'aa that Rasulullaah made'). The father and creditors are unnamed."
+  },
+  {
+    "id": "n03673",
+    "summary": "Jaabir says the Prophet ﷺ sat on the heap of dates and had the creditors called, and although the debts were paid, the heap looked untouched.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Another account of the same event as n03672."
+  },
+  {
+    "id": "n03674",
+    "summary": "A girl carrying her mother's dates to her father was stopped by the Prophet ﷺ, who spread them on a cloth and called the trench-diggers to eat, and the dates kept multiplying.",
+    "people": [
+      { "id": "basheer-bin-sad", "role": "mentioned" },
+      { "id": "numaan-bin-basheer", "role": "mentioned" },
+      { "id": null, "name": "Amrah bint Rawaaha", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-rawaaha", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "family", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is the daughter of Basheer bin Sa'd, who is not named; she is the sister of Nu'maan. Amrah bint Rawaaha has no (RA) mark in the text, so her Companion status is unsure."
+  },
+  {
+    "id": "n03675",
+    "summary": "On the Tabook expedition seven dates fed three hungry men and then ten people without ever decreasing, and the Prophet ﷺ later gave the dates to a child in Madinah.",
+    "people": [
+      { "id": null, "name": "Irbaadh", "role": "subject", "sahabi": "yes" },
+      { "id": "juayl-bin-suraaqa", "role": "mentioned" },
+      { "id": "abdullaah-bin-mughaffal", "role": "mentioned" },
+      { "id": "umm-salama", "role": "mentioned" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "eating-and-drinking", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Juayl is matched to juayl-bin-suraaqa (the book spells him Ju'aal). The child from Madinah is unnamed."
+  },
+  {
+    "id": "n03676",
+    "summary": "Abu Hurayrah's bag of dates was blessed by the Prophet ﷺ's du'aa to feed the whole army, and it stayed full through the lifetimes of Abu Bakr, Umar and Uthmaan until it was stolen after Uthmaan's martyrdom.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "uthmaan", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The figure of about 384 kg in brackets is the translator's conversion from Saa and is kept as printed. The ten people who ate first are unnamed."
+  },
+  {
+    "id": "n03677",
+    "summary": "Anas's mother asked the Prophet ﷺ to pray for her son, and Anas reports that his wealth, children and orchards were blessed, so that his orchards bear fruit twice a year.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" },
+      { "id": "ummu-sulaym", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["duaa", "miracles-and-blessings", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two accounts: the first has 'my mother' (identified as Ummu Sulaym in the second account) asking for du'aa, and the second has Ummu Sulaym asking for du'aa for Anas, with a different count of children."
+  },
+  {
+    "id": "n03678",
+    "summary": "Ummu Maalik Bahziyyah's bag of butter kept giving butter after she gave it to the Prophet ﷺ, and when she brought him a gift the bag stayed full, after which he taught her tasbeeh to recite after each salaah.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": null, "name": "Ummu Maalik Bahziyyah", "role": "subject", "sahabi": "yes" },
+      { "id": "bilaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "dhikr", "generosity"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two accounts: Jaabir's report of the bag used for gravy, and Ummu Maalik's own account of her gift, which Bilaal squeezed. Her sons are unnamed."
+  },
+  {
+    "id": "n03679",
+    "summary": "Ummu Aws Bahziyyah's gift of butter stayed full after the Prophet ﷺ took some from it, and she went on eating from the bag until the dispute between Ali and Mu'aawiya.",
+    "people": [
+      { "id": null, "name": "Ummu Aws Bahziyyah", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "uthmaan", "role": "mentioned" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "generosity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The caliphs and the Ali and Mu'aawiya dispute appear only as time markers, not as actors. The word 'shrieking' is kept as printed and may be a translation or OCR error."
+  },
+  {
+    "id": "n03680",
+    "summary": "Ummu Sulaym's bag of butter stayed full after the Prophet ﷺ took from it, he told her to eat from it and feed others, and it lasted her household a month or two.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "ummu-sulaym", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["miracles-and-blessings", "family", "generosity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Anas reports his mother's account. The girl who carried the bag is unnamed."
+  }
+]

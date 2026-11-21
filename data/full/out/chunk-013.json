@@ -1,0 +1,1464 @@
+[
+  {
+    "id": "n00481",
+    "summary": "Aa'isha (RA) reports the Prophet's words on the Ansaar, and his question about a set of clothing he had given to a veteran of Badr, Uhud and Aqaba, which a Quraysh youth then bought.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "precedence of the Ansaar in worldly favours"
+    ],
+    "boundary": "starts-mid",
+    "notes": "OCR-joined: the opening saying is followed by a fragment beginning 'performing salaah' and the report ends mid-quote. The link between the parts is missing from the text. The Sahabi who received the clothing is unnamed."
+  },
+  {
+    "id": "n00482",
+    "summary": "Muhammad bin Maslama (RA) reports that Umar (RA) questioned him after he called takbeer in the Masjid, because he had seen Quraysh men and an Ansaari wearing clothes that Umar had given; Umar wept and vowed never again to favour the Quraysh over the Ansaar.",
+    "people": [
+      {
+        "id": null,
+        "name": "Muhammad bin Maslama",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "accountability of the ruler"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00483",
+    "summary": "Zaid bin Thaabit (RA) reports that the Prophet honoured Sa'd bin Ubaadah (RA) and his son, welcomed the Ansaar, told them others would be preferred over them after his death, and urged patience until they meet him at the Pond of Kawthar.",
+    "people": [
+      {
+        "id": null,
+        "name": "Zaid bin Thaabit",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Sa'd bin Ubaadah",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'd's son is not named and is not tagged."
+  },
+  {
+    "id": "n00484",
+    "summary": "Anas (RA) reports that Jareer (RA) served him greatly on a journey, because Jareer had seen the Ansaar serve the Prophet and so served every Ansaari he met.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Jareer",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "kindness",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives only 'Jareer', so the name is not fuller than that."
+  },
+  {
+    "id": "n00485",
+    "summary": "Habeeb bin Abi Thaabit reports that Abu Ayyoob Ansaari (RA), refused the financial help he asked for from Mu'aawiya (RA), recalled the Prophet's words that the Ansaar would be outranked later and was told to be patient; he then stayed with Abdullaah bin Abbaas (RA) in Basra, who gave him his household and generous provision.",
+    "people": [
+      {
+        "id": null,
+        "name": "Habeeb bin Abi Thaabit",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Abu Ayyoob Ansaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "muaawiya-bin-abi-sufyaan",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "steadfastness",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Mu'aawiya' is read as Mu'aawiya bin Abi Sufyaan, the ruler; the text gives no further detail, so this is an inference from context, not Mu'aawiya bin Haydah."
+  },
+  {
+    "id": "n00486",
+    "summary": "A variant report says Abu Ayyoob Ansaari (RA) went to Abdullaah bin Abbaas (RA) in Basra, who had been appointed governor by Ali (RA), and Ibn Abbaas gave him his household's furnishings and five times the grant he had asked for, plus forty slaves.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Ayyoob Ansaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "kindness",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of the report before it (n00485). No narrator is named."
+  },
+  {
+    "id": "n00487",
+    "summary": "Hassaan bin Thaabit (RA) reports that Abdullaah bin Abbaas (RA) pressed the Ansaar's request before the Ameerul Mu'mineen, arguing until it was granted, and that Hassaan then praised him in verse.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hassaan bin Thaabit",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three parts joined: the main report, 'Another narration states', and the verse. The Ameerul Mu'mineen is given only as 'Umar or Uthmaan', so he is not tagged. The group of Sahabah is unnamed."
+  },
+  {
+    "id": "n00488",
+    "summary": "Hassaan bin Thaabit (RA)'s verse praising Abdullaah bin Abbaas (RA) is continued, and the Ameerul Mu'mineen says that the word 'inefficient' in it was aimed at him.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hassaan bin Thaabit",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Begins mid-poem and ends mid-sentence ('Allaah shall decide between him and'). The Ameerul Mu'mineen is not named here (see n00487), so he is not tagged."
+  },
+  {
+    "id": "n00489",
+    "summary": "Anas bin Maalik (RA) reports that the Ansaar asked the Prophet to pray for their forgiveness, and he prayed for the Ansaar, their children and grandchildren, and by variant reports their spouses and neighbours.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "duaa",
+      "prophets-concern",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR debris 'Rasulullaah Wife' is read as the Prophet at the point of the request."
+  },
+  {
+    "id": "n00490",
+    "summary": "A variant report has the Prophet praying for the Ansaar, their children and their friends; Uthmaan bin Affaan (RA) then reports the Prophet's saying that imaan belongs to Yemen, and his prayer to honour the Ansaar, who gave him shelter, support and undaunted loyalty.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "duaa",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: a variant du'aa, then Uthmaan's separate hadith on the tribes. Parenthetical glosses inside the hadith are the author's."
+  },
+  {
+    "id": "n00491",
+    "summary": "A narrator reports Abu Bakr (RA) relating the bond between the Muhaajireen and the Ansaar in a sermon, quoting verses of poetry in praise of the Ansaar who stood by them in hardship.",
+    "people": [
+      {
+        "id": null,
+        "name": "Uthmaan bin Muhammad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "brotherhood"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator's name is garbled in the OCR ('Uthmaan bin Muhammad' followed by a stray honorific); check it against the source. A footnote citing Ahmad and Haythami sits inside the verse."
+  },
+  {
+    "id": "n00492",
+    "summary": "Humayd bin Abdur Rahmaan Himyari reports that when the Prophet died, Abu Bakr (RA) and Umar (RA) went to the Ansaar who were gathered over the Khilaafah, and Abu Bakr cited the Prophet's words that the Quraysh are the successors; Sa'd bin Ubaadah (RA) accepted this.",
+    "people": [
+      {
+        "id": null,
+        "name": "Humayd bin Abdur Rahmaan Himyari",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'd bin Ubaadah",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "succession to the Khilaafah"
+    ],
+    "boundary": "ok",
+    "notes": "A short heading ('What Rasulullaah said about the Quraysh') is run into the first line. Humayd's Companion status is not stated in the text; marked unsure."
+  },
+  {
+    "id": "n00493",
+    "summary": "Abu Sa'eed Khudri (RA) reports the debate in the Banu Saa'idah hall over the Khilaafah, where Zaid bin Thaabit (RA) argued that the leader should be from the Muhaajireen, Abu Bakr (RA) answered, and Zaid then took his hand and pledged allegiance to him.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Sa'eed Khudri",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Zaid bin Thaabit",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "succession to the Khilaafah"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00494",
+    "summary": "Qaasim bin Muhammad reports the pledge at the Banu Saa'idah hall: Hubaab bin Mundhir (RA) raised the Ansaar's concern, Umar and Abu Bakr (RA) answered, Basheer bin Sa'd (RA) pledged first, and Abu Bakr would not take back a share he had sent an old woman of the Banu Adi bin Najaar, who refused it because she would not be bribed from her Deen.",
+    "people": [
+      {
+        "id": null,
+        "name": "Qaasim bin Muhammad",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Hubaab bin Mundhir",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Basheer bin Sa'd",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Zaid bin Thaabit",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "honest-dealings",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "succession to the Khilaafah"
+    ],
+    "boundary": "ok",
+    "notes": "Qaasim bin Muhammad is a Tabi'i, so sahabi is no. The old woman is unnamed and not tagged."
+  },
+  {
+    "id": "n00495",
+    "summary": "Abu Ayyoob Ansaari (RA) and Anas (RA) report the Prophet's consultation before the march to Badr: Miqdaad (RA) said the Muslims would not fail to fight, Abu Bakr and Umar gave their views, and the Ansaar pledged to follow him even to the distant city of Barkul Ghimaad, after which a verse was revealed.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Ayyoob Ansaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "miqdaad-bin-amr",
+        "role": "subject"
+      },
+      {
+        "id": "abu-sufyaan",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Moosa",
+        "role": "mentioned",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "consultation (shura)"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports joined (Abu Ayyoob, then Anas), with an OCR cut at 'Surah Anfaal, verse'. The text says 'Miqdaad bin Aswad'; the approved entry is Miqdaad bin Amr, which I believe is the same Companion, but please verify. The Ansaar speaker in the Anas report is unnamed."
+  },
+  {
+    "id": "n00496",
+    "summary": "Anas (RA) reports that the Prophet consulted about marching on Abu Sufyaan's caravan; he turned away from the views of Abu Bakr (RA) and Umar (RA), then Sa'd bin Ubaadah (RA) said the Ansaar would follow him wherever he went, and the Prophet gave the order to march.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'd bin Ubaadah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-sufyaan",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "consultation (shura)"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00497",
+    "summary": "Alqama bin Waqqaas Laythi (RA) reports the Prophet's consultation at Rowhaa after leaving for Badr: Abu Bakr and Umar gave their views, Sa'd bin Mu'aadh (RA) pledged that the Ansaar would follow him anywhere, and a verse was revealed in praise of this; a further report and Ibn Is'haaq add Sa'd's words and the Prophet's promise of victory over one of two groups.",
+    "people": [
+      {
+        "id": null,
+        "name": "Alqama bin Waqqaas Laythi",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'd bin Mu'aadh",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "ibn-ishaaq",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "consultation (shura)"
+    ],
+    "boundary": "merged",
+    "notes": "Several reports are joined ('Another narration', 'Ibn is'haaq has narrated'). Alqama's Companion status is not clear from the text; marked unsure. The verse is Anfaal 5."
+  },
+  {
+    "id": "n00498",
+    "summary": "Anas (RA) reports that the Prophet sent Basbas (RA) to spy on Abu Sufyaan's caravan and marched to Badr; he promised the Sahabah Jannah, which Umayr bin Hamaam (RA) took up, throwing down his dates and fighting until he was martyred. Ibn Is'haaq and Ibn Jareer report the same encouragement.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Basbas",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-sufyaan",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Umayr bin Hamaam",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "ibn-ishaaq",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Ibn Jareer",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "aakhirah",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three sources joined (Anas, Ibn Is'haaq, Ibn Jareer). OCR debris in the Prophet's name ('gjjgji') is read as the Prophet."
+  },
+  {
+    "id": "n00499",
+    "summary": "Abdullaah bin Abbaas (RA) reports the Tabook expedition: the Prophet urged spending, Abdur Rahmaan bin Auf (RA) and Umar (RA) gave large sums, Aasim Ansaari and Abu Aqeel gave dates, the hypocrites mocked the small gifts, Jadd bin Qais asked to be excused, Khaalid bin Waleed captured a ruler, and Uthmaan (RA) provided two hundred camels; a verse of Surah Baraa'ah was revealed on the hypocrites.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Aasim Ansaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abu Aqeel",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Jadd bin Qais",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Abu Aamir",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Kinaana bin Abd Yaleel",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Alqama bin Ulaatha Aamiri",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Alqama bin Mujazzar",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Khaalid bin Waleed",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abdullaah bin Abu Bakr bin Hazam",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "sacrifice",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "hypocrisy (nifaaq)"
+    ],
+    "boundary": "merged",
+    "notes": "Several reports joined (Abdullaah bin Abbaas, then Abdullaah bin Abu Bakr bin Hazam, then Uthmaan's gift). Khaalid bin Waleed is not in the approved list, so he is given as a new person. Abu Aqeel is not Aqeel bin Abi Taalib. Abdullaah bin Abu Bakr bin Hazam is a Tabi'i."
+  },
+  {
+    "id": "n00500",
+    "summary": "Abdullaah bin Abbaas (RA) reports that the Prophet asked Jadd bin Qais to march to Tabook, and Jadd asked to be excused for fear of the Roman women, after which a verse was revealed about him.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Jadd bin Qais",
+        "role": "subject",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad"
+    ],
+    "new_themes": [
+      "hypocrisy (nifaaq)"
+    ],
+    "boundary": "ok",
+    "notes": "Shorter retelling of the Jadd episode in n00499. Only one approved theme fits."
+  },
+  {
+    "id": "n00501",
+    "summary": "Ibn Asaakir reports that the Prophet sent Sahabah to Makkah and to various tribes to recruit people for jihaad, including Buraydah bin Husayb (RA) to Banu Aslam, Raafi bin Makeeth (RA) and Jund bin Makeeth (RA) to Juhayna, Nu'aym bin Mas'ood (RA) to Ash'ja, and Budayl bin Waraqa (RA) among those sent to Banu Ka'b bin Amr.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ibn Asaakir",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Buraydah bin Husayb",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abu Ruhm Ghifaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abu Waaqid Laythi",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abu Ja'd Dhamri",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Raafi bin Makeeth",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Jund bin Makeeth",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Nu'aym bin Mas'ood",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "budayl-bin-waraqa",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Amr bin Saalim",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Bishr bin Sufyaan",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abbaas bin Mirdaas",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Raafi bin Makeeth' is not mapped to the approved 'raafi' entry (unsure), because the names differ."
+  },
+  {
+    "id": "n00502",
+    "summary": "Abu Bakr (RA) gives all he owns and Umar (RA) half, Abdur Rahmaan bin Auf (RA), Talha (RA) and others give large sums, and Uthmaan (RA) equips a third of the army; women send jewellery, and the army camps at Thaniyyatul Wadaa. The Prophet insists that the army of Usaama (RA) be sent even while ill, despite Ummu Ayman's request to keep him back.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abbaas bin Abdil Muttalib",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "talha",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'd bin Ubaadah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Muhammad bin Maslama",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Aasim bin Adi",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ummu Sinaan Aslamiyya",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "aaisha",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Sibaa bin Urfuta Ghifaari",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ibn Ubay",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ummu Ayman",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Bint Khaarijah",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "sacrifice",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "hypocrisy (nifaaq)"
+    ],
+    "boundary": "merged",
+    "notes": "Tabook donations and the Usaama episode are joined, with OCR gaps and a heading run in. The Prophet's name is missing at several points ('was extremely ill', 'was given medicine'); read as the Prophet. Muhammad bin Maslama and Sibaa are named only as alternative deputies. Bint Khaarijah (Abu Bakr's wife) is not in the approved list."
+  },
+  {
+    "id": "n00503",
+    "summary": "Usaama (RA) turns back from Jurf on news from Ummu Ayman that the Prophet is dying, reaches Madinah with Umar and Abu Ubaydah after the Prophet's passing on Monday, and Buraydah bin Husayb (RA) plants Usaama's flag at the Prophet's door, which Abu Bakr then orders to be kept there until Usaama leads the army.",
+    "people": [
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ummu Ayman",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Buraydah bin Husayb",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "the Prophet's final illness and death"
+    ],
+    "boundary": "starts-mid",
+    "notes": "Begins mid-story, continuing the Usaama episode from n00502."
+  },
+  {
+    "id": "n00504",
+    "summary": "After news of the Prophet's death, Abu Bakr (RA) insisted on sending Usaama's army despite objections from senior Sahabah, asked that Umar stay behind, required all who had marched before to go, and sent Usaama off from Jurf with three thousand men and a thousand horses; Hurayth was sent ahead as a spy to find the enemy.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "subject"
+      },
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "subject"
+      },
+      {
+        "id": "saeed-bin-zaid",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Hurayth",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is referred to only as the one who commanded the march. Hurayth's Companion status is not stated and is marked unsure."
+  },
+  {
+    "id": "n00505",
+    "summary": "Hasan bin Abil Hasan reports that Usaama asked Umar to seek permission to bring the army back to Madinah, since the Prophet had died and he had the leading Sahabah with him; some Ansaar asked for an older commander, but Abu Bakr refused to reverse the appointment and seized Umar by the beard.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hasan bin Abil Hasan",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Prophet's name is missing at the point of his death ('before he passed away'), read as the Prophet. The Ansaar are a group and are not tagged. Hasan bin Abil Hasan is a Tabi'i (Hasan al-Basri), so sahabi is no."
+  },
+  {
+    "id": "n00506",
+    "summary": "Abu Bakr (RA) walks beside Usaama's mount as the army sets off, refuses to ride or let Usaama dismount, and asks for Umar to stay, which Usaama grants.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "No narrator is named. Abdur Rahmaan bin Auf led Abu Bakr's animal."
+  },
+  {
+    "id": "n00507",
+    "summary": "Urwa (RA) reports that Abu Bakr (RA) refused to recall Usaama's army despite objections from Muhaajireen and Ansaar, saying he would not hold back an army he had dispatched and that the tribes refusing zakaah must be fought; he then appointed Khaalid bin Waleed (RA) to lead the force against the Murtaddeen.",
+    "people": [
+      {
+        "id": null,
+        "name": "Urwa",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Khaalid bin Waleed",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad"
+    ],
+    "new_themes": [
+      "consultation (shura)",
+      "zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "Narrator Urwa is marked unsure and is not identified further. Only the Khaalid appointment closes the report."
+  },
+  {
+    "id": "n00508",
+    "summary": "Urwa (RA) reports that after the pledge the Ansaar united, and when people asked Abu Bakr to hold back Usaama's army amid the wave of apostasy and hypocrisy, he refused, saying he would not hold back an army he had dispatched.",
+    "people": [
+      {
+        "id": null,
+        "name": "Urwa",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad"
+    ],
+    "new_themes": [
+      "hypocrisy (nifaaq)"
+    ],
+    "boundary": "ok",
+    "notes": "OCR error: the life of Abu Bakr appears where the oath names the Prophet, so it is not read as a person. Usaama is referred to but not named."
+  },
+  {
+    "id": "n00509",
+    "summary": "Aa'isha (RA) describes how after the Prophet's death all the tribes apostatised and hypocrisy rose, and Abu Bakr alone held the affairs together; Abu Hurayrah (RA) reports that Usaama's army was sent to Dhi Khushub, that Abu Bakr refused to recall it, and that it returned victorious.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "abu-hurayrah",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Usaama bin Zaid",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [
+      "hypocrisy (nifaaq)"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports joined: Aa'isha's, then Abu Hurayrah's. Abu Bakr is 'my father' in Aa'isha's report."
+  },
+  {
+    "id": "n00510",
+    "summary": "Sayf reports that after Khaalid bin Waleed left for Shaam, Abu Bakr (RA) fell ill and appointed Umar (RA) as successor, telling him to send Muthanna (RA) and the people to Shaam at once and never let any hurdle prevent the matters of the Deen.",
+    "people": [
+      {
+        "id": null,
+        "name": "Sayf",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Khaalid bin Waleed",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Muthanna",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [
+      "succession to the Khilaafah"
+    ],
+    "boundary": "ok",
+    "notes": "The Prophet is referred to only as 'when ... passed away', read as the Prophet."
+  },
+  {
+    "id": "n00511",
+    "summary": "Abdullaah bin Umar (RA) reports that after the Prophet's death Abu Bakr (RA) consulted the Muhaajireen and Ansaar about the tribes refusing zakaah; Umar, Uthmaan and Ali (RA) first advised leniency, Abu Bakr refused, and vowed to fight anyone who separated salaah from zakaah.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [
+      "zakaah",
+      "consultation (shura)"
+    ],
+    "boundary": "ok",
+    "notes": "A heading is run into the start ('Abu Bakr ensures jihaad is waged...'). 'Hadhrat AH' is read as Ali (OCR)."
+  },
+  {
+    "id": "n00512",
+    "summary": "Saalih bin Kaysaan (RA) reports Abu Bakr's sermon as the tribes left Islaam, recalling that the Prophet's few companions were made into the best nation, quoting Aal-Imraan 144 and Noor 55, and vowing to fight those who refused zakaah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Saalih bin Kaysaan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "steadfastness",
+      "apostasy"
+    ],
+    "new_themes": [
+      "zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "OCR garble inside the Prophet's name ('Rasulullaah(i3if') is read as the Prophet. Saalih's Companion status is unsure."
+  },
+  {
+    "id": "n00513",
+    "summary": "Umar (RA) reports that when the tribes left Islaam, the Muhaajireen with him asked Abu Bakr to leave those who prayed without zakaah alone, but Abu Bakr refused, and Umar says that day of Abu Bakr's resolve outweighed the deeds of Umar's whole family.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "apostasy",
+      "jihaad"
+    ],
+    "new_themes": [
+      "zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "Where Abu Bakr says he will fight for 'something that ... fought for', the Prophet's name is missing from the OCR, so the Prophet is marked absent. Umar tells his own counsel, so he is tagged as subject."
+  },
+  {
+    "id": "n00514",
+    "summary": "Umar (RA) reports that when the tribes left Islaam, he counselled Abu Bakr to show mercy towards those who refused zakaah, but Abu Bakr refused, saying he would fight them while his hand could hold a sword, and Umar found him the more capable of the two.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "apostasy",
+      "jihaad"
+    ],
+    "new_themes": [
+      "zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "The Prophet's name is missing at 'when (RA) passed away'; read as the Prophet."
+  },
+  {
+    "id": "n00515",
+    "summary": "Dabba bin Mihsin Anzi (RA) reports asking Umar whether he was better than Abu Bakr; Umar wept and recounted Abu Bakr's night of following the Prophet out of Makkah in the Hijrah and his day of standing firm when the tribes apostatised, with Umar's counsel.",
+    "people": [
+      {
+        "id": null,
+        "name": "Dabba bin Mihsin Anzi",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah",
+      "apostasy"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends 'the rest of the hadith is similar to the one quoted above', i.e. n00514; the repeated account is not given here."
+  },
+  {
+    "id": "n00516",
+    "summary": "Abu Hurayrah (RA) reports that when the tribes left Islaam, Umar (RA) asked how they could be fought given the Prophet's words to fight people until they say La ilaaha illallaah; Abu Bakr replied that he would fight whoever separates salaah from zakaah, and Umar then accepted this.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "apostasy",
+      "jihaad",
+      "kalimah"
+    ],
+    "new_themes": [
+      "zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "Ends with a heading run into the text ('Abu Bakr ensures armies are dispatched...'). The footnote marker '(,)' is OCR debris."
+  },
+  {
+    "id": "n00517",
+    "summary": "Qaasim bin Mahmood (RA) reports a sermon of Abu Bakr (RA): every matter has its principles, deeds without imaan or niyyah earn nothing, and the rewards for jihaad are a trade pointed to by Allaah that brings honour in both worlds.",
+    "people": [
+      {
+        "id": null,
+        "name": "Qaasim bin Mahmood",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "jihaad",
+      "aakhirah"
+    ],
+    "new_themes": [
+      "sincerity of intention (niyyah)"
+    ],
+    "boundary": "ok",
+    "notes": "The Prophet's name is blank in the text (only salutations are mentioned). Qaasim bin Mahmood is not in the approved list and his Companion status is unsure."
+  },
+  {
+    "id": "n00518",
+    "summary": "Ibn Is'haaq bin Yasaar reports, from Khaalid bin Waleed (RA), a letter from Abu Bakr (RA) after the battle of Yamaamah ordering Khaalid and the Muhaajireen and Ansaar to march to Iraq, urging jihaad for the sake of Allaah and promising Allaah's reward.",
+    "people": [
+      {
+        "id": "ibn-ishaaq",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Khaalid bin Waleed",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Ibn Is'haaq bin Yasaar' is mapped to the approved 'ibn-ishaaq' (Ibn Is'haaq). Khaalid bin Waleed is not in the approved list. The letter is OCR-broken in places."
+  },
+  {
+    "id": "n00519",
+    "summary": "Abdullaah bin Abi Awfa (RA) reports that Abu Bakr (RA) consulted senior Sahabah, including Ali, Umar, Uthmaan, Abdur Rahmaan bin Auf, Sa'd bin Abi Waqqaas, Sa'eed bin Zaid and Abu Ubaydah, about marching against the Romans in Shaam to elevate the Kalimah, and said his view was only his own opinion.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdullaah bin Abi Awfa",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      },
+      {
+        "id": "uthmaan",
+        "role": "mentioned"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "mentioned"
+      },
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "mentioned"
+      },
+      {
+        "id": "saeed-bin-zaid",
+        "role": "mentioned"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "kalimah"
+    ],
+    "new_themes": [
+      "consultation (shura)"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00520",
+    "summary": "Umar (RA) answers Abu Bakr's proposal to march against the Romans by praising Abu Bakr's precedence in every good, and advises dispatching cavalry and infantry in succession so that Allaah assists the Deen.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "jihaad",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "consultation (shura)"
+    ],
+    "boundary": "ok",
+    "notes": "No narrator is named. This continues the consultation in n00519."
+  }
+]

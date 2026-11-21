@@ -1,0 +1,533 @@
+[
+ {
+  "id": "n02321",
+  "summary": "Hudhayfah, gravely ill, asked for a plain shroud, saying a good end would be exchanged for something better and otherwise the shroud would be quickly removed.",
+  "people": [
+   { "id": null, "name": "Khaalid bin Rabee", "role": "narrator", "sahabi": "unsure" },
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "aakhirah", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hudhayfah is matched by name only (Hudhayfa bin Yamaan); the text gives no patronymic. Khaalid bin Rabee is not in the approved list."
+ },
+ {
+  "id": "n02322",
+  "summary": "Hudhayfah sent Sila and Abu Mas'ood to buy his shroud, rejected the striped sheet they bought, and asked for two plain white sheets instead.",
+  "people": [
+   { "id": null, "name": "Sila bin Zufar", "role": "subject", "sahabi": "no" },
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" },
+   { "id": "abu-masood-ansaari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Mas'ood is matched by name to the approved Abu Mas'ood Ansaari; check."
+ },
+ {
+  "id": "n02323",
+  "summary": "Hudhayfah told the men who bought his shroud that a righteous man's shroud would be exchanged, but a wicked man's would be thrown into the grave or used to strike his face on the Day of Qiyaamah.",
+  "people": [
+   { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins two variant reports of Hudhayfah's words ('Another narration' and 'Yet another narration')."
+ },
+ {
+  "id": "n02324",
+  "summary": "As death approached, Abu Moosa told his attendants to dig a wide grave, then described how the grave would either open onto Jannah or narrow onto Jahannam.",
+  "people": [
+   { "id": null, "name": "Dahhaak bin Abdur Rahmaan", "role": "narrator", "sahabi": "no" },
+   { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02325",
+  "summary": "Usayd bin Hudhayr said he would have no doubt of Jannah if he stayed in one of three states: reciting or hearing the Qur'aan, hearing the Prophet's sermon, or attending funerals.",
+  "people": [
+   { "id": "aaisha", "role": "narrator" },
+   { "id": "usayd-bin-hudhayr", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "quraan", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02326",
+  "summary": "Abu Hurayrah reports that when the Sahabah asked about Jannah, the Prophet described its buildings and the three whose du'aa is never rejected.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "duaa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Contains a publisher's source footnote (Abu Nu'aym, Bayhaqi, Ibn Asaakir) which is not part of the narration and is ignored."
+ },
+ {
+  "id": "n02327",
+  "summary": "Faatima went to the Prophet for food for her hungry household, chose the words of dhikr he offered over five goats, and returned to Ali saying she had gained something of benefit for the Aakhirah.",
+  "people": [
+   { "id": null, "name": "Suwayd bin Ghafalah", "role": "narrator", "sahabi": "unsure" },
+   { "id": "ali", "role": "subject" },
+   { "id": "faatima", "role": "subject" },
+   { "id": "ummu-ayman", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["hunger-and-hardship", "aakhirah", "dhikr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The five words themselves are missing from the OCR text (gap after 'the following words')."
+ },
+ {
+  "id": "n02328",
+  "summary": "Anas bin Maalik reports that Abu Moosa, hearing people talk eloquently, asked why people neglect the Aakhirah, and answered that the world is before them while the Aakhirah is still to come.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "subject" },
+   { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02329",
+  "summary": "Imraan bin Husayn reports the Prophet explaining the verse about the earthquake of Qiyaamah, that nine hundred and ninety-nine in a thousand will go to Jahannam, and his hope that his Ummah will be a quarter, a third or half of Jannah's people.",
+  "people": [
+   { "id": "imraan-bin-husayn", "role": "narrator" },
+   { "id": null, "name": "Aadam", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "fear-of-allaah", "prophets-concern"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02330",
+  "summary": "Abu Sa'eed Khudri relates the same teaching from the Prophet, in which Aadam is told to separate those for Jahannam, the Sahabah turn pale, and the Prophet again hopes his Ummah will be a quarter, a third or half of Jannah's people.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "narrator" },
+   { "id": null, "name": "Aadam", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "fear-of-allaah", "prophets-concern"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02331",
+  "summary": "Another report says the Sahabah were deeply grieved and worried when the Prophet said that nine hundred and ninety-nine in a thousand would enter Jahannam.",
+  "people": [],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "fear-of-allaah", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "A fragment: it opens with 'Another narration' and depends on the statement given in n02329 and n02330."
+ },
+ {
+  "id": "n02332",
+  "summary": "Abdullaah bin Zubayr reports that when the verse about bringing cases before Allaah was revealed, Zubayr asked whether such cases would be brought against them, and on being told yes, called the matter a serious one.",
+  "people": [
+   { "id": "abdullaah-bin-zubayr", "role": "narrator" },
+   { "id": "zubayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02333",
+  "summary": "Zubayr asked what bounties people would be questioned about and whether disputes between people would be brought before Allaah, and the Prophet confirmed that every right will be repaid.",
+  "people": [
+   { "id": "zubayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "muslim-rights", "justice"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins two reports of Zubayr's questions ('Another narration adds' and 'Yet another narration states'). The Qur'aan verse in the second part is garbled in the OCR."
+ },
+ {
+  "id": "n02334",
+  "summary": "Qais bin Abi Haazim reports that Abdullaah bin Rawaaha wept in his wife's lap, fearing he would not be rescued when crossing over Jahannam, and she wept with him.",
+  "people": [
+   { "id": "qais-bin-abi-haazim", "role": "narrator" },
+   { "id": "abdullaah-bin-rawaaha", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "aakhirah", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02335",
+  "summary": "As death approached, Ubaadah bin Saamit asked everyone he had dealings with to claim any wrong from him, then told them not to weep, to pray and to ask forgiveness for him, and gave burial instructions.",
+  "people": [
+   { "id": null, "name": "Ubaadah bin Muhammad bin Ubaadah bin Saamit", "role": "narrator", "sahabi": "no" },
+   { "id": "ubaadah-bin-saamit", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "muslim-rights", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02336",
+  "summary": "Umar, who had asked Abdur Rahmaan bin Awf for a loan of four thousand dirhams, was troubled at the idea of taking it from the public treasury, fearing he would be held to account on the Day of Qiyaamah.",
+  "people": [
+   { "id": "umar", "role": "subject" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "aakhirah", "honest-dealings"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with a cross-reference to an earlier chapter on spending, so it reads as the continuation of a story told there."
+ },
+ {
+  "id": "n02337",
+  "summary": "The author signposts two later narrations, one in which Abu Hurayrah collapsed and one in which Mu'aawiya wept, both on hearing a hadith about Allaah's accountability on the Day of Qiyaamah.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "subject" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["weeping-and-grief", "aakhirah", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "Editorial cross-reference, not a narration. The two narrations it points to appear later in the book. The hadith is not named in the text. Mu'aawiya is taken as Mu'aawiya bin Abi Sufyaan (the caliph)."
+ },
+ {
+  "id": "n02338",
+  "summary": "Awf bin Maalik and his companions, searching for the Prophet at night, found him and learned he had chosen intercession over having half his Ummah enter Jannah, and he promised intercession for those who never commit Shirk.",
+  "people": [
+   { "id": "awf-bin-maalik-ashjaee", "role": "subject" },
+   { "id": "abu-moosa-ashari", "role": "subject" },
+   { "id": "muaadh-bin-jabal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "tawheed", "prophets-concern"],
+  "new_themes": ["intercession"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02339",
+  "summary": "Abdur Rahmaan bin Abu Aqeel reports that when a Thaqeef delegation asked the Prophet for a kingdom like Sulaymaan's, he said Allaah had kept for him a special prayer, to be used for interceding for his Ummah on the Day of Qiyaamah.",
+  "people": [
+   { "id": null, "name": "Abdur Rahmaan bin Abu Aqeel", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Sulaymaan", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "prophets-concern"],
+  "new_themes": ["intercession"],
+  "boundary": "ok",
+  "notes": "Abdur Rahmaan bin Abu Aqeel is not in the approved list; matched from the text."
+ },
+ {
+  "id": "n02340",
+  "summary": "Ummu Salamah reports the Prophet saying that he is an excellent intercessor for the sinners of his Ummah, and that intercession will be denied to anyone who belittles his Companions.",
+  "people": [
+   { "id": "umm-salama", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah", "prophets-concern"],
+  "new_themes": ["intercession"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02341",
+  "summary": "Ali bin Abi Taalib reports the Prophet's saying that he will keep interceding until his Rabb is satisfied, and then tells the people of Iraq that the verse giving the Prophet hope refers to the privilege of intercession.",
+  "people": [
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["mercy-and-forgiveness", "quraan", "aakhirah"],
+  "new_themes": ["intercession"],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-word at the end ('W'); the rest of the report is not in this text."
+ },
+ {
+  "id": "n02342",
+  "summary": "Ibn Buraydah reports that his father Buraydah told Mu'aawiya, who was being praised, that the Prophet expected to intercede for as many people as there are trees and stones, so Mu'aawiya should place his hope in that while Ali need not.",
+  "people": [
+   { "id": null, "name": "Ibn Buraydah", "role": "narrator", "sahabi": "no" },
+   { "id": "buraydah-bin-khusayb", "role": "subject" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+   { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah"],
+  "new_themes": ["intercession"],
+  "boundary": "ok",
+  "notes": "Mu'aawiya is taken as Mu'aawiya bin Abi Sufyaan (the caliph)."
+ },
+ {
+  "id": "n02343",
+  "summary": "Talq bin Habeeb and Yazeed Faqeer, who both had denied that believers will be brought out of Jahannam, were convinced by Jaabir bin Abdillaah's explanation of the Qur'aan and of the Prophet's words.",
+  "people": [
+   { "id": null, "name": "Talq bin Habeeb", "role": "subject", "sahabi": "no" },
+   { "id": "jaabir-bin-abdillaah", "role": "subject" },
+   { "id": null, "name": "Yazeed Faqeer", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "quraan"],
+  "new_themes": ["intercession"],
+  "boundary": "merged",
+  "notes": "Joins two reports (Talq bin Habeeb; Yazeed Faqeer). Ends with a stray section heading ('Imaan (Belief) in Jannah and Jahannam') from the OCR."
+ },
+ {
+  "id": "n02344",
+  "summary": "Handhala, one of the Prophet's scribes, feared he had become a hypocrite because he forgot the vivid talk of Jannah when with his family, and the Prophet told him there are times for each.",
+  "people": [
+   { "id": "handhala-bin-rabee-tameemi", "role": "subject" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Text gives 'Handhala Kaatib Usaydi'. Matched to the approved Handhala bin Rabee Tameemi (scribe); check."
+ },
+ {
+  "id": "n02345",
+  "summary": "Ibn Mas'ood reports the Prophet's vision of the nations and the seventy thousand who enter Jannah without reckoning, described as those who do not brand themselves, use amulets or divine by birds, and trust only in their Rabb, and his hope that his Ummah will be a third or half of Jannah's people.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "narrator" },
+   { "id": "qataada", "role": "mentioned" },
+   { "id": "moosa", "role": "mentioned" },
+   { "id": null, "name": "Ukaasha bin Mihsin", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah", "trust-in-allaah", "prophets-concern"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Qataadah recites a verse mid-report and is matched by name to the approved entry (unsure). Moosa is taken as the Prophet Moosa."
+ },
+ {
+  "id": "n02346",
+  "summary": "Sulaym bin Aamir reports that a Bedouin asked about the thorny lotus of Jannah, and the Prophet explained that Allaah will remove its thorns and make each one a fruit with seventy-two flavours.",
+  "people": [
+   { "id": null, "name": "Sulaym bin Aamir", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02347",
+  "summary": "Utba bin Abd as-Sulami reports that a Bedouin asked about the acacia tree in Jannah, and the Prophet said Allaah will replace its thorns with fruit, each with seventy-two flavours.",
+  "people": [
+   { "id": "utba-bin-abd", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator matched by name to the approved Utba bin Abd; check."
+ },
+ {
+  "id": "n02348",
+  "summary": "Utba bin Abd as-Sulami reports a Bedouin's questions about Jannah, and the Prophet describes its pond, the tree Tooba, the walnut tree of Shaam, its grapes, and a grape as large as a waterskin bucket that could feed a whole family and tribe.",
+  "people": [
+   { "id": "utba-bin-abd", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator matched by name to the approved Utba bin Abd; check."
+ },
+ {
+  "id": "n02349",
+  "summary": "Ibn Umar reports that an Abyssinian man asked whether he would be with the Prophet in Jannah, heard of its rewards, asked whether he would see what the Prophet sees, then wept until he died, and the Prophet himself lowered him into the grave.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "dhikr", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02350",
+  "summary": "Ibn Zaid reports that when the Prophet recited the verses about Jannah to the Sahabah, an Abyssinian man sighed deeply and died, and the Prophet said that longing for Jannah had taken his soul.",
+  "people": [
+   { "id": null, "name": "Abdullaah bin Wahab", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Ibn Zaid", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ibn Zaid gives no first name in the text and is not matched to an approved entry (the approved 'Abdullaah bin Zaid' is unconfirmed). Check."
+ },
+ {
+  "id": "n02351",
+  "summary": "Abu Matar reports that Ali comforted the wounded Umar, who was weeping about his fate, with the Prophet's words that Abu Bakr and Umar will be leaders of the middle-aged people of Jannah and that Umar will be among its inhabitants.",
+  "people": [
+   { "id": null, "name": "Abu Matar", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": "ali", "role": "subject" },
+   { "id": null, "name": "Abu Lu'lu", "role": "mentioned", "sahabi": "no" },
+   { "id": "abu-bakr", "role": "mentioned" },
+   { "id": "hasan-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "aakhirah", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02352",
+  "summary": "After a good meal was served, Umar wept at the thought that poor Muslims who died without filling themselves had been given Jannah, which he felt far surpassed his own share.",
+  "people": [
+   { "id": "umar", "role": "subject" },
+   { "id": null, "name": "Umar bin Waleed", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["zuhd", "hunger-and-hardship", "aakhirah"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with a cross-reference to an earlier chapter on Umar's abstinence and recalls that story. 'Umar bin Waleed' is not in the approved list and may be a slip in the source for another name; not matched."
+ },
+ {
+  "id": "n02353",
+  "summary": "Mus'ab bin Sa'd reports his dying father, Sa'd bin Abi Waqqaas, telling him not to weep, since Allaah will never punish him and he will be among the people of Jannah, as the Prophet clearly stated.",
+  "people": [
+   { "id": null, "name": "Mus'ab bin Sa'd", "role": "narrator", "sahabi": "no" },
+   { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["aakhirah", "mercy-and-forgiveness", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence. The last paragraph switches into a footnote reference (Tafseer of Ibn Katheer) and a remark about the deeds of disbelievers that is not completed."
+ },
+ {
+  "id": "n02354",
+  "summary": "Several reports describe Amr bin Al Aas on his deathbed weeping over what follows death, recalling his past enmity, his conversion and his growing love for the Prophet, and giving instructions for his burial.",
+  "people": [
+   { "id": null, "name": "Ibn Shamaasa Mahri", "role": "narrator", "sahabi": "no" },
+   { "id": "amr-bin-al-aas", "role": "subject" },
+   { "id": "abdullaah-bin-amr", "role": "subject" },
+   { "id": null, "name": "Abdur Rahmaan bin Shamaasa", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "aakhirah", "mercy-and-forgiveness", "accepting-islaam"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins several reports of Amr's death (Ibn Shamaasa Mahri; Abdur Rahmaan bin Shamaasa; further variants). The son is matched to the approved Abdullaah bin Amr from the text's 'his son Abdullah'; check."
+ },
+ {
+  "id": "n02355",
+  "summary": "The author cross-refers to earlier sayings in which Companions longed for Jannah in battle, at home, in illness and at the loss of a child, including Umayr bin Humaam, Anas bin Nadhr, Ammaar and Abu Dardaa.",
+  "people": [
+   { "id": "umayr-bin-hamaam", "role": "subject" },
+   { "id": "anas-bin-nadhar", "role": "subject" },
+   { "id": "sad-bin-khaythama", "role": "subject" },
+   { "id": "sad-bin-rabee", "role": "subject" },
+   { "id": "zaid-bin-thaabit", "role": "mentioned" },
+   { "id": null, "name": "Haraam bin Milhaan", "role": "subject", "sahabi": "yes" },
+   { "id": "ammaar-bin-yaasir", "role": "subject" },
+   { "id": null, "name": "Haashim", "role": "mentioned", "sahabi": "yes" },
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+   { "id": null, "name": "Sa'eed bin Aamir", "role": "subject", "sahabi": "yes" },
+   { "id": "rubayyi-bint-nadhar", "role": "subject" },
+   { "id": null, "name": "Haaritha", "role": "mentioned", "sahabi": "yes" },
+   { "id": "abu-dardaa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "jihaad", "martyrdom", "patience"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Editorial cross-references bundling many short sayings from earlier chapters, not separate narrations in this text. Ummu Haaritha is matched to Rubayyi bint Nadhar (unsure in the list). Haaritha and Haashim are not in the approved list and are matched from the names only."
+ },
+ {
+  "id": "n02356",
+  "summary": "Aa'isha wept at the thought of Jahannam and asked whether anyone would think of family on the Day of Qiyaamah, and the Prophet described three moments when no one thinks of another: at the scales, at the handing out of the records, and at the bridge of Siraat.",
+  "people": [
+   { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "weeping-and-grief", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02357",
+  "summary": "An elderly Companion fainted when the Prophet recited the verse on the fuel of Jahannam and was given glad tidings after saying the Kalimah; a young Ansaari who wept at mention of Jahannam died in the Prophet's arms.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["aakhirah", "fear-of-allaah", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Joins two incidents: the elderly Companion, and the young Ansaari, which the text introduces with a cross-reference to another chapter."
+ },
+ {
+  "id": "n02358",
+  "summary": "The author recalls two sayings: Shaddaad bin Aws said the fire of Jahannam had banished his sleep, and Abdullaah bin Rawaaha wept at Mu'ta, fearing the crossing over Jahannam.",
+  "people": [
+   { "id": null, "name": "Shaddaad bin Aws", "role": "subject", "sahabi": "yes" },
+   { "id": "abdullaah-bin-rawaaha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "fear-of-allaah", "weeping-and-grief"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate cross-references to earlier passages. Shaddaad bin Aws is not in the approved list; matched from the name in the text."
+ },
+ {
+  "id": "n02359",
+  "summary": "Nayyaar bin Mukram Aslami reports that when the revelation that the Romans would again prevail over the Persians came, Abu Bakr proclaimed it against the Quraysh, took their wager, and when the Romans won after the six-year limit many accepted Islaam.",
+  "people": [
+   { "id": null, "name": "Nayyaar bin Mukram Aslami", "role": "narrator", "sahabi": "yes" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "trust-in-allaah"],
+  "new_themes": ["conviction in Allaah's promises"],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02360",
+  "summary": "Baraa reports that Abu Bakr renewed the wager with the Quraysh on the Prophet's advice, and when the winnings came he was told to give them away in charity because they were unlawful.",
+  "people": [
+   { "id": "baraa-bin-aazib", "role": "narrator" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "halaal-and-haraam", "sadaqah"],
+  "new_themes": ["conviction in Allaah's promises"],
+  "boundary": "ok",
+  "notes": "Baraa is matched by name to Baraa bin Aazib, the usual transmitter of this report; check."
+ }
+]

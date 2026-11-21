@@ -1,0 +1,586 @@
+[
+  {
+    "id": "n00441",
+    "summary": "Safwaan bin Umayyah asks whether the one who does not make Hijrah is destroyed, and the Prophet replies that Hijrah ended after the conquest of Makkah but Jihaad and its intention remain.",
+    "people": [
+      { "id": null, "name": "Safwaan bin Umayyah", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Fudayk", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Saalih bin Basheer bin Fudayk", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ataa bin Abi Rabaah", "role": "narrator", "sahabi": "no" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": null, "name": "Ubayd bin Umayr Laythi", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three separate reports joined: Safwaan's question, Fudayk's question, and Aa'isha's answer via Ataa. Summary covers the first only."
+  },
+  {
+    "id": "n00442",
+    "summary": "Aa'isha recounts how the Prophet sent Zaid bin Haaritha and Abu Raafi to bring his family from Makkah, and how her own family travelled to Madinah with Abu Bakr's arrangements.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": null, "name": "Zaid bin Haaritha", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Raafi", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Urayqidh", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Abu Bakr", "role": "mentioned", "sahabi": "yes" },
+      { "id": "asmaa-bint-abi-bakr", "role": "mentioned" },
+      { "id": null, "name": "Ummu Roomaan", "role": "mentioned", "sahabi": "yes" },
+      { "id": "talha", "role": "mentioned" },
+      { "id": "faatima", "role": "mentioned" },
+      { "id": null, "name": "Ummu Kulthoom", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Sauda bint Zam'ah", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Ummu Ayman", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Usaama bin Zaid", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "family"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends with 'The rest of the Hadith concerns the details of the marriage of Hadhrat Aa'isha', so the narration is cut off there. OCR debris in Abu Bakr's name ignored."
+  },
+  {
+    "id": "n00443",
+    "summary": "Aa'isha recounts her camel bolting on the journey of Hijrah and how it stopped when someone told her to throw down its reins.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": null, "name": "Ummu Roomaan", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["hijrah", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The unnamed voice that told her to drop the reins is not tagged."
+  },
+  {
+    "id": "n00444",
+    "summary": "Zaynab, daughter of the Prophet, recounts how Hind bint Utba tried to dissuade her from Hijrah, and how Kinaana then escorted her out of Makkah and was confronted by Abu Sufyaan at Dhu Tuwa.",
+    "people": [
+      { "id": null, "name": "Zaynab bint Muhammad", "role": "subject", "sahabi": "yes" },
+      { "id": "hind-bint-utba", "role": "subject" },
+      { "id": null, "name": "Kinaana bin Rabee", "role": "subject", "sahabi": "no" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": null, "name": "Habbaar bin Aswad Fihri", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["hijrah", "opposition", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Habbaar bin Aswad later became Muslim; his Sahabi status is marked unsure. Quraysh men are unnamed."
+  },
+  {
+    "id": "n00445",
+    "summary": "Urwa bin Zubayr reports that Zaynab was attacked by Quraysh men on her Hijrah, miscarried, and died later from the injury, and so was regarded as a martyr.",
+    "people": [
+      { "id": null, "name": "Urwa bin Zubayr", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Zaynab bint Muhammad", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["hijrah", "opposition", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The two Quraysh men are unnamed. Abu Sufyaan handed her to Banu Haashim women. OCR debris in the opening line ignored."
+  },
+  {
+    "id": "n00446",
+    "summary": "Aa'isha describes how Habbaar bin Aswad injured Zaynab on her Hijrah and how she was cared for in Makkah, and the Prophet then sent Zaid bin Haaritha to bring her to Madinah.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Zaynab bint Muhammad", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Habbaar bin Aswad", "role": "subject", "sahabi": "unsure" },
+      { "id": "hind-bint-utba", "role": "subject" },
+      { "id": null, "name": "Kinaana", "role": "mentioned", "sahabi": "no" },
+      { "id": null, "name": "Abul Aas", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Zaid bin Haaritha", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ali bin Husayn", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Urwa bin Zubayr", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "family", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three parts: Aa'isha's account of Zaynab's journey and care, the Prophet's sending of Zaid, and an exchange between Ali bin Husayn and Urwa about the status of Faatima. Ali bin Husayn is not the approved Ali bin Abi Taalib. Abul Aas is not the approved Aas bin Waa'il."
+  },
+  {
+    "id": "n00447",
+    "summary": "Abdullaah bin Umar, Abu Hurayrah and Ammaar bin Yaasir report that Durra bint Abu Lahab was insulted by Banu Zurayq women after her Hijrah, and that the Prophet consoled her and spoke of interceding for his family.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "ammaar-bin-yaasir", "role": "narrator" },
+      { "id": null, "name": "Durra bint Abu Lahab", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-lahab", "role": "mentioned" },
+      { "id": null, "name": "Raafi bin Mu'alla Zuraqi", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "opposition", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The closing paragraph is the author's cross-reference to other chapters, not narration, and is not part of the summary."
+  },
+  {
+    "id": "n00448",
+    "summary": "Abdullaah bin Abbaas recounts how, as a child of eight, he and his brother Fadl lost their way on the road from Makkah and reached the Prophet at the trench during the Battle of Ahzaab.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": null, "name": "Fadl bin Abbaas", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abu Raafi", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["hijrah", "jihaad"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-sentence: 'I was then eight years old while my brother was'."
+  },
+  {
+    "id": "n00449",
+    "summary": "The author introduces the chapter on how the Sahabah valued assisting the Deen above worldly honour and sacrificed for it.",
+    "people": [],
+    "prophet": "mentioned",
+    "themes": ["dawah", "sacrifice"],
+    "new_themes": [],
+    "boundary": "not-narration",
+    "notes": "Author's chapter introduction. The trailing heading fragment is also not narration."
+  },
+  {
+    "id": "n00450",
+    "summary": "Aa'isha reports that the Prophet presented his message to the Arab tribes each year, offering Jannah, until Allaah brought the Ansaar to grant him a place to migrate to.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "dawah-at-hajj", "hijrah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Ansaar are a group, not tagged as a person. Stray OCR debris at the end ignored."
+  },
+  {
+    "id": "n00451",
+    "summary": "Umar recounts that the Prophet presented himself to every Arab tribe during the Hajj season until Allaah brought the Ansaar, who gave him sanctuary and help.",
+    "people": [
+      { "id": "umar", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah-at-hajj", "hijrah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00452",
+    "summary": "Umar says that the Muhaajireen failed to keep their pledge to the Ansaar, and that if he lived a year every governor would be from the Ansaar.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The governance point about the Ansaar has no approved theme and is not tagged."
+  },
+  {
+    "id": "n00453",
+    "summary": "Jaabir bin Abdillaah relates that the Prophet sought support from people during the Hajj season, and that a man from Hamdaan and then a delegation of the Ansaar came to him.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah-at-hajj", "dawah", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends with 'The narration continues further' before the Aqaba pledge. Also contains a cross-reference to another narration. The man from Hamdaan is unnamed."
+  },
+  {
+    "id": "n00454",
+    "summary": "Urwa reports that a group of Ansaar on Hajj, including Mu'aadh bin Afraa and As'ad bin Zuraarah, accepted the Prophet's message and promised to return and invite their people, after which many Ansaar homes had Muslims.",
+    "people": [
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Mu'aadh bin Afraa", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "As'ad bin Zuraarah", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Raafi bin Maalik", "role": "subject", "sahabi": "yes" },
+      { "id": "dhakwaan-bin-abd-qais", "role": "subject" },
+      { "id": null, "name": "Abul Haytham bin Tayyihaan", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Uwaym bin Saa'idah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah-at-hajj", "accepting-islaam", "spread-of-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Which Urwa is meant is not stated in the text, so his identity is unsure. The closing cross-reference to the Mus'ab bin Umayr narration is not tagged."
+  },
+  {
+    "id": "n00455",
+    "summary": "Abdullaah bin Abbaas learns couplets from Sirmah bin Qais that praise how the Ansaar welcomed the Prophet and supported the Muhaajireen with their wealth and lives.",
+    "people": [
+      { "id": null, "name": "Yahya bin Sa'eed", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": null, "name": "Sirmah bin Qais", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["hijrah", "sacrifice", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The couplets refer to the Prophet as 'He' throughout, so prophet is tagged subject. The old Ansaar lady who passed this on is unnamed."
+  },
+  {
+    "id": "n00456",
+    "summary": "Anas recounts that the Prophet made Abdur Rahmaan bin Awf a brother to Sa'd bin Rabee, that Abdur Rahmaan then traded and married, and that the Prophet advised him to host a waleema.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": null, "name": "Sa'd bin Rabee Ansaari", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00457",
+    "summary": "Abdullaah bin Abbaas explains that the early practice of inheritance between Muhaajireen and Ansaar brothers, made by the Prophet, was abrogated first by the verse on relatives in Surah Anfaal and then fully by Surah Ahzaab.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Haafidh Ibn Hazar", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "family"],
+    "new_themes": ["inheritance"],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-quotation at 'Surah Ahzaab, verse'. Contains several reports plus the author's commentary. Ibn Hazar is quoted in the commentary, not just the reference line, so he is included as mentioned."
+  },
+  {
+    "id": "n00458",
+    "summary": "Abu Hurayrah and Abdur Rahmaan bin Zaid bin Aslam report that the Ansaar offered to share their date plantations with the Muhaajireen, and the Prophet suggested they let the Muhaajireen work them and share the dates.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": null, "name": "Abdur Rahmaan bin Zaid bin Aslam", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "kindness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: Abu Hurayrah's and Abdur Rahmaan bin Zaid's. The Ansaar and Muhaajireen are groups, not named individuals."
+  },
+  {
+    "id": "n00459",
+    "summary": "Anas and Jaabir report the generosity of the Ansaar toward the Muhaajireen, including the harvest-sharing trick and the offer to hand over their Khaybar shares, which the Prophet accepted.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "kindness", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: Anas's report of the Muhaajireen's words and Jaabir's report on the harvest and Khaybar. The Ansaar and Muhaajireen are groups."
+  },
+  {
+    "id": "n00460",
+    "summary": "Anas reports that when the Prophet asked the Ansaar to share the land of Bahrain, they refused unless the Muhaajireen received an equal share, and the Prophet told them to be patient.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["brotherhood", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends with a stray sub-heading from the book ('How the Ansaar Severed the Ties...'), which is not part of the narration."
+  },
+  {
+    "id": "n00461",
+    "summary": "On the Prophet's request, Muhammad bin Maslama and companions deceive and kill Ka'b bin Ashraf, who had harmed Islaam, and report back to the Prophet.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+      { "id": null, "name": "Ka'b bin Ashraf", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Muhammad bin Maslama", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Naa'ilah", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Ibn Sa'd", "role": "narrator", "sahabi": "no" },
+      { "id": "ibn-ishaaq", "role": "narrator" },
+      { "id": null, "name": "Ikrimah", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several narrations and chains are joined (Jaabir, Urwa, Ibn Sa'd, Ibn Abbaas, Ibn Is'haaq, Ikrimah). Urwa is not identified and is marked unsure. Abu Naa'ilah's Sahabi status is unsure."
+  },
+  {
+    "id": "n00462",
+    "summary": "Five men from the Khazraj kill Abu Raafi Sallaam bin Abul Huqayq at Khaybar at night, and when they report back the Prophet inspects their swords.",
+    "people": [
+      { "id": "abdullaah-bin-kab-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Abu Raafi Sallaam bin Abul Huqayq", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Ka'b bin Ashraf", "role": "mentioned", "sahabi": "no" },
+      { "id": null, "name": "Abdullaah bin Ateek", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Mas'ood bin Sinaan", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Unays", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Qataadah Haarith bin Rib'ee", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Khuzaa'ee bin Aswad", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The killing of Ibn Abul Huqayq is the same man as Abu Raafi Sallaam bin Abul Huqayq in the heading. The Sahabi who went into Khaybar is unnamed."
+  },
+  {
+    "id": "n00463",
+    "summary": "Baraa and Abdullaah bin Ateek describe how the Ansaar, sent by the Prophet, entered a fortress at Khaybar and killed Abu Raafi, and the Prophet healed Abdullaah's injured leg.",
+    "people": [
+      { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Ateek", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Raafi Sallaam bin Abul Huqayq", "role": "subject", "sahabi": "no" },
+      { "id": "ibn-ishaaq", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad", "prophethood"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Contains the main account and a second narration ('Another narration states'), plus an Ibn Is'haaq citation. The Ibn Hishaam and Al Bidaaya citations are references, not tagged. Gatekeeper is unnamed."
+  },
+  {
+    "id": "n00464",
+    "summary": "Muhayyisa kills the Jewish trader Ibn Shayba on the Prophet's permission, and his brother Huwayyisa, angered at first, accepts Islaam after hearing that Muhayyisa would have killed him if the Prophet had commanded it.",
+    "people": [
+      { "id": null, "name": "Muhayyisa", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Huwayyisa", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ibn Shayba", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["accepting-islaam", "jihaad", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two narrations: the main account and an 'Another narration' version. The daughter of Muhayyisa who narrates is unnamed."
+  },
+  {
+    "id": "n00465",
+    "summary": "Abdullaah bin Abbaas recounts how the Prophet called the Jews of Madinah to Islaam after Badr, how they boasted of their strength, and how verses about Badr were revealed in reply.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Jews are a group, not named individuals. The verses quoted are from Surah Aal Imraan."
+  },
+  {
+    "id": "n00466",
+    "summary": "The Jews taunt the Prophet about Badr, and Ubaadah bin Saamit renounces his Jewish friends while Abdullaah bin Ubay insists on keeping them, after which verses forbidding taking Jews and Christians as friends are revealed.",
+    "people": [
+      { "id": null, "name": "Imaam Zuhri", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Maalik bin Sayf", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Ubaadah bin Saamit", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdullaah bin Ubay", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "steadfastness"],
+    "new_themes": ["alliance with non-Muslims"],
+    "boundary": "merged",
+    "notes": "Two accounts joined: the taunt with Zuhri's variant, then the Ubaadah and Abdullaah bin Ubay exchange. Abdullaah bin Ubay is the hypocrite and is not the approved Abdullaah bin Abi Umayyah. OCR errors in the verse ('Qur'aam') ignored."
+  },
+  {
+    "id": "n00467",
+    "summary": "When the Banu Qaynuqah turned hostile to the Prophet, Ubaadah bin Saamit renounced his alliance with them, while Abdullaah bin Ubay bin Salool stood by them, and verses on not taking Jews and Christians as friends were revealed.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Ubay bin Salool", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Ubaadah bin Saamit", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["opposition", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Overlaps with n00466 on the same event, told from a different chain."
+  },
+  {
+    "id": "n00468",
+    "summary": "Before Badr the Quraysh try to turn Abdullaah bin Ubay against the Muslims, and after Badr the Banu Nadheer plot against the Prophet, are besieged, and are expelled to Shaam.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Ubay", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three events joined: the Quraysh letters before Badr, the Banu Nadheer plot and siege, and a brief note on the Banu Qurayzah treaty. Sahabi narrator is unnamed. The Jews are a group."
+  },
+  {
+    "id": "n00469",
+    "summary": "Ibn Abbaas describes the terms on which the Prophet besieged the Banu Nadheer and expelled them, allowing one camel and water bag per three people, with a variant that Muhammad bin Maslama gave them ten days to leave.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Muhammad bin Maslama", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["opposition", "jihaad"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two versions joined ('Another narration states'), with differing details on the time allowed."
+  },
+  {
+    "id": "n00470",
+    "summary": "Aa'isha reports the Battle of Khandaq: Sa'd bin Mu'aadh was struck by an arrow and prayed to live until the fate of Banu Qurayzah, then after their surrender chose execution of the warriors, and Sa'd died, and the Prophet and Sahabah wept for him.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Sa'd bin Mu'aadh", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Haarith bin Aws", "role": "mentioned", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" },
+      { "id": "talha", "role": "subject" },
+      { "id": null, "name": "Ibn Arqa", "role": "subject", "sahabi": "no" },
+      { "id": "abu-sufyaan", "role": "mentioned" },
+      { "id": null, "name": "Uyayna bin Badr", "role": "mentioned", "sahabi": "no" },
+      { "id": null, "name": "Dihya Kalbi", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abu Lubaba", "role": "mentioned", "sahabi": "yes" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": null, "name": "Abu Sa'eed Khudri", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Alqama", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "opposition", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined: Aa'isha's account, the Abu Sa'eed Khudri report, Alqama's question, and Aa'isha's report on the tears. Jibra'eel appears in the account but is an angel, so he is not tagged. Dihya Kalbi's appearance is the angel's disguise."
+  },
+  {
+    "id": "n00471",
+    "summary": "Another narration states that the Prophet's tears flowed onto his beard as he returned from the burial of Sa'd bin Mu'aadh.",
+    "people": [
+      { "id": null, "name": "Sa'd bin Mu'aadh", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophets-concern"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00472",
+    "summary": "Anas reports that the Aws and Khazraj boasted to each other of their outstanding Ansaar, naming companions honoured by angels, the Throne, wasps, and testimony, and the Khazraj named four who memorised the Qur'aan.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Handhala bin Raahib", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Sa'd bin Mu'aadh", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Aasim bin Thaabit bin Abil Aflah", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Khuzayma bin Thaabit", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Zaid bin Thaabit", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Ubay bin Ka'b", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Mu'aadh bin Jabal", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abu Zaid", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The tribes Aws and Khazraj are groups, not persons. The Abu Zaid named is as the book gives him; no approved entry."
+  },
+  {
+    "id": "n00473",
+    "summary": "Abdullaah bin Rabaah tells the Ansaar, through Abu Hurayrah, how at the conquest of Makkah the Prophet sent the Ansaar to deal with the Quraysh rabble and, at Safa, the Prophet broke the idol at the Kabah.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Rabaah", "role": "subject", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Khaalid bin Waleed", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-ubaydah", "role": "subject" },
+      { "id": "abu-sufyaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["spread-of-islaam", "jihaad", "tawheed"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hadhrat Mu'aawiya is assumed to be the caliph Mu'aawiya bin Abi Sufyaan from context; not verified. Abdullaah bin Rabaah's status is unsure. The Ansaar are a group."
+  },
+  {
+    "id": "n00474",
+    "summary": "At Hunayn, when the Muslim army fled and the Prophet was left alone, he called the Ansaar, who answered that they were with him, and he reassured them, and the Ansaar wept and accepted his distribution.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Hawaazin, Ghitfaan and other tribes, and the ten thousand Sahabah, are groups and are not tagged."
+  },
+  {
+    "id": "n00475",
+    "summary": "After Hunayn the Prophet explains to the Ansaar, who were upset that he gave booty to the Quraysh and others, that he did so to win hearts, and the Ansaar weep with him.",
+    "people": [
+      { "id": null, "name": "Saa'ib bin Yazeed", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00476",
+    "summary": "Anas reports that after Hunayn the Prophet gave booty to newer Muslims, that some Ansaar complained, and that the Prophet told them to be patient and to return home with him.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The complaining Ansaar are unnamed."
+  },
+  {
+    "id": "n00477",
+    "summary": "Anas reports that the Prophet told the Ansaar they were close to him like under-clothing while others were like outer garments, and that he would walk the valley of the Ansaar.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Single report, although it opens 'Another narration from Anas'. Stray OCR debris at the end ignored."
+  },
+  {
+    "id": "n00478",
+    "summary": "Anas reports the Prophet's words to the Muhaajireen and Ansaar after wealth came from Bahrain: the Ansaar turn out in large numbers in hazards but in small numbers when something is distributed.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "kindness"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends with 'The rest of the Hadith is lengthy', so the narration is cut off there."
+  },
+  {
+    "id": "n00479",
+    "summary": "Anas and then a second narration report that the Prophet sent greetings to the Ansaar through Abu Talha, describing them as extremely chaste and patient, including during the Prophet's final illness.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Abu Talha", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "steadfastness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two Anas reports joined ('Another narration from Anas'). Abu Talha is Abu Talha Ansaari."
+  },
+  {
+    "id": "n00480",
+    "summary": "Abdullaah bin Shaddaad reports that the Prophet visited Sa'd bin Mu'aadh on his deathbed and told him that he had fulfilled his pledge to Allaah and that Allaah would fulfil His pledge to him.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Shaddaad", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Sa'd bin Mu'aadh", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

@@ -1,0 +1,530 @@
+[
+ {
+  "id": "n03066",
+  "summary": "Abdullaah bin Umar wept after hearing from Abdullaah bin Amr a hadith warning that anyone with pride the size of a mustard seed in his heart will be thrown headlong into the fire.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" },
+    { "id": "abdullaah-bin-amr", "role": "mentioned" },
+    { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["humility", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator is Abu Salamah bin Abdur Rahmaan bin Auf (approved entry abu-salma-bin-abdir-rahmaan, marked unsure); the ancestor in his name is left out. Trailing OCR debris ignored."
+ },
+ {
+  "id": "n03076",
+  "summary": "Abdullaah bin Mas'ood said they would not learn the next ten verses of the Qur'aan until they had put the first ten into practice; asked whether this meant practising first, Shareek confirmed it.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "shareek", "role": "narrator" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["quraan", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03088",
+  "summary": "Abdullaah bin Umar reports that Abu Bakr used to teach the Tashahhud to the people from the pulpit, as children are taught at school.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03089",
+  "summary": "Abdullaah bin Abbaas reports that Umar bin Khattaab took his hand and taught him the Tashahhud, which Umar had himself been taught by the Prophet; a second report from Abdur Rahmaan al-Qaari of Umar teaching it from the pulpit follows, and the text is cut off.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abdur-rahmaan-al-qaari", "role": "narrator" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["salaah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off ('The narration still continues further'). It also holds a second report (Abdur Rahmaan al-Qaari), so merged could apply; ends-mid chosen. OCR marker '(5)' and 'ail' ignored."
+ },
+ {
+  "id": "n03114",
+  "summary": "Zaid bin Thaabit says the Prophet asked him to learn the Syriac (or Hebrew) language because letters were coming to him, and he learnt it in seventeen days.",
+  "people": [
+    { "id": "zaid-bin-thaabit", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["seeking-knowledge", "delegations"],
+  "new_themes": ["learning another language for deen"],
+  "boundary": "merged",
+  "notes": "Two versions of the same report ('In another narration' and 'Yet another narration'), differing on Syriac vs Hebrew or Syriac. OCR debris '(assfe' ignored."
+ },
+ {
+  "id": "n03139",
+  "summary": "Ubaydullaah bin Adi says he asked Ali about a hadith and Ali related it on condition that he tell no one else; Ibn Mas'ood's saying about travelling far for knowledge of the Book is introduced.",
+  "people": [
+    { "id": "ubaydullaah-bin-adi", "role": "subject" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abdullaah-bin-masood", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "travel"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03140",
+  "summary": "Abdullaah bin Mas'ood says that if a camel could carry him to someone with more knowledge of what was revealed to Muhammad ﷺ than he has, he would go to them to increase his own knowledge.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["seeking-knowledge", "travel"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03142",
+  "summary": "Abu Tha'laba says he went to Abu Ubaydah bin Jarraah, who was talking with Basheer bin Sa'd, and Abu Ubaydah then related the Prophet's words that after prophethood would come a khilaafah on its pattern, followed by monarchy and tyranny.",
+  "people": [
+    { "id": "abu-thalaba-khushani", "role": "subject" },
+    { "id": "abu-ubaydah", "role": "subject" },
+    { "id": "basheer-bin-sad", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["khilaafah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03180",
+  "summary": "Abdullaah bin Umar says a man can only be a respected scholar if he is free of envy, does not look down on those beneath him, and does not sell his knowledge.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "humility", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03194",
+  "summary": "Umar bin Khattaab said dowries should not exceed forty awqiya; a woman stood up and corrected him from Surah Nisaa verse 20, and Umar accepted that she was right.",
+  "people": [
+    { "id": "abdullaah-bin-musab", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "dhul-udda-qais-bin-husayn-haarithi", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The woman who corrected Umar is unnamed and not tagged. Dhul Udda is only a hypothetical bride's father in the speech."
+ },
+ {
+  "id": "n03195",
+  "summary": "Muhammad bin Ka'b Qurazi reports that a man corrected Ali's answer to a question; Ali admitted he was wrong and recited the verse that above every knowledgeable person is one more knowledgeable.",
+  "people": [
+    { "id": "muhammad-bin-kab", "role": "narrator" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who corrected Ali is unnamed. The Qur'aan verse (Surah Yusuf 76) is garbled by OCR and is not tagged as a separate theme. Narrator matched to approved muhammad-bin-kab (unsure)."
+ },
+ {
+  "id": "n03196",
+  "summary": "Sa'eed bin Musayyib says Umar and Uthmaan would debate a question so fiercely that onlookers thought they could never be reconciled, yet they always parted most amicably.",
+  "people": [
+    { "id": "saeed-bin-musayyab", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["good-character", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text ends with a section heading fragment ('For a Person to Forsake Attending a gathering of Knowledge...'), which is not part of the narration and was not tagged."
+ },
+ {
+  "id": "n03204",
+  "summary": "Ali tells people to rehearse the ahadith among themselves so they do not forget them, and adds that they should keep visiting each other.",
+  "people": [
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Mas'ood, Abdullaah bin Abbaas and Abu Sa'eed appear only in the heading, not in the text, so they are not tagged."
+ },
+ {
+  "id": "n03217",
+  "summary": "Ummu Sulaym asks the Prophet whether a woman must bathe after dreaming of intercourse; he says yes if she finds semen, and tells Ummu Salamah, who objected, that women are offshoots of men.",
+  "people": [
+    { "id": "ummu-sulaym", "role": "subject" },
+    { "id": "umm-salama", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["modesty", "seeking-knowledge"],
+  "new_themes": ["ghusl after wet dream"],
+  "boundary": "ok",
+  "notes": "OCR scrambles the order of speakers in the middle; attributions follow the sense of the exchange."
+ },
+ {
+  "id": "n03224",
+  "summary": "Aamir reports that when Ammaar was asked about a matter, he asked whether it had actually happened, and when told it had not, said to leave it until it does.",
+  "people": [
+    { "id": null, "name": "Aamir", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ammaar-bin-yaasir", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "avoiding-fitnah"],
+  "new_themes": ["asking about hypothetical matters"],
+  "boundary": "ok",
+  "notes": "The narrator is named only as 'Aamir' and could be Aamir ash-Sha'bi (aamir-shabi, not sahabi); left as null for review. Ammaar taken as Ammaar bin Yaasir. The avoiding-fitnah theme is a weak fit."
+ },
+ {
+  "id": "n03227",
+  "summary": "Anas reports that Abu Talha came to the Masjid and found the Prophet teaching the men of Suffa, with a stone tied to his belly against hunger.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "abu-talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["ahl-us-suffa", "hunger-and-hardship", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03229",
+  "summary": "Anas reports that Umar asked about Abu Moosa Ash'ari, who was teaching the Qur'aan in Basrah; Abu Rajaa then says Abu Moosa taught him Surah Alaq, the first surah revealed to the Prophet.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abu-moosa-ashari", "role": "subject" },
+    { "id": "abu-rajaa-utaaridi", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["quraan", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Anas's account of Umar's questions, then Abu Rajaa's account. Umar's remark about the people of Basrah is not tagged. OCR 'ji' and 'ig' debris ignored."
+ },
+ {
+  "id": "n03241",
+  "summary": "Umar tells the Sahabah not to occupy people with ahadith in a way that stops them mastering the Qur'aan; a second report has Umar explaining why he walked with them, and that report is abridged.",
+  "people": [
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The second report ends 'The rest of the narration is like the one above', so it is abridged."
+ },
+ {
+  "id": "n03243",
+  "summary": "Sulaymaan bin Yasaar relates that Sabeegh bin Isl kept questioning the mutashaabih verses of the Qur'aan, so Umar beat him with date-palm branches until his head bled; Sabeegh then said that his doubt had gone.",
+  "people": [
+    { "id": "sulaymaan-bin-yasaar", "role": "narrator" },
+    { "id": "sabeegh", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "avoiding-fitnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03249",
+  "summary": "Tufayl bin Amr gave Ubay bin Ka'b a bow after Ubay taught him the Qur'aan; the Prophet asked Ubay why he wore it, called it a spark from Jahannam, and explained that food prepared for others may be eaten but food prepared specially for the teacher eats from his share in the Aakhirah.",
+  "people": [
+    { "id": "tufayl-bin-amr-dowsi", "role": "subject" },
+    { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "seeking-knowledge", "honest-dealings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03258",
+  "summary": "Abdullaah bin Mas'ood advises that a man of the Qur'aan should be known by his night prayers, fasting, sorrow, weeping and humility, and should be a good listener; another report gives further advice to listen and heed Allah's commands.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["quraan", "exertion-in-worship", "humility"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports from Ibn Mas'ood, joined by 'Another narration states'."
+ },
+ {
+  "id": "n03265",
+  "summary": "Abdur Rahmaan bin Haatib says he has not seen any Companion narrate hadith as well and thoroughly as Uthmaan, though Uthmaan was very reluctant to narrate.",
+  "people": [
+    { "id": "abdur-rahmaan-bin-haatib", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03269",
+  "summary": "Masrooq reports that when Ibn Mas'ood began a hadith with 'The Prophet said', he shook so much that his clothes trembled, and then added that the Prophet said something to that effect.",
+  "people": [
+    { "id": null, "name": "Masrooq", "role": "narrator", "sahabi": "no" },
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["seeking-knowledge", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Masrooq is not in the approved list; taken as Masruq (a tabi'i), so sahabi 'no', to be checked."
+ },
+ {
+  "id": "n03272",
+  "summary": "Abu Ja'far Muhammad bin Ali says that no Companion of the Prophet was more careful than Abdullaah bin Umar about adding to or omitting anything from the Prophet's ahadith.",
+  "people": [
+    { "id": "abu-jafar-muhammad-bin-ali", "role": "narrator" },
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading names Abu Dardaa and Anas, but the text does not, so they are not tagged."
+ },
+ {
+  "id": "n03287",
+  "summary": "Abdullaah bin Ukaym quotes Ibn Mas'ood that on the Day of Judgement each person will be asked whether he acted on his knowledge; Adi bin Adi relates Ibn Mas'ood's warning that the one who has knowledge but does not practise is destroyed.",
+  "people": [
+    { "id": "abdullaah-bin-ukaym", "role": "narrator" },
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": "adi-bin-adi", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "aakhirah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, from Abdullaah bin Ukaym and from Adi bin Adi."
+ },
+ {
+  "id": "n03288",
+  "summary": "Ibn Mas'ood says everyone has fine words but only those whose deeds match their words will succeed, and that people need the scholar who acts on his knowledge and the one absorbed in Allaah.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Two sayings of the same narrator, with no separate chain, so not merged."
+ },
+ {
+  "id": "n03292",
+  "summary": "Anas says that knowledge brings no reward until it is practised, and that true scholars seek to remember and act on it while foolish people seek only to relate it to others.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Mu'aadh bin Jabal in the heading is not in the text, so not tagged."
+ },
+ {
+  "id": "n03310",
+  "summary": "Umar says the Sunnah is what Allaah and His Rasool have determined, and that one should not let one's own opinion take its place; Amr bin Dinaar reports Umar disclaiming that Allaah guided his judgements, as that was a speciality of the Prophet.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": "amr-bin-dinaar", "role": "narrator" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["following-the-sunnah", "khilaafah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports. Umar's first saying is cut off mid-sentence ('make your mistaken opinion a'). The person who asked Umar is unnamed."
+ },
+ {
+  "id": "n03325",
+  "summary": "Abu Husayn says that people now issue fatwas on matters which, had they been put to Umar, he would have referred to the veterans of Badr before answering.",
+  "people": [
+    { "id": "abu-husayn", "role": "narrator" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["consultation", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Badr veterans are unnamed. Zaid bin Arqam and Baraa in the heading are not in the text."
+ },
+ {
+  "id": "n03337",
+  "summary": "The Prophet tells Faatima that he has married her to the first of his Ummah to accept Islaam, the most knowledgeable and most tolerant man.",
+  "people": [
+    { "id": "faatima", "role": "mentioned" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "marriage", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text does not name Ali; the identification comes from the heading ('Rasulullaah declares that Hadhrat Ali was the most learned'). Please confirm."
+ },
+ {
+  "id": "n03347",
+  "summary": "Aamir, son of Sa'd bin Abi Waqqaas, reports his father's praise of Abdullaah bin Abbaas for his wit and knowledge, and that Umar would call him for complicated problems and accept his opinion even in front of the Badr veterans.",
+  "people": [
+    { "id": "aamir-bin-sad-bin-abi-waqqaas", "role": "narrator" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03348",
+  "summary": "Abu Zinaad reports that Umar visited the ill Abdullaah bin Abbaas and that Talha praised his understanding; Muhammad bin Ubay bin Ka'b reports that Ubay foretold Ibn Abbaas would become the most learned scholar of the Ummah, since the Prophet had prayed for his understanding of Deen.",
+  "people": [
+    { "id": "abu-zinaad", "role": "narrator" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Talha bin Ubaydullaah", "role": "subject", "sahabi": "yes" },
+    { "id": "muhammad-bin-ubay-bin-kab", "role": "narrator" },
+    { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports (Abu Zinaad; Muhammad bin Ubay bin Ka'b). Talha is left as null because the approved bare 'talha' may or may not be Talha bin Ubaydullaah; check. OCR debris ('* ') ignored."
+ },
+ {
+  "id": "n03351",
+  "summary": "Ibn Abbaas relates that Umar asked him a question that Ya'la bin Umayyah had sent from Yemen; after the answer, Umar testified that Ibn Abbaas was the most eligible to speak on behalf of the Prophet's household.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Ya'la bin Umayyah", "role": "mentioned", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ya'la bin Umayyah is left as null; the approved yala-bin-munyah is probably the same man, so verify."
+ },
+ {
+  "id": "n03352",
+  "summary": "Ataa says people came to Ibn Abbaas to ask about poetry, lineage and the battles and history of the Arabs, and he gave each group a full answer.",
+  "people": [
+    { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["virtues-of-the-sahabah", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Several approved entries are called ata-type names, and the book does not say which Ataa is meant, so left as null for review."
+ },
+ {
+  "id": "n03354",
+  "summary": "Ibn Abbaas says he stayed close to the senior Muhaajireen and Ansaar to learn about the battles and the revelations concerning them; Ubay bin Ka'b told him that twenty-seven Surahs were revealed at Madinah and the rest at Makkah.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "subject" },
+    { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["quraan", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03365",
+  "summary": "Urwa says he has not seen a woman as knowledgeable in medicine, fiqh and poetry as Aa'isha.",
+  "people": [
+    { "id": "urwa-bin-zubayr", "role": "subject" },
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "virtues-of-the-sahabah", "illness-and-cure"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Urwa is taken as Urwa bin Zubayr, since the next item calls Aa'isha his aunt."
+ },
+ {
+  "id": "n03366",
+  "summary": "Urwa asks his aunt Aa'isha how she came to know fiqh, Arab history, lineage, poetry and medicine; she says she learnt medicine from the remedies that physicians sent when the Prophet's illness worsened.",
+  "people": [
+    { "id": "urwa-bin-zubayr", "role": "subject" },
+    { "id": "aaisha", "role": "subject" },
+    { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["illness-and-cure", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Bakr is named only as Aa'isha's father. The physicians are unnamed."
+ },
+ {
+  "id": "n03367",
+  "summary": "Aa'isha says that by using these remedies to treat the Prophet she learnt all about them.",
+  "people": [
+    { "id": "aaisha", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["illness-and-cure", "seeking-knowledge"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "'These' refers to the remedies in the previous narration (n03366), so it begins mid-story."
+ },
+ {
+  "id": "n03370",
+  "summary": "Ibn Mas'ood says that scholars who hand their knowledge to worldly people for a share of the world fall in the eyes of the people, and quotes the Prophet that whoever makes the Aakhirah his only worry, Allaah will take care of his other worries.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["seeking-knowledge", "aakhirah", "zuhd"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03371",
+  "summary": "Sufyaan bin Uyaynah reports Ibn Abbaas saying that scholars who uphold knowledge properly are loved by Allaah, His angels and the pious and held in awe by people, while those who seek worldly wealth with it are detested by Allaah and lose their standing.",
+  "people": [
+    { "id": "sufyaan-bin-uyayna", "role": "narrator" },
+    { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "sincerity"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ }
+]

@@ -1,0 +1,534 @@
+[
+ {
+  "id": "n03481",
+  "summary": "Jundub Bajali advises fearing Allaah, reciting the Qur'aan, valuing the Deen above wealth and health, and avoiding the shedding of a Muslim's blood.",
+  "people": [
+   { "id": "jundub-bin-abdullaah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["fear-of-allaah", "quraan", "aakhirah", "muslim-rights"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Jundub Bajali matched to jundub-bin-abdullaah; the vocabulary also lists jundub (?) and jundub-bin-sufyaan, so this match should be checked."
+ },
+ {
+  "id": "n03482",
+  "summary": "At a funeral near Damascus, Abu Umaamah Baahili warns that the grave is a house of loneliness and darkness and describes how the hypocrites will be left without light on the Day of Qiyaamah.",
+  "people": [
+   { "id": "abu-umaama", "role": "subject" },
+   { "id": null, "name": "Sulaym bin Aamir", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["aakhirah", "death-and-burial", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03483",
+  "summary": "Abu Umaamah Baahili tells a group that Allaah guarantees Jannah or reward for three kinds of people, warns of the debts settled on the bridge of Jahannam, and urges truthfulness and spending in the path of Allaah.",
+  "people": [
+   { "id": "abu-umaama", "role": "subject" },
+   { "id": null, "name": "Sulaymaan bin Habeeb", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["honest-dealings", "good-character", "generosity", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03484",
+  "summary": "Abdullaah bin Busr advises that the people of Taqwa are simple, the Ulema are leaders, and that one should prepare provisions for the return to Allaah while life is passing.",
+  "people": [
+   { "id": "abdullaah-bin-busr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["taqwa", "seeking-knowledge", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence ('...reached your place of return (the') and the rest of the advice is not in the text."
+ },
+ {
+  "id": "n03485",
+  "summary": "Sahl bin Sa'd reports that Abu Usayd, after losing his eyesight, said he had seen the angels come down into the valley at Badr to assist the Muslims.",
+  "people": [
+   { "id": "sahal-bin-sad", "role": "narrator" },
+   { "id": "abu-usayd-saaidi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03486",
+  "summary": "Several reports describe angels taking the form of Companions at Badr, the angels wearing turbans, and Abu Raafi's account of Abu Lahab, Ummu Fadhl and the news of the Quraysh defeat at Badr.",
+  "people": [
+   { "id": "urwa-bin-zubayr", "role": "narrator" },
+   { "id": "zubayr", "role": "mentioned" },
+   { "id": "abbaad-bin-abdullaah-bin-zubayr", "role": "narrator" },
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "ikrimah", "role": "narrator" },
+   { "id": "abu-raafi", "role": "subject" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+   { "id": "ummu-fadhl", "role": "subject" },
+   { "id": "abu-lahab", "role": "subject" },
+   { "id": "aas-bin-hishaam-bin-mughiera", "role": "mentioned" },
+   { "id": "abu-sufyaan-bin-haarith-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "jihaad", "opposition", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several separate reports are joined: Urwa, Abbaad bin Abdullaah bin Zubayr, Ibn Abbaas, Ikrimah's report of Abu Raafi, and a second Abu Raafi narration. Angels are not tagged as people."
+ },
+ {
+  "id": "n03487",
+  "summary": "An unnamed Sahabi who fought against the Muslims at Hunayn says the enemy could not stand before the Muslims until strikingly handsome men appeared to the Prophet's side and told them to turn back, which led to their defeat.",
+  "people": [
+   { "id": null, "name": "Auf bin Abdur Rahmaan", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text gives no (RA) for the narrator, who is described as freed slave of Ummu Burthun, so Companion status is unsure. Angels are not tagged as people."
+ },
+ {
+  "id": "n03488",
+  "summary": "Auf A'raabi reports from Abdur Rahmaan that a fighter at Hunayn saw the Prophet with strikingly handsome men who told them to turn back, which led to their defeat.",
+  "people": [
+   { "id": null, "name": "Auf A'raabi", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Abdur Rahmaan", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "A variant of the report in n03487. Abdur Rahmaan is the freed slave of Abu Burthun; neither narrator is in the approved list or marked (RA)."
+ },
+ {
+  "id": "n03489",
+  "summary": "Jubayr bin Mut'im says that during Hunayn he saw what looked like a black blanket of ants come down between the two armies, and he was sure these were angels that decided the defeat.",
+  "people": [
+   { "id": "jubayr-bin-mutim", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03490",
+  "summary": "Abdullaah bin Fadhl reports that at Uhud an angel in the form of Mus'ab bin Umayr took the flag after Mus'ab was martyred, and the Prophet realised it was an angel sent to help him.",
+  "people": [
+   { "id": null, "name": "Abdullaah bin Fadhl", "role": "narrator", "sahabi": "unsure" },
+   { "id": "musab-bin-umayr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "martyrdom", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03491",
+  "summary": "Anas says he could see the dust rising from the street of Banu Ghanam as Jibra'eel rode past while the Prophet marched against Banu Quraizah.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03492",
+  "summary": "Another narration says that after the Battle of Khandaq Jibra'eel came to the Prophet and ordered the march against Banu Qurayzah, and the angels left in clouds of dust.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator not named ('Another narration'). Jibra'eel and the other angels are not tagged as people."
+ },
+ {
+  "id": "n03493",
+  "summary": "Suhayl bin Amr says that at Badr he saw brilliant men on spotted horses killing the Mushrikeen and taking them prisoner.",
+  "people": [
+   { "id": "suhayl-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03494",
+  "summary": "Baraa and other Companions report that when an Ansaari took Abbaas prisoner at Badr, Abbaas said that man had not captured him, and the Prophet told the Ansaari that Allaah had sent a noble angel to help him.",
+  "people": [
+   { "id": null, "name": "Baraa", "role": "narrator", "sahabi": "yes" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Baraa has no surname in the text. Baraa bin Aazib and Baraa bin Maalik are both in the approved list, so this narrator is not matched to an id."
+ },
+ {
+  "id": "n03495",
+  "summary": "A similar report from Ali says Abbaas described his captor as a handsome, bald-at-the-temples man on a spotted horse, and the Prophet told the Ansaari that a noble angel had helped him.",
+  "people": [
+   { "id": "ali", "role": "narrator" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR garbles the Prophet's name in the opening line; the speaker is clear from context."
+ },
+ {
+  "id": "n03496",
+  "summary": "Ibn Abbaas reports that Abbaas's captor at Badr was Abu Yasar Ka'b bin Amr, who said a man he had never seen helped him, and the Prophet said it was one of the noble angels.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "abu-yasar", "role": "subject" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03497",
+  "summary": "Ibn Abbaas reports that a Muslim pursuing a Mushrik heard a whiplash and a horseman calling his horse Hayzoom, and the Prophet confirmed it was an angel; a Sahabi of Banu Ghifaar adds how his cousin died of fear while watching Badr from a mountain.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Ibn Abbaas's account of the whiplash and the unnamed Ghifaari Sahabi's account of the mountain at Badr."
+ },
+ {
+  "id": "n03498",
+  "summary": "Abu Talha says that in a battle, when the Prophet recited 'Only You do we worship and only from You do we seek help', he saw the angels strike the enemy from front and back.",
+  "people": [
+   { "id": "abu-talha", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "duaa", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03499",
+  "summary": "Abu Umaamah reports that his father Sahl bin Hunayf said that at Badr a Mushrik's head fell from his body as soon as a Muslim pointed a sword at it.",
+  "people": [
+   { "id": "abu-umaamah-bin-sahl-bin-hunayf", "role": "narrator" },
+   { "id": "sahal-bin-hunayf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03500",
+  "summary": "Abu Waaqid Laythi says that at Badr a Mushrik's head rolled off before his sword could reach him, so he realised an angel had killed him, and Abu Dawood Maazini reports the same.",
+  "people": [
+   { "id": "abu-waaqid-laythi", "role": "subject" },
+   { "id": null, "name": "Abu Dawood Maazini", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Abu Waaqid Laythi's and a short second report from Abu Dawood Maazini."
+ },
+ {
+  "id": "n03501",
+  "summary": "Sahl bin Abu Hathma reports that Abu Barzah brought three Mushrik heads to the Prophet at Badr and said an angel killed one of them, and Haarith bin Simma reports that the Prophet said angels fought beside Abdur Rahmaan bin Awf, who had killed seven Mushrikeen.",
+  "people": [
+   { "id": "sahl-bin-abi-hathmah", "role": "narrator" },
+   { "id": "abu-barzah", "role": "subject" },
+   { "id": "haarith-bin-simma", "role": "subject" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": null, "name": "Artaat bin Abd Shurahbeel", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two separate reports: Sahl bin Abu Hathma's (about Abu Barzah) and Haarith bin Simma's (about Abdur Rahmaan bin Awf)."
+ },
+ {
+  "id": "n03502",
+  "summary": "Ibn Abbaas reports that Jibra'eel pointed at those who ridiculed the Prophet, and the Prophet named them, after which each of them met a painful end.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "waleed-bin-mughiera", "role": "mentioned" },
+   { "id": "aswad-bin-abdil-muttalib", "role": "mentioned" },
+   { "id": null, "name": "Aswad bin Abd Ya'ooth", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Haarith bin Aytal Sahmi", "role": "mentioned", "sahabi": "no" },
+   { "id": "aas-bin-waail", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["opposition", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR garbles the Qur'aan verse reference in the opening line; the narration itself reads complete. Angels are not tagged as people."
+ },
+ {
+  "id": "n03503",
+  "summary": "Anas reports that the trader Abu Mu'liq, robbed on the road, prayed a du'aa three times, and an angel of the fourth heaven then killed the robber with a spear.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": null, "name": "Abu Mu'liq", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["duaa", "salaah", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03504",
+  "summary": "Layth bin Sa'd reports that Zaid bin Haaritha, led to ruins by a Taa'if man who meant to kill him, called out 'Yaa Arhamar Raahimeen' and a horseman sent from above killed the attacker.",
+  "people": [
+   { "id": "layth-bin-sad", "role": "narrator" },
+   { "id": "zaid-bin-haaritha", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["duaa", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03505",
+  "summary": "Aa'isha says the Prophet went out to a man on a Turkish horse whom she took to be Dihya Kalbi and told her it was Jibra'eel sent to order the march against Banu Qurayzah; Sa'eed bin Musayyib adds that the Prophet said the rider others saw was Jibra'eel shaking that fortress.",
+  "people": [
+   { "id": "aaisha", "role": "subject" },
+   { "id": "dihya-kalbi", "role": "mentioned" },
+   { "id": "saeed-bin-musayyab", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Aa'isha's own account, and Sa'eed bin Musayyib's addition about the Banu Qurayzah campaign."
+ },
+ {
+  "id": "n03506",
+  "summary": "Ibn Abbaas reports that when the Prophet visited a sick Ansaari, he heard the Ansaari speaking to someone unseen, and the Prophet said it was Jibra'eel.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "visiting-the-sick", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03507",
+  "summary": "Ibn Abbaas says he was with his father Abbaas when a man whispered to the Prophet, and the Prophet later said it was Jibra'eel, whom he had been too busy with to attend to them.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "subject" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR drops words and part of the Prophet's name in places; the sense is clear."
+ },
+ {
+  "id": "n03508",
+  "summary": "Another narration says Abbaas sent his son Abdullaah to the Prophet, that the man with him was Jibra'eel, and that the Prophet foretold Abdullaah would have great knowledge but go blind before he died.",
+  "people": [
+   { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+   { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["the-unseen", "seeking-knowledge", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator not named ('Another narration'). The Prophet's name is dropped in the OCR, so the speaker of the prophecy is inferred from context."
+ },
+ {
+  "id": "n03509",
+  "summary": "Urwa bin Ruwaym reports that the very old Irbaadh bin Saariyah, who prayed to die, met a young man in the Damascus Masjid who taught him a du'aa and said he was the angel Roobaa'eel.",
+  "people": [
+   { "id": "urwa-bin-ruwaym", "role": "narrator" },
+   { "id": null, "name": "Irbaadh bin Saariyah", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["duaa", "death-and-burial", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text is garbled in places ('when saw an exceptionally handsome young man'), but the report is complete."
+ },
+ {
+  "id": "n03510",
+  "summary": "Mutarrif bin Abdullaah reports that Imraan bin Husayn said the angels had greeted him during his illness until he had himself branded, and Qataadah adds that the angels used to shake his hand until then.",
+  "people": [
+   { "id": null, "name": "Mutarrif bin Abdullaah", "role": "narrator", "sahabi": "no" },
+   { "id": "imraan-bin-husayn", "role": "subject" },
+   { "id": "qataada", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["illness-and-cure", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Mutarrif's account of Imraan bin Husayn, and Qataadah's shorter report."
+ },
+ {
+  "id": "n03511",
+  "summary": "Salam bin Atiyya Asadi reports that when Salmaan was dying he asked an angel to be gentle with him, and the angel replied that it is gentle with every Mu'min.",
+  "people": [
+   { "id": "salmaan-faarsi", "role": "subject" },
+   { "id": null, "name": "Salam bin Atiyya Asadi", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03512",
+  "summary": "Anas reports that Ubay bin Ka'b resolved to praise Allaah in the Masjid, and heard a voice praising Allaah with words he had not known, which the Prophet said was Jibra'eel.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["dhikr", "duaa", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03513",
+  "summary": "Abu Sa'eed Khudri reports that the Prophet said whoever dislikes Umar dislikes him, that Allaah boasts of Umar, and that a Muhaddath, one on whose tongue the angels speak, would be Umar if there is one in this Ummah.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence ('a person on whose tongue the'). The explanation of Muhaddath continues in the heading of n03514."
+ },
+ {
+  "id": "n03514",
+  "summary": "Anas bin Hulays reports that after the siege of Buharseer, Aswad bin Qutba (Abu Mufazzir) answered the Persian emissary with words he did not know he was saying, and the enemy fled, which the Persians took as the speech of angels.",
+  "people": [
+   { "id": null, "name": "Anas bin Hulays", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Aswad bin Qutba", "role": "subject", "sahabi": "yes" },
+   { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["jihaad", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Anas bin Hulays's Companion status is not stated in the text. The account includes testimony from captured people, treated here as part of the same report."
+ },
+ {
+  "id": "n03515",
+  "summary": "Abu Sa'eed Khudri reports that Usayd bin Hudhayr saw a cloud of lights while reciting in his silo and the Prophet said they were listening angels; a second report says an angel announced the death of Sa'd bin Muaadh, and the Prophet hurried to his funeral.",
+  "people": [
+   { "id": "abu-saeed-khudri", "role": "narrator" },
+   { "id": "usayd-bin-hudhayr", "role": "subject" },
+   { "id": null, "name": "Yahya", "role": "mentioned", "sahabi": "unsure" },
+   { "id": "aasim-bin-umar-bin-qataadah", "role": "narrator" },
+   { "id": "sad-bin-muaadh", "role": "subject" },
+   { "id": "handhala", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["quraan", "the-unseen", "miracles-and-blessings", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Abu Sa'eed Khudri's account of Usayd bin Hudhayr, and Aasim bin Umar bin Qataadah's report about Sa'd bin Muaadh's death."
+ },
+ {
+  "id": "n03516",
+  "summary": "Jaabir reports that when his father died he uncovered his face and wept, and the Prophet remarked that the angels would keep shading his father with their wings until the body was carried.",
+  "people": [
+   { "id": "jaabir-bin-abdillaah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "weeping-and-grief", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The Prophet's words end without a closing quotation mark or the rest of the sentence ('until you carry the body')."
+ },
+ {
+  "id": "n03517",
+  "summary": "Salamah bin Aslam says the room where Sa'd bin Muaadh's body lay was full of angels, and other reports say seventy thousand angels attended his funeral while hypocrites mocked how light the bier was.",
+  "people": [
+   { "id": null, "name": "Salamah bin Aslam", "role": "subject", "sahabi": "yes" },
+   { "id": "sad-bin-muaadh", "role": "subject" },
+   { "id": "abdullaah-bin-umar", "role": "narrator" },
+   { "id": null, "name": "Sa'd bin Ibraheem", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "the-unseen", "virtues-of-the-sahabah", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports joined: Salamah bin Aslam's, Abdullaah bin Umar's, and Sa'd bin Ibraheem's. The text does not give Sa'd bin Ibraheem's full name, so he is not matched to sad-bin-ibraheem-bin-abdur-rahmaan-bin-auf."
+ },
+ {
+  "id": "n03518",
+  "summary": "Hasan reports that hypocrites mocked how light Sa'd bin Mu'aadh's bier was, and the Prophet said it was light because angels were carrying it.",
+  "people": [
+   { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "sad-bin-muaadh", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["death-and-burial", "the-unseen", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is given only as 'Hasan'. This may be Hasan al-Basri (hasan-bin-abil-hasan) or Hasan bin Ali, so it is not matched to an id."
+ },
+ {
+  "id": "n03519",
+  "summary": "Mu'aawiya bin Hayda reports that after the Prophet had prayed for drought or fear to be sent on his people, the drought kept uprooting him and fear of the Muslims filled his heart, so he came to accept Islaam.",
+  "people": [
+   { "id": "muaawiya-bin-haydah", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["accepting-islaam", "duaa", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n03520",
+  "summary": "Saa'ib bin Yasaar reports that he asked Yazeed bin Aamir Suwaa'ee, who had fought with the Mushrikeen at Hunayn, to describe the fear Allaah cast into their hearts, and Yazeed imitated it by rattling pebbles on a platter.",
+  "people": [
+   { "id": null, "name": "Saa'ib bin Yasaar", "role": "narrator", "sahabi": "no" },
+   { "id": null, "name": "Yazeed bin Aamir Suwaa'ee", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "absent",
+  "themes": ["jihaad", "miracles-and-blessings"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text marks Yazeed with (RA) but says he fought on the Mushrikeen side at Hunayn; his Companion status should be checked."
+ }
+]

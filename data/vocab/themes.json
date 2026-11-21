@@ -1,0 +1,1060 @@
+[
+ {
+  "id": "dawah",
+  "name": "Da'wah",
+  "group": "Da'wah",
+  "aka": [
+   "dawah",
+   "da'wah",
+   "conveying islaam to others",
+   "da'wah to individuals",
+   "dawah to non-muslims"
+  ]
+ },
+ {
+  "id": "dawah-to-family",
+  "name": "Da'wah to family",
+  "group": "Da'wah",
+  "aka": [
+   "dawah to family",
+   "da'wah to family",
+   "da'wah to relatives"
+  ]
+ },
+ {
+  "id": "steadfastness",
+  "name": "Steadfastness in the Deen",
+  "group": "Da'wah",
+  "aka": [
+   "steadfastness in dawah",
+   "determination in the deen",
+   "patience in dawah",
+   "fighting for the deen",
+   "speaking kufr under compulsion",
+   "courage in speaking the truth",
+   "standing for the truth"
+  ]
+ },
+ {
+  "id": "secret-dawah",
+  "name": "Secret da'wah in Makkah",
+  "group": "Da'wah",
+  "aka": [
+   "secrecy in dawah",
+   "secret da'wah"
+  ]
+ },
+ {
+  "id": "dawah-before-battle",
+  "name": "Inviting to Islaam before battle",
+  "group": "Da'wah",
+  "aka": [
+   "conveying islaam before battle"
+  ]
+ },
+ {
+  "id": "dawah-at-hajj",
+  "name": "Da'wah in the Hajj season",
+  "group": "Da'wah",
+  "aka": [
+   "da'wah at hajj"
+  ]
+ },
+ {
+  "id": "prophets-concern",
+  "name": "The Prophet's concern for mankind",
+  "group": "Da'wah",
+  "aka": [
+   "concern for mankind to accept imaan",
+   "rasulullaah's grief at their rejection"
+  ]
+ },
+ {
+  "id": "spread-of-islaam",
+  "name": "The spread of Islaam",
+  "group": "Da'wah",
+  "aka": [
+   "spread of islaam",
+   "honour through islaam",
+   "disgrace of kufr",
+   "strengthening islaam",
+   "peace and safety through islaam",
+   "safety brought by islaam"
+  ]
+ },
+ {
+  "id": "accepting-islaam",
+  "name": "Accepting Islaam",
+  "group": "Imaan",
+  "aka": [
+   "accepting islaam",
+   "early converts to islaam",
+   "the early muslims",
+   "early muslims",
+   "early muslims of madinah",
+   "regret over delaying islaam",
+   "conditional acceptance of islaam"
+  ]
+ },
+ {
+  "id": "kalimah",
+  "name": "The Kalimah",
+  "group": "Imaan",
+  "aka": [
+   "laa ilaaha illallaah",
+   "kalimah",
+   "kalimah at the time of death",
+   "dying as a muslim"
+  ]
+ },
+ {
+  "id": "tawheed",
+  "name": "Tawheed",
+  "group": "Imaan",
+  "aka": [
+   "tawheed",
+   "worship without correct belief",
+   "reality of imaan",
+   "renewing imaan",
+   "belief over what the eyes see",
+   "ending pre-islamic rituals",
+   "strength of imaan",
+   "abolition of pre-islamic rituals",
+   "faith of later generations"
+  ]
+ },
+ {
+  "id": "guidance",
+  "name": "Guidance is from Allaah",
+  "group": "Imaan",
+  "aka": [
+   "guidance is in allaah's hands",
+   "destiny of guidance and misguidance",
+   "testing by allaah",
+   "seeking forgiveness for the mushrikeen"
+  ]
+ },
+ {
+  "id": "quraan",
+  "name": "The Qur'aan",
+  "group": "Imaan",
+  "aka": [
+   "the qur'aan",
+   "the qur'aan as a proof",
+   "the qur'aan's effect on listeners",
+   "recitation of the quran"
+  ]
+ },
+ {
+  "id": "prophethood",
+  "name": "Prophethood",
+  "group": "Imaan",
+  "aka": [
+   "prophethood (nubuwwah)",
+   "prophecy in earlier books",
+   "prophecies of the prophet",
+   "demands for miracles",
+   "false claimants to prophethood",
+   "foretold conquests"
+  ]
+ },
+ {
+  "id": "aakhirah",
+  "name": "The Aakhirah",
+  "group": "Imaan",
+  "aka": [
+   "aakhirah and accountability",
+   "accountability on the day of qiyaamah",
+   "qiyaamah",
+   "fear of jahannam",
+   "saved from jahannam",
+   "those who die outside islaam",
+   "warning of punishment",
+   "signs of qiyaamah",
+   "signs of the last hour",
+   "intercession",
+   "shafaa'ah",
+   "seeking intercession",
+   "recompense for actions",
+   "signs of the last day"
+  ]
+ },
+ {
+  "id": "mercy-and-forgiveness",
+  "name": "Allaah's mercy and forgiveness",
+  "group": "Character",
+  "aka": [
+   "allaah's forgiveness",
+   "hope in allaah's mercy",
+   "repentance",
+   "major sins",
+   "repentance (taubah)",
+   "repentance (tawbah)"
+  ]
+ },
+ {
+  "id": "kindness",
+  "name": "Kindness and compassion",
+  "group": "Character",
+  "aka": [
+   "kindness of the prophet",
+   "generosity of the prophet",
+   "compassion for non-muslims",
+   "mercy towards apostates",
+   "honouring the poor",
+   "mercy to children"
+  ]
+ },
+ {
+  "id": "family",
+  "name": "Parents and family",
+  "group": "Character",
+  "aka": [
+   "family ties",
+   "respect for parents",
+   "respect for elders",
+   "inheritance",
+   "honouring orphans",
+   "honouring parents after their death",
+   "inheritance of a kalaalah",
+   "ghayrah (jealousy for honour)",
+   "conjugal rights",
+   "equal treatment of children",
+   "widow's remarriage",
+   "maintaining old ties",
+   "possessiveness (ghayrah)"
+  ]
+ },
+ {
+  "id": "sacrifice",
+  "name": "Sacrifice for Islaam",
+  "group": "Character",
+  "aka": [
+   "sacrifice for islaam",
+   "sufferings of the sahabah for deen",
+   "accepting islaam despite family opposition",
+   "disassociation from kin who oppose islaam"
+  ]
+ },
+ {
+  "id": "honest-dealings",
+  "name": "Honesty in dealings",
+  "group": "Character",
+  "aka": [
+   "returning property taken from people",
+   "leniency in buying and selling",
+   "respecting the rights of people",
+   "avoiding oaths",
+   "repaying debts",
+   "debt"
+  ]
+ },
+ {
+  "id": "brotherhood",
+  "name": "Brotherhood",
+  "group": "Character",
+  "aka": [
+   "brotherhood between muslims",
+   "unity of the muslims",
+   "tribal rivalry",
+   "unity of the ummah",
+   "reconciliation between the sahabah",
+   "unity of the ummah after the prophet's death",
+   "reconciliation between muslims",
+   "company of the righteous",
+   "the value of a tribe",
+   "loving for the sake of allaah",
+   "reconciling between people"
+  ]
+ },
+ {
+  "id": "youth",
+  "name": "Youth",
+  "group": "Character",
+  "aka": [
+   "youth in islaam"
+  ]
+ },
+ {
+  "id": "virtues-of-the-sahabah",
+  "name": "Virtues of the Sahabah",
+  "group": "Character",
+  "aka": [
+   "virtues of abu bakr",
+   "virtues of hadhrat ali",
+   "virtues of umar",
+   "love for allaah and his rasool",
+   "virtues of the taabi'een",
+   "precedence of the ansaar in worldly favours"
+  ]
+ },
+ {
+  "id": "salaah",
+  "name": "Salaah",
+  "group": "Worship",
+  "aka": [
+   "salaah",
+   "rows in salaah",
+   "leading the salaah",
+   "congregational salaah",
+   "imaamat",
+   "adhaan",
+   "waiting for salaah",
+   "straightening the rows"
+  ]
+ },
+ {
+  "id": "duaa",
+  "name": "Du'aa",
+  "group": "Worship",
+  "aka": [
+   "du'aa",
+   "dua for guidance",
+   "seeking protection from harm",
+   "the virtue of a particular du'aa",
+   "sighting the new moon",
+   "weather and storms"
+  ]
+ },
+ {
+  "id": "sadaqah",
+  "name": "Sadaqah",
+  "group": "Worship",
+  "aka": [
+   "sadaqah",
+   "giving sadaqah",
+   "sacrificial meat (udhiyah)",
+   "udhiyah",
+   "qurbani"
+  ]
+ },
+ {
+  "id": "visiting-the-sick",
+  "name": "Visiting the sick",
+  "group": "Worship",
+  "aka": [
+   "visiting the sick",
+   "visiting the graves"
+  ]
+ },
+ {
+  "id": "seeking-knowledge",
+  "name": "Seeking knowledge",
+  "group": "Worship",
+  "aka": [
+   "seeking knowledge from the prophet",
+   "learning foreign languages",
+   "admitting ignorance",
+   "asking questions",
+   "speculation on hypothetical cases",
+   "verifying a hadith",
+   "verifying a hadith by witnesses",
+   "remuneration for teaching the qur'aan",
+   "caution in narrating hadith",
+   "the lifting of knowledge",
+   "acting on knowledge",
+   "narrating hadith by meaning",
+   "ijtihaad",
+   "caution in issuing fataawaa",
+   "who issued fataawaa",
+   "avoiding speculative questions",
+   "fatwa"
+  ]
+ },
+ {
+  "id": "opposition",
+  "name": "Opposition from the Quraysh",
+  "group": "Opposition",
+  "aka": [
+   "opposition from the quraysh",
+   "opposition to islaam",
+   "quraysh hostility to islaam",
+   "mockery of the message",
+   "accusation of magic",
+   "accusations of madness against the prophet",
+   "offers of wealth and leadership to the prophet",
+   "compromise offered to the prophet",
+   "pride and rejecting the truth",
+   "rejection of the truth",
+   "knowing the truth but refusing",
+   "tribal pride preventing islaam",
+   "fear of ridicule",
+   "suicide"
+  ]
+ },
+ {
+  "id": "apostasy",
+  "name": "Apostasy",
+  "group": "Opposition",
+  "aka": [
+   "apostasy",
+   "calling apostates back to islaam",
+   "repeated apostasy"
+  ]
+ },
+ {
+  "id": "hijrah",
+  "name": "Hijrah",
+  "group": "History",
+  "aka": [
+   "hijrah to madinah"
+  ]
+ },
+ {
+  "id": "hudaybiyyah",
+  "name": "Treaty of Hudaybiyyah",
+  "group": "History",
+  "aka": [
+   "peace treaty"
+  ]
+ },
+ {
+  "id": "jihaad",
+  "name": "Jihaad",
+  "group": "History",
+  "aka": [
+   "jihaad",
+   "prisoners of war",
+   "protecting the prophet",
+   "guarding the borders",
+   "battle strategy",
+   "rules of warfare",
+   "fleeing from battle",
+   "betrayal of envoys sent to teach",
+   "rumour of the prophet's death at uhud",
+   "banishment of the jews from madinah",
+   "treatment of prisoners of war",
+   "alliance with non-muslims"
+  ]
+ },
+ {
+  "id": "ahl-us-suffa",
+  "name": "Ahl us-Suffa",
+  "group": "History",
+  "aka": [
+   "ahl us-suffa"
+  ]
+ },
+ {
+  "id": "bayah",
+  "name": "Pledge of allegiance (Bay'ah)",
+  "group": "History",
+  "aka": [
+   "pledge of allegiance",
+   "bay'ah"
+  ]
+ },
+ {
+  "id": "conquest-of-makkah",
+  "name": "Conquest of Makkah",
+  "group": "History",
+  "aka": [
+   "conquest of makkah"
+  ]
+ },
+ {
+  "id": "delegations",
+  "name": "Delegations and treaties",
+  "group": "History",
+  "aka": [
+   "delegations to the prophet",
+   "treaty of najraan"
+  ]
+ },
+ {
+  "id": "khilaafah",
+  "name": "Khilaafah and leadership",
+  "group": "History",
+  "aka": [
+   "caliphate",
+   "khilaafah",
+   "leadership",
+   "succession to the khilaafah",
+   "support for the khalifah's decision",
+   "accountability of the ruler",
+   "appointing a commander",
+   "accountability for leadership",
+   "simplicity of rulers",
+   "obedience to the ameer",
+   "flattering rulers (hypocrisy)",
+   "public property",
+   "a leader's accountability for the poor",
+   "humility in leadership",
+   "qualities required in a leader",
+   "qualities of a leader",
+   "appointing governors and officials",
+   "refusing a post of command",
+   "fear of responsibility in office",
+   "knowledge of the quraan qualifies a leader",
+   "khalifah's allowance from the treasury",
+   "status of the quraysh"
+  ]
+ },
+ {
+  "id": "self-reliance",
+  "name": "Not asking from people",
+  "group": "Character",
+  "aka": [
+   "self-reliance"
+  ]
+ },
+ {
+  "id": "marriage",
+  "name": "Marriage",
+  "group": "Character",
+  "aka": [
+   "marriage",
+   "dowry",
+   "mahr"
+  ]
+ },
+ {
+  "id": "fasting",
+  "name": "Fasting",
+  "group": "Worship",
+  "aka": [
+   "fasting",
+   "fasting in ramadhaan"
+  ]
+ },
+ {
+  "id": "zakaah",
+  "name": "Zakaah",
+  "group": "Worship",
+  "aka": [
+   "zakaah",
+   "zakaah collection"
+  ]
+ },
+ {
+  "id": "halaal-and-haraam",
+  "name": "Halaal and haraam",
+  "group": "Worship",
+  "aka": [
+   "prohibited drink vessels"
+  ]
+ },
+ {
+  "id": "following-the-sunnah",
+  "name": "Obedience and following the Sunnah",
+  "group": "Imaan",
+  "aka": [
+   "obedience to the prophet",
+   "the beard and moustache",
+   "innovation in the deen",
+   "bid'ah",
+   "rejecting bidah",
+   "personal opinion versus the sunnah",
+   "innovation in the deen (bid'ah)"
+  ]
+ },
+ {
+  "id": "love-for-the-prophet",
+  "name": "Love for the Prophet ﷺ",
+  "group": "Imaan",
+  "aka": [
+   "love for the prophet",
+   "seeking blessings from the prophet's remains",
+   "kissing the prophet's body",
+   "love for the prophet's household (ahl al-bayt)",
+   "ahl al-bayt",
+   "serving the prophet",
+   "respect for the prophet's places",
+   "service to the prophet"
+  ]
+ },
+ {
+  "id": "hunger-and-hardship",
+  "name": "Hunger and hardship",
+  "group": "Character",
+  "aka": [
+   "enduring hunger"
+  ]
+ },
+ {
+  "id": "consultation",
+  "name": "Consultation (Shura)",
+  "group": "History",
+  "aka": [
+   "consultation (shura)",
+   "consultation with the sahabah"
+  ]
+ },
+ {
+  "id": "sincerity",
+  "name": "Sincerity of intention",
+  "group": "Imaan",
+  "aka": [
+   "sincerity of intention",
+   "sincerity in deeds",
+   "sincerity of intention (niyyah)"
+  ]
+ },
+ {
+  "id": "hypocrisy",
+  "name": "Hypocrisy (Nifaaq)",
+  "group": "Opposition",
+  "aka": [
+   "hypocrisy (nifaaq)",
+   "hypocrisy"
+  ]
+ },
+ {
+  "id": "dhikr",
+  "name": "Dhikr",
+  "group": "Worship",
+  "aka": [
+   "dhikr",
+   "reciting before sleep"
+  ]
+ },
+ {
+  "id": "martyrdom",
+  "name": "Martyrdom",
+  "group": "History",
+  "aka": [
+   "martyrdom",
+   "desire for martyrdom",
+   "protection of martyrs' bodies",
+   "martyrdom of umar"
+  ]
+ },
+ {
+  "id": "hospitality",
+  "name": "Hospitality",
+  "group": "Character",
+  "aka": [
+   "hospitality"
+  ]
+ },
+ {
+  "id": "prophets-final-illness",
+  "name": "The Prophet's final illness and death",
+  "group": "History",
+  "aka": [
+   "the prophet's final illness and death"
+  ]
+ },
+ {
+  "id": "justice",
+  "name": "Justice",
+  "group": "Character",
+  "aka": [
+   "justice",
+   "rights of non-muslim subjects",
+   "judging between people",
+   "equality before the law",
+   "property rights",
+   "judging people by their good deeds",
+   "justice in punishment",
+   "value of a muslim life",
+   "equality among people",
+   "stoning for adultery",
+   "hudood",
+   "refusing preferential treatment",
+   "value of a muslim's life",
+   "judging people by outward appearance"
+  ]
+ },
+ {
+  "id": "women-and-children-in-jihaad",
+  "name": "Women and children in Jihaad",
+  "group": "History",
+  "aka": [
+   "women in jihaad",
+   "children in jihaad"
+  ]
+ },
+ {
+  "id": "fear-of-allaah",
+  "name": "Fear of Allaah",
+  "group": "Imaan",
+  "aka": [
+   "fear of allaah"
+  ]
+ },
+ {
+  "id": "the-slander",
+  "name": "The slander against Aa'isha (Ifk)",
+  "group": "History",
+  "aka": [
+   "the slander against aa'isha"
+  ]
+ },
+ {
+  "id": "patience",
+  "name": "Patience",
+  "group": "Character",
+  "aka": [
+   "patience",
+   "patience in plague",
+   "patience in illness",
+   "patience with rudeness",
+   "patience in hardship",
+   "reward for suffering",
+   "plague",
+   "controlling anger",
+   "plague of amwas"
+  ]
+ },
+ {
+  "id": "zuhd",
+  "name": "Abstinence from the world (Zuhd)",
+  "group": "Character",
+  "aka": [
+   "abstinence from worldly luxury",
+   "fear of worldliness",
+   "avoiding extravagance",
+   "refusing gifts",
+   "worldly preoccupation",
+   "simplicity",
+   "zuhd",
+   "detachment from wealth",
+   "fear of worldly prosperity",
+   "simplicity of life",
+   "avoiding worldly excess",
+   "contentment",
+   "keeping to oneself"
+  ]
+ },
+ {
+  "id": "freeing-slaves",
+  "name": "Freeing slaves",
+  "group": "Character",
+  "aka": [
+   "freeing slaves"
+  ]
+ },
+ {
+  "id": "selflessness",
+  "name": "Preferring others above oneself",
+  "group": "Character",
+  "aka": [
+   "preferring others above oneself",
+   "ithaar"
+  ]
+ },
+ {
+  "id": "trust-in-allaah",
+  "name": "Trust in Allaah (Tawakkul)",
+  "group": "Imaan",
+  "aka": [
+   "trust in allaah",
+   "reliance on allaah rather than numbers",
+   "sustenance from allaah",
+   "tawakkul",
+   "trust in allaah's provision",
+   "good opinion of allah",
+   "contentment with allaah's decision",
+   "victory by allaah's help, not numbers",
+   "conviction in allaah's promises",
+   "provision and sustenance",
+   "sustenance"
+  ]
+ },
+ {
+  "id": "taqwa",
+  "name": "Taqwa",
+  "group": "Imaan",
+  "aka": [
+   "taqwa",
+   "resisting evil thoughts",
+   "meditation and reflection",
+   "self-accountability",
+   "contemplation"
+  ]
+ },
+ {
+  "id": "miracles-and-blessings",
+  "name": "Miracles and blessings",
+  "group": "Imaan",
+  "aka": [
+   "food multiplied by blessing",
+   "seeking blessings from the prophet's belongings",
+   "barakah",
+   "sustenance from unseen sources",
+   "wealth from unseen sources",
+   "blessing in wealth",
+   "protection from heat and cold",
+   "protection from poison",
+   "unseen assistance",
+   "reversal of old age"
+  ]
+ },
+ {
+  "id": "modesty",
+  "name": "Modesty and hijaab",
+  "group": "Character",
+  "aka": [
+   "modesty and hijaab",
+   "modesty"
+  ]
+ },
+ {
+  "id": "death-and-burial",
+  "name": "Death and burial",
+  "group": "Worship",
+  "aka": [
+   "burial",
+   "death and dying",
+   "regrets at the time of death",
+   "grief at the death of a companion"
+  ]
+ },
+ {
+  "id": "humility",
+  "name": "Humility",
+  "group": "Character",
+  "aka": [
+   "humility",
+   "avoiding self-humiliation",
+   "accepting the truth whoever brings it"
+  ]
+ },
+ {
+  "id": "good-character",
+  "name": "Speech and good relations",
+  "group": "Character",
+  "aka": [
+   "backbiting",
+   "spying on muslims",
+   "concealing the faults of muslims",
+   "hating the sin not the sinner",
+   "freedom from envy",
+   "cordiality towards people",
+   "rejoicing in others' good",
+   "guarding the tongue",
+   "careful speech",
+   "consistency in good deeds",
+   "balance in worship",
+   "praising others and its limits",
+   "poetry"
+  ]
+ },
+ {
+  "id": "muslim-rights",
+  "name": "Rights and manners between Muslims",
+  "group": "Character",
+  "aka": [
+   "kissing a fellow muslim",
+   "greeting with salaam",
+   "seeking permission to enter",
+   "not frightening a muslim",
+   "not belittling a muslim",
+   "not cursing a muslim",
+   "honouring a fellow muslim",
+   "rights of a fellow muslim",
+   "shaking hands and embracing",
+   "keeping a confidence",
+   "respecting scholars and elders",
+   "manners and etiquette",
+   "honouring one's father's friends",
+   "rights of the neighbour",
+   "attending to people's needs",
+   "respect for scholars",
+   "respect for elders",
+   "rights of neighbours"
+  ]
+ },
+ {
+  "id": "avoiding-fitnah",
+  "name": "Avoiding fighting and division among Muslims",
+  "group": "History",
+  "aka": [
+   "refraining from fighting muslims",
+   "refraining from fighting fellow muslims",
+   "sanctity of a muslim's life",
+   "internal conflict between muslims",
+   "avoiding fitnah",
+   "reviling ali",
+   "reviling the companions",
+   "fighting the khawaarij"
+  ]
+ },
+ {
+  "id": "prophets-character",
+  "name": "The character of the Prophet ﷺ",
+  "group": "Character",
+  "aka": [
+   "character of the prophet",
+   "humour of the prophet",
+   "the prophet's smile",
+   "the prophet's noble character",
+   "the prophet's clear speech",
+   "humour"
+  ]
+ },
+ {
+  "id": "generosity",
+  "name": "Generosity",
+  "group": "Character",
+  "aka": [
+   "generosity"
+  ]
+ },
+ {
+  "id": "gratitude",
+  "name": "Gratitude to Allaah (Shukr)",
+  "group": "Imaan",
+  "aka": [
+   "gratitude to allaah",
+   "shukr",
+   "gratitude"
+  ]
+ },
+ {
+  "id": "weeping-and-grief",
+  "name": "Weeping and grief",
+  "group": "Character",
+  "aka": [
+   "grief and tears",
+   "wailing over the dead",
+   "weeping",
+   "grief and mourning"
+  ]
+ },
+ {
+  "id": "enjoining-good",
+  "name": "Enjoining good and forbidding evil",
+  "group": "Da'wah",
+  "aka": [
+   "enjoining good and forbidding evil",
+   "amr bil ma'roof"
+  ]
+ },
+ {
+  "id": "exertion-in-worship",
+  "name": "Exertion in worship",
+  "group": "Worship",
+  "aka": [
+   "exertion in worship",
+   "eagerness for reward",
+   "worship",
+   "moderation in worship",
+   "laylatul qadr",
+   "reward of good deeds"
+  ]
+ },
+ {
+  "id": "courage",
+  "name": "Courage",
+  "group": "Character",
+  "aka": [
+   "courage",
+   "bravery"
+  ]
+ },
+ {
+  "id": "qadr",
+  "name": "Predestination (Qadr)",
+  "group": "Imaan",
+  "aka": [
+   "predestination (qadr)",
+   "predestination",
+   "qadr"
+  ]
+ },
+ {
+  "id": "clothing",
+  "name": "Clothing and dress",
+  "group": "Worship",
+  "aka": [
+   "clothing and dress",
+   "clothing",
+   "moderation in dress"
+  ]
+ },
+ {
+  "id": "eating-and-drinking",
+  "name": "Eating and drinking",
+  "group": "Worship",
+  "aka": [
+   "etiquette of eating and drinking",
+   "moderation in eating and drinking",
+   "moderation in eating",
+   "etiquette of eating",
+   "food and drink of the prophet"
+  ]
+ },
+ {
+  "id": "slaves-and-servants",
+  "name": "Treatment of slaves and servants",
+  "group": "Character",
+  "aka": [
+   "treatment of slaves and servants"
+  ]
+ },
+ {
+  "id": "the-unseen",
+  "name": "Angels and the unseen",
+  "group": "Imaan",
+  "aka": [
+   "angels",
+   "the unseen",
+   "jinn",
+   "dreams",
+   "fortune-telling",
+   "soothsayers",
+   "fortune-telling and astrology"
+  ]
+ },
+ {
+  "id": "illness-and-cure",
+  "name": "Illness and cure",
+  "group": "Worship",
+  "aka": [
+   "illness and cure",
+   "illness"
+  ]
+ },
+ {
+  "id": "masjid",
+  "name": "The Masjid",
+  "group": "Worship",
+  "aka": [
+   "masjid construction",
+   "masjid cleanliness",
+   "walking to the masjid",
+   "uses of the masjid",
+   "sleeping in the masjid",
+   "the masjid",
+   "manners in the masjid"
+  ]
+ },
+ {
+  "id": "nafl-salaah",
+  "name": "Voluntary salaah (Tahajjud, Witr, Duha)",
+  "group": "Worship",
+  "aka": [
+   "sunnah salaahs",
+   "tahajjud",
+   "witr",
+   "salaatud duha",
+   "nawaafil between maghrib and isha",
+   "nawaafil between zuhr and asr",
+   "nafl salaah",
+   "nawaafil"
+  ]
+ },
+ {
+  "id": "hajj",
+  "name": "Hajj and Umrah",
+  "group": "Worship",
+  "aka": [
+   "hajj",
+   "umrah",
+   "hajj and umrah",
+   "talbiya"
+  ]
+ },
+ {
+  "id": "travel",
+  "name": "Travel",
+  "group": "Worship",
+  "aka": [
+   "travel",
+   "journeys",
+   "du'aa when travelling"
+  ]
+ }
+]

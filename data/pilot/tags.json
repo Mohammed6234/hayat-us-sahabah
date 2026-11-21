@@ -1,0 +1,1524 @@
+{
+ "n00001": {
+  "summary": "Ibn Abbaas reports that the Prophet was deeply concerned for all of mankind to accept imaan, and Allaah revealed that guidance and misguidance are already destined and that forcing faith would defeat the purpose of the test.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "prophets-concern",
+   "guidance"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00002": {
+  "summary": "As Abu Taalib was dying, Abu Jahal and the Quraysh asked him to stop his nephew from preaching; the Prophet asked only for the single statement Laa Ilaaha Illallaah, which they rejected with mockery.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "kalimah",
+   "opposition",
+   "dawah-to-family"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00003": {
+  "summary": "Quraysh leaders offered Abu Taalib a compromise, but when the Prophet asked only for Laa Ilaaha Illallaah they mocked it and left, and Abu Taalib died without saying it, fearing the Quraysh's reproach.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "shayba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "umayyah-bin-khalaf",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "kalimah",
+   "opposition",
+   "dawah-to-family"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00004": {
+  "summary": "Sa'eed bin Musayyab reports that while Abu Taalib was dying, Abu Jahal and Abdullaah bin Abi Umayyah persuaded him to stay on his forefathers' religion, and Allaah revealed verses forbidding seeking forgiveness for the mushrikeen and stating that guidance is not in the Prophet's hands.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "saeed-bin-musayyab",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abi-umayyah",
+    "role": "subject"
+   },
+   {
+    "id": "abdul-muttalib",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "kalimah",
+   "guidance",
+   "opposition"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00005": {
+  "summary": "Another report says the Prophet kept offering the kalimah to Abu Taalib while Abu Jahal and Abdullaah bin Abi Umaayyah repeated their objections, and Abu Taalib died without saying it; the seeking-forgiveness verses followed.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abi-umayyah",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "kalimah",
+   "dawah-to-family",
+   "guidance"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00006": {
+  "summary": "Abu Hurayrah reports that the Prophet asked his dying uncle Abu Taalib to say Laa Ilaaha Illallaah, but Abu Taalib refused for fear of Quraysh ridicule, and Allaah revealed that guidance is not in the Prophet's power.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "kalimah",
+   "guidance",
+   "dawah-to-family",
+   "opposition"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00007": {
+  "summary": "Aqeel bin Abi Taalib reports that Abu Taalib asked the Prophet to stop saying things that hurt the Quraysh, and the Prophet replied that he could not stop doing what he had been sent to do.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "aqeel-bin-abi-taalib",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "steadfastness",
+   "opposition",
+   "dawah-to-family"
+  ],
+  "events": [],
+  "places": [
+   "Kabah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00008": {
+  "summary": "Abu Taalib asks the Prophet to stop telling the people things they dislike, and the Prophet refuses even if the sun and moon were placed in his hands. Jaabir bin Abdillaah then reports how Utba bin Rabee'ah, sent to bargain with the Prophet, was overwhelmed by the Qur'aan recited to him and later swore never to speak to him again after Abu Jahal's taunts.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "narrator"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "abdul-muttalib",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "steadfastness",
+   "opposition",
+   "quraan"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00009": {
+  "summary": "Abdullaah bin Umar reports that when some Quraysh gathered in the Masjidul Haraam to discuss the Prophet, Utba bin Rabee'ah went to speak with him and offered wealth, honour and leadership; after the Prophet recited Surah Sajdah, Utba was so moved that he told the Quraysh to leave the Prophet alone, and they accused him of abandoning his religion.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "opposition",
+   "quraan"
+  ],
+  "events": [],
+  "places": [
+   "Masjidul Haraam",
+   "Makkah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00010": {
+  "summary": "Miswar bin Makhrama and Marwaan report that at Hudaybiyyah, Budayl bin Waraqa warned that the Aamir and Ka'b tribes were ready to fight to block the Muslims from the Kabah; the Prophet said he came only for Umrah, offered a treaty, and vowed to fight for the Deen if the Quraysh refused.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "miswar-bin-makhrama",
+    "role": "narrator"
+   },
+   {
+    "id": "marwaan",
+    "role": "narrator"
+   },
+   {
+    "id": "budayl-bin-waraqa",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "jihaad",
+   "hudaybiyyah",
+   "dawah",
+   "steadfastness"
+  ],
+  "events": [
+   "Treaty of Hudaybiyyah"
+  ],
+  "places": [
+   "Hudaybiyyah",
+   "Tihaamah",
+   "Kabah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00011": {
+  "summary": "Through Tabraani's report, the Prophet vows that he will fight the Quraysh for the Deen until he wins or is killed if they refuse Islaam and keep waging war.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "miswar-bin-makhrama",
+    "role": "narrator"
+   },
+   {
+    "id": "marwaan",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "steadfastness",
+   "opposition"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00012": {
+  "summary": "During the Battle of Khaybar the Prophet gives the flag to Ali after curing his eye, and tells him to first invite the enemy to Islaam before fighting.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "sahal-bin-sad",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "dawah-before-battle",
+   "virtues-of-the-sahabah"
+  ],
+  "events": [
+   "Battle of Khaybar"
+  ],
+  "places": [
+   "Khaybar"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00013": {
+  "summary": "Miqdaad takes the captive Hakam bin Kaysaan to the Prophet, who patiently invites him to Islaam until he accepts, despite Umar urging his execution.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "miqdaad-bin-amr",
+    "role": "subject"
+   },
+   {
+    "id": "hakam-bin-kaysaan",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "steadfastness",
+   "accepting-islaam",
+   "jihaad"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00014": {
+  "summary": "Wahshi, who killed Hamza, asks whether repentance can forgive his grave sins, and Allaah reveals verses promising forgiveness, so he accepts Islaam; the Prophet confirms the verses apply to all Muslims.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "wahshi-bin-harb",
+    "role": "subject"
+   },
+   {
+    "id": "hamza",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "accepting-islaam",
+   "mercy-and-forgiveness"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00015": {
+  "summary": "Some Mushrikeen who had committed murder and adultery ask the Prophet whether there is expiation for their sins, and Allaah reveals verses offering hope of forgiveness.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "mercy-and-forgiveness"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00016": {
+  "summary": "Tarneem Daari reports the Prophet's saying that this Deen will reach every home, bringing honour to Islaam and its people and disgrace to kufr, which he saw in his own family.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "tameem-daari",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "spread-of-islaam",
+   "dawah"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00017": {
+  "summary": "Umar prefers to win back Muslims who turned apostate, asks that they be given a chance to repent rather than executed, and tells his governors to invite apostates to Islaam again before any punishment.",
+  "prophet": "absent",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdur-rahmaan-al-qaari",
+    "role": "narrator"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "apostasy",
+   "kindness"
+  ],
+  "events": [
+   "Conquest of Tustar"
+  ],
+  "places": [
+   "Tustar"
+  ],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00018": {
+  "summary": "Umar weeps on seeing a Christian monk's exhausting worship, because such striving without belief in Islaam still leads to the Fire, as Surah Ghaashiya describes.",
+  "prophet": "absent",
+  "people": [
+   {
+    "id": "abu-imraan-jowni",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "kindness",
+   "aakhirah",
+   "tawheed"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00019": {
+  "summary": "Abu Bakr accepts Islaam immediately on the Prophet's invitation and then brings several leading Companions to Islaam, and the narration ends with commentary defending his immediate acceptance against a doubt raised in Ibn Is'haaq's report.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "aaisha",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "ibn-ishaaq",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "talha",
+    "role": "mentioned"
+   },
+   {
+    "id": "zubayr",
+    "role": "mentioned"
+   },
+   {
+    "id": "sad-bin-abi-waqqaas",
+    "role": "mentioned"
+   },
+   {
+    "id": "uthmaan-bin-madhoon",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-salma",
+    "role": "mentioned"
+   },
+   {
+    "id": "arqam",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "virtues-of-the-sahabah"
+  ],
+  "events": [],
+  "places": [
+   "Makkah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00020": {
+  "summary": "The Prophet prays that Islaam be strengthened through either Umar bin Khattaab or Abu Jahal bin Hishaam, and Allaah answers by choosing Umar.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "duaa",
+   "spread-of-islaam",
+   "virtues-of-the-sahabah"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00021": {
+  "summary": "Umar goes to the Prophet after leaving his sister's house and accepts Islaam on the spot once the Prophet holds him and tells him what he calls to, while the author defers the account of his sister's and brother-in-law's suffering to a later chapter.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "thowbaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "faatima",
+    "role": "mentioned"
+   },
+   {
+    "id": "saeed-bin-zaid",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "sacrifice"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00022": {
+  "summary": "Umar recounts that the Prophet took hold of his collar at a house near Safa, asked him to accept Islaam and prayed for his guidance, and that Umar testified there and then, so that the Muslims present shouted Allaahu Akbar loudly enough to be heard in the streets of Makkah.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "aslam",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "duaa"
+  ],
+  "events": [],
+  "places": [
+   "Safa",
+   "Makkah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00023": {
+  "summary": "Uthmaan recounts that, while visiting his aunt, he questioned the talk about the Prophet's prophethood, and after the Prophet's words and his recitation of Surah Dhaariyaat on sustenance and Qiyaamah, he followed him out and accepted Islaam.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "amr-bin-uthmaan",
+    "role": "narrator"
+   },
+   {
+    "id": "arwa-bint-abdil-muttalib",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "prophethood",
+   "aakhirah",
+   "quraan"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00024": {
+  "summary": "Ali accepts Islaam after the Prophet explains his call to worship Allaah alone and keeps it secret from Abu Taalib, and a second report has Ali recall his father's remark on seeing the Prophet pray in the Valley of Nakhla.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "khadeeja",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "subject"
+   },
+   {
+    "id": "ibn-ishaaq",
+    "role": "narrator"
+   },
+   {
+    "id": "habba-urani",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "secret-dawah",
+   "salaah"
+  ],
+  "events": [],
+  "places": [
+   "Valley of Nakhla"
+  ],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00025": {
+  "summary": "Amr bin Abasa explains to Abu Umaama how he came to Islaam as the fourth person after meeting the Prophet in Makkah while he was in hiding, and then followed him to Madinah.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "amr-bin-abasa",
+    "role": "subject"
+   },
+   {
+    "id": "abu-umaama",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   },
+   {
+    "id": "bilaal",
+    "role": "mentioned"
+   },
+   {
+    "id": "shaddaad-bin-abdillaah",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "hijrah",
+   "seeking-knowledge"
+  ],
+  "events": [
+   "migration to Madinah"
+  ],
+  "places": [
+   "Makkah",
+   "Madinah"
+  ],
+  "boundary": "ends-mid",
+  "reviewed": false
+ },
+ "n00026": {
+  "summary": "Amr bin Abasa recounts the Prophet's message of joining family ties, preserving life, keeping roads safe and breaking idols, and Khaalid bin Sa'eed's father beats and expels him for following the Prophet, then falls ill and says that if he recovers the Prophet's god will never be worshipped in Makkah.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "amr-bin-abasa",
+    "role": "subject"
+   },
+   {
+    "id": "khaalid-bin-saeed",
+    "role": "subject"
+   },
+   {
+    "id": "saeed-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "raafi",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "sacrifice",
+   "dawah",
+   "family"
+  ],
+  "events": [
+   "migration to Abyssinia"
+  ],
+  "places": [
+   "Makkah",
+   "Abyssinia"
+  ],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00027": {
+  "summary": "Dimaad, a healer from the Azd tribe who came to Makkah to cure the Prophet, accepts Islaam after hearing his sermon, and a separate report has Ali return camels taken from Dimaad's people.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "dimaad",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "umayyah-bin-khalaf",
+    "role": "subject"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abdir-rahmaan-adawi",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "opposition",
+   "honest-dealings"
+  ],
+  "events": [],
+  "places": [
+   "Makkah",
+   "Maqaam Ibraheem"
+  ],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00028": {
+  "summary": "Husayn, whom the Quraysh respected, is sent to speak to the Prophet, and after the Prophet asks which gods he calls on in hardship, he accepts Islaam, and his son Imraan kisses his head, hands and feet.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "husayn-father-of-imraan",
+    "role": "subject"
+   },
+   {
+    "id": "imraan-bin-husayn",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "tawheed",
+   "family"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00029": {
+  "summary": "Abu Tameema Hujaymi reports that a man of his tribe came to the Prophet, asked whom he prayed to, accepted Islaam at once, and was advised not to swear oaths, a counsel he kept.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abu-tameema-hujaymi",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "tawheed",
+   "honest-dealings"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00030": {
+  "summary": "Mu'aawiya bin Haydah says he had sworn never to come to the Prophet or accept his religion, but he came, asked what Islaam is, was told that those present must convey it to those absent, and then asked whether this is the Deen and was told it is.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "muaawiya-bin-haydah",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "aakhirah",
+   "brotherhood"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00031": {
+  "summary": "Adi bin Haatim recounts how the Prophet invited him to Islaam, foretold the safety of Heera and the conquest of Kisra's treasures, and how he later saw these prophecies fulfilled.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "adi-bin-haatim",
+    "role": "subject"
+   },
+   {
+    "id": "kisra",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "prophethood",
+   "spread-of-islaam"
+  ],
+  "events": [
+   "Conquest of the treasures of Kisra"
+  ],
+  "places": [
+   "Rome",
+   "Heera",
+   "Kabah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00032": {
+  "summary": "Adi bin Haatim's captured aunt is freed and sent back with help, and when Adi meets the Prophet he accepts Islaam; the Prophet then urges the Companions to give charity even if it is only a date.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "adi-bin-haatim",
+    "role": "subject"
+   },
+   {
+    "id": "kisra",
+    "role": "mentioned"
+   },
+   {
+    "id": "shuba",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "sadaqah",
+   "accepting-islaam",
+   "aakhirah",
+   "kindness"
+  ],
+  "events": [],
+  "places": [
+   "Aqrab",
+   "Heera",
+   "Madinah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00033": {
+  "summary": "Dhi Jowshin Dhababi declines Islaam after Badr, receives provisions from the Prophet, and later regrets not accepting when he hears Makkah is under Muslim control.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "dhul-jowshin",
+    "role": "subject"
+   },
+   {
+    "id": "bilaal",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "kindness"
+  ],
+  "events": [
+   "Battle of Badr"
+  ],
+  "places": [
+   "Ghowr",
+   "Heera",
+   "Kabah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00034": {
+  "summary": "Basheer bin Khasaasiyah accepts Islaam, is renamed Basheer by the Prophet, lives with the people of Suffa, and follows the Prophet to Baqee where the Prophet addresses the dead.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "basheer-bin-khasaasiyah",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "accepting-islaam",
+   "ahl-us-suffa",
+   "sadaqah",
+   "visiting-the-sick",
+   "jihaad"
+  ],
+  "events": [],
+  "places": [
+   "Suffa",
+   "Baqee"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00035": {
+  "summary": "Two reports are joined: a man of the Baladawiyyah tribe recounts meeting the Prophet on the road to Madinah, accepting Islaam and being taught leniency in trade and respect for people's rights; then Anas reports the Prophet inviting his maternal uncle from Banu Najjaar to Islaam.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "honest-dealings",
+   "dawah-to-family"
+  ],
+  "events": [],
+  "places": [
+   "Madinah"
+  ],
+  "boundary": "merged",
+  "reviewed": false
+ },
+ "n00036": {
+  "summary": "Anas reports that the Prophet visited a sick Jewish boy who served him and invited him to Islaam, and the boy accepted with his father's consent.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "visiting-the-sick",
+   "aakhirah"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00037": {
+  "summary": "Anas reports that the Prophet invited an unnamed person to Islaam, and the person said he disliked it, to which the Prophet replied.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00038": {
+  "summary": "Asma bint Abi Bakr reports that on the day Makkah was conquered, the Prophet invited her father Abu Quhaafa to Islaam and told him to remain in peace.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "asmaa-bint-abi-bakr",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-quhaafa",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "spread-of-islaam"
+  ],
+  "events": [
+   "Conquest of Makkah"
+  ],
+  "places": [
+   "Makkah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00039": {
+  "summary": "Asma bint Abi Bakr reports that after the Prophet entered Makkah, Abu Bakr brought his father Abu Quhaafa, who accepted Islaam and recited the Kalimah when the Prophet placed a hand on his chest and invited him.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "asmaa-bint-abi-bakr",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   },
+   {
+    "id": "abu-quhaafa",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "accepting-islaam",
+   "family",
+   "dawah-to-family",
+   "kalimah"
+  ],
+  "events": [
+   "Conquest of Makkah"
+  ],
+  "places": [
+   "Makkah",
+   "Masjidul Haraam"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00040": {
+  "summary": "Mughiera bin Shu'ba recounts meeting the Prophet walking with Abu Jahal in Makkah, where Abu Jahal admitted the message was true but refused Islaam because of Bani Qusay's precedence over the other Quraysh clans.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "mughiera-bin-shuba",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "opposition"
+  ],
+  "events": [],
+  "places": [
+   "Makkah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00041": {
+  "summary": "The Prophet recites the Qur'aan to Waleed bin Mughiera and his heart softens, but Abu Jahal pressures him, and Waleed calls the Qur'aan magic, for which Surah Muddathir is revealed about him.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "waleed-bin-mughiera",
+    "role": "subject"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "quraan",
+   "opposition"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00042": {
+  "summary": "While riding past, the Prophet calls Abu Sufyaan and Hind to Islaam, warning them of death, resurrection and Jahannam and reciting Surah Sajdah, and Abu Sufyaan defends him against Hind's charge of magic.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": "hind-bint-utba",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "dawah-to-family",
+   "aakhirah",
+   "quraan",
+   "opposition"
+  ],
+  "events": [],
+  "places": [],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00043": {
+  "summary": "Uthmaan, who had just come from Shaam, follows Zubayr to the Prophet, and Talha and Zubayr accept Islaam after hearing the Qur'aan and the rights of Islaam.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "yazeed-bin-roomaan",
+    "role": "narrator"
+   },
+   {
+    "id": "uthmaan",
+    "role": "subject"
+   },
+   {
+    "id": "talha",
+    "role": "subject"
+   },
+   {
+    "id": "zubayr",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "quraan"
+  ],
+  "events": [],
+  "places": [
+   "Shaam",
+   "Ma'aan",
+   "Zarqaa",
+   "Makkah",
+   "house of Arqam"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00044": {
+  "summary": "Amaar bin Yaasir and Suhayb bin Sanaan, each going to meet the Prophet at Arqam's house, accept Islaam after he presents it to them, and they leave secretly after spending the day with him.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "ammaar-bin-yaasir",
+    "role": "subject"
+   },
+   {
+    "id": "suhayb",
+    "role": "subject"
+   },
+   {
+    "id": "arqam",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "secret-dawah"
+  ],
+  "events": [],
+  "places": [
+   "Arqam's house"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00045": {
+  "summary": "Sa'd bin Zurarah and Dhakwaan bin Abd Qais, who came to Makkah to have Utba settle a dispute, go to the Prophet on hearing of him and accept Islaam without going near Utba, becoming the first people of Madinah to accept Islaam.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "khubayb-bin-abdir-rahmaan",
+    "role": "narrator"
+   },
+   {
+    "id": "sad-bin-zurarah",
+    "role": "subject"
+   },
+   {
+    "id": "dhakwaan-bin-abd-qais",
+    "role": "subject"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam"
+  ],
+  "events": [],
+  "places": [
+   "Makkah",
+   "Madinah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00046": {
+  "summary": "Quraysh leaders meeting behind the Kabah offer the Prophet wealth, leadership or kingship to give up his message, then demand miracles such as moving the mountains and raising the dead, and he refuses both and leaves them grieved, while his cousin Abdullaah bin Abi Umayyah also rejects him.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "shayba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "abul-bakhtari",
+    "role": "mentioned"
+   },
+   {
+    "id": "aswad-bin-abdil-muttalib",
+    "role": "mentioned"
+   },
+   {
+    "id": "zamah-bin-al-aswad",
+    "role": "mentioned"
+   },
+   {
+    "id": "waleed-bin-mughiera",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-jahal",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-abi-umayyah",
+    "role": "subject"
+   },
+   {
+    "id": "umayyah-bin-khalaf",
+    "role": "mentioned"
+   },
+   {
+    "id": "aas-bin-waail",
+    "role": "mentioned"
+   },
+   {
+    "id": "nabeeh-bin-hajjaaj",
+    "role": "mentioned"
+   },
+   {
+    "id": "munabbah-bin-hajjaaj",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "opposition",
+   "prophethood",
+   "prophets-concern"
+  ],
+  "events": [],
+  "places": [
+   "Kabah",
+   "Yamama"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00047": {
+  "summary": "Iyaas bin Mu'aadh, a youth in a Madinah delegation, hears the Prophet and calls his message better than their purpose, and although Abul Haysim throws pebbles at him to silence him, Iyaas dies reciting the kalimah as a Muslim.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "mahmood-bin-labeed",
+    "role": "narrator"
+   },
+   {
+    "id": "abul-haysim",
+    "role": "subject"
+   },
+   {
+    "id": "iyaas-bin-muaadh",
+    "role": "subject"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "accepting-islaam",
+   "youth",
+   "kalimah"
+  ],
+  "events": [
+   "Bu'aath"
+  ],
+  "places": [
+   "Makkah",
+   "Madinah"
+  ],
+  "boundary": "ok",
+  "reviewed": false
+ },
+ "n00048": {
+  "summary": "On the hill of Marwah the Prophet calls the Quraysh clans by their ancestors' names to warn his closest relatives, asks them to say Laa Ilaaha Illalaah, and Abu Lahab rejects him, so verses about Abu Lahab are revealed.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abu-lahab",
+    "role": "subject"
+   },
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "dawah-to-family",
+   "opposition",
+   "aakhirah"
+  ],
+  "events": [],
+  "places": [
+   "hill of Marwah"
+  ],
+  "boundary": "ends-mid",
+  "reviewed": false
+ },
+ "n00049": {
+  "summary": "On the hill of Safa the Prophet calls out to the Quraysh, asks whether they would believe that cavalry was about to attack from below the hill, then warns them of a severe punishment, and Abu Lahab rejects him, so verses about Abu Lahab are revealed.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-abbaas",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-lahab",
+    "role": "subject"
+   },
+   {
+    "id": "abdul-muttalib",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "dawah-to-family",
+   "opposition",
+   "aakhirah"
+  ],
+  "events": [],
+  "places": [
+   "hill of Safa"
+  ],
+  "boundary": "ends-mid",
+  "reviewed": false
+ },
+ "n00050": {
+  "summary": "The Prophet invites tribes at the hajj markets for ten years; Maysara, after the Jews of Fidak confirm the Prophet's description from their book, meets him again at the farewell Hajj and becomes a Muslim.",
+  "prophet": "subject",
+  "people": [
+   {
+    "id": "abdullaah-bin-kab-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "maysara",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "themes": [
+   "dawah",
+   "dawah-at-hajj",
+   "prophethood",
+   "accepting-islaam",
+   "aakhirah"
+  ],
+  "events": [
+   "farewell Hajj"
+  ],
+  "places": [
+   "Ukaaz",
+   "Majinna",
+   "Dhil Majaaz",
+   "Fidak",
+   "Madinah"
+  ],
+  "boundary": "ends-mid",
+  "reviewed": false
+ }
+}

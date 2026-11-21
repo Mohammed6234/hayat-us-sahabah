@@ -1,0 +1,548 @@
+[
+  {
+    "id": "n01387",
+    "summary": "Ja'da reports that the Prophet pointed at a man with a large stomach and said the food would have been better in a poor person's stomach.",
+    "people": [
+      { "id": null, "name": "Ja'da", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph is another report of the same incident (a dreamer brought before the Prophet). The man with the large stomach and the dreamer are unnamed and left out. Narrator matched to no vocab entry; possibly Ja'dah bin Hubayrah, not confirmed."
+  },
+  {
+    "id": "n01388",
+    "summary": "Umar rebukes Jaabir for buying meat for his family with a dirham, and Jaabir describes how Umar kept repeating his words.",
+    "people": [
+      { "id": "yahya-bin-saeed", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph (In another narration, Jaabir reports) is a separate report of the same exchange."
+  },
+  {
+    "id": "n01389",
+    "summary": "Abdullaah bin Umar reports that Umar saw a dirham in Jaabir's hand, asked what it was for, and rebuked him for buying meat out of craving.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "jaabir", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "eating-and-drinking"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR debris in mid-sentence (a footnote reference to Hifz p.256 and a fragment about Abu Juhayfah) left out of the summary."
+  },
+  {
+    "id": "n01409",
+    "summary": "Habeeb bin Hamzah reports that Abu Bakr's son kept looking at his pillow when dying, and that five or six dinars were found beneath it, which Abu Bakr said his skin could not withstand.",
+    "people": [
+      { "id": null, "name": "Habeeb bin Hamzah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "sadaqah", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator is not in the vocabulary and the text gives no (RA), so sahabi is left unsure. Abu Bakr's son is unnamed and left out."
+  },
+  {
+    "id": "n01410",
+    "summary": "Abdullaah bin Mas'ood built a house, and Ammaar told him that a sturdy house with long hopes meant death was near.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Abu", "role": "narrator", "sahabi": "yes" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator name is garbled in the text ('Abdullaah bin Abu') and matches no vocab entry; sahabi yes rests on the (RA) in the text."
+  },
+  {
+    "id": "n01411",
+    "summary": "Ataa reports that Abu Sa'eed Khudri, invited to a waleema with many dishes, reminded the host that the Prophet did not combine a big morning meal with a big dinner.",
+    "people": [
+      { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "eating-and-drinking", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Several Ataas are in the vocabulary and the text does not say which, so narrator is left null."
+  },
+  {
+    "id": "n01433",
+    "summary": "Ka'b bin Ujrah, hungry and having earned dates by watering a Jew's camel, brings them to the Prophet, who tells him that poverty comes swiftly to one who loves him and that he should prepare patience for trials.",
+    "people": [
+      { "id": "kab-bin-ujrah", "role": "subject" },
+      { "id": null, "name": "Ummu Ka'b", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "hunger-and-hardship", "patience"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ka'b's mother is named only as Ummu Ka'b and she speaks, so she is included; her companion status is not stated. The Jewish man is unnamed and left out."
+  },
+  {
+    "id": "n01434",
+    "summary": "Husayn bin Wahwah reports that Talha bin Baraa's love for the Prophet was so great that he was ready to obey even an order to kill his father, and that the Prophet prayed for Talha after his death.",
+    "people": [
+      { "id": "husayn-bin-wahwah", "role": "narrator" },
+      { "id": "talha-bin-baraa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "family", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Talha's father, the family and the Jews are unnamed or not persons of the vocabulary, so left out."
+  },
+  {
+    "id": "n01441",
+    "summary": "Abdullaah bin Abbaas reports that Umar urged Abbaas to accept Islaam, because the Prophet would have liked him to be among the first to do so.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "khattaab", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["accepting-islaam", "love-for-the-prophet", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Khattaab is Umar's father, referred to as 'my father'; he is tagged by the text's own name only in parentheses."
+  },
+  {
+    "id": "n01442",
+    "summary": "Sha'bi reports an exchange in which Umar honours Abbaas as the Prophet's uncle and, in a dispute over Bahrain land, refuses to rule for Abbaas on the testimony of Mughiera bin Shu'ba, after which Abbaas speaks harshly and Umar reminds him that his acceptance of Islaam pleased the Prophet more.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "mughiera-bin-shuba", "role": "subject" },
+      { "id": null, "name": "Muhammad bin Ali", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-abbaas", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["justice", "love-for-the-prophet", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph (Muhammad bin Ali on the Bahrain land grant) is a separate report. 'Muhammad bin Ali' matches two vocab entries (not sahabi) so is left null. The son addressed by Umar is called Abdullaah; tagged as Abdullaah bin Abbaas by inference from being Abbaas's son."
+  },
+  {
+    "id": "n01443",
+    "summary": "Abu Sa'eed Khudri describes how the Companions first informed the Prophet of deaths in Madinah, then changed the practice to spare him inconvenience by bringing the bier to his house; Umar bin Muhammad adds that the place became known as Mowda'ul Janaa'iz.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" },
+      { "id": "umar-bin-muhammad", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["death-and-burial", "kindness", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph (Umar bin Muhammad on the name Mowda'ul Janaa'iz) is a separate report."
+  },
+  {
+    "id": "n01513",
+    "summary": "Ikrama reports that after the Quraysh breached the Treaty of Hudaybiyyah, Abu Sufyaan went to Madinah to ask Abu Bakr, Umar and Faatima to renew it, and was refused by each, so he returned with nothing achieved.",
+    "people": [
+      { "id": null, "name": "Ikrama", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "faatima", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hudaybiyyah", "delegations", "opposition"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Text says Ikrama (RA), but the vocab's ikrimah is marked not sahabi and ikrama-bin-abi-jahal is another candidate, so the narrator is left null. The Companion Abu Sufyaan approached in the text is named only as 'Hadhrat (RA)' (probably Ali) and is left out."
+  },
+  {
+    "id": "n01561",
+    "summary": "Naafi says that Abdullaah bin Umar followed the Prophet's footsteps so closely that an observer would think him mad.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01562",
+    "summary": "Aa'isha says that no one followed the Prophet's footsteps at each halt on a journey as meticulously as Abdullaah bin Umar did.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01563",
+    "summary": "Naafi says that Abdullaah bin Umar searched for the Prophet's footsteps as thoroughly as a camel searches for its lost young one.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01564",
+    "summary": "Abdur Rahmaan bin Umayyah asks Abdullaah bin Umar why the salaah of fear and the salaah of a resident are in the Qur'aan but not the traveller's salaah, and Abdullaah replies that they follow what the Prophet did.",
+    "people": [
+      { "id": null, "name": "Abdur Rahmaan bin Umayyah bin Abdullaah", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "salaah", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Narrator asks the question himself, so he is tagged subject. Not in the vocabulary and no (RA) in the text, so sahabi is left unsure."
+  },
+  {
+    "id": "n01565",
+    "summary": "Umayyah bin Abdullaah asks Abdullaah bin Umar why the Qur'aan mentions shortening the salaah of fear but not the traveller's salaah, and Abdullaah says the Prophet did it and they copy him.",
+    "people": [
+      { "id": null, "name": "Umayyah bin Abdullaah bin Khaalid bin Usayd", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["following-the-sunnah", "salaah", "travel"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not in the vocabulary and no (RA) in the text, so sahabi is left unsure. Stray OCR debris ('gmsgj') left out."
+  },
+  {
+    "id": "n01566",
+    "summary": "Waarid bin Abu Aasim asks Abdullaah bin Umar about the salaah on a journey while in Mina, and Abdullaah rebukes him by citing the Prophet's practice of praying two rakaahs; Abu Muneed Jurashi adds a question about shortening salaah in safety.",
+    "people": [
+      { "id": null, "name": "Waarid bin Abu Aasim", "role": "subject", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Abu Muneed Jurashi", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["travel", "salaah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph (Abu Muneed Jurashi, 'Yet another narration') is a separate report. Neither name is in the vocabulary. The person who enquired in the second paragraph is unnamed and left out."
+  },
+  {
+    "id": "n01567",
+    "summary": "Zaid bin Aslam reports seeing Abdullaah bin Umar pray with his buttons open, and Abdullaah says he saw the Prophet do this.",
+    "people": [
+      { "id": "zaid-bin-aslam", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["salaah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Zaid bin Aslam is marked (?) in the vocabulary; the text does not give his companion status."
+  },
+  {
+    "id": "n01568",
+    "summary": "Qurra reports that he and a delegation of Banu Muzayna pledged allegiance to the Prophet and felt the seal of prophethood on his back through his open collar, and Urwa bin Abdullaah reports that Mu'aawiya bin Qurra and his son always prayed with their buttons open.",
+    "people": [
+      { "id": "qurra", "role": "subject" },
+      { "id": "muaawiya-bin-qurra", "role": "subject" },
+      { "id": null, "name": "Urwa bin Abdullaah bin Qushayr", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "following-the-sunnah", "prophets-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports (Qurra's, then Urwa's). Text is cut off mid-bracket and runs into the next section heading; that heading is left out. Urwa is not in the vocabulary."
+  },
+  {
+    "id": "n01569",
+    "summary": "Ka'b bin Ujrah reports a dispute among the Ansaar, Muhaajireen and Banu Haashim over who was closest to the Prophet, and the Prophet affirmed the claim of each group and said he was the brother of the Ansaar, one of the Muhaajireen, and from Banu Haashim.",
+    "people": [
+      { "id": "kab-bin-ujrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "love-for-the-prophet", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end ('coveting our relationship with'). The three groups are not persons and are left out."
+  },
+  {
+    "id": "n01572",
+    "summary": "Abu Hurayrah reports that a dispute arose between Abdur Rahmaan bin Auf and Khaalid bin Waleed, and the Prophet told them to leave his Companions alone because even spending Uhud's worth of gold cannot match the reward of a Badri's mudd.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "khaalid-bin-waleed", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01573",
+    "summary": "Jaabir reports the Prophet's saying that Allaah chose his Companions above all creation after the prophets, singling out Abu Bakr, Umar, Uthmaan and Ali, and that his Ummah's first four generations are chosen too.",
+    "people": [
+      { "id": "jaabir", "role": "narrator" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "uthmaan", "role": "mentioned" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophethood"],
+    "new_themes": ["the four generations of the Ummah"],
+    "boundary": "ok",
+    "notes": "Vocab entry 'jaabir' used because the text gives only 'Jaabir (RA)'."
+  },
+  {
+    "id": "n01574",
+    "summary": "Abdur Rahmaan bin Auf reports the Prophet's final advice to be good to the early Muhaajireen and their children, warning that otherwise no deed will be accepted.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-awf", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophets-final-illness", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions who asked are unnamed and left out."
+  },
+  {
+    "id": "n01575",
+    "summary": "The Prophet advises goodness towards the early Muhaajireen and their children, and Zaid bin Sa'd reports the Prophet's last sermon in which he asked people to treat the Ansaar well, accepting the good among them and overlooking their faults.",
+    "people": [
+      { "id": "zaid-bin-sad", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "prophets-final-illness", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports: an unattributed advice, then Zaid bin Sa'd's account of the sermon. Zaid's father, through whom the report passes, is named only as 'Sa'd' and is left out as ambiguous."
+  },
+  {
+    "id": "n01604",
+    "summary": "Abdullaah bin Abbaas reports that Miqdaad killed a man who had said the Kalimah, and the Prophet rebuked him, after which the verse about verifying before judging a claim to Islaam was revealed.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "miqdaad-bin-amr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kalimah", "muslim-rights", "jihaad"],
+    "new_themes": ["sanctity of a Muslim's life"],
+    "boundary": "ok",
+    "notes": "The book calls him Miqdaad bin Aswad; tagged to miqdaad-bin-amr, which I took to be the same Companion, so please verify. The other Companions and the killed man are unnamed and left out."
+  },
+  {
+    "id": "n01630",
+    "summary": "Hasan says that when the Muslims were in turmoil and people urged Abdullaah bin Umar to take the pledge of allegiance, he refused, and he was never drawn into their aims until he died.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "bayah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hasan may be Hasan al-Basri (vocab hasan-bin-abil-hasan) but the text does not say so, so left null. The people who urged him are unnamed."
+  },
+  {
+    "id": "n01631",
+    "summary": "Khaalid bin Sumayr reports that Abdullaah bin Umar, asked to take up the Khilaafah, said he would not accept it at the cost of even one life, since the unity of the Ummah matters more.",
+    "people": [
+      { "id": null, "name": "Khaalid bin Sumayr", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "khilaafah"],
+    "new_themes": ["unity of the Ummah"],
+    "boundary": "ok",
+    "notes": "Narrator matches only the vocab's khaalid-bin-shumayr, a different name, so left null. The people who spoke to him are unnamed."
+  },
+  {
+    "id": "n01632",
+    "summary": "Qatan reports that a man told Abdullaah bin Umar that no one had done more harm to the Ummah, and Abdullaah replied that he had not shed blood, divided unity or broken strength, and would not want the Khilaafah while people disagreed about him.",
+    "people": [
+      { "id": null, "name": "Qatan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Qatan is not matched in the vocabulary (qatan-bin-abdullaah is a different name), so left null. The man is unnamed."
+  },
+  {
+    "id": "n01633",
+    "summary": "Qaasim bin Abdur Rahmaan reports that when people urged Abdullaah bin Umar to fight during the first period of strife, he refused to fight people who say La ilaaha illallaah, and said he wanted to stay united with the Muslims.",
+    "people": [
+      { "id": "qaasim-bin-abdur-rahmaan", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The people who accused him are unnamed and left out."
+  },
+  {
+    "id": "n01662",
+    "summary": "Aa'isha reports that a man asked the Prophet how to deal with slaves who lie, cheat and disobey him, and the Prophet explained that they will be recompensed on the Day of Qiyaamah; the man then asked to be separated from them.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["slaves-and-servants", "justice", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off in the man's final statement ('I make you witness that they are all'). The man and his slaves are unnamed."
+  },
+  {
+    "id": "n01663",
+    "summary": "Abu Hurayrah reports that when someone abused Abu Bakr and he replied to some of it, the Prophet left, and explained that Shaytaan had come in; the Prophet also affirmed that forgiving injustice brings strength. Separately, Umar vowed to cut off his son Abdullaah's tongue for swearing Miqdaad, and Bahiy reports the same dispute.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "miqdaad-bin-amr", "role": "subject" },
+      { "id": "bahiy", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["good-character", "virtues-of-the-sahabah", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Three reports: Abu Hurayrah's, Umar's vow (a separate heading and narration), and Bahiy's account of the same dispute. The unnamed abuser is left out."
+  },
+  {
+    "id": "n01689",
+    "summary": "Bilaal bin Sa'd Ash'ari reports that Mu'aawiya asked Abu Dardaa for a list of the criminals of Damascus, and Abu Dardaa refused, telling his son to begin with his own name.",
+    "people": [
+      { "id": null, "name": "Bilaal bin Sa'd Ash'ari", "role": "narrator", "sahabi": "unsure" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Bilaal", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "good-character"],
+    "new_themes": ["spying on fellow Muslims"],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off ('He then did not send the'). Bilaal (son of Abu Dardaa) shares the narrator's name and is a different person; tagged null with the name given only as 'Bilaal'. Mu'aawiya is tagged to muaawiya-bin-abi-sufyaan from context (the Companion writing to Abu Dardaa), not stated in the text."
+  },
+  {
+    "id": "n01690",
+    "summary": "Sha'bi reports that Umar, smelling a fart in a room, ordered the person responsible to make wudhu, and Jareer bin Abdullaah suggested everyone should do so to spare him embarrassment, which Umar praised.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "jareer-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["kindness", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbled a word ('gefup') in the text; the sense is clear."
+  },
+  {
+    "id": "n01691",
+    "summary": "Ali reports that the Prophet sent him, Zubayr and Miqdaad to a woman carrying a letter from Haatib bin Abi Balta'ah to the Mushrikeen of Makkah, and Haatib, a Badri, explained he had acted to protect his family, so the Prophet forgave him despite Umar's demand to kill him as a hypocrite.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": "miqdaad-bin-amr", "role": "subject" },
+      { "id": "haatib-bin-abi-baltaah", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "jaabir", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "virtues-of-the-sahabah", "conquest-of-makkah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Second paragraph (Jaabir's separate report) adds Haatib's words. The woman is unnamed and left out. The Quranic verse is OCR-garbled and its verse number is missing. Miqdaad is the miqdaad-bin-amr entry."
+  },
+  {
+    "id": "n01711",
+    "summary": "Rajaa bin Rabee'ah reports that Abdullaah bin Amr refused to greet Hasan bin Ali until after the Battle of Siffeen, when he sought his pardon, explaining he had fought only by following his father and had fasted and prayed through the nights, which the Prophet had told him to moderate.",
+    "people": [
+      { "id": "rajaa-bin-rabeeah", "role": "narrator" },
+      { "id": "abu-saeed-khudri", "role": "subject" },
+      { "id": "abdullaah-bin-amr", "role": "subject" },
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["muslim-rights", "mercy-and-forgiveness", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abdullaah's father (Amr bin al-As) is named only as 'my father' and is left out. The Ibnul Mundhir reference line and OCR debris are left out."
+  },
+  {
+    "id": "n01715",
+    "summary": "Abdullaah bin Abbaas, while in I'tikaaf in the Prophet's Masjid, leaves it to help a man with a debt, recalling the Prophet's saying that walking to meet a Muslim's need is better than ten years of I'tikaaf.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["muslim-rights", "kindness"],
+    "new_themes": ["itikaaf"],
+    "boundary": "ok",
+    "notes": "The man in debt is unnamed and left out. The Prophet is quoted; the 'grave' referred to is the Prophet's."
+  },
+  {
+    "id": "n01716",
+    "summary": "Abdullaah bin Qais reports that the Prophet often visited the Ansaar, both at home and in the Masjid; Anas reports that he once prayed on a mat at an Ansaari house and made du'aa for the household.",
+    "people": [
+      { "id": "abdullaah-bin-qais", "role": "narrator" },
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["muslim-rights", "prophets-character", "hospitality"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports (Abdullaah bin Qais, then Anas). The Ansaari household is unnamed. Anas tagged to anas-bin-maalik from 'Hadhrat Anas (RA)'."
+  },
+  {
+    "id": "n01729",
+    "summary": "Abdullaah bin Abbaas reports that when Uyaynah bin Hisn came to the Prophet, who was sitting with Abu Bakr and Umar on the bare ground, the Prophet had a duvet placed for him and said a prominent person of a tribe should be honoured.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "uyayna-fazaari", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "humility", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Uyaynah is matched to uyayna-fazaari (marked ?) from the name alone."
+  },
+  {
+    "id": "n01730",
+    "summary": "Adi bin Haatim reports that the Prophet gave him a cushion, which he declined in favour of sitting on the ground, and that after praising the Prophet's humility he accepted Islaam; the Prophet then said a prominent person of a tribe should be honoured.",
+    "people": [
+      { "id": "adi-bin-haatim", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hospitality", "humility", "accepting-islaam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Sahabah who commented are unnamed. Trailing OCR debris ('@)') left out."
+  }
+]

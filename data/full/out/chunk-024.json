@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "n00921",
+    "summary": "Umar sends for Sa'd bin Abi Waqqaas, appoints him commander of the Iraq offensive and gives him detailed advice on sincerity, equality before Allaah and the Prophet's example.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "sad-bin-abi-waqqaas",
+        "role": "subject"
+      },
+      {
+        "id": "talha",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Muhammad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "sincerity"
+    ],
+    "new_themes": [
+      "equality before Allaah"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"becoming corrupt,\"). The first narrator, 'Hadhrat Muhammad', cannot be matched to the approved list."
+  },
+  {
+    "id": "n00922",
+    "summary": "Umar writes to Abu Moosa Ash'ari that leaders must not postpone their duties, should prefer the Aakhirah to this world, and should fear Allaah and study the Qur'aan.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-moosa-ashari",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Dahhaak",
+        "role": "narrator",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "aakhirah",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Dahhaak is called Hadhrat but the text does not establish that he was a Companion."
+  },
+  {
+    "id": "n00923",
+    "summary": "After Uthmaan was martyred, a locked box yielded his parting advice, which affirms tawheed, the Prophet's messengership and the reality of the Hereafter, followed by verses on patience.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Alaa bin Fadhl",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Nizaamul Mulk",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "tawheed",
+      "aakhirah",
+      "martyrdom"
+    ],
+    "new_themes": [
+      "patience in hardship"
+    ],
+    "boundary": "ends-mid",
+    "notes": "The verse section is cut off mid-line at the end. Alaa bin Fadhl is not the approved alaa-bin-hadhrami. Nizaamul Mulk is a later source for the couplets."
+  },
+  {
+    "id": "n00924",
+    "summary": "During the siege of Uthmaan's house, Ali and his supporters drive off the rebels, Ali offers to fight them, and Uthmaan refuses to let blood be shed on his account.",
+    "people": [
+      {
+        "id": null,
+        "name": "Shaddaad bin Aws",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "hasan-bin-ali",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "martyrdom",
+      "khilaafah"
+    ],
+    "new_themes": [
+      "the siege of Uthmaan's house",
+      "avoiding bloodshed"
+    ],
+    "boundary": "ok",
+    "notes": "Shaddaad bin Aws is not in the approved list; the approved shaddaad-bin-abdillaah and shaddaad-ibnul-haad are different people. Hasan is taken as Hasan bin Ali from the context."
+  },
+  {
+    "id": "n00925",
+    "summary": "During the siege, Abu Qataadah and a companion ask Uthmaan whom to follow, Uthmaan tells them to stay with the majority, and when Hasan and Ibn Umar offer to act for him he refuses to let blood be spilt.",
+    "people": [
+      {
+        "id": "abu-salma-bin-abdir-rahmaan",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-qataadah",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "hasan-bin-ali",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "martyrdom"
+    ],
+    "new_themes": [
+      "avoiding fitnah"
+    ],
+    "boundary": "ok",
+    "notes": "Abu Salama is the approved unsure id, matched from the name in the text. The second narrator (the companion who went with Abu Qataadah) is not named."
+  },
+  {
+    "id": "n00926",
+    "summary": "Abu Hurayrah says that while he was under siege with Uthmaan, a man was killed, and Uthmaan ordered him to throw down his sword, which he did.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "martyrdom",
+      "khilaafah"
+    ],
+    "new_themes": [
+      "avoiding fitnah"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00927",
+    "summary": "Ali's letter to his governors warns them not to stay away from the people, because distance breeds ignorance and injustice, and tells them to stay accessible and fair.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Muhaajir Aamiri",
+        "role": "narrator",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "honest-dealings"
+    ],
+    "new_themes": [
+      "justice in governance"
+    ],
+    "boundary": "ok",
+    "notes": "The letter's recipients are not named."
+  },
+  {
+    "id": "n00928",
+    "summary": "Ali writes to some governors asking them to remember their own death and the Day when their actions will be shown to them.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Madaa'ini",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "khilaafah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"to redress the wrong\"). Madaa'ini is a historian cited as narrator, not a Companion."
+  },
+  {
+    "id": "n00929",
+    "summary": "Ali appoints a man of the Thaqeef tribe as governor of Ukbara and tells him not to oppress the local people when collecting what is due, taking only what is extra.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "zakaah",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Thaqeef man who narrates and the governor are unnamed."
+  },
+  {
+    "id": "n00930",
+    "summary": "Ali tells the governor of Ukbara not to sell the people's grain or animals and not to make them stand in the sun to extract payment, since only what exceeds their needs is to be taken.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "zakaah",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Continues the Ukbara account in n00929. The governor is unnamed."
+  },
+  {
+    "id": "n00931",
+    "summary": "Sa'eed bin Aamir advises Umar to fear Allaah, to keep his words and deeds consistent, and to judge fairly for all the Muslims under his rule.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'eed bin Aamir bin Judhaym Jumhi",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Makhool",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "sincerity"
+    ],
+    "new_themes": [
+      "consistency between word and deed"
+    ],
+    "boundary": "ok",
+    "notes": "Sa'eed bin Aamir is not in the approved list. Makhool is a Taabi'ee narrator. The Prophet is mentioned only as the source of the description of Sa'eed as a Companion."
+  },
+  {
+    "id": "n00932",
+    "summary": "Umar tests three men who are asked to speak before a delegation; the third, Rabee bin Ziyaad, gives frank advice, and Umar appoints him under an Ash'ari commander to be watched and reported on.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abdullaah bin Buraydah",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Azina bin Arqam",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Rabee bin Ziyaad",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Muhaajir bin Ziyaad",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "virtues-of-the-sahabah",
+      "hypocrisy"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The three men and the Ash'ari commander are unnamed. The end of the text has OCR debris, which was ignored. Rabee bin Ziyaad and Muhaajir bin Ziyaad are not in the approved list."
+  },
+  {
+    "id": "n00933",
+    "summary": "Abu Ubaydah and Mu'aadh write to Umar warning him about justice and about a time when people will look friendly outwardly while being enemies inside, and the letter is shown to Muhammad bin Sooqa.",
+    "people": [
+      {
+        "id": null,
+        "name": "Muhammad bin Sooqa",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Nu'aym bin Abu Hind",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "subject"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "aakhirah",
+      "hypocrisy"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Nu'aym bin Abu Hind is not in the approved list (approved nuaym-bin-masood and nuaym-bin-abdillaah are different people)."
+  },
+  {
+    "id": "n00934",
+    "summary": "Umar replies to Abu Ubaydah and Mu'aadh that he cannot manage justice without Allaah's help, that the times they warn of are not theirs, and that he always wants their counsel.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "mentioned"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "aakhirah",
+      "hypocrisy"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The letter has no narrator line. A few words are lost to OCR; the sense is intact."
+  },
+  {
+    "id": "n00935",
+    "summary": "Abu Ubaydah, dying of the plague in Jordan, advises the Muslims to keep the salaah, fast in Ramadhaan, pay zakaah, perform Hajj and Umrah, and prepare for death; Mu'aadh leads the prayer and then addresses the people after Abu Ubaydah's death.",
+    "people": [
+      {
+        "id": "saeed-bin-musayyab",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-ubaydah",
+        "role": "subject"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "salaah",
+      "fasting",
+      "zakaah",
+      "brotherhood"
+    ],
+    "new_themes": [
+      "death and preparation for it"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Ubaydah's advice before his death, and Mu'aadh's address after it. The opening has footnote citations (Abu Nu'aym, Ibn Abi Shaybah, Tabraani, Haythami) which are OCR debris and were not tagged."
+  },
+  {
+    "id": "n00936",
+    "summary": "Ibn Sa'd's combined account of Abu Bakr's life covers the pledge of allegiance, his trade and simple life in Sunh before and after becoming khalifah, his refusal of treasury money, his Umrah visit to Makkah and his Hajj in 12 AH.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "ibn-sad",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      },
+      {
+        "id": "saeed-bin-musayyab",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Habeebah bint Khaarija",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-quhaafa",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Attaab bin Usayd",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "suhayl-bin-amr",
+        "role": "mentioned"
+      },
+      {
+        "id": "ikrama-bin-abi-jahal",
+        "role": "mentioned"
+      },
+      {
+        "id": "haarith-bin-hishaam",
+        "role": "mentioned"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      },
+      {
+        "id": "uthmaan",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "virtues-of-the-sahabah",
+      "honest-dealings"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Compiled from several reports and episodes (Sunh life, the treasury, the deathbed request, the Makkah visit, Hajj). Attaab bin Usayd and Habeebah bint Khaarija are not in the approved list. Footnote debris (Riyaadun Nadhra) was ignored."
+  },
+  {
+    "id": "n00937",
+    "summary": "Umar suspects his governor of Hims, Umayr bin Sa'd, of keeping public wealth and recalls him, but Umayr shows he gave the money away to the poor and lived in great poverty, so Umar wishes for more men like him.",
+    "people": [
+      {
+        "id": null,
+        "name": "Antara",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Umayr bin Sa'd Ansaari",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Haarith",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "khilaafah",
+      "honest-dealings",
+      "hunger-and-hardship",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Umayr bin Sa'd Ansaari is not in the approved list. The Haarith sent to Hims is unidentified and is not the approved haarith entry without a patronymic. Umayr's wife and the Christian woman are unnamed."
+  },
+  {
+    "id": "n00938",
+    "summary": "Umar asks the people of Hims about their governor Sa'eed bin Aamir, hears their complaints and his replies, and sends him a thousand dinaars, which Sa'eed gives to those in need; he explains his fainting by recalling Khubayb Ansaari's martyrdom.",
+    "people": [
+      {
+        "id": null,
+        "name": "Khaalid bin Ma'daan",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'eed bin Aamir bin Judhaym Jumhi",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Khubayb Ansaari",
+        "role": "mentioned",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "hunger-and-hardship",
+      "love-for-the-prophet",
+      "martyrdom"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'eed bin Aamir and Khubayb Ansaari are not in the approved list (approved khubayb-bin-abdir-rahmaan is a different person). The people of Hims are unnamed."
+  },
+  {
+    "id": "n00939",
+    "summary": "Tha'laba bin Abu Maalik Qurazi recounts that Abu Hurayrah, then governor of Madinah for Marwaan, joked with him in the marketplace while carrying a bundle of wood, and Tha'laba answered him.",
+    "people": [
+      {
+        "id": null,
+        "name": "Tha'laba bin Abu Maalik Qurazi",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-hurayrah",
+        "role": "subject"
+      },
+      {
+        "id": "marwaan",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "khilaafah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"with the bundle on his\"). The Marwaan here is assumed to be the approved marwaan (unsure, Marwaan bin Hakam)."
+  },
+  {
+    "id": "n00940",
+    "summary": "When tribesmen of Mudar arrive in poverty, the Prophet urges the people to give charity and recites Qur'aanic verses, and a generous Ansaari's gift starts a flood of giving, which the Prophet praises as a good practice.",
+    "people": [
+      {
+        "id": "jareer",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "bilaal",
+        "role": "subject"
+      },
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "quraan",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is given only as 'Jareer'. The approved jareer (unsure) is used, though it may be Jareer bin Abdillaah (approved jareer-bin-abdillaah); please check. The Ansaari and the Mudar men are unnamed."
+  },
+  {
+    "id": "n00941",
+    "summary": "The Prophet reminds the Ansaar of their generosity in the Period of Ignorance and urges them not to hold back their wealth now that they are Muslims, and they respond by opening their orchards to all.",
+    "people": [
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "hospitality",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text contains an editorial bridge ('The Hadith continues to the point where...') and summarises the Ansaar's response. The Banu Amr bin Auf are not individuals."
+  },
+  {
+    "id": "n00942",
+    "summary": "Anas reports the Prophet's first sermon, in which he urges generosity and good character, describing generosity as a tree of Jannah and miserliness as a tree of Jahannam.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "kindness",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The OCR joins 'thatin the firstsermon' and the text was read as 'that in the first sermon'."
+  },
+  {
+    "id": "n00943",
+    "summary": "A man asks the Prophet for something he cannot give; Umar objects, and an Ansaari urges the Prophet to keep giving without fear of loss, which pleases the Prophet.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "trust in Allaah's provision"
+    ],
+    "boundary": "ok",
+    "notes": "The man and the Ansaari are unnamed."
+  },
+  {
+    "id": "n00944",
+    "summary": "Jaabir reports that Umar objected when the Prophet had nothing to give, and Abdullaah bin Hudhaafa told the Prophet to keep spending; in a second report Ibn Mas'ood says the Prophet asked Bilaal why he was storing dates.",
+    "people": [
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-hudhafa",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "narrator"
+      },
+      {
+        "id": "bilaal",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: Jaabir's and Ibn Mas'ood's. The text is also cut off mid-sentence at the end (\"the Rabb of the\")."
+  },
+  {
+    "id": "n00945",
+    "summary": "Anas reports that the Prophet gave a bird to his servant, and when she kept it until the next day, he reminded her that Allaah provides each day's sustenance.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "kindness"
+    ],
+    "new_themes": [
+      "trust in Allaah's provision"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"for each coming\"). The servant is unnamed."
+  },
+  {
+    "id": "n00946",
+    "summary": "When Umar asks what to do with surplus funds, Ali argues from an earlier incident, involving Abbaas's refusal to pay Zakaah and the Prophet's Sadaqah, that Umar should not change a firm conviction into a mere assumption.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abbaas-bin-abdil-muttalib",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zakaah",
+      "sadaqah",
+      "khilaafah",
+      "consultation"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ali is both narrator and a participant in the story he tells. The people who answered Umar are unnamed."
+  },
+  {
+    "id": "n00947",
+    "summary": "Umar distributes wealth and asks the people what to do with the surplus; Ali says it should be distributed as the Qur'aan prescribes, the Prophet's distribution is recalled, and Ali completes the distribution, with Talha's share being 800 dirhams.",
+    "people": [
+      {
+        "id": "talha",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "khilaafah",
+      "consultation",
+      "sadaqah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Talha narrates and is also the recipient in the final line. The Bahrain incident is recalled inside Ali's answer. Footnote debris was ignored."
+  },
+  {
+    "id": "n00948",
+    "summary": "Ummu Salama and Sahl bin Sa'd report that in the Prophet's last illness he was troubled by seven dinaars he had not yet given away, and had Aa'isha send them to Ali, who gave them in charity.",
+    "people": [
+      {
+        "id": "umm-salama",
+        "role": "narrator"
+      },
+      {
+        "id": "sahal-bin-sad",
+        "role": "narrator"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "prophets-final-illness",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ummu Salama's and Sahl bin Sa'd's, joined by 'The Narration of Hadhrat Sahl bin Sad in this Regard'. The neighbour lady is unnamed."
+  },
+  {
+    "id": "n00949",
+    "summary": "Aa'isha reports that during his illness the Prophet told her to give some gold in charity, and when it was still in the house he said he did not want to meet Allaah with it.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abu Haazim",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "prophets-final-illness",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Haazim was unsure whether the amount was seven or nine dinaars, as the text says. He is not in the approved list."
+  },
+  {
+    "id": "n00950",
+    "summary": "Abu Dharr tells Ubaydullaah bin Abbaas that the Prophet said he would not want to die with even a qiraat of wealth left, because the Prophet desired the Aakhirah rather than this world.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ubaydullaah bin Abbaas",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-dharr-ghifaari",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "aakhirah"
+    ],
+    "new_themes": [
+      "detachment from wealth"
+    ],
+    "boundary": "ok",
+    "notes": "Ubaydullaah bin Abbaas is not in the approved list, so his sahabi status is unsure."
+  },
+  {
+    "id": "n00951",
+    "summary": "Abu Dharr rebukes Ka'b Ahbaar with his staff for saying that paying zakaah leaves no further duty on wealth, quoting Qur'aanic verses on giving beyond it, and Uthmaan confirms he heard the Prophet's warning about wealth.",
+    "people": [
+      {
+        "id": "abu-dharr-ghifaari",
+        "role": "subject"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ka'b Ahbaar",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": "abdur-rahmaan-bin-awf",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Ghazwaan bin Abu Haatim",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "zakaah",
+      "sadaqah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "wealth beyond zakaah"
+    ],
+    "boundary": "ok",
+    "notes": "Ka'b Ahbaar and Ghazwaan bin Abu Haatim are not in the approved list. Ghazwaan gives a detailed version of the same event."
+  },
+  {
+    "id": "n00952",
+    "summary": "Umar recounts that when the Prophet called for charity he brought half his wealth, but Abu Bakr brought all he had, saying he left Allaah and His Rasool for his family.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "virtues-of-the-sahabah",
+      "sincerity"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00953",
+    "summary": "A man tells Uthmaan that the wealthy have outdone the poor in good deeds, and Uthmaan replies that a dirham given in hardship is better than ten thousand given in plenty.",
+    "people": [
+      {
+        "id": null,
+        "name": "Hasan",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "sadaqah",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is only 'Hadhrat Hasan'. He is probably Hasan al-Basri, but the text does not say, so he is left as an unsure null entry rather than the approved hasan or hasan-bin-ali. The man who speaks is unnamed."
+  },
+  {
+    "id": "n00954",
+    "summary": "A man brings the Prophet a young she-camel beyond the one-year camel that was due from him as Zakaah, and the Prophet accepts it and prays for the man's wealth.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ubaydullaah bin Muhammad bin Aa'isha",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "ali",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zakaah",
+      "sadaqah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"prayed for the man's wealth to be\"). OCR garbles the middle: the speaker and the name of Ali's son are missing, so Ali is marked mentioned and the speaker is treated as the man bringing the camel. Please check."
+  },
+  {
+    "id": "n00955",
+    "summary": "Abdullaah bin Zubayr says that Aa'isha and Asmaa were both generous, Aa'isha by gathering things before distributing them and Asmaa by never keeping anything for the next day.",
+    "people": [
+      {
+        "id": "abdullaah-bin-zubayr",
+        "role": "narrator"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "asmaa-bint-abi-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "sadaqah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"for the next\")."
+  },
+  {
+    "id": "n00956",
+    "summary": "Abdur Rahmaan bin Ka'b reports that Mu'aadh bin Jabal was so generous that he fell into debt, the Prophet had his property sold to repay creditors, and on his return from Yemen with wealth from Zakaah funds, Umar wanted it taken, but Abu Bakr refused and gave it to him as a gift.",
+    "people": [
+      {
+        "id": "abdur-rahmaan-bin-kab",
+        "role": "narrator"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "zakaah",
+      "khilaafah"
+    ],
+    "new_themes": [
+      "debt"
+    ],
+    "boundary": "ok",
+    "notes": "Abdur Rahmaan bin Ka'b is the approved unsure id. The creditors and Mu'aadh's dream are part of the same account."
+  },
+  {
+    "id": "n00957",
+    "summary": "A second report, from an unnamed son of Ka'b bin Maalik, describes Mu'aadh bin Jabal's generosity and debts, and refers the reader back to the account already given.",
+    "people": [
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "sadaqah",
+      "kindness"
+    ],
+    "new_themes": [
+      "debt"
+    ],
+    "boundary": "ok",
+    "notes": "The narrator is named only as the son of Hadhrat Ka'b bin Maalik, so he is not listed. The text says the rest is as quoted above, so this is a short cross-reference rather than a full report."
+  },
+  {
+    "id": "n00958",
+    "summary": "Jaabir reports that Mu'aadh bin Jabal's creditors demanded payment; the Prophet had his possessions handed over, the creditors recovered only part of the debt, and Mu'aadh was later sent to Yemen and met Umar in Makkah, where Umar noticed his slaves.",
+    "people": [
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "kindness"
+    ],
+    "new_themes": [
+      "debt"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence at the end (\"which will be quoted\"). The creditors are unnamed."
+  },
+  {
+    "id": "n00959",
+    "summary": "Ibn Mas'ood reports that after the Prophet's death, Umar met Mu'aadh in Makkah; Mu'aadh had slaves from Yemen, Umar advised giving them to Abu Bakr, and Mu'aadh gave them to Abu Bakr and then freed them all.",
+    "people": [
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "muaadh-bin-jabal",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "khilaafah",
+      "sadaqah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The slaves are unnamed. The Prophet is mentioned as the one who appointed Mu'aadh governor of Yemen."
+  },
+  {
+    "id": "n00960",
+    "summary": "Abdullaah bin Umar reports that Umar was given land in Khaybar, and on the Prophet's advice made it an endowment whose proceeds go to the poor, relatives, freed slaves, the path of Allaah and guests.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "sadaqah",
+      "hospitality"
+    ],
+    "new_themes": [
+      "endowment (waqf)"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

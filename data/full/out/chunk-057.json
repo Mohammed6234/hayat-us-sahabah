@@ -1,0 +1,533 @@
+[
+{
+"id": "n02241",
+"summary": "Abu Hurayrah searches for the Prophet ﷺ, who had stepped away from a group of Companions, and finds him in an orchard; the Prophet sends him with his shoes to give glad tidings of Jannah to anyone who sincerely testifies that there is none worthy of worship but Allaah, and Umar, fearing people would rely on it, persuades the Prophet to let them keep doing good deeds.",
+"people": [
+{"id": "abu-hurayrah", "role": "subject"},
+{"id": "umar", "role": "subject"},
+{"id": "abu-bakr", "role": "mentioned"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "aakhirah", "tawheed"],
+"new_themes": [],
+"boundary": "starts-mid",
+"notes": "Opens mid-sentence, continuing the preceding section."
+},
+{
+"id": "n02242",
+"summary": "Abu Dharr walks at night with the Prophet ﷺ, who tells him Jibra'eel brought the good news that whoever dies without shirk enters Jannah, even if he commits adultery or theft.",
+"people": [
+{"id": "abu-dharr-ghifaari", "role": "subject"},
+{"id": "jibraeel", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "aakhirah", "tawheed", "sadaqah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Ends with an 'Another narration' variant of the same exchange and some OCR debris."
+},
+{
+"id": "n02243",
+"summary": "An old Bedouin, Alqama bin Ulaatha, says he cannot learn the Qur'aan but testifies that there is none worthy of worship but Allaah and that Muhammad ﷺ is the servant and Rasool of Allaah, and the Prophet ﷺ praises his understanding.",
+"people": [
+{"id": "alqama-bin-ulaatha-aamiri", "role": "subject"},
+{"id": "anas-bin-maalik", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["accepting-islaam", "kalimah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Approved entry alqama-bin-ulaatha-aamiri is marked sahabi 'no' but the text gives him 'Hadhrat'; used the approved id as given."
+},
+{
+"id": "n02244",
+"summary": "Uthmaan says he heard the Prophet ﷺ speak of a statement that keeps a sincere speaker from the Fire, and Umar explains that it is the testimony that there is none worthy of worship but Allaah, the statement the Prophet ﷺ urged his uncle Abu Taalib to recite at his death.",
+"people": [
+{"id": "uthmaan", "role": "narrator"},
+{"id": "umar", "role": "subject"},
+{"id": "abu-taalib", "role": "mentioned"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "tawheed", "aakhirah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02245",
+"summary": "Abu Shaddaad, reported by Ya'la bin Shaddaad with Ubaadah bin Saamit confirming, recounts how the Prophet ﷺ had the door shut and had the Companions raise their hands and say Laa Ilaaha Illallaah, then lowered his own hands praising Allaah and affirming the promise of Jannah for this Kalimah.",
+"people": [
+{"id": null, "name": "Ya'la bin Shaddaad", "role": "narrator", "sahabi": "unsure"},
+{"id": "ubaadah-bin-saamit", "role": "mentioned"},
+{"id": null, "name": "Abu Shaddaad", "role": "subject", "sahabi": "yes"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "mercy-and-forgiveness", "aakhirah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Abu Shaddaad may be shaddaad-bin-aws but is not mapped. The text has OCR debris around 'Jhe presence' and the closing quotation."
+},
+{
+"id": "n02246",
+"summary": "Rufaa'ah Juhani reports that at Kudayd the Prophet ﷺ told those who had asked leave to go home that whoever sincerely testifies and walks the right path will enter Jannah, and that 70,000 of his Ummah will enter without reckoning.",
+"people": [
+{"id": null, "name": "Rufaa'ah Juhani", "role": "narrator", "sahabi": "yes"}
+],
+"prophet": "subject",
+"themes": ["aakhirah", "kalimah", "tawheed"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Not mapped to rifaaah-bin-zaid-judhaami or other Rifaa'ah entries; check."
+},
+{
+"id": "n02247",
+"summary": "A variant clause says it was Abu Bakr who called anyone who sought leave after this a fool.",
+"people": [
+{"id": "abu-bakr", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["virtues-of-the-sahabah", "aakhirah"],
+"new_themes": [],
+"boundary": "starts-mid",
+"notes": "Only a clause that continues n02246; not a standalone report."
+},
+{
+"id": "n02248",
+"summary": "Anas reports that when the Prophet ﷺ charged a man for a deed the man denied with an oath, the Prophet told him to atone by testifying that there is none worthy of worship but Allaah.",
+"people": [
+{"id": "anas-bin-maalik", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "honest-dealings", "mercy-and-forgiveness"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Second sentence is a variant from another narration of the same ruling."
+},
+{
+"id": "n02249",
+"summary": "Abdullaah bin Zubayr reports that the Prophet ﷺ said a man who swore falsely using the words of the Kalimah was forgiven because of those words.",
+"people": [
+{"id": "abdullaah-bin-zubayr", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "mercy-and-forgiveness", "honest-dealings"],
+"new_themes": [],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02250",
+"summary": "Abu Moosa Ash'ari reports the Prophet ﷺ saying that Muslims in Jahannam will be taken out after the unbelievers see them, and recites Surah Hijr verses 1-2; Anas reports that believers in Laa Ilaaha Illallaah will be removed from Jahannam by Allaah's mercy after idol-worshippers mock them.",
+"people": [
+{"id": "abu-moosa-ashari", "role": "narrator"},
+{"id": "anas-bin-maalik", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["aakhirah", "kalimah", "mercy-and-forgiveness"],
+"new_themes": [],
+"boundary": "merged",
+"notes": "Two separate reports: Abu Moosa Ash'ari (Surah Hijr) and Anas (the Laat and Uzza worshippers)."
+},
+{
+"id": "n02251",
+"summary": "A narration reported via Tabraani adds that the believers will be called 'the people from Jahannam' because of blackness on their faces, until they bathe in a river in Jannah and the name is removed.",
+"people": [],
+"prophet": "absent",
+"themes": ["aakhirah", "mercy-and-forgiveness"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Tabraani appears only in the reference line and is left out. The narration names no Companion."
+},
+{
+"id": "n02252",
+"summary": "Hudhayfah reports the Prophet ﷺ saying Islaam will fade until only a few old people remain who recite Laa Ilaaha Illallaah from following their forefathers, and that this Kalimah will save them from Jahannam, as Hudhayfah tells Sila when Sila keeps asking.",
+"people": [
+{"id": "hudhayfah", "role": "narrator"},
+{"id": null, "name": "Sila", "role": "subject", "sahabi": "unsure"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "aakhirah", "quraan"],
+"new_themes": ["signs of the Last Hour"],
+"boundary": "ok",
+"notes": "Sila is named only as 'Hadhrat Sila' with no fuller name in the text."
+},
+{
+"id": "n02253",
+"summary": "Ali says the people closest to Allaah are those who most love and honour the believers in Laa Ilaaha Illallaah; Abu Dardaa, told that Abu Sa'd bin Munabbih freed a hundred slaves, says that keeping Imaan attached to the heart and the tongue moist with Dhikr is better.",
+"people": [
+{"id": "ali", "role": "subject"},
+{"id": null, "name": "Saalim bin Abul Ja'd", "role": "narrator", "sahabi": "unsure"},
+{"id": "abu-dardaa", "role": "subject"},
+{"id": null, "name": "Abu Sa'd bin Munabbih", "role": "subject", "sahabi": "unsure"}
+],
+"prophet": "absent",
+"themes": ["kalimah", "dhikr", "freeing-slaves", "muslim-rights"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Narration of Abu Dardaa's remark is cited via Saalim bin Abul Ja'd; the sahabi status of Saalim and Abu Sa'd is not stated in the text."
+},
+{
+"id": "n02254",
+"summary": "Abdullaah bin Mas'ood says Allaah gives Imaan only to those He loves, and that whoever is too miserly to give Sadaqah, too afraid to fight in Jihaad, or too weak for night worship should recite Laa Ilaaha Illallaah, Allaahu Akbar, Al Hamdu Lillaah and Subhaanallaah abundantly.",
+"people": [
+{"id": "abdullaah-bin-masood", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["kalimah", "dhikr", "sadaqah", "guidance"],
+"new_themes": [],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02255",
+"summary": "Anas reports that Abdullaah bin Rawaaha would invite Companions to believe for a moment by talking about Allaah, and the Prophet ﷺ forgave him after a man complained; Ataa bin Yasaar adds that Abdullaah said this to increase Imaan when a companion asked whether they were not already believers.",
+"people": [
+{"id": "abdullaah-bin-rawaaha", "role": "subject"},
+{"id": "anas-bin-maalik", "role": "narrator"},
+{"id": "ataa-bin-yasaar", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "merged",
+"notes": "Two reports: Anas (with the Prophet's reply) and Ataa bin Yasaar."
+},
+{
+"id": "n02256",
+"summary": "Shurayh bin Abdullaah reports that Abdullaah bin Rawaaha would take hold of a Companion's hand and ask him to stand with him in a gathering of Dhikr to believe for a while.",
+"people": [
+{"id": "abdullaah-bin-rawaaha", "role": "subject"},
+{"id": null, "name": "Shurayh bin Abdullaah", "role": "narrator", "sahabi": "unsure"}
+],
+"prophet": "absent",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02257",
+"summary": "Abu Dardaa says Abdullaah bin Rawaaha took his hand and said to believe for a moment, because the heart overturns faster than a pot boiling at its pitch.",
+"people": [
+{"id": "abu-dardaa", "role": "subject"},
+{"id": "abdullaah-bin-rawaaha", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02258",
+"summary": "Abu Dardaa says Abdullaah bin Rawaaha would call him to sit and discuss Imaan, likening it to a qamees that is taken off and put on again, and that the heart overturns faster than a boiling pot.",
+"people": [
+{"id": "abu-dardaa", "role": "subject"},
+{"id": "abdullaah-bin-rawaaha", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": "'O Uwaymir' is the address form used for Abu Dardaa; not tagged separately."
+},
+{
+"id": "n02259",
+"summary": "Abu Dharr reports that Umar would take one or two Companions by the hand and ask them to stand with him to renew their Imaan, and they would talk about Allaah.",
+"people": [
+{"id": "abu-dharr-ghifaari", "role": "narrator"},
+{"id": "umar", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02260",
+"summary": "Aswad bin Hilaal reports that while walking with them, Mu'aadh bin Jabal asked them to sit with him so they could believe for a moment.",
+"people": [
+{"id": null, "name": "Aswad bin Hilaal", "role": "narrator", "sahabi": "unsure"},
+{"id": "muaadh-bin-jabal", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["dhikr", "virtues-of-the-sahabah"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02261",
+"summary": "Abu Hurayrah reports that the Prophet ﷺ told people to renew their Imaan, and when asked how, said to recite Laa Ilaaha Illallaah abundantly.",
+"people": [
+{"id": "abu-hurayrah", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["kalimah", "dhikr"],
+"new_themes": ["renewing imaan"],
+"boundary": "ok",
+"notes": "The trailing heading 'Rejecting Experience and Eye-Witness Accounts' belongs to the next section."
+},
+{
+"id": "n02262",
+"summary": "Abu Sa'eed Khudri reports that a man's brother had diarrhoea, honey made it worse twice, and the Prophet ﷺ told the man to try again, saying Allaah speaks the truth and the brother's belly is lying, until the brother was cured.",
+"people": [
+{"id": "abu-saeed-khudri", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["miracles-and-blessings", "trust-in-allaah"],
+"new_themes": ["illness and cure"],
+"boundary": "ok",
+"notes": "The 'trust-in-allaah' tag is a loose fit; no approved theme covers illness or cure."
+},
+{
+"id": "n02263",
+"summary": "Zaynab, wife of Abdullaah bin Mas'ood, reports that he cut a thread tied to her neck, calling incantations and amulets shirk, and told her to recite the Prophet's ﷺ supplication for cure instead.",
+"people": [
+{"id": null, "name": "Zaynab", "role": "subject", "sahabi": "yes"},
+{"id": "abdullaah-bin-masood", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["tawheed", "duaa"],
+"new_themes": ["illness and cure"],
+"boundary": "ok",
+"notes": "Zaynab is not the approved zaynab-bint-muhammad; the text gives only 'Zaynab', wife of Abdullaah bin Mas'ood."
+},
+{
+"id": "n02264",
+"summary": "Ikrimah reports that Abdullaah bin Rawaaha was caught by his wife with a slave-woman; when she came with a knife he recited verses, and she said she believed in the Book of Allaah and rejected what her eyes had seen, and the Prophet ﷺ smiled broadly when told.",
+"people": [
+{"id": "ikrimah", "role": "narrator"},
+{"id": "abdullaah-bin-rawaaha", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["quraan", "virtues-of-the-sahabah"],
+"new_themes": ["belief over what the eyes see"],
+"boundary": "ok",
+"notes": "The wife is unnamed. The ikrimah id is marked sahabi 'no' in the approved list, but the text gives 'Hadhrat'."
+},
+{
+"id": "n02265",
+"summary": "Habeeb bin Abu Thaabit reports Abu Waa'il's account that at Siffeen Sahl bin Hunayf reminded them that at Hudaybiyyah they had accepted the treaty rather than fight, and that Umar questioned the treaty until the Prophet ﷺ and then Abu Bakr assured him.",
+"people": [
+{"id": null, "name": "Habeeb bin Abu Thaabit", "role": "narrator", "sahabi": "unsure"},
+{"id": "abu-waail-shaqeeq-bin-salama", "role": "narrator"},
+{"id": "ali", "role": "subject"},
+{"id": "sahal-bin-hunayf", "role": "subject"},
+{"id": "umar", "role": "subject"},
+{"id": "abu-bakr", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["hudaybiyyah", "following-the-sunnah", "avoiding-fitnah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Approved entry abu-waail-shaqeeq-bin-salama is marked sahabi 'no' but the text calls him a Sahabi; used the approved id as given."
+},
+{
+"id": "n02266",
+"summary": "Sahl bin Hunayf and Umar recall the Hudaybiyyah treaty: Abu Jandal pleads not to be returned, the Prophet ﷺ says he cannot disobey Allaah, and both the Prophet and Abu Bakr assure Umar that he will perform Tawaaf at the Kabah, after which Umar makes amends.",
+"people": [
+{"id": "sahal-bin-hunayf", "role": "subject"},
+{"id": "abu-jandal", "role": "subject"},
+{"id": "umar", "role": "subject"},
+{"id": "abu-bakr", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["hudaybiyyah", "following-the-sunnah", "sacrifice"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Variants of the same event ('another narration', 'yet another narration'). An editorial cross-reference to Miswar bin Makhramah's narration is not tagged."
+},
+{
+"id": "n02267",
+"summary": "Anas reports that on the return from Hudaybiyyah the Prophet ﷺ received the verse of forgiveness and victory, which he said he loved more than everything on earth, and the Companions then received the verse promising Jannah to the believers.",
+"people": [
+{"id": "anas-bin-maalik", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["hudaybiyyah", "mercy-and-forgiveness", "aakhirah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02268",
+"summary": "Anas and Mujammi bin Jaariya Ansaari report that after Hudaybiyyah the Prophet ﷺ recited the verses of clear victory, and when asked whether it was a victory he swore that it certainly was.",
+"people": [
+{"id": "anas-bin-maalik", "role": "narrator"},
+{"id": null, "name": "Mujammi bin Jaariya Ansaari", "role": "narrator", "sahabi": "yes"}
+],
+"prophet": "subject",
+"themes": ["hudaybiyyah", "quraan"],
+"new_themes": [],
+"boundary": "ends-mid",
+"notes": "Contains two reports (Anas and Mujammi bin Jaariya). The text ends 'The Hadith continues further.'"
+},
+{
+"id": "n02269",
+"summary": "Baraa says the 'victory' of Surah Fath is the pledge of Ridwaan at Hudaybiyyah rather than the conquest of Makkah, and Jaabir says it is nothing other than the Treaty of Hudaybiyyah.",
+"people": [
+{"id": "baraa-bin-aazib", "role": "subject"},
+{"id": "jaabir-bin-abdillaah", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["hudaybiyyah", "conquest-of-makkah", "bayah"],
+"new_themes": [],
+"boundary": "ends-mid",
+"notes": "The text says the narration continues. Baraa and Jaabir are identified from the Hudaybiyyah context only; check which Baraa and Jaabir are meant."
+},
+{
+"id": "n02270",
+"summary": "Qais bin Hajjaaj, reporting from his teacher, says Amr bin Al Aas stopped the Egyptian custom of throwing a virgin into the Nile, the river stopped flowing, and after Umar's note was thrown in it rose sixteen arm's lengths in a single night.",
+"people": [
+{"id": null, "name": "Qais bin Hajjaaj", "role": "narrator", "sahabi": "unsure"},
+{"id": "amr-bin-al-aas", "role": "subject"},
+{"id": "umar", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["miracles-and-blessings", "tawheed", "khilaafah"],
+"new_themes": ["ending pre-Islamic rituals"],
+"boundary": "ok",
+"notes": "OCR gap: the month name is missing. The teacher is unnamed."
+},
+{
+"id": "n02271",
+"summary": "Sahm bin Minjaab reports that on an expedition Alaa bin Hadhrami prayed at the island of Daarayn and led the army through the sea, where the water did not reach their saddle-cloths.",
+"people": [
+{"id": "sahm-bin-minjaab", "role": "narrator"},
+{"id": "alaa-bin-hadhrami", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["duaa", "miracles-and-blessings", "jihaad"],
+"new_themes": [],
+"boundary": "ok",
+"notes": ""
+},
+{
+"id": "n02272",
+"summary": "Abu Hurayrah reports that Ibn Muka'bir, the Persian governor, seeing the Muslims cross the water, refused to fight such people and sailed back to Persia; the author then summarises a later account of Hujr bin Adi leading the crossing of the Tigris, with Sa'd bin Abi Waqqaas.",
+"people": [
+{"id": "abu-hurayrah", "role": "narrator"},
+{"id": null, "name": "Ibn Muka'bir", "role": "subject", "sahabi": "no"},
+{"id": "sad-bin-abi-waqqaas", "role": "mentioned"},
+{"id": null, "name": "Hujr bin Adi", "role": "subject", "sahabi": "yes"}
+],
+"prophet": "absent",
+"themes": ["jihaad", "miracles-and-blessings"],
+"new_themes": [],
+"boundary": "merged",
+"notes": "Abu Hurayrah's report plus an editorial cross-reference summarising the Hujr bin Adi incident from a later chapter. The footnote '(1) A month in their Egyptian calendar' is OCR text."
+},
+{
+"id": "n02273",
+"summary": "Mu'aawiya bin Harmal reports that Umar sent Tameem Daari to deal with a fire rising from Harra, and Tameem drove it back into its crevice with his bare hands; Umar then said one who has witnessed such a sign cannot be like one who has not.",
+"people": [
+{"id": null, "name": "Mu'aawiya bin Harmal", "role": "narrator", "sahabi": "unsure"},
+{"id": "umar", "role": "subject"},
+{"id": "tameem-daari", "role": "subject"}
+],
+"prophet": "absent",
+"themes": ["miracles-and-blessings", "virtues-of-the-sahabah"],
+"new_themes": [],
+"boundary": "ok",
+"notes": "Bayhaqi and Baghawi appear only in the reference line and are not tagged."
+},
+{
+"id": "n02274",
+"summary": "A Sahabi reports that when the Prophet ﷺ struck a boulder at the Khandaq with a spade, each strike sparked and showed him the palaces of Persia, Rome and Abyssinia, and he asked Allaah to grant them to the Muslims; Salmaan Faarsi watched and confirmed it.",
+"people": [
+{"id": "salmaan-faarsi", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["miracles-and-blessings", "jihaad", "prophethood"],
+"new_themes": ["foretold conquests"],
+"boundary": "ok",
+"notes": "The reporting Sahabi is unnamed."
+},
+{
+"id": "n02275",
+"summary": "Amr bin Auf Muzani reports the same boulder event in which the spark lit up Madinah and the Prophet ﷺ promised Heera, Rome and San'aa; the Munaafiqeen mocked, and Surah Ahzaab verses were revealed; the author then previews Ibn Abbaas's fuller account.",
+"people": [
+{"id": null, "name": "Amr bin Auf Muzani", "role": "narrator", "sahabi": "unsure"},
+{"id": "salmaan-faarsi", "role": "subject"},
+{"id": "jibraeel", "role": "subject"},
+{"id": "abdullaah-bin-abbaas", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["miracles-and-blessings", "hypocrisy", "prophethood"],
+"new_themes": ["foretold conquests"],
+"boundary": "merged",
+"notes": "Amr bin Auf's report plus a summary of Ibn Abbaas's later narration (cross-reference). The Munaafiqeen are unnamed."
+},
+{
+"id": "n02276",
+"summary": "The author previews later narrations: the incident of poison having no effect on Khaalid bin Waleed, and the words of a Christian named Amr praising the Arabs while the Sahabah are with them.",
+"people": [
+{"id": "khaalid-bin-waleed", "role": "mentioned"},
+{"id": null, "name": "Amr", "role": "mentioned", "sahabi": "no"}
+],
+"prophet": "absent",
+"themes": ["miracles-and-blessings", "virtues-of-the-sahabah"],
+"new_themes": [],
+"boundary": "not-narration",
+"notes": "Editorial cross-reference to later chapters, with no narration of its own. The Christian Amr is not mapped to amr-bin-al-aas."
+},
+{
+"id": "n02277",
+"summary": "Thaabit bin Aqram tells Abu Hurayrah that numbers did not help at Badr; Khaalid says victory comes from Allaah and not numbers; Abu Bakr writes to Amr bin Al Aas that Allaah helped them with few, and refuses to hold back Usaamah's army; and Abdullaah bin Rawaaha urges the Muslims at Mu'ta to fight with trust in Allaah.",
+"people": [
+{"id": null, "name": "Thaabit bin Aqram", "role": "subject", "sahabi": "yes"},
+{"id": "abu-hurayrah", "role": "subject"},
+{"id": "khaalid-bin-waleed", "role": "subject"},
+{"id": "abu-bakr", "role": "subject"},
+{"id": "amr-bin-al-aas", "role": "mentioned"},
+{"id": "usaama-bin-zaid", "role": "mentioned"},
+{"id": "abdullaah-bin-rawaaha", "role": "subject"}
+],
+"prophet": "mentioned",
+"themes": ["jihaad", "trust-in-allaah", "virtues-of-the-sahabah"],
+"new_themes": ["victory by Allaah's help, not numbers"],
+"boundary": "merged",
+"notes": "Several separate reports plus editorial cross-references to later chapters; the closing sentence is editorial."
+},
+{
+"id": "n02278",
+"summary": "Anas reports that the Prophet ﷺ found Haarith bin Maalik asleep in the Masjid and asked how he felt that morning; Haarith said he felt like a true Mu'min, describing how he turned from the world, fasted, prayed at night and seemed to see the Arsh and the people of Jannah and Jahannam, and the Prophet told him to remain steadfast.",
+"people": [
+{"id": "anas-bin-maalik", "role": "narrator"},
+{"id": null, "name": "Haarith bin Maalik", "role": "subject", "sahabi": "yes"}
+],
+"prophet": "subject",
+"themes": ["zuhd", "fasting", "aakhirah"],
+"new_themes": ["reality of imaan"],
+"boundary": "ok",
+"notes": "Haarith bin Maalik is not the approved haarith-bin-haarith-ghaamidi and is not mapped."
+},
+{
+"id": "n02279",
+"summary": "Another narration names the Sahabi as Haaritha bin Nu'maan, who asked the Prophet ﷺ to pray that he be martyred, and was the first to mount his horse when the call to Jihaad was made and the first to be martyred; Anas then reports a similar exchange with a young Ansaari, and another narration gives the same question about substantiating Imaan.",
+"people": [
+{"id": "haaritha-bin-numaan", "role": "subject"},
+{"id": "anas-bin-maalik", "role": "narrator"}
+],
+"prophet": "subject",
+"themes": ["martyrdom", "jihaad", "duaa"],
+"new_themes": ["reality of imaan"],
+"boundary": "merged",
+"notes": "The young Ansaari in the second Anas report is named only 'Haarith'; probably Haaritha bin Nu'maan, but not mapped."
+},
+{
+"id": "n02280",
+"summary": "Anas reports that Mu'aadh bin Jabal said he felt like a true believer that morning; when the Prophet ﷺ asked for proof, he described fearing death each morning and evening, seeing all nations kneeling for the Day of Qiyaamah, and the punishments of Jahannam and rewards of Jannah, and the Prophet told him to remain steadfast.",
+"people": [
+{"id": "anas-bin-maalik", "role": "narrator"},
+{"id": "muaadh-bin-jabal", "role": "subject"}
+],
+"prophet": "subject",
+"themes": ["aakhirah", "fear-of-allaah", "steadfastness"],
+"new_themes": ["reality of imaan"],
+"boundary": "ok",
+"notes": ""
+}
+]

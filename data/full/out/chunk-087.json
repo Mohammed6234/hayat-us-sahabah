@@ -1,0 +1,517 @@
+[
+  {
+    "id": "n03441",
+    "summary": "Abdullaah bin Mas'ood advised a man to worship Allaah alone and to accept what is true from anyone, while rejecting falsehood even when it comes from someone close.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Abdur Rahmaan bin Abdullaah bin Mas'ood", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["tawheed", "guidance"],
+    "new_themes": ["accepting the truth whoever brings it"],
+    "boundary": "ok",
+    "notes": "The narrator is named in the text only as the son of Abdullaah bin Mas'ood; not on the approved list."
+  },
+  {
+    "id": "n03442",
+    "summary": "Abdullaah bin Mas'ood gave several sayings: the truth is hard and falsehood pleasant, the heart can be zealous or lethargic, outward health means little if the heart is sick, and one should not follow others blindly.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Mundhir", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["sincerity", "aakhirah", "following-the-sunnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "OCR garbles the join between two reports at 'ignore its / Hadhrat Mundhir (RA) that when'. Mundhir's full name and Companion status are not clear from the text."
+  },
+  {
+    "id": "n03443",
+    "summary": "Abdullaah bin Mas'ood gave a long series of sayings on the Aakhirah, the Qur'aan, the Sunnah and the harm of worldly desire.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["zuhd", "aakhirah", "quraan"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Many separate sayings joined in one narration. OCR garbles the honorific after the Qur'aan reference ('SB-saSS?')."
+  },
+  {
+    "id": "n03444",
+    "summary": "Abdullaah bin Mas'ood said that whoever acts for show or to be heard will have his faults exposed on the Day of Qiyaamah, and that Allaah humbles the proud and raises the humble.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sincerity", "humility"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03445",
+    "summary": "Salmaan Faarsi said that three things make him laugh and three make him weep: the one who hopes at length while death searches for him, separation from the Prophet and his party, the scene of death's pangs, and standing before Allaah.",
+    "people": [
+      { "id": "jafar-bin-burqaan", "role": "narrator" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["aakhirah", "death-and-burial", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR debris ('the_', '1 know') in the text."
+  },
+  {
+    "id": "n03446",
+    "summary": "Salmaan said that when Allaah intends a person's ruin, He removes modesty, then mercy, then trustworthiness, and finally the bond of Islaam.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03447",
+    "summary": "Salmaan compared the believer in this world to a sick person whose physician forbids harmful things, showing that Allaah withholds many comforts from the believer until Jannah.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["qadr", "patience"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03448",
+    "summary": "Abu Dardaa invited Salmaan to Shaam, and Salmaan replied that knowledge, not land, makes a person blessed, and warned Abu Dardaa as a judge not to be a quack who wrongly condemns people.",
+    "people": [
+      { "id": "yahya-bin-saeed", "role": "narrator" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "justice", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray ' ) at the end is OCR debris."
+  },
+  {
+    "id": "n03449",
+    "summary": "Abu Dardaa said the people stay in good standing while they love their righteous ones and recognise the truth when it is spoken.",
+    "people": [
+      { "id": "hassaan-bin-atiyya", "role": "narrator" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03450",
+    "summary": "Abu Dardaa gave several pieces of advice: do not compel or blame people beyond what Allaah requires, worship as if you can see Allaah, goodness lies in knowledge and patience rather than wealth, and seek forgiveness after sin.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "aakhirah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate sayings joined together. The last saying has no closing quote, which may be OCR."
+  },
+  {
+    "id": "n03451",
+    "summary": "Abu Dardaa warned that secret disobedience brings hatred in the hearts of believers, described the apex of Imaan, warned against greed for wealth, and rebuked the people of Damascus for hoarding and building.",
+    "people": [
+      { "id": null, "name": "Saalim bin Abul Ja'd", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several sayings in one narration. The nation of Aad is named but is not a person, so it was left out."
+  },
+  {
+    "id": "n03452",
+    "summary": "Abu Dardaa called the people of Damascus to the Masjid and began to rebuke them for their building and planting, but the text gives only the opening and refers back to the previous narration.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The narration ends 'the rest of the narration is like the one above'. The rest is in n03451."
+  },
+  {
+    "id": "n03453",
+    "summary": "Abu Dardaa urged the wealthy to give in sadaqah before death, warned against seeking bounty while starving oneself of knowledge, praised those who fast, and spoke to builders and to ruins about the transience of the world.",
+    "people": [
+      { "id": null, "name": "Safwaan bin Amr", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "makhool", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined in one narration."
+  },
+  {
+    "id": "n03454",
+    "summary": "Abu Dardaa said he loved death, poverty and illness for the reasons they bring him closer to his Rabb and cleanse his sins, and Shurahbeel reports his reflection at every funeral.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "shurahbeel", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "illness-and-cure", "zuhd"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports joined."
+  },
+  {
+    "id": "n03455",
+    "summary": "Aun bin Abdullaah reports Abu Dardaa's advice that searching hard for others' faults makes a person lose sight of his own, and that one should lend to the one who will repay on the Day of Qiyaamah.",
+    "people": [
+      { "id": null, "name": "Aun bin Abdullaah", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03456",
+    "summary": "Abu Dardaa said that the person who often thinks of death shows off less and is less jealous.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["death-and-burial", "sincerity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03457",
+    "summary": "Abu Dardaa rebuked those who are greedy for provision already guaranteed while neglecting their duties, advised pure sustenance and remembrance of death, and urged seeking Allaah's mercy and forgiveness.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Abdullaah bin Jubayr bin Nufayr", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "salaah", "zuhd"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several sayings in one narration, including advice given to an unnamed man. Abdullaah bin Jubayr bin Nufayr is not the approved Abdullaah bin Jubayr Khuzaaee."
+  },
+  {
+    "id": "n03458",
+    "summary": "Abu Dardaa warned against the curse of the oppressed and of the orphan, and said the person he most hates to oppress is one who has none but Allaah to turn to for help.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["justice", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03459",
+    "summary": "Abu Dardaa wrote letters to Salmaan, an unnamed companion and Maslamah bin Mukhallad, passing on the Prophet's counsel about the Masjid, orphans, wealth, servants and pleasing Allaah.",
+    "people": [
+      { "id": null, "name": "Ma'mar", "role": "narrator", "sahabi": "no" },
+      { "id": "salmaan-faarsi", "role": "mentioned" },
+      { "id": "ummu-dardaa", "role": "mentioned" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": null, "name": "Abdur Rahmaan bin Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Maslamah bin Mukhallad", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "aakhirah", "kindness", "slaves-and-servants"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate letters and sayings joined. The ﷺ after 'Abdur Rahmaan bin Muhammad' is probably an OCR error, so his status is unsure. Ma'mar is matched to no approved entry; the approved 'mamar' is a different person as far as the text shows. Ummu Dardaa is the author's wife."
+  },
+  {
+    "id": "n03460",
+    "summary": "Abu Dardaa said there is no Islaam without obedience to Allaah, no good without staying with the Muslim community, and sincere goodwill toward Allaah's Deen, His Khalifah and the believers.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["muslim-rights", "khilaafah", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03461",
+    "summary": "Abu Dharr Ghifaari stood by the Kabah and advised the people to prepare provisions for the journey to Qiyaamah through Hajj, fasting, night prayer, sadaqah and good speech, and to avoid greed.",
+    "people": [
+      { "id": null, "name": "Sufyaan Thowri", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "sadaqah", "nafl-salaah", "zuhd"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Dharr gives his name as Jundub Ghifaari in the text; this is the same person as abu-dharr-ghifaari."
+  },
+  {
+    "id": "n03462",
+    "summary": "Two reports give advice from Abu Dharr on the Aakhirah, night prayer, fasting, sadaqah, and the dislike people have for death and poverty, and in the second report Abu Dardaa joins him.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Muhammad", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Hibbaan bin Abi Jabalah", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "zuhd", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. The first is partly garbled by OCR ('for Hadhrat Abu Dharr (RA) also said'), and the reliable scholar it cites is unnamed."
+  },
+  {
+    "id": "n03463",
+    "summary": "Hudhayfah told the people to ask him about the living dead, who are those who oppose despotic rule neither with heart, tongue nor hand.",
+    "people": [
+      { "id": null, "name": "Abu Tufayl", "role": "narrator", "sahabi": "unsure" },
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["enjoining-good", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Tufayl is not on the approved list under that name, and his Companion status is not clear from the text. The Prophet is subject as the one who called people away from misguidance."
+  },
+  {
+    "id": "n03464",
+    "summary": "Hudhayfah said hearts come in four kinds: the veiled heart of the disbeliever, the two-faced heart of the hypocrite, the clear heart of the believer, and the heart that holds both hypocrisy and Imaan.",
+    "people": [
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["hypocrisy", "sincerity"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03465",
+    "summary": "Hudhayfah warned that trials of temptation sweep away anyone who faces them alone, that each accepted temptation leaves a black spot on the heart, and advised staying at home and dying in times of peace if given the choice.",
+    "people": [
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "steadfastness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several sayings joined; the second part starts with 'Hadhrat Hudhayfah (RA) also said'."
+  },
+  {
+    "id": "n03466",
+    "summary": "Hudhayfah listed three sources of corruption, said trials wear down the senses more than wine, said a time will come when only one who makes du'aa like a drowning person is safe, and said the best person takes from both worlds.",
+    "people": [
+      { "id": "hudhayfa-bin-yamaan", "role": "subject" },
+      { "id": "amash", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["avoiding-fitnah", "duaa", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several sayings joined. Stray OCR debris (' ') in the text."
+  },
+  {
+    "id": "n03467",
+    "summary": "Abul Aaliya reports that Ubay bin Ka'b advised a man to make the Qur'aan his guide, his judge and his intercessor.",
+    "people": [
+      { "id": "abul-aaliya-baraa", "role": "narrator" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["quraan", "guidance"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Matched 'Abul Aaliya' to the approved abul-aaliya-baraa, the only Abul Aaliya on the list. The text gives only 'Abul Aaliya', so check it is the same man."
+  },
+  {
+    "id": "n03468",
+    "summary": "Ubay bin Ka'b said that whoever gives something up for Allaah's pleasure is given something better from unexpected sources, and whoever wrongly takes what he looks down on will meet something worse.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["taqwa", "trust-in-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03469",
+    "summary": "Ubay bin Ka'b said a believer has four qualities of patience, gratitude, truthfulness and justice, and that the believer and the disbeliever each pass through five places of light or darkness.",
+    "people": [
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["patience", "gratitude", "good-character", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles a Qur'aan quotation ('Noor light), regarding which Allaah says'), so the verse is missing from the text."
+  },
+  {
+    "id": "n03470",
+    "summary": "Jabar or Juwaybir reports that when he belittled the world before Umar, Ubay bin Ka'b, who was sitting beside Umar, corrected him that the world is the means to the Aakhirah, and Ubay later gave advice about minding one's own affairs.",
+    "people": [
+      { "id": null, "name": "Abu Basrah", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Jabar or Juwaybir", "role": "subject", "sahabi": "unsure" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": "ubay-bin-kab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined: the story of Jabar or Juwaybir and a separate piece of advice from Ubay bin Ka'b, which the OCR has run on from the first. Jabar's Companion status is not clear from the text."
+  },
+  {
+    "id": "n03471",
+    "summary": "Zaid bin Thaabit wrote to Ubay bin Ka'b that the tongue should follow the heart, that speech without matching action is empty, and that one should not look at others' faults while ignoring one's own.",
+    "people": [
+      { "id": null, "name": "Dinaar Bahraani", "role": "narrator", "sahabi": "no" },
+      { "id": "zaid-bin-thaabit", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "sincerity", "muslim-rights"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03472",
+    "summary": "Abdullaah bin Abbaas warned a sinner that several things are worse than the sin itself, such as feeling safe, laughing at it or being pleased with it, and related how Ayyoob was tested for failing to help a poor man against an oppressor.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": null, "name": "Ayyoob", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "sincerity", "justice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ayyoob is the Prophet Ayyub, not on the approved list. Not a Companion."
+  },
+  {
+    "id": "n03473",
+    "summary": "Abdullaah bin Abbaas advised fulfilling the obligations Allaah has set with sincere intention, and taught that every person's lawful provision is decreed, that patience brings it, and that taking the unlawful reduces it.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "qadr", "sincerity"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two sayings joined by 'is also reported'. OCR garbles 'Faraa'idh' as 'fulftf'."
+  },
+  {
+    "id": "n03474",
+    "summary": "Abdullaah bin Umar said that receiving anything of this world lowers a servant's status before Allaah, even for someone who is honoured by Him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03475",
+    "summary": "Abdullaah bin Umar said a man cannot reach the apex of Imaan until he counts people foolish for preferring this world, and then with Mujaahid he spoke to some ruins, saying that only their deeds remain.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Mujaahid", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined, with OCR debris ('^ .') before the second. Mujaahid is telling his own walk, so his role is subject."
+  },
+  {
+    "id": "n03476",
+    "summary": "Wahab bin Kaysaan reports Abdullaah bin Zubayr's letter describing the traits of the people of Taqwa and comparing a ruler to a marketplace where only what is popular is brought.",
+    "people": [
+      { "id": null, "name": "Wahab bin Kaysaan", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["taqwa", "patience", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03477",
+    "summary": "Hasan bin Ali said that craving the world makes a person its slave, that one who does not aspire to it has enough, and that a person who makes no spiritual progress is deceived.",
+    "people": [
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "aakhirah", "fear-of-allaah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03478",
+    "summary": "Hasan bin Ali said that tolerance adds beauty to character, keeping promises shows manliness, and haste, excessive travel, wicked company and sinful company are faults.",
+    "people": [
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n03479",
+    "summary": "Hasan bin Ali divided people into four kinds: those with goodness but no good character, those with good character but no goodness, those with neither, and the best, who have both.",
+    "people": [
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "sincerity"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "The text is cut off mid-sentence at 'with a great share of'. The continuation is not in this chunk."
+  },
+  {
+    "id": "n03480",
+    "summary": "Ziyaad bin Maahak reports Shaddaad bin Aws saying that goodness and evil lie in Jannah and Jahannam and that people should belong to the Aakhirah rather than this world, and Abu Dardaa then praised Shaddaad for combining knowledge with forbearance.",
+    "people": [
+      { "id": null, "name": "Ziyaad bin Maahak", "role": "narrator", "sahabi": "no" },
+      { "id": "shaddaad-bin-aws", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "zuhd", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Shaddaad's advice, then Abu Dardaa praising him. The Abu Ya'la named in the text is Shaddaad bin Aws himself, not a separate person."
+  }
+]

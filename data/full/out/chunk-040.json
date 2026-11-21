@@ -1,0 +1,560 @@
+[
+ {
+  "id": "n01561",
+  "summary": "Abdullaah bin Amr (RA) asks Husayn bin Ali (RA) for forgiveness after a long estrangement, and Husayn accepts once Abu Sa'eed (RA) has arranged the meeting.",
+  "people": [
+    { "id": "abdullaah-bin-amr", "role": "subject" },
+    { "id": "husayn-bin-ali", "role": "subject" },
+    { "id": "abu-saeed-khudri", "role": "subject" },
+    { "id": null, "name": "Rajaa bin Rabee'ah", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["brotherhood", "kindness"],
+  "new_themes": ["reconciliation between Muslims"],
+  "boundary": "ok",
+  "notes": "Left out the scholarly reference line (Bazzaar, Haythami). Narrator's sahabi status is not stated in the text."
+ },
+ {
+  "id": "n01562",
+  "summary": "Ali (RA) says that fulfilling a Muslim's need is more beloved to him than a earth full of gold and silver.",
+  "people": [
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["kindness", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01563",
+  "summary": "Umar (RA) stands still and listens to an old woman, Khowlah, until she has stated her need, and explains that Allaah heard her complaint from above the seven heavens.",
+  "people": [
+    { "id": "umar", "role": "subject" },
+    { "id": null, "name": "Khowlah bint Tha'laba", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Thumaamah ibn Hazan", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["kindness", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined. The second (Thumaamah ibn Hazan) is cut off mid-sentence and its later text is garbled OCR running into an unrelated report about the Prophet at an Ansaar house. Only the first report and the opening of Thumaamah's report were tagged. Khowlah bint Tha'laba is not in the vocabulary (Khowla bint Qais is a different person) and the text does not state her sahabi status."
+ },
+ {
+  "id": "n01564",
+  "summary": "Anas (RA) reports that the Prophet ﷺ forged a bond of brotherhood between every two Sahabah, so that each missed his brother terribly until they met.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01565",
+  "summary": "Companions of Abdullaah bin Mas'ood (RA) tell him they still visit each other, and he says they will remain in good stead as long as they keep doing so.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "subject" },
+    { "id": null, "name": "Own", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator's name is garbled in the OCR ('Hadhrat Own'). It is left unmatched and not guessed."
+ },
+ {
+  "id": "n01566",
+  "summary": "Ummu Dardaa (RA) reports that Salmaan (RA) walked all the way from Madaa'in to visit her husband Abu Dardaa in Shaam, and that Abu Dardaa wore only a short shawl.",
+  "people": [
+    { "id": null, "name": "Ummu Dardaa", "role": "narrator", "sahabi": "yes" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "abu-dardaa", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["brotherhood", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text stops after the description of Abu Dardaa's shawl. The story it leads into is missing and the opening bracket is unclosed."
+ },
+ {
+  "id": "n01567",
+  "summary": "Abdullaah bin Umar (RA) reports that the Prophet ﷺ threw him a pillow stuffed with bark during a visit, which he did not sit on out of respect.",
+  "people": [
+    { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01568",
+  "summary": "Ummu Sa'd (RA), daughter of Sa'd bin Rabee (RA), is given a sheet to sit on by Abu Bakr (RA), who tells Umar (RA) that her father has already prepared his place in Jannah.",
+  "people": [
+    { "id": "umm-sad-bint-sad-bin-rabee", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "sad-bin-rabee", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01569",
+  "summary": "Anas (RA) reports that Salmaan (RA) visited Umar (RA), who threw him a cushion, and Salmaan quoted the Prophet's words that a host who gives his guest a cushion has his sins forgiven.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "salmaan-faarsi", "role": "subject" },
+    { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Same hadith as n01570 and n01571, told with different speakers."
+ },
+ {
+  "id": "n01570",
+  "summary": "Anas (RA) reports that Umar (RA) threw a cushion to Salmaan (RA) and recited the hadith that a host who gives a cushion to his guest has his sins forgiven.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["hospitality", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Same hadith as n01569 and n01571. The Prophet is not named here; the hadith is quoted by Umar."
+ },
+ {
+  "id": "n01571",
+  "summary": "Anas (RA) reports that Salmaan (RA) threw a cushion to Umar (RA), who asked what it meant, and Salmaan quoted the Prophet's hadith on the cushion of hospitality and honour.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "salmaan-faarsi", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Umar's name is garbled in the OCR ('SI5.8SS8') and was tagged as Umar from the context. Text is cut off mid-hadith."
+ },
+ {
+  "id": "n01572",
+  "summary": "Ibraheem bin Nasheet reports that Abdullaah bin Haarith bin Jaz Zubaydi threw him the cushion he had been sitting on, and said that whoever is not hospitable to a visitor has no ties with Ahmad or Ibraheem.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Haarith bin Jaz Zubaydi", "role": "subject", "sahabi": "yes" },
+    { "id": null, "name": "Ibraheem bin Nasheet", "role": "subject", "sahabi": "unsure" },
+    { "id": "ibraheem", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Ahmad is read as the Prophet ﷺ. Text stops after 'ties with either Ahmad or Ibraheem,'."
+ },
+ {
+  "id": "n01573",
+  "summary": "Sahal bin Sa'd (RA) reports that Abu Usayd Saa'idi (RA) invited the Prophet ﷺ to his wedding feast, where his new bride served him dates soaked overnight in a vessel.",
+  "people": [
+    { "id": "sahal-bin-sad", "role": "narrator" },
+    { "id": "abu-usayd-saaidi", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "marriage"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The bride is unnamed and left out."
+ },
+ {
+  "id": "n01574",
+  "summary": "Two visitors decline a cushion from Abdullaah bin Haarith (RA), who warns that whoever is not hospitable to a visitor has no ties with the Prophet or Ibraheem.",
+  "people": [
+    { "id": null, "name": "Abdullaah bin Haarith bin Jaz Zubaydi", "role": "subject", "sahabi": "yes" },
+    { "id": "ibraheem", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["hospitality", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The two visitors are unnamed and left out. Text stops mid-sentence ('fail to think of Allaah'). 'Muhammad gflf' in the OCR is read as the Prophet ﷺ."
+ },
+ {
+  "id": "n01575",
+  "summary": "The Prophet ﷺ throws his shawl to Jareer bin Abdullaah (RA) so he can sit, and tells the people to honour a prominent person of a tribe who comes to them.",
+  "people": [
+    { "id": "jareer-bin-abdillaah", "role": "subject" },
+    { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["hospitality", "kindness"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Jareer's own account, then Abu Hurayrah's. The second is cut off mid-sentence and is garbled in places. Its 'he also gave me his shawl ... I then accepted islaam' does not say clearly who accepted Islaam, so 'accepting-islaam' was not tagged."
+ },
+ {
+  "id": "n01576",
+  "summary": "Abu Dharr (RA) judges Ju'ayl (RA) to be a poor man, but the Prophet ﷺ says Ju'ayl is better than a world full of leaders like him, and that he gives to Uyaynah and Aqra only to win their hearts to Islaam.",
+  "people": [
+    { "id": "abu-dharr-ghifaari", "role": "subject" },
+    { "id": null, "name": "Ju'ayl bin Suraaqa", "role": "subject", "sahabi": "yes" },
+    { "id": "uyayna-fazaari", "role": "mentioned" },
+    { "id": "aqra-bin-haabis", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["dawah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined (Abu Dharr's account, then 'another narration'). Ju'ayl bin Suraaqa is not in the vocabulary and is not the same person as Suraaqa bin Maalik."
+ },
+ {
+  "id": "n01577",
+  "summary": "Husayn bin Saburah and Amr bin Muslim ask Zaid bin Arqam (RA) about the Prophet's household, and Ibn Abbaas (RA) reports that Abu Bakr (RA) gave his seat to Abbaas (RA), after which the Prophet ﷺ foretold the future of Abbaas's descendants.",
+  "people": [
+    { "id": null, "name": "Yazeed bin Hayyaan", "role": "narrator", "sahabi": "unsure" },
+    { "id": null, "name": "Husayn bin Saburah", "role": "subject", "sahabi": "unsure" },
+    { "id": null, "name": "Amr bin Muslim", "role": "mentioned", "sahabi": "unsure" },
+    { "id": "zaid-bin-arqam", "role": "subject" },
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Yazeed bin Hayyaan's visit to Zaid bin Arqam, then Ibn Abbaas's report. The second ends mid-sentence ('twelve of them shall be'). Yazeed bin Hayyaan is not in the vocabulary. The OCR fragment \"(1 '\" is ignored."
+ },
+ {
+  "id": "n01578",
+  "summary": "Ja'far bin Muhammad reports the seating order around the Prophet ﷺ, and that Abu Bakr (RA) always gave his place to Abbaas (RA) when he came.",
+  "people": [
+    { "id": null, "name": "Ja'far bin Muhammad", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "mentioned" },
+    { "id": "uthmaan", "role": "mentioned" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The report runs through an unnamed great-grandfather, who is left out. Ja'far bin Muhammad is not matched to any vocabulary entry."
+ },
+ {
+  "id": "n01579",
+  "summary": "Abbaas (RA) comes to the Prophet ﷺ in anger at how the Quraysh treat the Banu Haashim, and the Prophet says that faith is incomplete without loving the Banu Haashim for the sake of Allaah.",
+  "people": [
+    { "id": null, "name": "Muttalib bin Rabee'ah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Muttalib bin Rabee'ah is not in the vocabulary and the text does not state his sahabi status."
+ },
+ {
+  "id": "n01580",
+  "summary": "Abbaas (RA) reports that he complained to the Prophet ﷺ that the Quraysh greet the Banu Haashim with strange faces, and the Prophet became very angry.",
+  "people": [
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Same event as n01579, in a second report. Text stops mid-sentence after 'for the sake of Allaah and His Rasool ﷺ'."
+ },
+ {
+  "id": "n01581",
+  "summary": "Ismah narrates that Abbaas (RA) noticed resentment on people's faces in the Masjid, asked the Prophet ﷺ about it, and the Prophet told the people that they cannot be believers until they love Abbaas.",
+  "people": [
+    { "id": null, "name": "Ismah", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator 'Hadhrat Ismah' is not identified in the vocabulary or elsewhere in the text."
+ },
+ {
+  "id": "n01582",
+  "summary": "Abdullaah bin Mas'ood (RA) reports that the Prophet ﷺ sent Umar (RA) to collect zakaah, that Umar and Abbaas (RA) quarrelled over it, and that the Prophet approved Umar's conduct after Ali (RA) brought the matter to him.",
+  "people": [
+    { "id": "abdullaah-bin-masood", "role": "narrator" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["zakaah", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01583",
+  "summary": "Abdullaah bin Abbaas (RA) reports that Abbaas (RA) slapped a man who insulted his father, and the Prophet ﷺ told the people that Abbaas is from him and that the dead should not be insulted to hurt the living.",
+  "people": [
+    { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who was slapped is unnamed and left out."
+ },
+ {
+  "id": "n01584",
+  "summary": "In another report, the people ask the Prophet ﷺ to seek Allaah's forgiveness on their behalf after the incident with Abbaas, and he agrees.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["family", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with 'Another narration states' and refers back to n01583. It does not stand alone."
+ },
+ {
+  "id": "n01585",
+  "summary": "Ibn Shihaab reports that Abu Bakr (RA) and Umar (RA), during their caliphates, dismounted and led Abbaas's animal on foot whenever they met him riding.",
+  "people": [
+    { "id": "ibn-shihaab", "role": "narrator" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "umar", "role": "subject" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["family", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01586",
+  "summary": "Qaasim bin Muhammad reports that Uthmaan (RA) had a man lashed for ridiculing Abbaas (RA), reasoning that whoever allows such behaviour opposes the Prophet, and the Sahabah approved the ruling.",
+  "people": [
+    { "id": "qaasim-bin-muhammad", "role": "narrator" },
+    { "id": "uthmaan", "role": "subject" },
+    { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["justice", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who was lashed and the objector are unnamed and left out."
+ },
+ {
+  "id": "n01587",
+  "summary": "Anas (RA) reports that Abu Bakr (RA) gave his place beside the Prophet ﷺ to Ali (RA), and the Prophet said that only people of virtue recognise virtue in others.",
+  "people": [
+    { "id": "anas-bin-maalik", "role": "narrator" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "brotherhood"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01588",
+  "summary": "Rabaah bin Haarith reports that a group of Ansaar greeted Ali (RA) as their Moula, citing the Prophet's words at the pond of Khum, and that Abu Ayyoob Ansaari (RA) was among them.",
+  "people": [
+    { "id": null, "name": "Rabaah bin Haarith", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" },
+    { "id": "abu-ayyoob-ansaari", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with the tail of a heading ('as \"O Moulana\"'). 'Rabaah' in the vocabulary is marked unsure and is not matched to Rabaah bin Haarith. The Ansaar group is unnamed apart from Abu Ayyoob."
+ },
+ {
+  "id": "n01589",
+  "summary": "Buraydah (RA) reports that after an expedition under Ali (RA) he complained about Ali, and the Prophet ﷺ's face turned red with anger as he said: for whoever I am a friend to, Ali is also their friend.",
+  "people": [
+    { "id": "buraydah-bin-husayb", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The vocabulary has two entries for this companion, both marked yes: buraydah-bin-husayb and buraydah-bin-khusayb. I used buraydah-bin-husayb, the usual form; the duplicate should be merged. Text stops mid-sentence."
+ },
+ {
+  "id": "n01590",
+  "summary": "Amr bin Shaas Aslami (RA) reports that he harboured anger against Ali (RA) for his harshness, and the Prophet ﷺ told him that whoever hurts Ali has hurt him.",
+  "people": [
+    { "id": null, "name": "Amr bin Shaas Aslami", "role": "subject", "sahabi": "yes" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Amr bin Shaas Aslami is not in the vocabulary. Hamzah bin Amr Aslami is a different person."
+ },
+ {
+  "id": "n01591",
+  "summary": "Sa'd bin Abi Waqqaas (RA) reports that he and two others insulted Ali (RA) in the Masjid, and when the Prophet ﷺ came in angry, he said that whoever hurts Ali has hurt him.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ends-mid",
+  "notes": "The two companions with Sa'd are unnamed and left out. Text stops mid-quote."
+ },
+ {
+  "id": "n01592",
+  "summary": "Umar (RA) rebukes a man who insulted Ali (RA) in his presence, reminding him that the Prophet ﷺ is in the grave and that hurting Ali hurts him.",
+  "people": [
+    { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "umar", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "The text says only 'Hadhrat Urwa (RA)'. It could be Urwa bin Zubayr (vocabulary 'urwa-bin-zubayr', unsure) or Urwa bin Mas'ood (vocabulary 'urwa-bin-masood', yes). Not matched, to avoid a wrong attribution. The insulter is unnamed and left out."
+ },
+ {
+  "id": "n01593",
+  "summary": "Abu Bakr bin Khaalid bin Urfuta asks Sa'd bin Maalik whether he has reviled Ali, and Sa'd says he would never revile him even if a saw were placed on his head.",
+  "people": [
+    { "id": null, "name": "Abu Bakr bin Khaalid bin Urfuta", "role": "subject", "sahabi": "unsure" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "'Sa'd bin Maalik' is matched to sad-bin-abi-waqqaas, since Sa'd bin Abi Waqqaas's full name is Sa'd bin Maalik. The narrator's sahabi status is not stated in the text."
+ },
+ {
+  "id": "n01594",
+  "summary": "Mu'aawiya bin Abi Sufyaan asks Sa'd bin Abi Waqqaas (RA) why he does not revile Ali, and Sa'd lists the virtues the Prophet ﷺ gave Ali: the rank like Haaroon and Moosa, the flag at Khaybar, and being called with his family.",
+  "people": [
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+    { "id": "ali", "role": "mentioned" },
+    { "id": "faatima", "role": "mentioned" },
+    { "id": "hasan-bin-ali", "role": "mentioned" },
+    { "id": "husayn-bin-ali", "role": "mentioned" },
+    { "id": null, "name": "Haaroon", "role": "mentioned", "sahabi": "no" },
+    { "id": "moosa", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "family"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "Haaroon and Moosa are prophets, tagged as people because the vocabulary includes prophets such as Moosa. The Qur'aan verse quoted is not tagged."
+ },
+ {
+  "id": "n01595",
+  "summary": "Abu Nujayh reports that Mu'aawiya bin Abi Sufyaan, during Hajj, spoke ill of Ali (RA) to Sa'd bin Abi Waqqaas (RA), who rebuked him and walked out, quoting the Prophet's words about Ali.",
+  "people": [
+    { "id": null, "name": "Abu Nujayh", "role": "narrator", "sahabi": "unsure" },
+    { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+    { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+    { "id": "ali", "role": "mentioned" },
+    { "id": null, "name": "Haaroon", "role": "mentioned", "sahabi": "no" },
+    { "id": "moosa", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "Abu Nujayh is not matched. The vocabulary has 'abu-najeeh' (yes), which may be the same person, but the spelling differs and the text does not confirm it. Please check."
+ },
+ {
+  "id": "n01596",
+  "summary": "Abu Abdullaah Jadali reports that Ummu Salamah (RA) asked whether people revile the Prophet, and then quoted the Prophet that whoever reviles Ali has reviled him.",
+  "people": [
+    { "id": null, "name": "Abu Abdullaah Jadali", "role": "subject", "sahabi": "unsure" },
+    { "id": "umm-salama", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "The heading is garbled ('Ummu S a lam ah') and was ignored."
+ },
+ {
+  "id": "n01597",
+  "summary": "Abu Abdullaah Jadali reports Ummu Salamah (RA) asking him whether people revile Ali, whom the Prophet ﷺ loved.",
+  "people": [
+    { "id": null, "name": "Abu Abdullaah Jadali", "role": "subject", "sahabi": "unsure" },
+    { "id": "umm-salama", "role": "subject" },
+    { "id": "ali", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "Second report of the same exchange as n01596."
+ },
+ {
+  "id": "n01598",
+  "summary": "Ali (RA) tells Abu Saadiq that his lineage and his deen are the same as the Prophet's, so whoever reviles him reviles the Prophet.",
+  "people": [
+    { "id": null, "name": "Abu Saadiq", "role": "narrator", "sahabi": "unsure" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+  "new_themes": ["reviling Ali"],
+  "boundary": "ok",
+  "notes": "Abu Saadiq is not in the vocabulary and the text does not state his sahabi status."
+ },
+ {
+  "id": "n01599",
+  "summary": "Abdur Rahmaan bin Isbahaani reports that the young Hasan (RA) asked Abu Bakr (RA) to leave the Prophet's pulpit, that Abu Bakr lifted him onto his lap and wept, and that Ali (RA) said he had not instructed it.",
+  "people": [
+    { "id": null, "name": "Abdur Rahmaan bin Isbahaani", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR garbles the wording around Hasan's words (the fragment 'said, You are right' is broken), so the exact quote is uncertain."
+ },
+ {
+  "id": "n01600",
+  "summary": "Urwa (RA) reports that Hasan (RA) climbed the Prophet's pulpit during Abu Bakr's sermon, and Ali (RA) said it was done without his consultation.",
+  "people": [
+    { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+    { "id": "abu-bakr", "role": "subject" },
+    { "id": "hasan-bin-ali", "role": "subject" },
+    { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["family", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Same unmatched 'Urwa' as n01592. Text stops mid-sentence after Ali's words."
+ }
+]

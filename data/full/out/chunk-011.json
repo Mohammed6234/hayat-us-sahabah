@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "n00401",
+    "summary": "Rasulullaah and Abu Bakr travel along the coast toward Madinah, and Suraaqa bin Maalik sets out after them when told of two riders.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Suraaqa bin Maalik",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "opposition"
+    ],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Begins after the three nights in the cave; Suraaqa's story continues in later narrations."
+  },
+  {
+    "id": "n00402",
+    "summary": "Umar praises Abu Bakr's devotion, recalling how Abu Bakr walked ahead and behind the Prophet and cleaned the cave before him.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00403",
+    "summary": "In the cave, Abu Bakr fears for the Prophet when the Quraysh come searching, and the Prophet tells him that Allaah is with them.",
+    "people": [
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "opposition"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00404",
+    "summary": "Abu Bakr tells Anas that in the cave he warned the Prophet that a pursuer looking down would see them, and the Prophet asked what he thought of two whose third is Allaah.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "guidance"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00405",
+    "summary": "Baraa bin Aazib reports that Abu Bakr bought a saddle from his father and asked that the Banu Najjaar be honoured, and that the Prophet stayed where he was commanded the next morning.",
+    "people": [
+      {
+        "id": null,
+        "name": "Baraa bin Aazib",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Aazib",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Abrupt and OCR-garbled; the saddle purchase and the message to the Banu Najjaar are not completed in this passage."
+  },
+  {
+    "id": "n00406",
+    "summary": "Zubayr meets the Prophet and Abu Bakr on the road to Madinah, and the Prophet settles at Quba, lays the foundation of the Masjid on land bought from two orphans, and carries the bricks himself.",
+    "people": [
+      {
+        "id": "zubayr",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "As'ad bin Zuraarah",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Sahl",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Suhayl",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "salaah",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00407",
+    "summary": "Anas bin Maalik, as a child, describes the crowds in Madinah who came out to welcome the Prophet and Abu Bakr on their arrival.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "brotherhood",
+      "prophethood"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00408",
+    "summary": "Aa'isha reports that the women and children sang a welcoming verse when the Prophet arrived in Madinah.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "prophethood"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00409",
+    "summary": "Baraa bin Aazib says the first emigrants to reach Madinah were Mus'ab bin Umayr and Ibn Ummu Maktoom, followed by Ammaar, Bilaal, Sa'd and Umar, and that the people of Madinah were overjoyed.",
+    "people": [
+      {
+        "id": null,
+        "name": "Baraa bin Aazib",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Mus'ab bin Umayr",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ibn Ummu Maktoom",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "ammaar-bin-yaasir",
+        "role": "subject"
+      },
+      {
+        "id": "bilaal",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Sa'd",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hijrah",
+      "quraan",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Which Sa'd is meant is not stated, so no id is given."
+  },
+  {
+    "id": "n00410",
+    "summary": "A variant report by Baraa names Mus'ab bin Umayr, Ibn Ummu Maktoom and Umar as the first emigrants to reach Madinah, and says the Prophet and Abu Bakr arrived after them.",
+    "people": [
+      {
+        "id": null,
+        "name": "Baraa bin Aazib",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Mus'ab bin Umayr",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ibn Ummu Maktoom",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "quraan",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of the previous narration."
+  },
+  {
+    "id": "n00411",
+    "summary": "Umar recounts how Abu Jahal and Haarith bin Hishaam tricked their cousin Ayaash bin Abi Rabee'ah back to Makkah and made him forsake Islaam, and how Hishaam bin Aas, also held back, later received the verses of Surah Zumar that gave him hope.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ayaash bin Abi Rabee'ah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Hishaam bin Aas",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-jahal",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Haarith bin Hishaam",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "apostasy",
+      "mercy-and-forgiveness",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-sentence (\"I met Rasulullaah in\"). The verse text is OCR-garbled in places."
+  },
+  {
+    "id": "n00412",
+    "summary": "Uthmaan bin Affaan becomes the first to emigrate with his family for Allaah's pleasure, travelling to Abyssinia with his wife Ruqayya, and the Prophet prays for them.",
+    "people": [
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ruqayya",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "family",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00413",
+    "summary": "A variant adds that the Prophet went out to wait for news of the emigrants until a woman brought him word about them.",
+    "people": [],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "prophets-concern"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Short variant of the previous narration; the emigrants are not named here."
+  },
+  {
+    "id": "n00414",
+    "summary": "Ali recounts that the Prophet left him in Makkah to return the trusts people had deposited with him, and that Ali followed three days later and stayed at Kulthoom bin Hidm's house in Quba.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Kulthoom bin Hidm",
+        "role": "mentioned",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "honest-dealings"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00415",
+    "summary": "Muhammad bin Haatib reports the Prophet's dream of a land of dates, after which Haatib and Ja'far sailed to Abyssinia, and Ja'far asked leave to worship Allaah without fear.",
+    "people": [
+      {
+        "id": null,
+        "name": "Muhammad bin Haatib",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Haatib",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Introductory passage that says the detailed account follows in later narrations."
+  },
+  {
+    "id": "n00416",
+    "summary": "Ummu Salama recounts that the Prophet sent the Muslims to Abyssinia to escape persecution, and that the Quraysh sent Amr bin Al Aas and Abdullaah bin Abi Rabee'ah with gifts to have them returned.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ummu Salama",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "amr-bin-al-aas",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abdullaah bin Abi Rabee'ah",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "opposition",
+      "steadfastness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00417",
+    "summary": "At Najaashi's court, Ja'far explains the Muslims' faith and recites about Isa and Maryam, Najaashi refuses the Quraysh's demand, and the report also tells of Zubayr's news of Najaashi's victory and the Muslims who returned to the Prophet.",
+    "people": [
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Isa bin Maryam",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Maryam",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Musa",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": "zubayr",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-masood",
+        "role": "mentioned"
+      },
+      {
+        "id": "abu-moosa-ashari",
+        "role": "mentioned"
+      },
+      {
+        "id": "uthmaan-bin-madhoon",
+        "role": "mentioned"
+      },
+      {
+        "id": "amr-bin-al-aas",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Umaarah bin Waleed",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Ummu Salama",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "dawah",
+      "prophethood",
+      "opposition"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Combines several reports: the audience with Najaashi, Zubayr's battle report, and the list of the Muslims sent to Najaashi. The text is OCR-garbled at one name, which is left untagged."
+  },
+  {
+    "id": "n00418",
+    "summary": "Abu Moosa Ash'ari reports the same account, adding that Najaashi said he would have gone to the Prophet and kissed his feet, and then let the Muslims stay wherever they liked.",
+    "people": [
+      {
+        "id": "abu-moosa-ashari",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "amr-bin-al-aas",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Umaarah bin Waleed",
+        "role": "mentioned",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "opposition"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant that largely refers back to the narration before it."
+  },
+  {
+    "id": "n00419",
+    "summary": "Ja'far reports that Amr bin Al Aas and Umaarah bin Waleed, sent with gifts from Abu Sufyaan, demanded the Muslims be handed over; Najaashi heard them out, questioned the Muslims about Isa, and set a penalty for harming them that he doubled.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "amr-bin-al-aas",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Umaarah bin Waleed",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": "abu-sufyaan",
+        "role": "mentioned"
+      },
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Isa bin Maryam",
+        "role": "mentioned",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "opposition",
+      "hijrah",
+      "prophethood"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00420",
+    "summary": "Ja'far reports that Najaashi, having testified to the Prophet's Risaalat and asked for his forgiveness, sent the Muslims back to Madinah with provisions, and the Prophet prayed for Najaashi's forgiveness.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Najaashi",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "accepting-islaam",
+      "mercy-and-forgiveness",
+      "hijrah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00421",
+    "summary": "Ummu Abdillaah bint Abi Hathma recounts that Umar, still a Mushrik, showed unusual gentleness when they left for Abyssinia, and her husband Aamir doubted he would ever accept Islaam.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ummu Abdillaah bint Abi Hathma",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Aamir",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hijrah",
+      "opposition",
+      "accepting-islaam"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00422",
+    "summary": "Khaalid bin Sa'eed and his brother Amr return from Abyssinia after Badr, and the Prophet tells them they made two Hijrahs.",
+    "people": [
+      {
+        "id": "khaalid-bin-saeed",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Amr",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00423",
+    "summary": "Abu Moosa Ash'ari recounts his migration from Yemen with his brothers and about fifty others by ship to Abyssinia and then to Madinah, Umar's remark to Asmaa bint Umays, and the Prophet's praise of the Ash'ariyyeen.",
+    "people": [
+      {
+        "id": "abu-moosa-ashari",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abu Burda",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abu Ruhm",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Ja'far bin Abi Taalib",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Asmaa bint Umays",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Hafsa",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Hakeem",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Contains three reports: Abu Moosa's migration, the exchange between Asmaa and Umar, and the Prophet's praise of the Ash'ariyyeen."
+  },
+  {
+    "id": "n00424",
+    "summary": "Asmaa bint Umays asks the Prophet about people who boast that they came first, and he tells her that she and those with her made two Hijrahs.",
+    "people": [
+      {
+        "id": null,
+        "name": "Asmaa bint Umays",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00425",
+    "summary": "Ummu Salama recounts how the Banu Mughiera kept her from her husband Abu Salma and son, how they were reunited after a year, and how Uthmaan bin Talha escorted her alone to Quba.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ummu Salama",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-salma",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Salama bin Abi Salama",
+        "role": "mentioned",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Uthmaan bin Talha bin Abi Talha",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Khaalid bin Waleed",
+        "role": "mentioned",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hijrah",
+      "family",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00426",
+    "summary": "Suhayb reports that the Prophet told him of the land of migration, that youngsters of Quraysh held him back until he paid them gold, and that on reaching Quba the Prophet said his transaction had been profitable.",
+    "people": [
+      {
+        "id": "suhayb",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "sacrifice",
+      "opposition"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The footnote citation to Ibn Is'haaq is not tagged."
+  },
+  {
+    "id": "n00427",
+    "summary": "Sa'eed bin Musayyib reports that Suhayb, pursued while migrating, emptied his quiver and offered to show the pursuers his wealth in Makkah if they left him alone, and that Surah Baqarah 207 was revealed about him.",
+    "people": [
+      {
+        "id": "suhayb",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "sacrifice",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00428",
+    "summary": "Ikrama reports that the pursued Suhayb emptied a quiver of forty arrows and offered the pursuers Abdullaah bin Umar's two slave women in Makkah if they let him go.",
+    "people": [
+      {
+        "id": "suhayb",
+        "role": "subject"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hijrah",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00429",
+    "summary": "Anas gives a similar account of Suhayb's encounter with the Quraysh and adds that Surah Baqarah 207 was revealed on that occasion.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": "suhayb",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "sacrifice",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of the previous narration."
+  },
+  {
+    "id": "n00430",
+    "summary": "Suhayb reports that the Quraysh let him leave Makkah only after he gave them all his wealth, and the Prophet told him he had earned a grand profit.",
+    "people": [
+      {
+        "id": "suhayb",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "sacrifice"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00431",
+    "summary": "Muhammad bin Zaid reports that Abdullaah bin Umar would close his eyes and not look at or stop at the house in Makkah he had left when he migrated.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00432",
+    "summary": "Another report says Abdullaah bin Umar wept whenever he spoke of the Prophet and closed his eyes when passing his former house in Makkah.",
+    "people": [
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Variant of the previous narration."
+  },
+  {
+    "id": "n00433",
+    "summary": "Abdullaah bin Abbaas reports that Abd bin Jahash left Makkah secretly for the Prophet in Madinah against his wife's wishes, Abu Sufyaan became angry, and a poem about the migration follows.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Abd bin Jahash",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": "abu-sufyaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "opposition",
+      "family"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Prose is cut off after Abu Sufyaan became angry. The poem's speaker is not named; it is assumed to be Abd bin Jahash. The book corrects the heading's Abdullaah to Abd."
+  },
+  {
+    "id": "n00434",
+    "summary": "Verses of Surah Nisaa on Hijrah are revealed, and Dhamra bin Abil Ees, a blind and wealthy man, sets out to migrate despite illness and dies at Tan'eem, which prompts a further verse.",
+    "people": [
+      {
+        "id": null,
+        "name": "Dhamra bin Abil Ees",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "quraan",
+      "aakhirah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off in the middle of the final citation (Surah Nisaa, verse 100)."
+  },
+  {
+    "id": "n00435",
+    "summary": "Abdullaah bin Abbaas reports that Dhamra bin Jundub died on the way to the Prophet, and that Surah Nisaa 100 was then revealed about one who dies while making Hijrah.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Dhamra bin Jundub",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "hijrah",
+      "aakhirah",
+      "quraan"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Probably the same man as Dhamra bin Abil Ees in the previous narration, but the name differs."
+  },
+  {
+    "id": "n00436",
+    "summary": "Waathila bin Asqa reports that he joined the Prophet's prayer at the back, was asked whether his Hijrah would be Baadi or Baati, and pledged obedience as far as he is able.",
+    "people": [
+      {
+        "id": null,
+        "name": "Waathila bin Asqa",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "accepting-islaam",
+      "hijrah"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00437",
+    "summary": "Salama bin Akwa reports that the Prophet advised the epidemic-stricken Banu Sulaym to live outside the town, and told them they would be counted as Muhaajireen wherever they were.",
+    "people": [
+      {
+        "id": null,
+        "name": "Salama bin Akwa",
+        "role": "narrator",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "kindness"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00438",
+    "summary": "Junaadah bin Abi Umayyah asks the Prophet whether Hijrah has ended, and the Prophet says it continues as long as Jihaad is waged against the disbelievers.",
+    "people": [
+      {
+        "id": null,
+        "name": "Junaadah bin Abi Umayyah",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00439",
+    "summary": "Abdullaah bin Sa'di reports that he asked the Prophet about the claim that Hijrah had ended, and was told that his need was better than theirs because Hijrah continues while Jihaad is waged.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdullaah bin Sa'di",
+        "role": "subject",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00440",
+    "summary": "Abdullaah bin Abbaas reports that Safwaan bin Umayyah came to Madinah because he had heard that the one who makes no Hijrah has no Deen, and the Prophet told him Hijrah had ended with the conquest of Makkah, so he should return home and answer calls to Jihaad.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Safwaan bin Umayyah",
+        "role": "subject",
+        "sahabi": "yes"
+      },
+      {
+        "id": null,
+        "name": "Abbaas bin Abdil Muttalib",
+        "role": "mentioned",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hijrah",
+      "jihaad"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]

@@ -1,0 +1,1033 @@
+[
+ {
+  "id": "n00916",
+  "summary": "Umar tells the people that a ruler's tolerance and compassion towards his subjects is the most beloved thing to Allaah, and that a ruler's foolishness and harshness is the most detested.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Salama bin Shihaab Abdi",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Akeem",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "justice",
+   "kindness"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, Salama bin Shihaab's and Abdullaah bin Akeem's ('Another narration'). Neither narrator is in the approved list."
+ },
+ {
+  "id": "n00917",
+  "summary": "Anas bin Maalik relates that the senior Companions of the Prophet warned them never to speak ill of their leaders, betray them or disobey them.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "good-character"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with a stray section heading ('Refraining from Speaking the Truth Before Leaders'), which is not part of the narration."
+ },
+ {
+  "id": "n00918",
+  "summary": "Urwa asks Abdullaah bin Umar about flattering leaders who rule unjustly, and Abdullaah replies that in the Prophet's time they regarded such behaviour as hypocrisy; further reports repeat the same view.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Urwa",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Mujaahid",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Muhammad bin Zaid",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abu-unays",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "hypocrisy",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several separate reports (Urwa's question; the report from the father of Aasim bin Muhammad, left unnamed here; Muhammad bin Zaid, via Bukhari; Mujaahid). Aasim bin Muhammad is left out because he only identifies the narrator, and Bukhari appears only as a reference. Urwa is not qualified in the text and is not matched to an approved entry."
+ },
+ {
+  "id": "n00932",
+  "summary": "Aswad bin Yazeed reports that Umar asked every delegation about its governor, and dismissed the governor if any answer was negative.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "aswad-bin-yazeed",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Ibraheem",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Aswad bin Yazeed's and Ibraheem's. Ibraheem is not qualified in the text, so he is not matched to an approved entry."
+ },
+ {
+  "id": "n00933",
+  "summary": "Umar lays conditions on the governors he sends, forbidding Turkish horses, fine flour, fine clothing and locked doors, and tells them their task is to establish prayer, share out the spoils and judge with justice, not to rule over people's blood and wealth.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-khuzayma-bin-thaabit",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "justice",
+   "quraan"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "The first narrator is missing from the OCR ('Hadhrat (RA)'), so Umar is tagged from the heading and the following sentences. Several reports are merged (Umar's conditions, his remark about the Qur'aan, Abu Khuzayma's account)."
+ },
+ {
+  "id": "n00941",
+  "summary": "Umar goes round the governors of Shaam in disguise with his slave Yarfa, finds Yazeed bin Abi Sufyaan, Amr bin Al Aas and Abu Moosa Ash'ari living in luxury and strikes each with his whip, then finds Abu Dardaa living in poverty, and the two of them remind each other of the Prophet's words in tears.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   },
+   {
+    "id": "yarfa",
+    "role": "subject"
+   },
+   {
+    "id": "yazeed-bin-abi-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "zuhd",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Contains several linked episodes (Yazeed, Amr, Abu Moosa, then Abu Dardaa). Editorial reference notes (Isaaba, Haythami) and OCR debris are not tagged, and the Abaaya bin Rtfaa'ari variant of the narrator's name is left out."
+ },
+ {
+  "id": "n00942",
+  "summary": "Abu Saalih Ghifaari relates that Umar used to visit a blind old woman on the outskirts of Madinah at night to fetch her water and do her chores, and that he always found someone had already done it, until he caught Abu Bakr doing it.",
+  "people": [
+   {
+    "id": "abu-saalih-ghifaari",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "kindness",
+   "humility"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00943",
+  "summary": "Awzaa'ee relates that Talha saw Umar going at night into houses to help a blind, crippled old woman, and Talha, on learning this, rebuked himself for having looked for faults in Umar.",
+  "people": [
+   {
+    "id": "awzaaee",
+    "role": "narrator"
+   },
+   {
+    "id": "talha",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "kindness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ends with OCR debris after the last quotation mark, not tagged."
+ },
+ {
+  "id": "n00944",
+  "summary": "Abdullaah bin Utba bin Masood quotes Umar saying that after revelation ended people are judged by their outward actions, and that Allaah alone judges their inner state.",
+  "people": [
+   {
+    "id": "abdullaah-bin-utba-bin-masood",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "justice"
+  ],
+  "new_themes": [
+   "judging people by outward appearance"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00945",
+  "summary": "Hasan reports Umar's first sermon as Khalifah, in which Umar says he is tested through the people and they through him, and promises to deal directly with those present and to appoint capable, trustworthy agents over those absent.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hasan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Hasan' is not qualified in the text (could be Hasan bin Ali or Hasan al-Basri), so it is not matched to an approved entry."
+ },
+ {
+  "id": "n00946",
+  "summary": "Tawoos relates that Umar said that appointing the best man and ordering him to be just does not discharge a ruler's duty, which also requires inspecting whether the appointee actually does what he was commanded.",
+  "people": [
+   {
+    "id": "tawoos",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00947",
+  "summary": "Abdullaah bin Ka'b relates that an Ansaari regiment rebuked Umar for failing to relieve it on time, and Abu Moosa reports that Umar ordered Abu Ubaydah to leave the plague-hit land of Shaam, that Abu Ubaydah refused and then died of the plague himself.",
+  "people": [
+   {
+    "id": "abdullaah-bin-kab-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "narrator"
+   },
+   {
+    "id": "abul-muwajjih",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "plague of Amwas"
+  ],
+  "boundary": "merged",
+  "notes": "Several separate reports: the troop-relief episode; Umar's letter and Abu Ubaydah's reply; Abu Moosa's account; Abul Muwajjih's casualty figure. Heading fragments inside the text and a bibliographic reference (Bayhaqi via Kanzul Ummaal) are not tagged."
+ },
+ {
+  "id": "n00950",
+  "summary": "Buraydah relates that when Umar heard a girl screaming because her mother was being sold as a slave, Umar gathered the Muhaajireen and Ansaar and then ordered that the mother of no free woman be sold, because it severs family ties.",
+  "people": [
+   {
+    "id": "buraydah-bin-khusayb",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "yarfa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "family",
+   "slaves-and-servants",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris in places (e.g. 'Umar Mi'), not tagged."
+ },
+ {
+  "id": "n00951",
+  "summary": "Abu Uthmaan Nahdi relates that Umar dismissed a governor from Banu Asad who said he had never kissed a child, telling him that someone without mercy for his own children would show none to the public; Muhammad bin Sallaam gives a similar account.",
+  "people": [
+   {
+    "id": "abu-uthmaan-nahdi",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "muhammad-bin-sallaam",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "kindness",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports (Abu Uthmaan Nahdi; Muhammad bin Sallaam). The Banu Asad governor is unnamed and left out."
+ },
+ {
+  "id": "n01012",
+  "summary": "Abdul Malik bin Umayr relates Umar's advice to Utba bin Ghazwaan, sent as governor of Basrah: to fear Allaah, call people to Islaam, avoid pride, and seek only Allaah's pleasure, with Alaa bin Hadhrami and Arjafa to support him.",
+  "people": [
+   {
+    "id": "abdul-malik-bin-umayr",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "utba-bin-ghazwaan",
+    "role": "mentioned"
+   },
+   {
+    "id": "alaa-bin-hadhrami",
+    "role": "mentioned"
+   },
+   {
+    "id": "arjafa",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "humility",
+   "sincerity"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01013",
+  "summary": "Sha'bi relates Umar's letter to Alaa bin Hadhrami, who was to take over Bahrain from Utba bin Ghazwaan, telling him that appointments are in Allaah's hands and urging him to focus on the Aakhirah.",
+  "people": [
+   {
+    "id": "aamir-shabi",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "alaa-bin-hadhrami",
+    "role": "mentioned"
+   },
+   {
+    "id": "utba-bin-ghazwaan",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "aakhirah",
+   "qadr"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Sha'bi' is taken as aamir-shabi, which is the approved entry (not sahabi)."
+ },
+ {
+  "id": "n01014",
+  "summary": "Dabba bin Mihsin relates Umar's letter to Abu Moosa Ash'ari, warning him against luxury in clothing, food and transport, telling him to enforce the Shari'ah penalties and stay accessible to the Muslims, and warning that a corrupt governor corrupts those beneath him.",
+  "people": [
+   {
+    "id": "dabba-bin-mihsin-anzi",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "zuhd",
+   "justice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01048",
+  "summary": "Ubay bin Kab relates that when he was sent to collect Zakaah, a man offered a larger she-camel in place of the one-year-old male due, and the Prophet accepted it as extra charity and prayed for the man's wealth.",
+  "people": [
+   {
+    "id": "ubay-bin-kab",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "zakaah",
+   "sadaqah",
+   "generosity"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text stops mid-sentence ('prayed for the man's wealth to be'). The stray footnote 'Surah An'aam, verse 160' is OCR debris and is not tagged. The man is unnamed and left out."
+ },
+ {
+  "id": "n01091",
+  "summary": "Abu Hizaam relates that Hakeem bin Hizaam, the most generous provider of transport for those going out in the path of Allaah, mended satchels with rags and bought two pregnant camels with supplies and money for two Bedouins who came asking for transport.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Hizaam",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "hakeem-bin-hizaam",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "generosity",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Hizaam is not in the approved list and is not identified further. The two Bedouins are unnamed and left out."
+ },
+ {
+  "id": "n01092",
+  "summary": "Hakeem bin Hizaam sells his house to Mu'aawiya for sixty thousand Dirhams, saying he had bought it in the Period of Ignorance for a bag of wine and was giving the price away for the poor and for freeing slaves; another report gives a price of a hundred thousand.",
+  "people": [
+   {
+    "id": "hakeem-bin-hizaam",
+    "role": "subject"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "generosity",
+   "freeing-slaves",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "'Mu'aawiya' is not qualified in the text. It is matched to Mu'aawiya bin Abi Sufyaan because the house sale is recorded for him, but this is an assumption. The second report of the price is merged in. Text ends with OCR debris '(ls'."
+ },
+ {
+  "id": "n01132",
+  "summary": "Aslam relates that Umar ordered a blind Jizya camel slaughtered, sent portions of the meat to the Prophet's wives with Hafsah's share last, and then invited the Muhaajireen and Ansaar to eat the rest.",
+  "people": [
+   {
+    "id": "aslam",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "hafsa",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "generosity",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text stops mid-sentence ('invited the Muhaajireen and the Ansaar to partake of it,'). OCR debris ('hone', a gap before 'daughter') is left untagged."
+ },
+ {
+  "id": "n01155",
+  "summary": "Fudaalah Laythi relates that visitors to Madinah stayed with acquaintances or on the Suffa, and that when Companions complained about eating dates, the Prophet told them a time would come when large platters of food would be served morning and evening.",
+  "people": [
+   {
+    "id": null,
+    "name": "Fudaalah Laythi",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "ahl-us-suffa",
+   "hospitality",
+   "hunger-and-hardship"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Fudaalah Laythi' is not in the approved list. The unnamed caller who complained is left out."
+ },
+ {
+  "id": "n01156",
+  "summary": "Salama bin Akwa relates that after leading salaah the Prophet told the Companions each to take home as many guests as they could host, and that he himself took those who remained.",
+  "people": [
+   {
+    "id": "salama-bin-akwa",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hospitality",
+   "ahl-us-suffa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01157",
+  "summary": "Muhammad bin Seereen reports that each evening the Prophet distributed the men of the Suffa among the Companions, and that Sa'd bin Ubaadah took eighty of them home every night.",
+  "people": [
+   {
+    "id": null,
+    "name": "Muhammad bin Seereen",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "sad-bin-ubaadah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "hospitality",
+   "ahl-us-suffa"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01158",
+  "summary": "Abu Hurayrah relates that the Prophet sent him to invite all the men of the Suffa, who had neither wealth nor family, and that the Prophet gave them all the Sadaqah he received and shared any gifts with them.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "ahl-us-suffa",
+   "hospitality",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01159",
+  "summary": "Abu Dharr relates that each evening the men of the Suffa were taken in as guests in turn, and that when he was lying face down in the Masjid the Prophet nudged him with his foot and said that this is how Shaytaan lies.",
+  "people": [
+   {
+    "id": "abu-dharr-ghifaari",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "ahl-us-suffa",
+   "hospitality"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet addresses him as 'O Jundub', which is Abu Dharr himself, so no separate person is listed."
+ },
+ {
+  "id": "n01235",
+  "summary": "Muhammad bin Ka'b relates that Zaynab bint Jahash, given a surplus share of twelve thousand, gave it all to her family and to the needy, and that Umar sent her another thousand, which she also gave away.",
+  "people": [
+   {
+    "id": "muhammad-bin-kab",
+    "role": "narrator"
+   },
+   {
+    "id": "zaynab-bint-jahash",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "generosity",
+   "sadaqah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01236",
+  "summary": "Abdullaah bin Umar relates that Umar, on night watch with Abdur Rahmaan bin Awf, rebuked a mother whose crying baby kept him awake, learned the child was not yet weaned, and then ordered allowances for every Muslim child born so that mothers would not hurry weaning.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abdur-rahmaan-bin-awf",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "kindness",
+   "family"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The mother is unnamed and left out. The heading text run into the opening sentence is not tagged."
+ },
+ {
+  "id": "n01256",
+  "summary": "Hakeem bin Hizaam relates that he bought Dhu Yazan's clothing to give to the Prophet, who refused it as a gift but accepted to pay for it, and the Prophet then gave it to Usaama bin Zaid, who wore it.",
+  "people": [
+   {
+    "id": "hakeem-bin-hizaam",
+    "role": "subject"
+   },
+   {
+    "id": "dhu-yazan",
+    "role": "mentioned"
+   },
+   {
+    "id": "ubaydullaah",
+    "role": "narrator"
+   },
+   {
+    "id": "usaama-bin-zaid",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "prophets-character",
+   "clothing"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Text stops mid-narration after 'the statement of Usaama'. The Prophet's remark about not accepting gifts from the Mushrikeen is quoted in a garbled form by the narrator Ubaydullaah, which is why it is only partly recorded."
+ },
+ {
+  "id": "n01257",
+  "summary": "Aamir bin Tufayl relates that Aamir bin Maalik, the Spear Juggler, sent the Prophet a horse with a request for a remedy; the Prophet declined the horse, sent him honey, and refused a gift from a mushrik who would not accept Islaam.",
+  "people": [
+   {
+    "id": "aamir-bin-tufayl",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-baraa-aamir-bin-maalik-bin-jafar",
+    "role": "subject"
+   },
+   {
+    "id": "kab-bin-maalik",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "accepting-islaam"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Aamir bin Tufayl's, and Ka'b bin Maalik's. 'Aamir bin Maalik' is matched to Abu Baraa Aamir bin Maalik bin Jafar on the 'Spear Juggler' epithet, which is an assumption. Reference lines (Ibn Jareer, Tabaraani, Haythami, Kanzul Ummaal) and OCR debris are not tagged."
+ },
+ {
+  "id": "n01262",
+  "summary": "Abdullaah bin Umar relates that Abu Moosa sent a silk mat as a gift to Aatika bint Zaid, Umar's wife, and that Umar struck her over the head with it when she showed it to him, then had Abu Moosa brought and struck him with the mat, saying they had no need of gifts sent to his wives.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "abu-moosa-ashari",
+    "role": "subject"
+   },
+   {
+    "id": "aatika-bint-zaid-bin-amr-bin-nufayl",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01263",
+  "summary": "Layth bin Sa'd relates that Maqoqis offered Amr bin Al Aas seventy thousand Dinaars for the foot of Muqattam hill, and that Umar forbade the sale because a tree of Jannah is reserved for the believers there, so Muslims should be buried there.",
+  "people": [
+   {
+    "id": "layth-bin-sad",
+    "role": "narrator"
+   },
+   {
+    "id": "maqoqis",
+    "role": "subject"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "subject"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "khilaafah",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01352",
+  "summary": "Abdullaah bin Razeen relates that when they visited Ali on Eid al-Adha and Ali served them a dish of meat and bran, Ali said he heard the Prophet say a Khalifah may take only two dishes from public funds, one for himself and his family and one for guests.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Razeen",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "khilaafah",
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Razeen is not in the approved list (only 'razeen' is), so he is given as null."
+ },
+ {
+  "id": "n01353",
+  "summary": "Urwa reports that Umar found Abu Ubaydah sleeping on a saddle blanket with his mount's satchel as a pillow, and Ma'mar reports that when Umar reached Shaam he embraced Abu Ubaydah and found nothing in his house but a sword, a shield and his mount.",
+  "people": [
+   {
+    "id": null,
+    "name": "Urwa",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-ubaydah",
+    "role": "subject"
+   },
+   {
+    "id": "mamar",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "zuhd",
+   "humility",
+   "khilaafah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Urwa's and Ma'mar's. Urwa is not qualified in the text (could be Urwa bin Zubayr), so it is not matched to an approved entry. Ends with 'the rest of the narration is similar to the one above'."
+ },
+ {
+  "id": "n01354",
+  "summary": "The text is only the word 'Umayr' from a split section heading about Mus'ab bin Umayr's abstinence, and contains no narration.",
+  "people": [],
+  "prophet": "absent",
+  "themes": [
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "Heading fragment only. The narration itself follows in n01355, so Mus'ab bin Umayr is not tagged here."
+ },
+ {
+  "id": "n01355",
+  "summary": "Ali relates that, starving on a cold winter morning, he drew water from a Jew's well for dates, and that the Prophet wept on seeing Mus'ab bin Umayr in a patched shawl, telling the Companions they were better off than they would be in future times of plenty.",
+  "people": [
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "musab-bin-umayr",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "zuhd",
+   "hunger-and-hardship"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Jew is unnamed and left out."
+ },
+ {
+  "id": "n01371",
+  "summary": "Abu Dardaa relates that he was a trader before the Prophet announced his mission, and that after the announcement he gave up trade because he could not combine it with worship.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "zuhd",
+   "exertion-in-worship"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01372",
+  "summary": "Abu Dardaa says he would not want a shop at the Masjid door that earns forty Dinaars, all of which he gives in charity, because he fears the intensity of the reckoning.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "zuhd",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The questioner is unnamed and left out."
+ },
+ {
+  "id": "n01373",
+  "summary": "Abu Dardaa says he would take no pleasure in trading at the Masjid door for three hundred Dinaars of profit, and three further reports show him giving his bedding away and telling his guests that they are heading for a permanent abode in the Aakhirah.",
+  "people": [
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Hudayr Aslami",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "hassaan-bin-atiyya",
+    "role": "narrator"
+   },
+   {
+    "id": "muhammad-bin-kab",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "zuhd",
+   "aakhirah",
+   "hospitality"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports (Khaalid bin Hudayr Aslami; Hasaan bin Atiyya; Muhammad bin Ka'b) plus an editorial footnote about a unit of weight, which is not tagged. Umar is mentioned only as the sender of the shawl. Khaalid bin Hudayr Aslami is not in the approved list."
+ },
+ {
+  "id": "n01374",
+  "summary": "This entry is a cross-reference that repeats, in abridged and garbled form, the earlier account of Umar finding Abu Dardaa's unlocked, dark room bare and the two of them reminding each other of the Prophet's words.",
+  "people": [
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-dardaa",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "khilaafah",
+   "zuhd"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Opens with a cross-reference to an earlier chapter and a fragment of its title ('...Standards of the Common'). The body repeats the account given in n00941."
+ }
+]

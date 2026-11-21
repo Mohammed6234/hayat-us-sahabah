@@ -1,0 +1,513 @@
+[
+  {
+    "id": "n02721",
+    "summary": "Fudhaala bin Ubayd welcomes a visiting Companion who has come to ask whether he still remembers a Hadith they both heard from the Prophet.",
+    "people": [
+      { "id": "fudhaala-bin-ubayd", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens with 'Another similar narration adds', so it continues an earlier report. Text also ends cut off ('The narration continues further'). The visiting Companion is unnamed in the text and is left out; the heading suggests Uqba bin Aamir but the text does not say so. Approved vocab has two entries for this person (fudhaala-bin-ubayd and fudhala-bin-ubayd); used the first."
+  },
+  {
+    "id": "n02722",
+    "summary": "Ubaydullaah bin Adi travels to Iraq to hear a Hadith from Ali, who narrates it but asks him to keep it private; Abdullaah bin Mas'ood says he would travel to anyone with more knowledge of the Book.",
+    "people": [
+      { "id": "ubaydullaah-bin-adi", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins Ubaydullaah's report with two separate sayings of Abdullaah bin Mas'ood. The Prophet is named only in the second saying ('revealed to Muhammad'). Ibn Mas'ood's first saying is promised later and is not in this text."
+  },
+  {
+    "id": "n02723",
+    "summary": "Abu Tha'laba asks the Prophet for a good teacher; the Prophet refers him to Abu Ubaydah bin Jarraah and praises him, and a Hadith about Khilaafah following Nubuwwat is begun.",
+    "people": [
+      { "id": "abu-thalaba-khushani", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" },
+      { "id": "basheer-bin-sad", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text stops mid-quotation ('to be followed by'). Basheer bin Sa'd (Abu Nu'maan) is mentioned only as Abu Ubaydah's companion in the scene. The OCR fragment 'Rasulullaah-' is ignored."
+  },
+  {
+    "id": "n02724",
+    "summary": "Anas asks the Prophet when people will stop enjoining good and forbidding evil, and the Prophet lists signs of the end including knowledge of Deen carried by the wretched.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "enjoining-good", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Companions who ask 'what was that?' are unnamed and left out."
+  },
+  {
+    "id": "n02725",
+    "summary": "Abu Umayyah Jumhi reports that when the Companions asked the Prophet about the signs of Qiyaamah, he said knowledge would be sought from juniors.",
+    "people": [
+      { "id": null, "name": "Abu Umayyah Jumhi", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["aakhirah", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not in the approved list. Not the same as Umayyah bin Khalaf (no)."
+  },
+  {
+    "id": "n02726",
+    "summary": "Abdullaah bin Ukaym reports Umar's saying that the truest words are Allaah's, the best way is that of Muhammad, the worst matters are fabrications in Deen, and people stay well only while they take knowledge from their seniors.",
+    "people": [
+      { "id": "abdullaah-bin-ukaym", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "following-the-sunnah"],
+    "new_themes": ["innovation in the Deen"],
+    "boundary": "ok",
+    "notes": "The new theme rests on Umar's line that the worst matters are those fabricated into Deen."
+  },
+  {
+    "id": "n02727",
+    "summary": "Bilaal bin Yahya reports Umar's saying that people stay righteous while their knowledge comes from seniors, and degenerate when it comes from juniors.",
+    "people": [
+      { "id": null, "name": "Bilaal bin Yahya", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not in the approved list; the text gives no RA, so Companion status is unsure."
+  },
+  {
+    "id": "n02728",
+    "summary": "Abdullaah bin Mas'ood says people stay steadfast while they take their knowledge of Deen from the Sahabah and their seniors, and are destroyed once it comes from juniors.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Prophet is named only as the source of the Sahabah ('Sahabah of Rasulullaah')."
+  },
+  {
+    "id": "n02729",
+    "summary": "Ibn Mas'ood says people do well while they take knowledge of Deen from their seniors, and that taking it from juniors and sinners will destroy them.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR drops the first name ('Hadhrat (RA) bin Mas'ood (RA)'). Tagged as Abdullaah bin Mas'ood from the chapter's pattern. Please verify against the print edition."
+  },
+  {
+    "id": "n02730",
+    "summary": "Ibn Mas'ood says people are well guided while knowledge stays with their seniors, and that once it passes to juniors they will regard the seniors as fools.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "steadfastness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR drops the first name ('Hadhrat (RA) bin Mas'ood (RA)'). Tagged as Abdullaah bin Mas'ood from the chapter's pattern. Please verify."
+  },
+  {
+    "id": "n02731",
+    "summary": "Mu'aawiya warns that the most effective way to mislead people is a man who recites the Qur'aan without understanding it and teaches it to children, slaves and women, who then argue with the scholars.",
+    "people": [
+      { "id": null, "name": "Mu'aawiya", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text gives no lineage. It could be Mu'aawiya bin Abi Sufyaan or Mu'aawiya bin Haydah (both approved), so left unlinked for review. Set the id once confirmed."
+  },
+  {
+    "id": "n02732",
+    "summary": "Umar bin Khattaab says he does not fear for the Ummah a believer restrained by Imaan or an open sinner, but fears a man who learns the Qur'aan and interprets it in a way it should not be interpreted.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["quraan", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02733",
+    "summary": "On his deathbed Uqba bin Aamir tells his sons to accept Ahadeeth only from reliable people, not to borrow, and not to write poetry, which distracts the heart from the Qur'aan.",
+    "people": [
+      { "id": "uqba-bin-aamir", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The sons are unnamed and left out."
+  },
+  {
+    "id": "n02734",
+    "summary": "Ibn Abbaas reports Umar's sermon at Jaabiya directing people with Qur'aan questions to Ubay bin Ka'b, inheritance questions to Zaid bin Thaabit, Fiqh questions to Mu'aadh bin Jabal, and sending those who need money to Umar.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "mentioned" },
+      { "id": "zaid-bin-thaabit", "role": "mentioned" },
+      { "id": "muaadh-bin-jabal", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text reads 'Hadhrat (RA) bin Abbaas (RA)'; the first name is lost in the OCR. Tagged as Abdullaah bin Abbaas. Please verify. The '!' fragment at the end is ignored."
+  },
+  {
+    "id": "n02735",
+    "summary": "Safwaan bin Assaal says he came to the Prophet in the Masjid to seek knowledge, and the Prophet welcomed him as a seeker of knowledge, describing how angels encircle him with their wings.",
+    "people": [
+      { "id": "safwaan-bin-assaal", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "the-unseen"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "Opens with 'The narration has passed at the beginning of the chapter', a back-reference to an earlier report that is not in this chunk."
+  },
+  {
+    "id": "n02736",
+    "summary": "Abu Haaroon reports that whenever they visited Abu Sa'eed Khudri he welcomed them, quoting the Prophet's emphatic instruction to treat well the people who come to learn Deen.",
+    "people": [
+      { "id": null, "name": "Abu Haaroon", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Haaroon is not in the approved list and the text gives no RA."
+  },
+  {
+    "id": "n02737",
+    "summary": "Abu Sa'eed Khudri quotes the Prophet that people will come from the East to learn and must be treated well; Abu Haaroon reports Abu Sa'eed's welcome to them.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" },
+      { "id": null, "name": "Abu Haaroon", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant wording of the report in n02736."
+  },
+  {
+    "id": "n02738",
+    "summary": "Several variant narrations record the Prophet's instruction to welcome, teach and accommodate students who come from far away, and Abu Sa'eed's own welcome and offer to explain whatever they do not understand.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "kindness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins several variant reports of the same instruction. The footnote '( 1 ) Tabraani in his Awsat. Haythami...' is a scholarly reference and is left out; the people it names are not tagged. Narrators in the variants are not named."
+  },
+  {
+    "id": "n02739",
+    "summary": "Hasan relates Abu Hurayrah's account of a large visit by students and the Prophet's instruction to welcome, greet and teach future seekers of knowledge, followed by a complaint about later teachers who were harsh to students.",
+    "people": [
+      { "id": null, "name": "Ismaa'eel", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Hasan' and 'Hadhrat Ismaa'eel' have no lineage in the text. Hasan could be Hasan bin Ali or Hasan bin Abil Hasan, and Ismaa'eel could be Ismaa'eel bin Muhammad; both are approved entries but neither is confirmed, so left unlinked for review."
+  },
+  {
+    "id": "n02740",
+    "summary": "Ummu Dardaa says Abu Dardaa always smiled when narrating Ahadeeth, and he explained that the Prophet also smiled when he narrated.",
+    "people": [
+      { "id": "ummu-dardaa", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The approved list also has ummu-dahdaa, which may be the same person; used ummu-dardaa."
+  },
+  {
+    "id": "n02741",
+    "summary": "Ibn Abbaas reports that when the Prophet was asked which companions are best, he described one who reminds you of Allaah, whose speech adds to your knowledge, and whose deeds remind you of the Aakhirah.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "dhikr", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The questioner is unnamed and left out."
+  },
+  {
+    "id": "n02742",
+    "summary": "Qurra reports that when the Prophet sat in a gathering, the Companions sat in circles around him to learn and to ask him when they needed to.",
+    "people": [
+      { "id": null, "name": "Qurra", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not in the approved list; the text gives (RA). OCR debris 'gfgi' is ignored."
+  },
+  {
+    "id": "n02743",
+    "summary": "Yazeed Raqaashi reports that Anas, after narrating Ahadeeth, said the Companions used to sit in groups after Fajr to recite the Qur'aan and learn the compulsory and optional parts of Deen.",
+    "people": [
+      { "id": null, "name": "Yazeed Raqaashi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "anas-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Not in the approved list; the text gives no RA. Name is OCR'd as 'Hadhrat Yazeed • Raqaashi'."
+  },
+  {
+    "id": "n02744",
+    "summary": "Abu Sa'eed Khudri recounts sitting with poor Muhaajireen when the Prophet came and promised them perfect light on the Day of Qiyaamah and entry into Jannah half a day, five hundred years, before the rich.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["hunger-and-hardship", "virtues-of-the-sahabah", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The reciter and the Muhaajireen are unnamed and left out."
+  },
+  {
+    "id": "n02745",
+    "summary": "Abdullaah bin Amr reports that the Prophet passed two gatherings in the Masjid, one making du'aa and one learning and teaching Fiqh, and that he sat with the learning group, saying he had been sent as a teacher.",
+    "people": [
+      { "id": "abdullaah-bin-amr", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The name is OCR'd as 'Hadhrat Abdullaari bin Amr'. Tagged as Abdullaah bin Amr (approved). Please verify."
+  },
+  {
+    "id": "n02746",
+    "summary": "Abu Bakr bin Abu Moosa reports that Abu Moosa went to Umar after Isha to discuss a matter of Fiqh, and that Umar, who had been occupied in salaah when he arrived, sat up and talked with him at length.",
+    "people": [
+      { "id": null, "name": "Abu Bakr bin Abu Moosa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-moosa-ashari", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Bakr bin Abu Moosa is not in the approved list; the text gives no RA. Not the same person as abu-bakr (Siddeeq)."
+  },
+  {
+    "id": "n02747",
+    "summary": "Jundub bin Abdullaah Bajali travels to Madinah to seek knowledge and is put off by Ubay bin Ka'b's remark about Iraqis; Ubay apologises and promises to relate what he heard from the Prophet, and dies before Friday. Abu Moosa Ash'ari sighs when told of it.",
+    "people": [
+      { "id": "jundub-bin-abdullaah", "role": "subject" },
+      { "id": "ubay-bin-kab", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "hospitality", "courage"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "One incident. The Prophet is named only in Ubay's promise ('what I heard Rasulullaah say') and in the Masjid. OCR has 'kasulullaah' and 'Hadhrat Ubay' etc.; ignored."
+  },
+  {
+    "id": "n02748",
+    "summary": "Hilaal bin Yasaaf says that on arriving in Basrah he saw Imraan bin Husayn narrating Ahadeeth to a group in the Masjid, and asked who he was.",
+    "people": [
+      { "id": null, "name": "Hilaal bin Yasaaf", "role": "subject", "sahabi": "unsure" },
+      { "id": "imraan-bin-husayn", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text stops right after identifying Imraan, so the report is truncated. Hilaal bin Yasaaf is not in the approved list."
+  },
+  {
+    "id": "n02749",
+    "summary": "Abu Saalih describes the crowds at Abdullaah bin Abbaas's door and how Ibn Abbaas taught each group in turn about the Qur'aan and its Tafseer, Halaal and Haraam and Fiqh, inheritance, and Arabic poetry and rare words.",
+    "people": [
+      { "id": "abu-saalih", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "quraan", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'The entire tribe of the Quraysh' refers to a tribe and is not tagged."
+  },
+  {
+    "id": "n02750",
+    "summary": "Abdullaah bin Mas'ood praises gatherings where wisdom is discussed, and says that people of Taqwa are the chiefs and that attending the gatherings of the jurists increases Imaan and knowledge.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "taqwa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins three separate sayings of Ibn Mas'ood, one of them a variant of the first."
+  },
+  {
+    "id": "n02751",
+    "summary": "Abu Juhayfah tells people to sit with their seniors, associate with the Ulema and mingle with the wise, and Abu Dardaa says it is deep understanding that keeps a person in contact with men of knowledge.",
+    "people": [
+      { "id": "abu-juhayfah", "role": "subject" },
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text is garbled in the middle ('makehimaccompany...'); the sense is clear. '®' is OCR debris."
+  },
+  {
+    "id": "n02752",
+    "summary": "In another narration, Abu Dardaa adds that sitting in the gatherings of scholars is part of this advice.",
+    "people": [
+      { "id": "abu-dardaa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "good-character"],
+    "new_themes": [],
+    "boundary": "starts-mid",
+    "notes": "A one-line variant that continues n02751 (it opens with 'In another narration')."
+  },
+  {
+    "id": "n02753",
+    "summary": "Abu Haazim reports that Sahl bin Sa'd Saa'idi became angry when some people talked among themselves during his teaching, and said he would leave and go out to fight in Jihaad to seek martyrdom.",
+    "people": [
+      { "id": "abu-haazim", "role": "subject" },
+      { "id": "sahl-bin-sad", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "jihaad", "martyrdom"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Abu Haazim asks questions in the scene, so he is marked as subject. Companion status for him is unsure in the approved list. The Prophet is named only as the source of the Ahadeeth ('Ahadeeth of Rasulullaah')."
+  },
+  {
+    "id": "n02754",
+    "summary": "Abu Umaamah relates that a young man from Quraysh asked the Prophet for permission to commit fornication; the Prophet questioned him about his mother, daughter, sister and aunts, and then prayed for his forgiveness, purity and chastity.",
+    "people": [
+      { "id": "abu-umaama", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "youth", "kindness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The young man and the Companions who rebuked him are unnamed. OCR debris '<!)' and 'taMO-' are ignored."
+  },
+  {
+    "id": "n02755",
+    "summary": "Abu Umaamah says that when the Prophet said something important he repeated it three times so that he would be understood.",
+    "people": [
+      { "id": "abu-umaama", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "seeking-knowledge"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02756",
+    "summary": "Sha'bi reports that Aa'isha told Ibn Abi Saa'ib, the teacher at Madinah, to keep three conditions when teaching: not to rhyme his du'aas, as the Prophet and Sahabah did not; to lecture once a week (at most thrice) so people do not tire of the Qur'aan; and not to interrupt people's discussions.",
+    "people": [
+      { "id": "aamir-shabi", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": null, "name": "Ibn Abi Saa'ib", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "duaa", "quraan"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Sha'bi' is linked to aamir-shabi from the bare name; the text gives no fuller name, so please confirm. Ibn Abi Saa'ib is not in the approved list and is not Abu Saa'ib (abu-saaib). The Prophet is named as a model of not rhyming du'aas."
+  },
+  {
+    "id": "n02757",
+    "summary": "Shaqeeq bin Salamah reports that Abdullaah bin Mas'ood did not lecture them daily so as not to tire them, following the Prophet's practice; A'mash reports Ibn Mas'ood telling a lecturer not to make people despair of Allaah's mercy.",
+    "people": [
+      { "id": "shaqeeq-bin-salama", "role": "narrator" },
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "amash", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["seeking-knowledge", "kindness", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins two separate reports (Shaqeeq's and A'mash's). Shaqeeq is probably the same person as abu-waail-shaqeeq-bin-salama, also approved; used the id that matches the text's name."
+  },
+  {
+    "id": "n02758",
+    "summary": "Ali describes a true scholar as one who neither makes people despair of Allaah's mercy nor licenses disobedience, nor lets them feel safe from Allaah's punishment, and says knowledge without understanding and worship without knowledge or contemplation have no value.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["seeking-knowledge", "fear-of-allaah", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A stray OCR quote mark at the end is ignored."
+  },
+  {
+    "id": "n02759",
+    "summary": "Abdullaah bin Umar reports that the Prophet sent Mu'aadh bin Jabal and Abu Moosa to Yemen and told them to help each other and speak well to people, not to put them off; Mu'aadh then taught Islaam and understanding, and said a person is destined for Jannah when people speak well of him.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "narrator" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "abu-moosa-ashari", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "enjoining-good", "good-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02760",
+    "summary": "Abu Sa'eed Khudri says the Companions' gatherings were always about Deen, and Abdullaah bin Umar says a man is respected as a scholar only if he is not jealous of his superiors, does not look down on those below him, and does not sell his knowledge.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["seeking-knowledge", "virtues-of-the-sahabah", "good-character"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Joins two separate reports (Abu Sa'eed's and Ibn Umar's). The Prophet is named only as Nabi, in the phrase 'Sahabah of Nabi'."
+  }
+]

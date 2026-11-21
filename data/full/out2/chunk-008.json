@@ -1,0 +1,543 @@
+[
+ {
+  "id": "n02439",
+  "summary": "Hudhayfah reports that after praying with the Prophet in Ramadhaan, the Prophet offered him the leftover bathing water, and when Hudhayfah bathed the Prophet screened him in return.",
+  "people": [
+   { "id": null, "name": "Hudhayfah", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-character", "modesty"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text gives no patronymic. It may be Hudhayfah bin al-Yaman (hudhayfa-bin-yamaan), but the text does not say so, so it is not linked."
+ },
+ {
+  "id": "n02440",
+  "summary": "Anas describes the Prophet's tenderness toward his son Ibraheem, whom he would kiss and hold on visits to the wet nurse's house. Amr reports the Prophet's words when Ibraheem died while still being suckled, promising him two nursing mothers in Jannah.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": null, "name": "Ibraheem", "role": "subject", "sahabi": "no" },
+   { "id": null, "name": "Amr", "role": "narrator", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Anas (the Prophet's compassion) and Amr (Ibraheem's death). Ibraheem is the Prophet's infant son and is not a Companion. The text gives only 'Amr', so it is not linked to an approved Amr."
+ },
+ {
+  "id": "n02441",
+  "summary": "Abdullaah bin Haarith reports that the Prophet lined up the children of Abbaas, promised a prize to whichever reached him first, and they raced to him, jumping onto his back and chest as he hugged and kissed them.",
+  "people": [
+   { "id": null, "name": "Abdullaah bin Haarith", "role": "narrator", "sahabi": "yes" },
+   { "id": "abdullaah-bin-abbaas", "role": "subject" },
+   { "id": "ubaydullaah-bin-abbaas", "role": "subject" },
+   { "id": null, "name": "Katheer bin Abbaas", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Katheer is not clearly the approved 'katheer' entry, so it is not linked."
+ },
+ {
+  "id": "n02442",
+  "summary": "Abdullaah bin Ja'far reports that when the Prophet returned from a journey he set Ja'far's son in front of him on the animal, then one of Faatimah's sons, Hasan or Husayn, behind, so three rode into Madinah together.",
+  "people": [
+   { "id": "abdullaah-bin-jafar", "role": "subject" },
+   { "id": "hasan-or-husayn-bin-ali", "role": "mentioned" },
+   { "id": "faatima", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "travel", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text does not say whether the child was Hasan or Husayn, so the approved 'hasan-or-husayn-bin-ali' entry is used."
+ },
+ {
+  "id": "n02443",
+  "summary": "Abdullaah bin Ja'far recounts that the Prophet lifted him and a son of Abbaas onto his animal while he was playing. In a second report, Ubaydullaah and Quthm, the sons of Abbaas, are taken up in turn, and the Prophet passes his hand over Ja'far's son's head and prays that Allaah be Ja'far's successor for his children.",
+  "people": [
+   { "id": "abdullaah-bin-jafar", "role": "subject" },
+   { "id": "ubaydullaah-bin-abbaas", "role": "subject" },
+   { "id": null, "name": "Quthm bin Abbaas", "role": "subject", "sahabi": "unsure" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+   { "id": "jafar-bin-abi-taalib", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "duaa", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports from Abdullaah bin Ja'far, joined by 'In another narration'. Ja'far (father) is linked to 'jafar-bin-abi-taalib'. Quthm is not in the approved list."
+ },
+ {
+  "id": "n02444",
+  "summary": "Umar bin Khattaab says he saw Hasan and Husayn riding on the Prophet's shoulders and remarked on what a fine mount they had. The Prophet replied that they were fine riders.",
+  "people": [
+   { "id": "umar", "role": "subject" },
+   { "id": "hasan-bin-ali", "role": "mentioned" },
+   { "id": "husayn-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02445",
+  "summary": "Abdullaah bin Abbaas reports that the Prophet came out carrying Hasan on his shoulders, and when someone called the child a fine conveyance, the Prophet said he was also a mighty fine rider.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "hasan-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The bystander who spoke is unnamed and not tagged."
+ },
+ {
+  "id": "n02446",
+  "summary": "Baraa bin Aazib reports that while the Prophet was in salaah, Hasan and Husayn climbed onto his back, and he held them gently when he finished. Jaabir adds that he once found the Prophet on all fours with the two children riding on him.",
+  "people": [
+   { "id": "baraa-bin-aazib", "role": "narrator" },
+   { "id": "jaabir", "role": "narrator" },
+   { "id": "hasan-bin-ali", "role": "mentioned" },
+   { "id": "husayn-bin-ali", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["family", "kindness", "prophets-character"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, Baraa's and Jaabir's, run together in the OCR with a stray reference line (Muslim, Ahmad, Bidaayah), and the join is garbled. Baraa's text says it was Hasan and Husayn, or one of them, and the narrator was unsure which."
+ },
+ {
+  "id": "n02452",
+  "summary": "Abu Juhayfah reports that the Prophet made a bond of brotherhood between Salmaan and Abu Dardaa. When Salmaan visited, he made Abu Dardaa break his fast, urged him to sleep at night, and told him that each person has rights owed to their Rabb, their body and their wife. The Prophet confirmed that Salmaan was right.",
+  "people": [
+   { "id": "abu-juhayfah", "role": "narrator" },
+   { "id": "salmaan-faarsi", "role": "subject" },
+   { "id": "abu-dardaa", "role": "subject" },
+   { "id": "ummu-dardaa", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "muslim-rights", "family"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02453",
+  "summary": "Asmaa bint Abi Bakr describes her hardships after marrying Zubayr, who owned only a horse. She carried date stones from land the Prophet had given him, felt too shy to ride with the Prophet when he offered her a ride, and was made to feel the weight of Zubayr's possessiveness, until her father sent a servant to take over the horse.",
+  "people": [
+   { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+   { "id": "zubayr", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["marriage", "hunger-and-hardship", "modesty"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Asmaa tells her own story. The Companions who were with the Prophet are unnamed."
+ },
+ {
+  "id": "n02458",
+  "summary": "Qataadah reports that a woman complained to Umar that her husband stood in prayer all night and fasted all day. Umar questioned her, then, on the advice of Ka'b bin Soor, ordered the husband to spend one night in four with his wife and to skip one fast in four, since she has a right to him.",
+  "people": [
+   { "id": "qataada", "role": "narrator" },
+   { "id": "umar", "role": "subject" },
+   { "id": "kab-bin-soor", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "family", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "This Qataadah has no (RA) mark in the text, and the approved 'qataada' entry is marked unsure. Please check the link. The woman and husband are unnamed."
+ },
+ {
+  "id": "n02459",
+  "summary": "Abu Gharzah led Ibn Arqam by the hand to his wife and asked her if she hated him, and she said yes. When Umar called them both, the wife said she had been made to swear and could not lie. Umar said that not every home is built on love, and that many are built on courtesy, social standing and Islaam.",
+  "people": [
+   { "id": null, "name": "Abu Gharzah", "role": "subject", "sahabi": "yes" },
+   { "id": "ibn-aqram", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["marriage", "family", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Gharzah is not in the approved list. The wife and her aunt are unnamed."
+ },
+ {
+  "id": "n02460",
+  "summary": "Abu Salamah bin Abdur Rahmaan recounts that Aatika bint Zaid, married to Abdullaah bin Abi Bakr, was left an orchard on condition she did not remarry. After his death at Taa'if she mourned him in verse. Umar later proposed, and Ali advised that she could remarry if she returned the orchard. At the wedding feast Ali recited her verse to her, and she wept loudly.",
+  "people": [
+   { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+   { "id": "aatika-bint-zaid-bin-amr-bin-nufayl", "role": "subject" },
+   { "id": "abdullaah-bin-abi-bakr", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["marriage", "weeping-and-grief"],
+  "new_themes": ["widow's remarriage"],
+  "boundary": "ok",
+  "notes": "Abu Salamah is linked to the approved entry, which is marked unsure."
+ },
+ {
+  "id": "n02519",
+  "summary": "Sa'd bin Ibraheem saw Abdur Rahmaan bin Auf wearing a shawl or suit of clothing worth four or five hundred Dirhams.",
+  "people": [
+   { "id": "sad-bin-ibraheem", "role": "narrator" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02520",
+  "summary": "Qur'ah offered Abdullaah bin Umar soft cotton cloth from Khurasaan, since his own clothes were coarse. Ibn Umar checked that it was not silk and refused it, saying he feared becoming a boastful snob and that Allaah detests the boastful.",
+  "people": [
+   { "id": "qurra", "role": "narrator" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "humility"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Qur'ah is linked to the approved 'qurra' entry on spelling alone. Please check."
+ },
+ {
+  "id": "n02521",
+  "summary": "Abdullaah bin Hubaysh saw Abdullaah bin Umar wearing two cloths made by the Ma'aafir, a tribe of Yemen, reaching halfway down his calves.",
+  "people": [
+   { "id": null, "name": "Abdullaah bin Hubaysh", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says 'Hadhrat' but has no (RA) mark, so Companion status is unsure."
+ },
+ {
+  "id": "n02522",
+  "summary": "Waqdaan reports that a man asked Abdullaah bin Umar what clothing he should wear. Ibn Umar advised clothing that neither fools would mock nor sensible people criticise for extravagance, which costs between five and ten Dirhams.",
+  "people": [
+   { "id": null, "name": "Waqdaan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "virtues-of-the-sahabah"],
+  "new_themes": ["moderation in dress"],
+  "boundary": "ok",
+  "notes": "The man who asked is unnamed."
+ },
+ {
+  "id": "n02523",
+  "summary": "Abu Is'haaq saw Abdullaah bin Umar wear his loincloth halfway down his calves. In another report he saw Usaamah bin Zaid, Zaid bin Arqam, Baraa bin Aazib and Abdullaah bin Umar all wearing theirs at the same length.",
+  "people": [
+   { "id": "abu-ishaaq", "role": "narrator" },
+   { "id": "abdullaah-bin-umar", "role": "subject" },
+   { "id": "usaama-bin-zaid", "role": "mentioned" },
+   { "id": "zaid-bin-arqam", "role": "mentioned" },
+   { "id": "baraa-bin-aazib", "role": "mentioned" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, joined by 'In another narration'."
+ },
+ {
+  "id": "n02524",
+  "summary": "Uthmaan bin Abu Sulaymaan reports that Abdullaah bin Abbaas once bought and wore a garment worth a thousand Dirhams.",
+  "people": [
+   { "id": null, "name": "Uthmaan bin Abu Sulaymaan", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["clothing", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Uthmaan bin Abu Sulaymaan is not in the approved list and is not the same as the approved 'uthmaan' (Uthmaan bin Affaan)."
+ },
+ {
+  "id": "n02588",
+  "summary": "Alqamah reports from his mother that a woman who came to Aa'isha's room to pray near the Prophet's grave died while still in sajdah. Aa'isha took this as a lesson about death, and her doubt about the sudden death of her brother Abdur Rahmaan was removed.",
+  "people": [
+   { "id": null, "name": "Alqamah", "role": "narrator", "sahabi": "unsure" },
+   { "id": "aaisha", "role": "subject" },
+   { "id": "abdur-rahmaan-bin-abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["death-and-burial", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The approved list has 'alqama' and 'alqama-bin-qais' and the text gives no patronymic, so Alqamah is not linked. The woman is unnamed."
+ },
+ {
+  "id": "n02776",
+  "summary": "Jaabir reports, through Banna Juhani, that the Prophet saw people passing naked swords to each other in the Masjid and cursed them, saying a sword must be sheathed before it is handed over. Sulaymaan bin Moosa reports that Jaabir said arrows carried through the Masjid must be held firmly by their heads.",
+  "people": [
+   { "id": "jaabir", "role": "narrator" },
+   { "id": null, "name": "Banna Juhani", "role": "narrator", "sahabi": "yes" },
+   { "id": "sulaymaan-bin-moosa", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Banna Juhani via Jaabir, and Sulaymaan bin Moosa. Banna Juhani is not in the approved list."
+ },
+ {
+  "id": "n02777",
+  "summary": "Muhammad bin Abdullaah was in the Masjid with Abu Sa'eed Khudri when a man turned an arrow round, and Abu Sa'eed reminded him that the Prophet forbade turning weapons around in the Masjid.",
+  "people": [
+   { "id": "muhammad-bin-abdullaah", "role": "narrator" },
+   { "id": "abu-saeed-khudri", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The approved 'muhammad-bin-abdullaah' entry is marked unsure, and the text has no further identifier. The man with the arrow is unnamed."
+ },
+ {
+  "id": "n02778",
+  "summary": "Buraydah reports that the Prophet rebuked a man who announced a lost red camel in the Masjid, saying the Masaajid were built for their own purposes. Ibn Mas'ood silenced a similar announcer, and Ibn Seereen reports that Ubay bin Ka'b angrily rebuked a man for asking after a lost item in the Masjid.",
+  "people": [
+   { "id": "buraydah-bin-khusayb", "role": "narrator" },
+   { "id": "abdullaah-bin-masood", "role": "subject" },
+   { "id": "ubay-bin-kab", "role": "subject" },
+   { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports: Buraydah, Ibn Mas'ood and Ibn Seereen. Ibn Seereen is the reporter of the Ubay bin Ka'b incident and is not a Companion. The announcers are unnamed."
+ },
+ {
+  "id": "n02779",
+  "summary": "Saa'ib bin Yazeed was sleeping in the Masjid when Umar threw a pebble at him. Umar had two men from Taa'if brought to him and rebuked them for raising their voices in the Prophet's Masjid, saying he would have punished them had they been from Madinah.",
+  "people": [
+   { "id": "saaib-bin-yazeed", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The two men from Taa'if are unnamed."
+ },
+ {
+  "id": "n02808",
+  "summary": "Abdullaah bin Umar says that when a person was not seen at the Fajr and Isha salaahs, they became suspicious of him, because it is the hypocrites who skip those prayers.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "hypocrisy"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Trailing OCR debris (' *) is ignored."
+ },
+ {
+  "id": "n02809",
+  "summary": "Umar did not see Sulaymaan bin Abu Hathma at the Fajr salaah, and his mother Shifaa explained that he had spent the night in prayer and sleep overtook him. Umar said he preferred attending Fajr in congregation to standing in prayer all night. In another report, Shifaa bint Abdullaah tells Umar that her husband and son slept after praying Fajr at home, and Umar again said he preferred Fajr in congregation to a night of Nafl.",
+  "people": [
+   { "id": null, "name": "Abu Bakr bin Sulaymaan bin Abu Hathma", "role": "narrator", "sahabi": "unsure" },
+   { "id": "umar", "role": "subject" },
+   { "id": "sulaymaan-bin-abu-hathma", "role": "subject" },
+   { "id": null, "name": "Shifaa bint Abdullaah", "role": "subject", "sahabi": "yes" },
+   { "id": "ibn-abi-mulaykah", "role": "narrator" },
+   { "id": null, "name": "Abu Hathma", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports: Abu Bakr bin Sulaymaan, Ibn Abu Mulaykah, and Shifaa bint Abdullaah in a second report. The first report names only 'Shifaa', taken here to be the same woman as Shifaa bint Abdullaah. This is inferred, not stated."
+ },
+ {
+  "id": "n02916",
+  "summary": "Uqba bin Aamir says that while they sat on the Suffa platform, the Prophet told them that learning or teaching two verses of the Qur'aan in the Masjid is better than two excellent camels, and each further number of verses is worth as many camels.",
+  "people": [
+   { "id": "uqba-bin-aamir", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["seeking-knowledge", "quraan", "ahl-us-suffa"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Trailing OCR debris is ignored."
+ },
+ {
+  "id": "n02917",
+  "summary": "Anas reports that in the Prophet's time one of two brothers worked while the other stayed with the Prophet to learn. When the working brother complained about him, the Prophet said that he may be receiving his sustenance because of his brother.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["seeking-knowledge", "trust-in-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Both brothers are unnamed."
+ },
+ {
+  "id": "n02918",
+  "summary": "Abu Tufayl reports Ali's saying that those closest to the prophets are those who act on what they brought, and he applies the verse about Ibraheem's followers to the Prophet's followers. Kumayl bin Ziyaad relates Ali's long discourse that knowledge is better than wealth, that scholars remain while the wealthy die, and that Ali longs to meet those few who can bear true knowledge.",
+  "people": [
+   { "id": "abu-tufayl", "role": "narrator" },
+   { "id": "ali", "role": "subject" },
+   { "id": "kumayl-bin-ziyaad", "role": "narrator" },
+   { "id": null, "name": "Ibraheem", "role": "mentioned", "sahabi": "no" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["seeking-knowledge", "following-the-sunnah", "zuhd"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Abu Tufayl (the verse and Ali's comment) and Kumayl bin Ziyaad (Ali's discourse). The Qur'aan verse is OCR-garbled and a stray footnote about the Jaami Bayaanil Ilm and the Mustadrak is ignored. Ibraheem is the prophet named in the verse."
+ },
+ {
+  "id": "n02984",
+  "summary": "Salaamah Kindi reports that Ali taught people a salutation to send to the Prophet, asking Allaah to bless Muhammad, the seal of the prophets, with the best of mercies, the highest house and the most complete light, and to accept his testimony.",
+  "people": [
+   { "id": null, "name": "Salaamah Kindi", "role": "narrator", "sahabi": "unsure" },
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "love-for-the-prophet", "prophets-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Arabic phrase is OCR-garbled and is not reproduced. Salaamah Kindi is not in the approved list."
+ },
+ {
+  "id": "n03531",
+  "summary": "Abdullaah bin Amr taught the du'aa for dreams that frighten a person to children old enough to learn it, and wrote it on paper tied around the necks of younger ones. Khaalid bin Waleed, who often woke frightened, was told by the Prophet to recite Bismillaah and the du'aa on waking. Waleed bin Waleed, who often felt fearful, was told to recite it on going to bed.",
+  "people": [
+   { "id": "abdullaah-bin-amr", "role": "narrator" },
+   { "id": "khaalid-bin-waleed", "role": "subject" },
+   { "id": "waleed-bin-waleed", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "family"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports: Abdullaah bin Amr, Khaalid bin Waleed, and Waleed bin Waleed. The du'aa itself is quoted in an earlier section and is not restated here."
+ },
+ {
+  "id": "n03532",
+  "summary": "Ali says the Prophet instructed him to recite a du'aa whenever he faced difficulty, praising Allaah as the Most Forbearing and Most Magnanimous, the Lord of the Glorious Throne and the Lord of the universe.",
+  "people": [
+   { "id": "ali", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["duaa", "dhikr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The du'aa text is partly OCR-garbled, and the entry ends with the author's cross-reference to an earlier chapter. The wording is not reconstructed."
+ },
+ {
+  "id": "n03574",
+  "summary": "Another report has the Prophet say that whoever holds fast to Allaah, saying 'Allaah is my Rabb, Ever Living, who never dies', will suffer no punishment, while whoever tells the Dajjaal 'You are my Rabb' will be punished.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["tawheed", "aakhirah"],
+  "new_themes": ["signs of the Last Day"],
+  "boundary": "starts-mid",
+  "notes": "Begins 'Another narration states', so it continues the sermon on the Dajjaal from an earlier entry. The Dajjaal is a figure, not a person tagged here."
+ },
+ {
+  "id": "n03575",
+  "summary": "Abu Bakrah says that people had been talking a lot about Musaylama before the Prophet spoke about him. The Prophet said Musaylama was one of thirty great liars who would appear before the Last Day, and that the awe of the Dajjaal would sweep up every town.",
+  "people": [
+   { "id": "abu-bakrah", "role": "narrator" },
+   { "id": "musaylama", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["apostasy", "prophethood"],
+  "new_themes": ["signs of the Last Day"],
+  "boundary": "ok",
+  "notes": "The Dajjaal is not tagged as a person."
+ },
+ {
+  "id": "n03576",
+  "summary": "Another report adds that the Prophet said the awe would not enter Madinah, which has two angels at each of its entrances repelling it.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["the-unseen", "avoiding-fitnah"],
+  "new_themes": ["signs of the Last Day"],
+  "boundary": "starts-mid",
+  "notes": "Begins 'Another states that Rasulullaah added', so it continues the lecture in the preceding entry."
+ },
+ {
+  "id": "n03577",
+  "summary": "Khaalid bin Abdullaah bin Harmala reports from his aunt that the Prophet, with his head bandaged after a scorpion bite, said that fighting would continue until Ya'jooj and Ma'jooj emerge, with broad faces, tiny eyes, reddish hair, scrambling down every hill.",
+  "people": [
+   { "id": null, "name": "Khaalid bin Abdullaah bin Harmala", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "the-unseen"],
+  "new_themes": ["signs of the Last Day"],
+  "boundary": "ok",
+  "notes": "Ya'jooj and Ma'jooj are peoples and are not tagged as persons. The aunt is unnamed. Khaalid is not in the approved list."
+ },
+ {
+  "id": "n03655",
+  "summary": "Abu Uthmaan Nahdi heard Umar say in a sermon that the Prophet had said what he feared most for this Ummah was the hypocrite with an eloquent tongue.",
+  "people": [
+   { "id": "abu-uthmaan-nahdi", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["hypocrisy", "good-character"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The final sentence is the author's cross-reference to Umar's other lectures, not part of the narration."
+ },
+ {
+  "id": "n03656",
+  "summary": "Ibraheem bin Abdur Rahmaan Makhzoomi reports that after the people pledged allegiance to Uthmaan, Uthmaan gave a sermon saying the first rung of the ladder is the hardest and promising more carefully prepared lectures in future.",
+  "people": [
+   { "id": null, "name": "Ibraheem bin Abdur Rahmaan Makhzoomi", "role": "narrator", "sahabi": "unsure" },
+   { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["khilaafah", "bayah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Narrator is not in the approved list."
+ },
+ {
+  "id": "n03657",
+  "summary": "Badr bin Uthmaan reports from his uncle that after the consultative assembly pledged allegiance, the uncle went to the Prophet's pulpit and warned that the world is deception and death comes without warning, quoting Surah Luqmaan and Surah Kahf on the passing nature of this world and the lasting value of good deeds. The people then pledged allegiance.",
+  "people": [
+   { "id": "badr-bin-uthmaan", "role": "narrator" },
+   { "id": "uthmaan", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["zuhd", "aakhirah", "bayah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The uncle who speaks is not named, so he is not tagged. It is also unclear from the text who 'him' is, the one the people pledged to."
+ },
+ {
+  "id": "n03685",
+  "summary": "A scholar of Banu Tameem reports Ali warning that a time will come when people hold on to their wealth and the wicked are honoured, and that the Prophet forbade buying from the desperate and sales involving deception. Abu Ubayd, freed slave of Abdur Rahmaan bin Auf, reports Ali leading the Eid salaah without adhaan or iqaamah and telling people not to eat their sacrifice after three days, a ruling since lifted.",
+  "people": [
+   { "id": "ali", "role": "subject" },
+   { "id": "abu-ubayd", "role": "narrator" },
+   { "id": "abdur-rahmaan-bin-awf", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["honest-dealings", "good-character", "salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports: the Banu Tameem scholar (unnamed, not tagged), Ali's sermon, and Abu Ubayd's account of the Eid salaah. The Prophet is cited indirectly."
+ }
+]

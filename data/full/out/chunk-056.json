@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "n02201",
+    "summary": "Abdullaah bin Busr reports that his father invited Rasulullaah ﷺ to a meal of thareed, and the Prophet ﷺ afterwards made du'aa for the household.",
+    "people": [
+      {
+        "id": "abdullaah-bin-busr",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "hospitality",
+      "duaa"
+    ],
+    "new_themes": [
+      "etiquette of eating and drinking"
+    ],
+    "boundary": "ok",
+    "notes": "Opens 'In another narration', so it continues a report from outside this chunk. The father and mother are unnamed and left out."
+  },
+  {
+    "id": "n02202",
+    "summary": "Ibn A'bad reports that Ali taught him the words to say before eating and the words of thanks to say after.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ibn A'bad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "duaa",
+      "dhikr"
+    ],
+    "new_themes": [
+      "etiquette of eating and drinking"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-quote. The Arabic opening is garbled in OCR ('Luljj Ci U 411') so the exact words are not reliable. Ibn A'bad is not marked RA in the text."
+  },
+  {
+    "id": "n02203",
+    "summary": "Umar warns against excessive eating and drinking, saying it harms the body, causes illness and dulls salaah, and that moderation is healthier.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "salaah"
+    ],
+    "new_themes": [
+      "moderation in eating and drinking"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02204",
+    "summary": "Abu Mah'dhoora reports that when Safwaan bin Umayyah brought a platter, Umar invited the poor and slaves to share it, and then rebuked those who will not let their slaves eat with them.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Mah'dhoora",
+        "role": "narrator",
+        "sahabi": "yes"
+      },
+      {
+        "id": "safwaan-bin-umayyah",
+        "role": "subject"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "hospitality",
+      "kindness"
+    ],
+    "new_themes": [
+      "treatment of slaves and servants"
+    ],
+    "boundary": "ok",
+    "notes": "The poor people and slaves who joined the meal are unnamed and left out."
+  },
+  {
+    "id": "n02205",
+    "summary": "Maalik bin Anas reports that Ibn Umar had his baker pour every dish into one plate, and that Ibn Aamir corrected the baker who mocked him by calling Ibn Umar his leader.",
+    "people": [
+      {
+        "id": "maalik-bin-anas",
+        "role": "narrator"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Ibn Aamir bin Kurayz",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "hospitality"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off after 'He is Ibn Umar' with no closing quote. The baker is unnamed and left out. Ibn Aamir's sahabi status is not stated in the text."
+  },
+  {
+    "id": "n02206",
+    "summary": "Ja'far reports that Ibn Abbaas always ate pomegranate seeds because he had heard that every pomegranate grows from a seed from Jannah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ja'far",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "aakhirah",
+      "miracles-and-blessings"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Opening is garbled OCR ('ja'farnarratesthatbecause'). The narrator is probably Ja'far, but no surname is recoverable so no approved id is given. Cut off mid-sentence; the questioner is unnamed. 'Ibn Abbaasl' is an OCR error."
+  },
+  {
+    "id": "n02207",
+    "summary": "Saalim reports that Zaid bin Sowhaan questioned Salmaan Faarsi for buying a large quantity of grain, and Salmaan said that securing one's sustenance frees the heart for worship; a second report has Salmaan saying he loves to eat from the work of his own hands.",
+    "people": [
+      {
+        "id": null,
+        "name": "Saalim",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Zaid bin Sowhaan",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "salmaan-faarsi",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Abu Uthmaan Nahdi",
+        "role": "narrator",
+        "sahabi": "no"
+      }
+    ],
+    "prophet": "mentioned",
+    "themes": [
+      "self-reliance",
+      "zuhd"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports joined. Saalim's report is cut off at 'loses hope in'. The text does not say which Saalim, so the approved 'saalim' is not assigned. The Prophet is mentioned only through Zaid's remark that Salmaan was a companion of Rasulullaah."
+  },
+  {
+    "id": "n02208",
+    "summary": "Abu Hurayrah says he had fifteen dates, broke his fast with five, ate sehri with five, and kept five to break his next fast with.",
+    "people": [
+      {
+        "id": "abu-hurayrah",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "fasting",
+      "zuhd"
+    ],
+    "new_themes": [
+      "moderation in eating and drinking"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02209",
+    "summary": "Muslim, freed slave of Ali, reports that when Ali asked for a drink, Ali refused the cup he had brought him and told him to drink it first.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Muslim, freed slave of Ali bin Abi Taalib",
+        "role": "narrator",
+        "sahabi": "yes"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "selflessness",
+      "humility"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Stray OCR debris: 'You drink it.w' (the 'w' is dropped). The name 'Muslim' is not in the approved list, so no id is given."
+  },
+  {
+    "id": "n02210",
+    "summary": "Abdur Rahmaan bin Abu Layla reports that Umar said he saw the Prophet ﷺ wearing a narrow-sleeved cloak made in Shaam.",
+    "people": [
+      {
+        "id": "abdur-rahmaan-bin-abu-layla",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "prophets-character",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Clothing has no approved theme; 'zuhd' is the nearest approved fit for simple dress and is a judgement call."
+  },
+  {
+    "id": "n02211",
+    "summary": "Jund bin Makeeth reports that the Prophet ﷺ wore his best clothing to receive delegations and that Abu Bakr and Umar dressed the same; Salamah bin Akwa reports that Uthmaan's loincloth reached halfway down his calves and that Uthmaan said it was the garment of the Prophet ﷺ.",
+    "people": [
+      {
+        "id": "jund-bin-makeeth",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "mentioned"
+      },
+      {
+        "id": "umar",
+        "role": "mentioned"
+      },
+      {
+        "id": "salama-bin-akwa",
+        "role": "narrator"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "prophets-character",
+      "delegations"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports joined: Jund bin Makeeth's (delegation from Kindah) and Salamah bin Akwa's (Uthmaan's loincloth). The Kindah delegation is referred to, not named as a person."
+  },
+  {
+    "id": "n02212",
+    "summary": "Ash'ath bin Sulaym reports that the Prophet ﷺ told a man in Madinah to lift his loincloth, and Abu Burdah reports that Aa'isha showed a patched shawl and a coarse loincloth, saying the Prophet's soul was taken in those two garments.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ash'ath bin Sulaym",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "abu-burdah",
+        "role": "narrator"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zuhd",
+      "prophets-character"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports joined. Ash'ath's report comes through an aunt and her uncle, neither named, and the uncle is left out. A stray sub-heading ('The Describe the Attire of Rasulullaah ﷺ') sits inside the text and is ignored. Sahabi status of Ash'ath is not stated."
+  },
+  {
+    "id": "n02213",
+    "summary": "Umm Salamah says the garment the Prophet ﷺ loved most was his qamees.",
+    "people": [
+      {
+        "id": "umm-salama",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "prophets-character",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Attribution line is garbled OCR ('Urtimu salamah'ESSSSfc'says'), read as Umm Salamah. The narration is very short."
+  },
+  {
+    "id": "n02214",
+    "summary": "Several short reports describe the Prophet's ﷺ clothing: sleeves reaching the wrists, a black turban on entering Makkah and when preaching, an oily bandage while ill, and turban tails hung between the shoulders, which Ibn Umar also did.",
+    "people": [
+      {
+        "id": "asmaa-bint-yazeed-bin-sakan",
+        "role": "narrator"
+      },
+      {
+        "id": "jaabir-bin-abdillaah",
+        "role": "narrator"
+      },
+      {
+        "id": "amr-bin-hurayth",
+        "role": "narrator"
+      },
+      {
+        "id": "abdullaah-bin-abbaas",
+        "role": "narrator"
+      },
+      {
+        "id": "naafi",
+        "role": "narrator"
+      },
+      {
+        "id": "abdullaah-bin-umar",
+        "role": "subject"
+      },
+      {
+        "id": "qaasim-bin-muhammad",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Saalim",
+        "role": "subject",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "prophets-character",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Several short reports joined, some cut off ('during his illness)'). 'illjl' is OCR for ﷺ. A narrator called Abdullaah who says he saw Qaasim and Saalim do the same is not identified and is left out. 'Saalim' is not matched to an approved id because the text gives no father's name; it could be Saalim bin Abdullaah bin Umar, but that is not stated."
+  },
+  {
+    "id": "n02215",
+    "summary": "Aa'isha says that when asked about the Prophet's ﷺ bedding, it was leather stuffed with the bark of a date palm.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zuhd",
+      "prophets-character"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Opens in lower case ('when Hadhrat Aa'isha...'), which may mean the OCR dropped the start. The content itself is complete."
+  },
+  {
+    "id": "n02216",
+    "summary": "Aa'isha tells how a woman of the Ansaar saw the Prophet's ﷺ bedding, a double-folded cloak, and sent a wool-stuffed bedding; the Prophet ﷺ ordered it returned and said that had he willed, Allaah would have made mountains of gold and silver travel with him.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zuhd",
+      "prophets-character"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The Ansaar woman is unnamed and left out. Aa'isha tells her own story, so she is tagged as subject."
+  },
+  {
+    "id": "n02217",
+    "summary": "Muhammad reports asking Aa'isha and then Hafsah about the Prophet's ﷺ bedding, and Hafsah's folded sheet was left as it was because its softness prevented the Prophet ﷺ from performing night salaah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Muhammad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "hafsa",
+        "role": "subject"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "salaah",
+      "zuhd",
+      "prophets-character"
+    ],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is named only as 'Hadhrat Muhammad' in the text, so no approved id is given. The Prophet ﷺ speaks in the story, so he is tagged subject."
+  },
+  {
+    "id": "n02218",
+    "summary": "Umar reports that when the Prophet ﷺ put on new clothing he recited the du'aa of thanks, and said that giving the old clothes to a poor person for Allaah's sake keeps the wearer under Allaah's protection.",
+    "people": [
+      {
+        "id": "umar",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "duaa",
+      "sadaqah"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The final sentence is repeated in the source ('whether he is alive or dead')."
+  },
+  {
+    "id": "n02219",
+    "summary": "Ali reports that when a woman fell from her donkey and her trousers kept her covered, the Prophet ﷺ prayed for forgiveness for the women of his Ummah who wear trousers and told the men always to wear trousers to protect their women.",
+    "people": [
+      {
+        "id": "ali",
+        "role": "narrator"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "modesty",
+      "prophets-character"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The woman is unnamed and left out."
+  },
+  {
+    "id": "n02220",
+    "summary": "Dihya Kalbi reports that after he was sent as an envoy to Heraclius, the Prophet ﷺ gave him fine Egyptian cloth to make a qamees and a scarf for his wife, and then told him to have her wear something underneath so the scarf was not revealing.",
+    "people": [
+      {
+        "id": "dihya-kalbi",
+        "role": "subject"
+      },
+      {
+        "id": "caesar",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "modesty",
+      "delegations",
+      "prophets-character"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Dihya's wife is unnamed and left out. Dihya tells his own story, so he is tagged subject."
+  },
+  {
+    "id": "n02221",
+    "summary": "Usaama bin Zaid says the Prophet ﷺ gave him the same white Egyptian cloth he had given Dihya, and when he gave it to his wife, told him to have her wear something underneath because the cloth showed the shape of her bones.",
+    "people": [
+      {
+        "id": "usaama-bin-zaid",
+        "role": "subject"
+      },
+      {
+        "id": "dihya-kalbi",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "modesty",
+      "prophets-character"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Usaama's wife is unnamed and left out. Usaama tells his own story, so he is tagged subject."
+  },
+  {
+    "id": "n02222",
+    "summary": "Aa'isha says that when she wore a new garment and kept admiring herself in it, her father Abu Bakr told her that Allaah was not looking at her with favour.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "fear-of-allaah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-speech ('(with affection),'). It continues in n02223, which is a separate narration of the same story."
+  },
+  {
+    "id": "n02223",
+    "summary": "Aa'isha gives another account in which Abu Bakr told her that self-admiration over worldly beauty displeases Allaah, so she took the garment off and gave it away in charity.",
+    "people": [
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "abu-bakr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "sadaqah"
+    ],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Opens 'In another narration'. Cut off mid-sentence ('That shall perhaps atone for'). The Abu Bakr remark at the end is incomplete."
+  },
+  {
+    "id": "n02224",
+    "summary": "Several reports describe Umar's clothing: his qamees sleeves reached only his wrists, he went to Jumu'ah in a cloak from Sumbulaan and apologised for being late, he tied his loincloth above the navel, and Anas said that apart from Umar and his son, all the Sahabah wore khazz, which he disliked.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abdul Azeez bin Abu Jameelah Ansaari",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Badeel bin Maysara",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "hishaam-bin-khaalid",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Aamir bin Ubaydah Baahili",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "anas-bin-maalik",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "humility"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Several short reports joined. OCR garbles the first narrator's name ('Hadhrat Abdl Azeez') and inserts a stray symbol. Umar's son is not named in the text, so he is left out. Khazz is a mixed silk fabric; the text does not explain it further."
+  },
+  {
+    "id": "n02225",
+    "summary": "Masrooq reports that Umar came out in cotton clothing, recited a couplet saying all wealth and children will perish, and said that compared with the Aakhirah this world is a fleeting thing.",
+    "people": [
+      {
+        "id": null,
+        "name": "Masrooq",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "aakhirah"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Cut off mid-sentence ('this world is just a leap of a'). The couplet is given in translation in the source."
+  },
+  {
+    "id": "n02226",
+    "summary": "Abu Abdullaah, freed slave of Shaddaad bin Haad, says he saw Uthmaan on a Friday standing on the pulpit in a Kufa shawl and a coarse Aden loincloth worth four or five dirhams.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Abdullaah",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": "shaddaad-ibnul-haad",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02227",
+    "summary": "Moosa bin Talha says that on Fridays Uthmaan leaned on a staff on his way to the Masjid and was one of the most handsome men, wearing a cream loincloth and shawl as he sat on the pulpit.",
+    "people": [
+      {
+        "id": null,
+        "name": "Moosa bin Talha",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "virtues-of-the-sahabah"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The approved 'moosa' is a different person and is not assigned."
+  },
+  {
+    "id": "n02228",
+    "summary": "Sulaym Abu Aamir says he saw Uthmaan wearing a Yemeni shawl worth a hundred dirhams.",
+    "people": [
+      {
+        "id": null,
+        "name": "Sulaym Abu Aamir",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "virtues-of-the-sahabah",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "OCR garbles the narrator line ('SulaymAbuAamirsays'), so the name is a best reading and is not matched to the approved 'abu-aamir'. The text gives only the price of the shawl; the zuhd tag is only the chapter's theme and is a weak fit, so review it."
+  },
+  {
+    "id": "n02229",
+    "summary": "Muhammad bin Rabee'ah bin Haarith says the Sahabah spent generously on fine, modest clothing for their wives, and that Uthmaan wore a silk-edged shawl worth two hundred dirhams that he had given his wife Naa'ilah, wearing it only to please her.",
+    "people": [
+      {
+        "id": null,
+        "name": "Muhammad bin Rabee'ah bin Haarith",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "uthmaan",
+        "role": "subject"
+      },
+      {
+        "id": null,
+        "name": "Naa'ilah",
+        "role": "mentioned",
+        "sahabi": "unsure"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "marriage",
+      "generosity"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Naa'ilah is named as Uthmaan's wife; the text does not say whether she was a Companion."
+  },
+  {
+    "id": "n02230",
+    "summary": "Zaid bin Wahab reports that a delegation from Basrah criticised the clothing of Ali, and Ali replied that his clothing was far from pride and a fitting example for people to follow.",
+    "people": [
+      {
+        "id": "zaid-bin-wahab",
+        "role": "narrator"
+      },
+      {
+        "id": null,
+        "name": "Ja'd bin Na'ja",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "OCR garbles the tribe name ('belonging to the whose name'), and 'Hugh's' for Ali's. The name 'Ja'd bin Na'ja' is as printed."
+  },
+  {
+    "id": "n02231",
+    "summary": "Amr bin Qais reports that when Ali was asked why he patched his qamees, he said the heart is humbled by it and the believer is able to follow the example.",
+    "people": [
+      {
+        "id": null,
+        "name": "Amr bin Qais",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The person who asked is unnamed and left out. 'Amr bin Qais' is not matched to an approved id."
+  },
+  {
+    "id": "n02232",
+    "summary": "Ataa Abu Muhammad says he once saw Ali wearing an unwashed qamees of extremely coarse cloth.",
+    "people": [
+      {
+        "id": null,
+        "name": "Ataa Abu Muhammad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ends-mid",
+    "notes": "Ends with a comma inside the quote, so the report may continue in the source. The narrator is not matched to an approved id."
+  },
+  {
+    "id": "n02233",
+    "summary": "Abdullaah bin Abu Hudhayl reports that Ali's qamees from Ray had sleeves reaching his fingertips, and that Ali trimmed off the excess, saying sleeves should never extend beyond the hands.",
+    "people": [
+      {
+        "id": "abdullaah-bin-abu-hudhayl",
+        "role": "narrator"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "humility",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The second paragraph has no narrator of its own and is treated as part of the same report."
+  },
+  {
+    "id": "n02234",
+    "summary": "Abu Sa'eed Azdi says he saw Ali at the market looking for a qamees for three dirhams, and that Ali paid the price the trader named, though he thought the trader had lowered it because he was the Ameerul Mu'mineen; Ali then had the extra sleeve cut off.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Sa'eed Azdi",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "ali",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "honest-dealings",
+      "humility"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Two reports joined. The second, from a freed slave of 'Abu Udhayn' (name garbled), is unnamed and is cut off mid-sentence ('when Hadhrat Ali'). The approved 'abu-saeed-khudri' is a different person and is not assigned."
+  },
+  {
+    "id": "n02235",
+    "summary": "Katheer bin Ubayd says that when he visited Aa'isha she was stitching an old garment, and she told him that a person who does not wear old clothes does not deserve new ones and may not have them in the Aakhirah.",
+    "people": [
+      {
+        "id": null,
+        "name": "Katheer bin Ubayd",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "zuhd",
+      "aakhirah"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The approved 'katheer' is a different person and is not assigned."
+  },
+  {
+    "id": "n02236",
+    "summary": "Abu Sa'eed reports Aa'isha mending an old garment and saying that one who will not wear old clothes does not deserve new ones; then Asmaa bint Abi Bakr, already blind, sent back fine garments from Marw and Quw that her son Mundhir had brought, and accepted only plain ones.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Sa'eed",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "aaisha",
+        "role": "subject"
+      },
+      {
+        "id": "asmaa-bint-abi-bakr",
+        "role": "subject"
+      },
+      {
+        "id": "mundhir-bin-zubayr",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "modesty",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "merged",
+    "notes": "Two incidents joined: Aa'isha's (Abu Sa'eed's report) and Asmaa with Mundhir, which has no separate narrator. Abu Sa'eed is not identified, so the approved 'abu-saeed-khudri' is not assigned."
+  },
+  {
+    "id": "n02237",
+    "summary": "Anas reports that a woman came to Umar saying her upper garment was torn, and Umar gave her a fine garment and told her to wear the old one while baking and cooking.",
+    "people": [
+      {
+        "id": "anas-bin-maalik",
+        "role": "narrator"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "kindness",
+      "zuhd"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The woman is unnamed and left out."
+  },
+  {
+    "id": "n02238",
+    "summary": "Kharasha bin Hurr reports that Umar saw a youth whose loincloth trailed below his ankles, asked him if he was menstruating, and then had the trailing end cut off with a knife.",
+    "people": [
+      {
+        "id": null,
+        "name": "Kharasha bin Hurr",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      }
+    ],
+    "prophet": "absent",
+    "themes": [
+      "modesty",
+      "good-character"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "The youth is unnamed and left out. The tag 'good-character' is a judgement call for Umar's joke with the youth."
+  },
+  {
+    "id": "n02239",
+    "summary": "Abu Uthmaan Nahdi reports Umar's letter to the army under Utba bin Farqad in Azerbaijan, telling them to dress simply, avoid luxury and non-Arab attire, and not to wear silk, which the Prophet ﷺ forbade beyond the width indicated by his finger.",
+    "people": [
+      {
+        "id": null,
+        "name": "Abu Uthmaan Nahdi",
+        "role": "narrator",
+        "sahabi": "no"
+      },
+      {
+        "id": "umar",
+        "role": "subject"
+      },
+      {
+        "id": "utba-bin-farqad",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zuhd",
+      "halaal-and-haraam"
+    ],
+    "new_themes": [
+      "clothing and dress"
+    ],
+    "boundary": "ok",
+    "notes": "Ismaa'eel and Ma'd bin Adnaan are lineage ancestors named in the letter and are left out. The Prophet ﷺ is not a person entry; he is tagged only through the prophet field."
+  },
+  {
+    "id": "n02240",
+    "summary": "Mu'aadh bin Muhammad reports a gathering discussing the rooms of the Prophet's ﷺ wives, which Waleed bin Abdil Malik had ordered included in the Masjid; Ataa Khuraasaani and Imraan bin Abu Anas describe their simplicity, Sa'eed bin Musayyib wished they had been left standing, and Abu Umaamah said the same so people would see how little the Prophet ﷺ needed.",
+    "people": [
+      {
+        "id": null,
+        "name": "Mu'aadh bin Muhammad",
+        "role": "narrator",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Ataa Khuraasaani",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": null,
+        "name": "Imraan bin Abu Anas",
+        "role": "subject",
+        "sahabi": "unsure"
+      },
+      {
+        "id": null,
+        "name": "Waleed bin Abdil Malik",
+        "role": "subject",
+        "sahabi": "no"
+      },
+      {
+        "id": "saeed-bin-musayyab",
+        "role": "subject"
+      },
+      {
+        "id": "abu-salma-bin-abdir-rahmaan",
+        "role": "mentioned"
+      },
+      {
+        "id": "abu-umaamah-bin-sahl-bin-hunayf",
+        "role": "subject"
+      },
+      {
+        "id": "khaarijah-bin-zaid",
+        "role": "mentioned"
+      }
+    ],
+    "prophet": "subject",
+    "themes": [
+      "zuhd",
+      "prophets-character"
+    ],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several reports joined in one narration. OCR garbles the first narrator ('Mu'aadh bin Muhammad ﷺ'). The footnote about Sufyaan bin Uyaynah's Jaami and Kanzul Ummaal is editorial and is not tagged. Waleed bin Abdil Malik is the Umayyad caliph who issued the instruction, not a Companion."
+  }
+]

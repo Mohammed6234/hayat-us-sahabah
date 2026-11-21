@@ -1,0 +1,504 @@
+[
+ {
+  "id": "n02645",
+  "summary": "The Prophet asks how a person substantiates his imaan, since every statement requires proof.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["the-unseen"],
+  "new_themes": ["reality of imaan"],
+  "boundary": "ok",
+  "notes": "Only one approved theme fits the text, so the proposed new theme is the main topic. Haarith bin Maalik is named only in the heading, not in the text, so he is not tagged."
+ },
+ {
+  "id": "n02652",
+  "summary": "Abu Dharr warns his people that on the Day of Qiyaamah mankind will be resurrected in three groups, and that a calamity will destroy all riding animals.",
+  "people": [
+   { "id": "abu-dharr-ghifaari", "role": "subject" },
+   { "id": "hudhayfa-bin-usayd", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "the-unseen"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Dharr attributes the teaching to the Prophet ﷺ, who is quoted through him as the truthful one."
+ },
+ {
+  "id": "n02655",
+  "summary": "A man told the Prophet ﷺ 'what Allaah wills and what you will', and the Prophet rebuked him for equating him with Allaah.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["tawheed", "qadr"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man who spoke is unnamed and is left out."
+ },
+ {
+  "id": "n02669",
+  "summary": "On his deathbed Salmaan asks for musk to be sprinkled around him, because angels who smell fragrance but do not eat are coming to him.",
+  "people": [
+   { "id": "salmaan-faarsi", "role": "subject" },
+   { "id": "aamir-shabi", "role": "narrator" },
+   { "id": "ataa-bin-saaib", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["the-unseen", "death-and-burial"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Salmaan's wife is unnamed and is left out. The second paragraph is a brief report from Ataa bin Saa'ib."
+ },
+ {
+  "id": "n02679",
+  "summary": "Umar used to recite couplets from the pulpit saying that the outcome of all matters is in Allaah's hand.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["qadr", "trust-in-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'is reports' in the source is OCR debris."
+ },
+ {
+  "id": "n02688",
+  "summary": "Abu Bakr said that the clothing of the dead will only be given over to body fluids and decay.",
+  "people": [
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["death-and-burial", "clothing"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "The text says only 'he' ('Another narration states that he said'). The speaker, Abu Bakr, comes from the heading. The start of the report is missing."
+ },
+ {
+  "id": "n02721",
+  "summary": "Ali consoled Umar, who was weeping after being stabbed, with the glad tidings of Jannah that Ali had heard from the Prophet.",
+  "people": [
+   { "id": "abu-matar", "role": "narrator" },
+   { "id": "ali", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "abu-lulu", "role": "mentioned" },
+   { "id": "hasan-bin-ali", "role": "mentioned" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["aakhirah", "virtues-of-the-sahabah", "fear-of-allaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Hasan is addressed directly ('O Hasan'), so he is tagged as mentioned."
+ },
+ {
+  "id": "n02751",
+  "summary": "Abu Bakr asks how anyone can be safe from punishment for every sin, and the Prophet says the hardships of this world are the retribution for sins.",
+  "people": [
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["fear-of-allaah", "mercy-and-forgiveness"],
+  "new_themes": ["recompense for actions"],
+  "boundary": "ok",
+  "notes": "'JU' in the source is OCR for RA."
+ },
+ {
+  "id": "n02776",
+  "summary": "On his deathbed the Prophet stressed salaah and the treatment of slaves more than anything else, until he could no longer speak.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["salaah", "prophets-final-illness", "slaves-and-servants"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02782",
+  "summary": "Abdullaah bin Amr said that the ground on which a Muslim prays will testify for him on the day he meets Allaah.",
+  "people": [
+   { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "masjid"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02788",
+  "summary": "Abu Moosa Ash'ari said that the Fardh salaah compensates for the sins a person commits between one prayer and the next.",
+  "people": [
+   { "id": "abu-moosa-ashari", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "mercy-and-forgiveness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02790",
+  "summary": "Jibra'eel told the Prophet that salaah had been made beloved to him, so he should take from it as much as he pleases.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": null, "name": "Jibra'eel", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Jibra'eel is an angel; included as the speaker."
+ },
+ {
+  "id": "n02794",
+  "summary": "Aa'isha and Anas describe how the Prophet stood so long in night salaah that his feet ruptured, and said he should be a grateful servant.",
+  "people": [
+   { "id": "aaisha", "role": "narrator" },
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "exertion-in-worship", "gratitude"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports, from Aa'isha and from Anas, joined by a line saying Mughiera and Abu Hurayrah reported the same. Mughiera is not tagged: the text gives no lineage and several Companions share the name."
+ },
+ {
+  "id": "n02795",
+  "summary": "Anas describes how the Prophet's night salaah, sleep and fasting varied, so that his Companions could not predict them.",
+  "people": [
+   { "id": null, "name": "Humayd", "role": "narrator", "sahabi": "unsure" },
+   { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "fasting", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Humayd could be Humayd al-Taweel (humayd-taweel), but the text does not say so, so no id is linked."
+ },
+ {
+  "id": "n02808",
+  "summary": "Uthmaan once stood by the Maqaam Ibraheem at night and recited the entire Qur'aan in a single rakaah.",
+  "people": [
+   { "id": "uthmaan-bin-abdur-rahmaan-taymi", "role": "narrator" },
+   { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["exertion-in-worship", "quraan", "salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02809",
+  "summary": "After leading the people in salaah, Uthmaan would stand behind the Maqaam Ibraheem and recite the entire Qur'aan in one rakaah of witr.",
+  "people": [
+   { "id": "ataa-bin-abi-rabaah", "role": "narrator" },
+   { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["exertion-in-worship", "quraan", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'M-Wr' in the source is OCR for witr."
+ },
+ {
+  "id": "n02810",
+  "summary": "Muhammad bin Seereen would stand in salaah all night, completing the entire Qur'aan in a single rakaah.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Seereen", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "absent",
+  "themes": ["exertion-in-worship", "quraan"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02815",
+  "summary": "Ibn Mas'ood was not very regular with Duha salaah, and he explained that he fasted less often because fasting weakened him for salaah.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "subject" },
+   { "id": "abdur-rahmaan-bin-yazeed", "role": "narrator" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "fasting", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: the opening sentence about Duha salaah, and Abdur Rahmaan bin Yazeed's report. The opening sentence has no named person; Ibn Mas'ood comes from the heading."
+ },
+ {
+  "id": "n02819",
+  "summary": "Abu Uthmaan Nahdi stayed seven days with Abu Hurayrah, whose household took turns worshipping through a third of each night.",
+  "people": [
+   { "id": "abu-uthmaan-nahdi", "role": "narrator" },
+   { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["exertion-in-worship", "hospitality"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Hurayrah's servant and wife are unnamed and are left out. Abu Moosa in the heading is not in the text."
+ },
+ {
+  "id": "n02843",
+  "summary": "The Prophet explains that his reason for walking to the masjid with short steps is to increase the steps he takes for salaah.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["masjid", "salaah"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "The act being explained (shortening his steps to the masjid) is not in the text; it comes from the heading."
+ },
+ {
+  "id": "n02860",
+  "summary": "Ataa reports that the Companion Ya'la bin Umayyah would sit in the masjid, even for a moment, with the intention of i'tikaaf.",
+  "people": [
+   { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+   { "id": "yala-bin-munyah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["masjid", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Ataa is not identified, since several narrators share the name, so no id is linked. Ya'la bin Umayyah is matched to yala-bin-munyah (also called Ibn Munyah); please confirm this match."
+ },
+ {
+  "id": "n02865",
+  "summary": "The Prophet drank fadeekh in a masjid, which is why it was named Masjidul Fadeekh; the rest is the author's cross-reference to other narrations about the masjid.",
+  "people": [],
+  "prophet": "subject",
+  "themes": ["masjid", "eating-and-drinking"],
+  "new_themes": [],
+  "boundary": "not-narration",
+  "notes": "Only the first sentence is a report. The rest is editorial listing other chapters, and the Companions it names are not tagged."
+ },
+ {
+  "id": "n02870",
+  "summary": "Jaabir said swords should not be drawn in the masjid, and the Prophet told a man carrying arrows through it to hold their heads firmly.",
+  "people": [
+   { "id": "sulaymaan-bin-moosa", "role": "narrator" },
+   { "id": "jaabir", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man giving away arrows is unnamed and is left out."
+ },
+ {
+  "id": "n02873",
+  "summary": "Ubay bin Ka'b rebuked a man who called out for a lost item in the masjid, saying they had been commanded to do so.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+   { "id": "ubay-bin-kab", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["masjid", "enjoining-good"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says 'Ibn Seereen'. The one who gave the command is not named, so the Prophet is marked absent."
+ },
+ {
+  "id": "n02889",
+  "summary": "Ibn Mas'ood disapproves of appointing blind men or Qur'aan teachers to call the adhaan.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "masjid"],
+  "new_themes": ["adhaan"],
+  "boundary": "ok",
+  "notes": "There is no approved theme for the adhaan itself, so it is proposed as a new theme."
+ },
+ {
+  "id": "n02898",
+  "summary": "The Prophet says a person keeps receiving the angels' prayers for his forgiveness for as long as salaah keeps him waiting in his place.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "masjid"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02899",
+  "summary": "Abu Hurayrah relates that a person keeps receiving the angels' prayers while he waits in his place of salaah, and that wudhu breaks when wind is passed.",
+  "people": [
+   { "id": "abu-hurayrah", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "masjid"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several narrations are joined ('Another narration', 'Yet another narration'). One narrator who asked about wudhu is unnamed. The Prophet is not named in this text; the speech comes from his address according to the heading."
+ },
+ {
+  "id": "n02905",
+  "summary": "Ibn Mas'ood says that people who pray at home and leave the masjids forsake the Sunnah of the Prophet.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["salaah", "masjid", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "'Added' implies that earlier words of the same speech are missing. Mu'aadh bin Jabal appears only in the heading."
+ },
+ {
+  "id": "n02910",
+  "summary": "Ibn Umar, whenever he missed a congregational salaah, would keep praying until the next salaah.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "exertion-in-worship"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Abu Dardaa appears only in the heading."
+ },
+ {
+  "id": "n02926",
+  "summary": "Anas says the Prophet stood up with a Bedouin who held his clothing and demanded his due, and only then returned to lead salaah.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-character", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Bedouin is unnamed and is left out."
+ },
+ {
+  "id": "n02947",
+  "summary": "Adi bin Haatim criticised an imam who prolonged the salaah, then led briefly himself; Anas refused to follow such imams until Umar bin Abdul Azeez ended the practice.",
+  "people": [
+   { "id": "adi-bin-haatim", "role": "subject" },
+   { "id": "anas-bin-maalik", "role": "subject" },
+   { "id": "umar-bin-abdul-azeez", "role": "mentioned" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["salaah", "following-the-sunnah", "khilaafah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two or more reports, and the OCR is garbled around 'time expired'. The Umayyad-era imam is inferred from that garbled line. The heading names Abu Hurayrah, who is not in the text."
+ },
+ {
+  "id": "n02963",
+  "summary": "Bilaal reports that the Prophet came out late for Fajr because he was praying his two sunnah rakaahs, which he would perform properly even if the sky were brighter.",
+  "people": [
+   { "id": "aaisha", "role": "narrator" },
+   { "id": "bilaal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Aa'isha's statement that the Prophet never omitted the sunnah rakaahs, and Bilaal's account of Fajr."
+ },
+ {
+  "id": "n02965",
+  "summary": "Ali reports that the Prophet prayed four rakaahs before Zuhr and two after it.",
+  "people": [
+   { "id": "ali", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n02976",
+  "summary": "Ibn Mas'ood says the four rakaahs before Zuhr are the only daytime salaah equal to night salaah, since they are regarded as on par with Tahajjud.",
+  "people": [
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The source reads 'is said', so the attribution is less firm than in other entries."
+ },
+ {
+  "id": "n02978",
+  "summary": "Naafi reports that Ibn Umar prayed eight rakaahs before Zuhr and four after it.",
+  "people": [
+   { "id": "naafi", "role": "narrator" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Baraa appears only in the heading."
+ },
+ {
+  "id": "n02980",
+  "summary": "Ali called the salaahs between Maghrib and Isha 'Salaatul Chaflah' and warned people they had become negligent, and Ibn Umar said that whoever prays four rakaahs after Maghrib is like a fighter in battle after battle.",
+  "people": [
+   { "id": "abu-faakhita", "role": "narrator" },
+   { "id": "ali", "role": "subject" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence in Ibn Umar's saying. The text also contains two reports, one from Abu Faakhtah and one from Ibn Umar."
+ },
+ {
+  "id": "n02998",
+  "summary": "Ibn Abbaas prayed Duha once every ten days, and Sa'd bin Abi Waqqaas prayed eight rakaahs of Duha, as reported by his daughter.",
+  "people": [
+   { "id": "ikrimah", "role": "narrator" },
+   { "id": "abdullaah-bin-abbaas", "role": "subject" },
+   { "id": "aaisha-bint-sad", "role": "narrator" },
+   { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["salaah", "nafl-salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Ikramah's on Ibn Abbaas, and Aa'isha bint Sa'd's on her father. This Aa'isha is aaisha-bint-sad, not the Prophet's wife."
+ },
+ {
+  "id": "n03025",
+  "summary": "On the Suffa, the Prophet said that learning or teaching two verses of the Qur'aan in the masjid is better than two camels, and more verses are better than as many camels.",
+  "people": [
+   { "id": "uqba-bin-aamir", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["seeking-knowledge", "ahl-us-suffa", "masjid"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Companions who answered the Prophet are unnamed and are left out."
+ },
+ {
+  "id": "n03030",
+  "summary": "Ibn Mas'ood urges people to seek knowledge of the Deen before it is taken away, warns against hair-splitting, and tells them to follow the practice of the Sahabah.",
+  "people": [
+   { "id": "zaid", "role": "narrator" },
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["seeking-knowledge", "quraan", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says only 'Hadhrat Zaid', so the plain zaid entry is linked, but it is not confirmed. That entry's Companion status is marked unsure in the vocabulary."
+ },
+ {
+  "id": "n03063",
+  "summary": "Ibn Abbaas rebukes people for asking the Ahlul Kitaab, since the Qur'aan they have is unaltered and the Ahlul Kitaab altered their own scriptures for worldly gain.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["seeking-knowledge", "quraan"],
+  "new_themes": ["questioning the People of the Book"],
+  "boundary": "ok",
+  "notes": "Abdullaah bin Mas'ood appears only in the heading."
+ }
+]

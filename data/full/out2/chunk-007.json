@@ -1,0 +1,541 @@
+[
+  {
+    "id": "n02132",
+    "summary": "Aa'isha joked with the Prophet ﷺ, and her mother's remark about the Kinaana tribe drew his reply that they are the subject of many of the Muslims' jokes.",
+    "people": [
+      { "id": "ibn-abi-mulaykah", "role": "narrator" },
+      { "id": "aaisha", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02133",
+    "summary": "Abu Sufyaan joked with the Prophet ﷺ in the house of his daughter Ummu Habeebah, and the Prophet smiled at his remark.",
+    "people": [
+      { "id": null, "name": "Abul Haytham", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": "ummu-habeebah", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": "Abul Haytham reports from an unnamed source; not matched to abul-haytham-bin-tayyihaan because identity is not stated."
+  },
+  {
+    "id": "n02134",
+    "summary": "Bakr bin Abdullaah says the Sahabah played together, throwing melons, yet were the most resolute men when matters were serious.",
+    "people": [
+      { "id": "bakr-bin-abdullaah", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "courage"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02135",
+    "summary": "Qurra asked Ibn Seereen whether the Sahabah joked, and Ibn Seereen said they did, quoting Abdullaah bin Umar's couplet said in jest.",
+    "people": [
+      { "id": "qurra", "role": "narrator" },
+      { "id": null, "name": "Ibn Seereen", "role": "subject", "sahabi": "no" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["virtues-of-the-sahabah", "good-character"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02167",
+    "summary": "Haaritha bin Suraaqa was killed by a stray arrow at Badr, and his mother vowed patience if he was in Jannah; the Prophet ﷺ told her of Firdous, the highest level.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Haaritha bin Suraaqa", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ummu Haaritha", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "aakhirah", "martyrdom"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Contains the main report plus two 'another narration' variants (Ummu Haaritha's words and the Prophet's consolation); the variants are not split out."
+  },
+  {
+    "id": "n02168",
+    "summary": "In another narration from Anas, Ummu Haaritha says she will not grieve if her son is in Jannah, and the Prophet ﷺ tells her Haarith is in Firdous, so she rejoices.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Ummu Haaritha", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Haaritha bin Suraaqa", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "aakhirah", "death-and-burial"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Text names him only as Haarith; identified as Haaritha bin Suraaqa from the previous narration. Not matched to the approved haaritha because the text does not state it."
+  },
+  {
+    "id": "n02169",
+    "summary": "When Khallaad was martyred at Banu Qurayzah, his mother went to receive his body in her veil, saying she had lost Khallaad but not her modesty, and the Prophet ﷺ said he has the reward of two martyrs.",
+    "people": [
+      { "id": "muhammad-bin-thaabit-bin-qais-bin-shammaas", "role": "narrator" },
+      { "id": null, "name": "Khallaad", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ummu Khallaad", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["patience", "martyrdom", "modesty"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02277",
+    "summary": "When Ubayd bin Umayr recited the verse about the witness from every nation, Abdullaah bin Umar wept so much that his beard and collar were wet with tears.",
+    "people": [
+      { "id": null, "name": "Abdullaah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ubayd-bin-umayr", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["fear-of-allaah", "quraan", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Text is cut off mid-sentence in the companion's speech. The narrator Abdullaah is not identified; the book's Abdullaah in this line is probably not Abdullaah bin Umar, so left as null."
+  },
+  {
+    "id": "n02278",
+    "summary": "Ibn Abu Mulaykah reports that Abdullaah bin Abbaas stood in prayer half the night and wept while reciting Surah Qaaf, and Abu Rajaa describes the tear marks on his face.",
+    "people": [
+      { "id": "ibn-abi-mulaykah", "role": "narrator" },
+      { "id": "ayyoob", "role": "mentioned" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "abu-rajaa-utaaridi", "role": "narrator" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "nafl-salaah", "quraan"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Abu Mulaykah's account and Abu Rajaa's description. Ibn Abu Mulaykah (Abdullaah bin Abu Mulaykah) matched to ibn-abi-mulaykah. 'Abu Rajaa' matched to abu-rajaa-utaaridi (?) as the only close approved entry; not certain."
+  },
+  {
+    "id": "n02279",
+    "summary": "Uthmaan bin Abu Saudah saw Ubaadah bin Saamit weeping on the wall of the Masjid over a valley of Jahannam, and Ubaadah said the Prophet ﷺ had shown them that place.",
+    "people": [
+      { "id": null, "name": "Uthmaan bin Abu Saudah", "role": "subject", "sahabi": "unsure" },
+      { "id": "ubaadah-bin-saamit", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["fear-of-allaah", "aakhirah", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Quoted speech is cut off at the end. Narrator's Companion status is not stated."
+  },
+  {
+    "id": "n02280",
+    "summary": "Ya'la bin Ataa reports that Abdullaah bin Amr wept so much that his eyes were affected, and Muslim bin Bishr reports Abu Hurayrah weeping in his final illness over the journey to Jannah or Jahannam.",
+    "people": [
+      { "id": null, "name": "Ya'la bin Ataa", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-amr", "role": "subject" },
+      { "id": null, "name": "Muslim bin Bishr", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["fear-of-allaah", "aakhirah", "weeping-and-grief"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports, Ya'la's and Muslim's, with different subjects. Ya'la's mother (who made the kohl) is unnamed and omitted."
+  },
+  {
+    "id": "n02281",
+    "summary": "Dhamrah bin Habeeb reports from a freed slave of Abu Rayhaanah that Abu Rayhaanah stood in prayer all night after a campaign, lost in thought about the descriptions of Jannah, and did not hear the Adhaan until Fajr.",
+    "people": [
+      { "id": null, "name": "Dhamrah bin Habeeb", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-rayhaana", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "exertion-in-worship"],
+    "new_themes": ["contemplation"],
+    "boundary": "ok",
+    "notes": "Abu Rayhaanah's wife is unnamed and omitted."
+  },
+  {
+    "id": "n02282",
+    "summary": "Muhammad bin Waasi reports that a man came from Basrah to ask Ummu Dharr about Abu Dharr's worship, and she said he spent his whole days in solitary meditation.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Waasi", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Ummu Dharr", "role": "subject", "sahabi": "yes" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["zuhd", "exertion-in-worship"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The visitor from Basrah is unnamed and omitted."
+  },
+  {
+    "id": "n02295",
+    "summary": "Sa'eed Jareeri reports that he saw Abdullaah bin Abbaas holding his tongue and warning that on the Day of Qiyaamah a person will be angriest with his tongue.",
+    "people": [
+      { "id": null, "name": "Sa'eed Jareeri", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["good-character", "aakhirah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Sa'eed Jareeri is not matched to jareeri (?) because the approved entry is a bare name without identity confirmation."
+  },
+  {
+    "id": "n02296",
+    "summary": "Shaddaad bin Aws, after pledging allegiance to the Prophet ﷺ, said that since then every word he spoke was measured, and taught a du'aa for steadfastness and a pure heart.",
+    "people": [
+      { "id": "thaabit-bunaani", "role": "narrator" },
+      { "id": "shaddaad-bin-aws", "role": "subject" },
+      { "id": "sulaymaan-bin-moosa", "role": "narrator" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["good-character", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports, Thaabit Bunaani's and Sulaymaan bin Moosa's. The text opens with an OCR fragment 'Rasulullaah ﷺ' from the heading, which is ignored. Abu Ya'la is Shaddaad's title, so the same person."
+  },
+  {
+    "id": "n02319",
+    "summary": "Abu Umaamah says the Prophet ﷺ was one of the most jovial and best-natured of people.",
+    "people": [
+      { "id": "abu-umaamah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "good-character"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": "The source text has OCR debris after the sentence and may be truncated; the sentence itself is complete. 'Abu Umaamah' matched to abu-umaamah (?) as the bare name; not certain of identity."
+  },
+  {
+    "id": "n02320",
+    "summary": "Sa'd bin Abi Waqqaas told Aamir that during the Battle of Khandaq the Prophet ﷺ smiled broadly after Sa'd shot an enemy soldier who was taunting the archers.",
+    "people": [
+      { "id": "aamir-bin-sad-bin-abi-waqqaas", "role": "narrator" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "jihaad"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02321",
+    "summary": "Abu Hurayrah reports a man who broke his fast in Ramadhaan by relations with his wife; the Prophet ﷺ told him to free a slave, fast, or feed the poor, and when he had nothing, gave him dates to spend on his family, and smiled.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["fasting", "sadaqah", "prophets-character"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": "The man is unnamed and omitted."
+  },
+  {
+    "id": "n02322",
+    "summary": "Abu Dharr reports the Prophet ﷺ describing a man whose minor sins are shown to him and whose major sins are hidden, and Abu Dharr saw the Prophet ﷺ smile widely.",
+    "people": [
+      { "id": "abu-dharr-ghifaari", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["mercy-and-forgiveness", "aakhirah"],
+    "new_themes": ["humour"],
+    "boundary": "ok",
+    "notes": "The heading names Abdullaah bin Masood, but the text does not, so he is not tagged."
+  },
+  {
+    "id": "n02330",
+    "summary": "Ali rebukes the people for letting their women crowd markets with unbelieving men, saying there is no good in one who has no sense of possessiveness, and that possessiveness is good only when it protects the family.",
+    "people": [
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["modesty", "family"],
+    "new_themes": ["possessiveness (ghayrah)"],
+    "boundary": "merged",
+    "notes": "Two narrations: the main report and an 'another narration' variant that gives the two types of possessiveness."
+  },
+  {
+    "id": "n02331",
+    "summary": "Abdullaah bin Masood was told by the Prophet ﷺ that the best people do good deeds with deep understanding, and that the most learned see the truth in disputes; he then recounted the seventy-two groups and the tortured followers of Isa who opposed the kings.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" },
+      { "id": "isa", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["enjoining-good", "steadfastness", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "The narration includes an 'another narration' variant that gives a second version of the story about the followers of Isa."
+  },
+  {
+    "id": "n02332",
+    "summary": "Mu'aadh bin Jabal narrates the Prophet ﷺ warning that love of the world and ignorance will lead people to stop enjoining good and forbidding evil.",
+    "people": [
+      { "id": "muaadh-bin-jabal", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["zuhd", "enjoining-good", "avoiding-fitnah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The source has OCR debris ('by the and the Sunnah'); tagged as ok."
+  },
+  {
+    "id": "n02389",
+    "summary": "After the Treaty of Hudaybiyyah, the Prophet ﷺ went for Umrah and sent Ja'far to propose to Maymoonah bint Haarith, whose affairs Abbaas arranged, and the marriage was consummated at Sarif.",
+    "people": [
+      { "id": "ibn-shihaab", "role": "narrator" },
+      { "id": "jafar-bin-abi-taalib", "role": "subject" },
+      { "id": "maymoona-bint-haarith", "role": "subject" },
+      { "id": "abbaas-bin-abdil-muttalib", "role": "subject" },
+      { "id": "ummul-fadhl-bint-haarith", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "hajj", "hudaybiyyah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Place names (Ya'jij, Sarif) are not people and are omitted. 'Her sister Ummu Fadhl' is matched to ummul-fadhl-bint-haarith (Abbaas's wife), which is the usual identity; not certain."
+  },
+  {
+    "id": "n02390",
+    "summary": "A second narration says that after the marriage the Prophet ﷺ stayed in Makkah three days, and when Huwaytib and the Quraysh told him to leave, he left for Madinah and consummated the marriage at Sarif.",
+    "people": [
+      { "id": "huwaytib-bin-abdil-uzza", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "opposition", "hudaybiyyah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "A variant of the previous narration with no named narrator. The Quraysh men are unnamed and omitted."
+  },
+  {
+    "id": "n02391",
+    "summary": "Ali narrates how he asked the Prophet ﷺ for Faatima's hand; he had no dowry except an armour, which the Prophet ﷺ accepted as her dowry.",
+    "people": [
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "family", "prophets-character"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The slave-girl who urged Ali is unnamed and omitted."
+  },
+  {
+    "id": "n02394",
+    "summary": "Asmaa bint Umays describes Faatima's wedding night at Ali's house: the Prophet ﷺ made du'aa over Ali and Faatima, said Ali was his brother, and prayed for Asmaa.",
+    "people": [
+      { "id": "asmaa-bint-umays", "role": "subject" },
+      { "id": "ali", "role": "subject" },
+      { "id": "faatima", "role": "subject" },
+      { "id": "ummu-ayman", "role": "subject" },
+      { "id": "usaama-bin-zaid", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "brotherhood", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The sentence about the Prophet forging brotherhood is garbled in the source; the sense is taken as the Prophet's brotherhood with Ali."
+  },
+  {
+    "id": "n02395",
+    "summary": "In another narration, Asmaa bint Umays describes the Prophet ﷺ coming the morning after the wedding, making du'aa for Ali and sprinkling water on him, and then telling Faatima he had married her to the family member he loved most.",
+    "people": [
+      { "id": "asmaa-bint-umays", "role": "subject" },
+      { "id": "ummu-ayman", "role": "mentioned" },
+      { "id": "ali", "role": "mentioned" },
+      { "id": "faatima", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "duaa", "prophets-character"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The source says the rest is like the previous narration; the variant is not repeated."
+  },
+  {
+    "id": "n02401",
+    "summary": "Rabee'ah Aslami tells how the Prophet ﷺ sent him to marry into an Ansaar tribe, how he paid a dowry of gold, and how the Prophet ﷺ made a waleemah with a sheep, and then how the Prophet ﷺ settled a land dispute between him and Abu Bakr, who then wept.",
+    "people": [
+      { "id": "rabaaah-bin-kab", "role": "subject" },
+      { "id": "buraydah-bin-khusayb", "role": "mentioned" },
+      { "id": "aaisha", "role": "mentioned" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "hospitality", "good-character"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "Long single report covering several episodes. The Ansaar and Aslam tribesmen are unnamed and omitted. 'Rabee'ah (RA)' is matched to rabaaah-bin-kab (Rabee'ah Aslami) by the book's usage; not certain."
+  },
+  {
+    "id": "n02403",
+    "summary": "Salmaan Faarsi tells how, on his wedding night, he refused to let his companions in, removed the excess drapes and goods and servants, and advised his wife on obedience to Allaah, citing the Prophet's ﷺ advice to keep only what a traveller needs.",
+    "people": [
+      { "id": "salmaan-faarsi", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "zuhd", "slaves-and-servants"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The wife, the Kindah women, and the friends are unnamed and omitted."
+  },
+  {
+    "id": "n02413",
+    "summary": "Umar bin Khattaab withdrew his earlier limit on dowries, saying a man may give what he likes from his wealth, and admitted that everyone has more understanding than he does.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "humility"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The woman who objected is unnamed and omitted."
+  },
+  {
+    "id": "n02414",
+    "summary": "Umar said that if exorbitant dowries brought status in the Aakhirah, the Prophet's ﷺ daughters and wives would have deserved them most.",
+    "people": [
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["marriage", "zuhd"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02415",
+    "summary": "Ibn Seereen reports that Umar allowed dowries of two thousand Dirhams and Uthmaan allowed dowries of four thousand.",
+    "people": [
+      { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" },
+      { "id": "uthmaan", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "family"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "The heading also names Abdullaah bin Umar and Hasan bin Ali, but the text does not mention them here."
+  },
+  {
+    "id": "n02416",
+    "summary": "Naafi reports that Abdullaah bin Umar married Safiyya for four hundred Dirhams, she called it too little, and he added two hundred more without his father Umar knowing.",
+    "people": [
+      { "id": "naafi", "role": "narrator" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Safiyya", "role": "mentioned", "sahabi": "unsure" },
+      { "id": "umar", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "family"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": "Safiyya is left as null because the text gives no surname; the approved safiyya-bint-ubayd (?) or safryya-bint-abu-ubayd (?) may be her, but not confirmed."
+  },
+  {
+    "id": "n02417",
+    "summary": "Ibn Seereen narrates that when Hasan bin Ali married a woman, he sent her a hundred slave women, each carrying a thousand Dirhams.",
+    "people": [
+      { "id": null, "name": "Ibn Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": "hasan-bin-ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["marriage", "generosity"],
+    "new_themes": ["dowry"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02429",
+    "summary": "Aa'isha tells of racing the Prophet ﷺ on a journey, and Ibn Abbaas describes staying the night with Maymoonah and watching the Prophet ﷺ pray thirteen rakaahs of tahajjud before Bilaal called the adhaan.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abdullaah-bin-abbaas", "role": "subject" },
+      { "id": "maymoona-bint-haarith", "role": "mentioned" },
+      { "id": "bilaal", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophets-character", "nafl-salaah", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports: Aa'isha's race and Ibn Abbaas's account of the night prayer, joined in one entry."
+  },
+  {
+    "id": "n02430",
+    "summary": "Aa'isha reports that the Prophet ﷺ gave a warm welcome to an old woman, named Jathaamah Muzaniyyah, whom he called Hasaanah, because she used to visit when Khadeeja was alive, and maintaining old ties is part of Imaan.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": null, "name": "Jathaamah Muzaniyyah", "role": "subject", "sahabi": "unsure" },
+      { "id": "khadeeja", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "prophets-character"],
+    "new_themes": ["maintaining old ties"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02431",
+    "summary": "Aa'isha reports the Prophet ﷺ honouring an old woman who used to visit when Khadeeja was alive, and Abu Tufayl saw him spread his shawl for a woman who had nursed him as a baby.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "khadeeja", "role": "mentioned" },
+      { "id": "abu-tufayl", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["kindness", "prophets-character", "family"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Aa'isha's account and Abu Tufayl's account. The woman who nursed the Prophet ﷺ and the old woman are unnamed and omitted."
+  },
+  {
+    "id": "n02436",
+    "summary": "Anas says twenty young Ansaar always stayed close to the Prophet ﷺ and were sent on errands, and Abdur Rahmaan bin Auf says four or five Sahabah never left his side on journeys or at his door.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two separate reports joined by a separator; the Ansaar youth and the Sahabah are unnamed and omitted."
+  },
+  {
+    "id": "n02437",
+    "summary": "Abu Sa'eed Khudri says the Companions took turns serving the Prophet ﷺ, and when people began to seek reward for it, the Prophet ﷺ rebuked the Companions for whispering about the Dajjaal.",
+    "people": [
+      { "id": "abu-saeed-khudri", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["sincerity", "good-character"],
+    "new_themes": ["service to the Prophet"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n02438",
+    "summary": "Aasim bin Sufyaan reports that either Abu Dardaa or Abu Dharr told him the Prophet ﷺ allowed him to spend the night at the Prophet's door so that he could wake him for any need.",
+    "people": [
+      { "id": null, "name": "Aasim bin Sufyaan", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-dardaa", "role": "subject" },
+      { "id": "abu-dharr-ghifaari", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The source says 'either Abu Dardaa or Abu Dharr', so both are tagged as subject; one is probably wrong. Reviewer should confirm."
+  }
+]

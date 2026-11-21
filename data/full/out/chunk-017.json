@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "n00641",
+  "summary": "Abu Hurayrah narrates the Prophet's promise of reward for whoever goes out in Allaah's path, and his wish to be martyred and brought back to life again and again.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n00642",
+  "summary": "Qais bin Abi Haazim narrates Umar's sermon on the palace in Jannah for prophets and siddeeqs, and Umar's wish for martyrdom.",
+  "people": [
+   {
+    "id": null,
+    "name": "Qais bin Abi Haazim",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": "abu-bakr",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "aakhirah",
+   "jihaad",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Umar addresses the Prophet's grave and Abu Bakr's grave; the Prophet is referred to only as the occupant of the grave. Qais bin Abi Haazim is not in the approved list and is not a Companion as far as the text shows."
+ },
+ {
+  "id": "n00643",
+  "summary": "Abdullaah bin Mas'ood says that Allaah granted Umar martyrdom at the hands of a slave of Mughiera, but the report is cut off before the rest.",
+  "people": [
+   {
+    "id": "abdullaah-bin-masood",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence. The text says 'him' and does not name Umar; he is identified from the heading. The slave's owner is not named in full, so Mughiera is not tagged here."
+ },
+ {
+  "id": "n00644",
+  "summary": "Aslam, a freed slave of Umar, narrates Umar's du'aa for martyrdom in Allaah's path and for his death in the city of the Prophet.",
+  "people": [
+   {
+    "id": "aslam",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "duaa"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ends-mid",
+  "notes": "Cut off: the du'aa has no closing quotation mark and the narration ends mid-prayer."
+ },
+ {
+  "id": "n00645",
+  "summary": "Hafsa narrates Umar's prayer to be killed in Allaah's path and to die in the city of the Prophet, and his answer when she asked how that could happen.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hafsa",
+    "role": "narrator",
+    "sahabi": "yes"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "duaa"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Hafsa is not in the approved list; the text gives only the name. OCR debris ('O Allaahl') ignored."
+ },
+ {
+  "id": "n00646",
+  "summary": "Sa'd bin Abi Waqqaas narrates the du'aas he and Abdullaah bin Jahash made before Uhud, and how Abdullaah's prayer for martyrdom was answered.",
+  "people": [
+   {
+    "id": "sad-bin-abi-waqqaas",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Jahash",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "duaa"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Sa'd tells the story himself and adds his own comment at the end. Abdullaah bin Jahash is not in the approved list."
+ },
+ {
+  "id": "n00647",
+  "summary": "Sa'eed bin Musayyib narrates Abdullaah bin Jahash's prayer to meet an enemy who would kill him and mutilate him, and says he hopes Allaah will also grant the rest of that prayer.",
+  "people": [
+   {
+    "id": "saeed-bin-musayyab",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Jahash",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "duaa"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Sa'eed bin Musayyib's own hope is part of the report."
+ },
+ {
+  "id": "n00648",
+  "summary": "Anas reports a statement attributed to the Prophet that Humama died as a martyr; the wording is garbled.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Humama",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Uncertain: the text is badly garbled OCR ('There are many people have heard from our Nabi'), so the meaning is not clear. The heading names Baraa bin Maalik, who does not appear in the text, so he is not tagged. Please check against the source."
+ },
+ {
+  "id": "n00649",
+  "summary": "Ma'qal bin Yasaar narrates that Umar consulted Hurmuzaan on the Persian campaign, appointed Nu'maan bin Muqarrin to lead at Isfahan, and that Nu'maan prayed for martyrdom and was the first to fall.",
+  "people": [
+   {
+    "id": null,
+    "name": "Ma'qal bin Yasaar",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Hurmuzaan",
+    "role": "subject",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "numaan-bin-muqarrin",
+    "role": "subject"
+   },
+   {
+    "id": "mughiera-bin-shuba",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Dhul Haajibayn",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "khilaafah"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Hurmuzaan is a Persian leader who accepted Islaam according to the text; not the approved 'hurmuz' entry. Ma'qal bin Yasaar is not the approved 'Ma'qal bin Sanaan' or 'yasaar'. OCR debris ('All praise to Write to Hadhrat Umar') ignored."
+ },
+ {
+  "id": "n00650",
+  "summary": "Jubayr narrates Nu'maan bin Muqarrin's words at the Battle of Nahaawind, in which he prayed for victory for Islaam and then for martyrdom.",
+  "people": [
+   {
+    "id": null,
+    "name": "Jubayr",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "numaan-bin-muqarrin",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "duaa"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "The narrator is given only as 'Hadhrat Jubayr'. Not matched to the approved 'zubayr' (Zubayr bin Awwaam), since the name differs. Please confirm."
+ },
+ {
+  "id": "n00651",
+  "summary": "Sulaymaan bin Bilaal narrates that Sa'd bin Khaythama and his father both wanted to go to Badr, lots sent Sa'd, and Sa'd was later martyred by Amr bin Abd Wadd.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sulaymaan bin Bilaal",
+    "role": "narrator",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Sa'd bin Khaythama",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Khaytama",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Amr bin Abd Wadd",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "family",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "Names are spelled as in the text (Khaythama for the father). None of these people is in the approved list."
+ },
+ {
+  "id": "n00652",
+  "summary": "Muhammad bin Ali bin Husayn describes the single combats at Badr: Ali killed Waleed bin Utba, Hamza killed Shayba, and Ubaydah bin Haarith was mortally wounded by Utba, after which the Prophet laid his head on his lap and Ubaydah asked whether he was a martyr.",
+  "people": [
+   {
+    "id": "muhammad-bin-ali-bin-husayn",
+    "role": "narrator"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "hamza",
+    "role": "subject"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Ubaydah bin Haarith",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Waleed bin Utba",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "shayba-bin-rabeeah",
+    "role": "mentioned"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text calls him 'Waked bin Utba' once and 'Waleed' elsewhere; tagged as Waleed bin Utba. The approved 'abu-ubaydah' is Abu Ubaydah bin Jarraah, a different person, so Ubaydah bin Haarith is not matched to it. Abu Taalib is quoted, not acting."
+ },
+ {
+  "id": "n00653",
+  "summary": "Zuhri gives a second account of the Badr duels, in which Ubaydah and Utba wounded each other, Ali and Hamza finished Utba, and they brought Ubaydah to the Prophet.",
+  "people": [
+   {
+    "id": "ibn-shihaab",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Ubaydah bin Haarith",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "utba-bin-rabeeah",
+    "role": "subject"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   },
+   {
+    "id": "hamza",
+    "role": "subject"
+   },
+   {
+    "id": "abu-taalib",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Zuhri' is tagged as Ibn Shihaab (approved 'ibn-shihaab'); the text gives only 'Zuhri', so please confirm. Second report of the same duel as n00652."
+ },
+ {
+  "id": "n00654",
+  "summary": "Abdullaah bin Umar narrates that before Uhud Umar asked his brother Zaid to take his armour, Zaid said he wanted martyrdom as much as Umar did, and the two of them left the armour behind.",
+  "people": [
+   {
+    "id": "abdullaah-bin-umar",
+    "role": "narrator"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Khattaab",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "family"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ends-mid",
+  "notes": "The text opens with a heading-like line ('The Incident of Hadhrat Umar (RA) and his brother Zaid...') and ends with OCR debris. The account stops after the armour is left, so it looks cut short. Zaid bin Khattaab is not in the approved list; he also appears in n00680."
+ },
+ {
+  "id": "n00655",
+  "summary": "Sa'eed bin Mansoor reports Ali's account of searching the dead after Uhud, failing to find the Prophet, resolving to fight until he was killed, and then seeing the Prophet among the enemy.",
+  "people": [
+   {
+    "id": null,
+    "name": "Sa'eed bin Mansoor",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "ali",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "love-for-the-prophet",
+   "steadfastness"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Sa'eed bin Mansoor is not in the approved list and the text does not state his status."
+ },
+ {
+  "id": "n00656",
+  "summary": "Qaasim bin Abdur Rahmaan bin Raafi narrates that Anas bin Nadhar rebuked Muhaajireen and Ansaar who had lost heart after the report of the Prophet's death, and fought until he was martyred.",
+  "people": [
+   {
+    "id": null,
+    "name": "Qaasim bin Abdur Rahmaan bin Raafi",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Anas bin Nadhar",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "anas-bin-maalik",
+    "role": "mentioned"
+   },
+   {
+    "id": "umar",
+    "role": "mentioned"
+   },
+   {
+    "id": "talha",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "sacrifice",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [
+   "rumour of the Prophet's death at Uhud"
+  ],
+  "boundary": "ok",
+  "notes": "The heading says Battle of Badr but the text is about Uhud. Qaasim is not matched to the approved 'qaasim' (unsure), which has no patronymic; please check. Anas bin Maalik is the nephew named in the text."
+ },
+ {
+  "id": "n00657",
+  "summary": "Abdullaah bin Ammaar Khatmi reports that Thaabit bin Dahdaaha called the Ansaar back at Uhud, reminding them that Allaah is living, and that he was martyred by a spear thrown by Khaalid bin Waleed.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdullaah bin Ammaar Khatmi",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Thaabit bin Dahdaaha",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "khaalid-bin-waleed",
+    "role": "subject"
+   },
+   {
+    "id": "amr-bin-al-aas",
+    "role": "mentioned"
+   },
+   {
+    "id": "ikrama-bin-abi-jahal",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Daraar bin Khattaab",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "rumour of the Prophet's death at Uhud"
+  ],
+  "boundary": "ok",
+  "notes": "The heading says Battle of Badr but the text is about Uhud. Amr bin Al Aas, Ikrama and Daraar are named as leaders of the opposing battalion."
+ },
+ {
+  "id": "n00658",
+  "summary": "Abu Najeeh reports that a wounded Ansaari told a Muhaajir that the Prophet had delivered his message and the believers must keep fighting, and that the verse of Aal Imraan 144 was then revealed.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abu Najeeh",
+    "role": "narrator",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "steadfastness",
+   "prophethood"
+  ],
+  "new_themes": [
+   "rumour of the Prophet's death at Uhud"
+  ],
+  "boundary": "ok",
+  "notes": "The Muhaajir and the Ansaari are unnamed and not tagged. The Qur'aanic verse is quoted in the text."
+ },
+ {
+  "id": "n00659",
+  "summary": "Zaid bin Thaabit narrates that after Uhud the Prophet sent him to look for Sa'd bin Rabee, and that Sa'd, dying, sent salaams and said he could smell the fragrance of Jannah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Zaid bin Thaabit",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "sad-bin-rabee",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "aakhirah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Zaid is both narrator and messenger in his own story. The heading has OCR debris ('Sad bin Rabee Wflm'). Zaid bin Thaabit is not in the approved list."
+ },
+ {
+  "id": "n00660",
+  "summary": "Abdur Rahmaan bin Abu Sa'sa'a narrates that the Prophet asked who would find out about Sa'd bin Rabee, and that Sa'd sent back a message of thanks to the Prophet on behalf of himself and the Ummah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Abu Sa'sa'a",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "sad-bin-rabee",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "love-for-the-prophet"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Supplementary to n00659: the text says 'the rest of the Hadith is similar to the one above'."
+ },
+ {
+  "id": "n00661",
+  "summary": "Anas bin Maalik and Jaabir describe how the Ansaar defended the Prophet at Uhud one by one until they were martyred, and how Talha alone remained at his side to hold back the enemy.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": "jaabir-bin-abdillaah",
+    "role": "narrator"
+   },
+   {
+    "id": "talha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "sacrifice",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports joined: Anas's account (seven Ansaar) and Jaabir's account (eleven Ansaar and Talha). The Ansaar are unnamed."
+ },
+ {
+  "id": "n00662",
+  "summary": "Mahmood bin Labeed narrates that two elderly men, Yamaan and Thaabit bin Qais, joined the Muslim army at Uhud in secret; Thaabit was killed by the Mushrikeen and Yamaan by Muslims who did not recognise him, and Hudhayfa forgave the blood money, which raised his standing with the Prophet.",
+  "people": [
+   {
+    "id": "mahmood-bin-labeed",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Yamaan bin Jaabir",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Thaabit bin Qais",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Hudhayfa bin Yamaan",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "family",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "ok",
+  "notes": "The parenthesis in the text is garbled; the two old men are read as Yamaan and Thaabit bin Qais, with Yamaan as Hudhayfa's father. Hudhayfa is tagged as Hudhayfa bin Yamaan; the approved 'hudhayfa' entry may be the same person, so please check and merge if so."
+ },
+ {
+  "id": "n00663",
+  "summary": "A second report adds that the two old men slipped into the Muslim army to seek martyrdom, and that Hudhayfa's forgiveness of the blood money raised his standing in the eyes of the Prophet.",
+  "people": [
+   {
+    "id": null,
+    "name": "Hudhayfa bin Yamaan",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "family",
+   "mercy-and-forgiveness"
+  ],
+  "new_themes": [
+   "desire for martyrdom"
+  ],
+  "boundary": "starts-mid",
+  "notes": "A second version of the account in n00662. The two men are not named here and the report starts without its context."
+ },
+ {
+  "id": "n00664",
+  "summary": "Abu Hurayrah reports how Aasim bin Thaabit's spying party was surrounded by the Banu Lihyaan and killed, with Khubayb bin Adi and Zaid bin Dathana taken and sold in Makkah; Aasim bin Umar bin Qataadah then reports how the envoys sent to Rajee were betrayed to the Hudhayl.",
+  "people": [
+   {
+    "id": "abu-hurayrah",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Aasim bin Thaabit",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Aasim bin Umar bin Khattaab",
+    "role": "mentioned",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Khubayb bin Adi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Dathana",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Haarith bin Aamir bin Naufal",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Uqba bin Haarith",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "aasim-bin-umar-bin-qataadah",
+    "role": "narrator"
+   },
+   {
+    "id": "marthad-bin-dhabiyaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Khaalid bin Bukayr",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "opposition",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "betrayal of envoys sent to teach",
+   "protection of martyrs' bodies"
+  ],
+  "boundary": "merged",
+  "notes": "Several reports joined: Abu Hurayrah's account of Aasim's party and the Banu Lihyaan; then a report by Aasim bin Amr bin Qataadah (spelled 'Amr' here, 'Umar' in the approved entry, probably the same person) on the Rajee delegation. Khubayb bin Adi and Zaid bin Dathana are not in the approved list. Aasim bin Thaabit is named in the text as the maternal grandfather of Aasim bin Umar bin Khattaab. The third Sahabi is unnamed."
+ },
+ {
+  "id": "n00665",
+  "summary": "Aasim bin Thaabit recites couplets as he fights and is martyred; the Hudhayl then try to take his head for Sulaafa, but wasps guard his body until a flood carries it away, and Umar says Allaah protects His servant in death as in life.",
+  "people": [
+   {
+    "id": null,
+    "name": "Aasim bin Thaabit",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Sulaafa bint Sa'd bin Shuhayd",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "umar",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "virtues-of-the-sahabah"
+  ],
+  "new_themes": [
+   "protection of martyrs' bodies"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Continues the Rajee account from n00664. The couplets are translated poetry. Hudhayl is a tribe and is not tagged."
+ },
+ {
+  "id": "n00666",
+  "summary": "After the Rajee betrayal, Abdullaah bin Taariq is stoned to death at Zahraan, and Zaid bin Dathana is executed at Tan'eem, where Abu Sufyaan asks whether he would rather have the Prophet in his place and Zaid says he would not let a thorn prick the Prophet.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khubayb bin Adi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Dathana",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Taariq",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Hujayr bin Abi Ihaab Tameemi",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "safwaan-bin-umayyah",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Nistaas",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "steadfastness",
+   "love-for-the-prophet",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "betrayal of envoys sent to teach"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Continues from n00665; the opening is a parenthesis about the other three Sahabah. The text reads 'Hujayr bin Abi lhaab', taken as Ihaab. Abdullaah bin Taariq is not the approved 'taariq-bin-abdillaah'. Nistaas is Safwaan's slave. Zahraan and Tan'eem are places."
+ },
+ {
+  "id": "n00667",
+  "summary": "Ibn Is'haaq narrates through Maariya and Aasim bin Umar bin Qataadah how Khubayb bin Adi was held in Makkah and then executed at Tan'eem after a last prayer; Mu'aawiya recalls his father's fear of the curse, and Moosa bin Uqba relates that the Prophet announced the martyrdom of Khubayb and Zaid bin Dathana.",
+  "people": [
+   {
+    "id": "ibn-ishaaq",
+    "role": "narrator"
+   },
+   {
+    "id": "maariya",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Abdullaah bin Najeeh",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "aasim-bin-umar-bin-qataadah",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Khubayb bin Adi",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Hujayr bin Abi Ihaab",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "muaawiya-bin-abi-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": "abu-sufyaan",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Ibn Hishaam",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": "moosa-bin-aqba",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Dathana",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "steadfastness",
+   "love-for-the-prophet",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Several reports joined: Ibn Is'haaq (via Abdullaah bin Najeeh and Aasim bin Umar bin Qataadah), Mu'aawiya's own recollection, Ibn Hishaam's comment in the body, and the Maghaazi of Moosa bin Uqba. Maariya is the approved 'maariya' (freed slave of Hujayr). Ibn Hishaam is a scholar cited in the body rather than the reference line, so he is tagged here; drop him if the reviewer prefers."
+ },
+ {
+  "id": "n00668",
+  "summary": "Urwa bin Zubayr narrates that the sons of Mushrikeen killed at Badr executed Khubayb bin Adi, who refused to swear that he would prefer the Prophet to be in his place, and recited couplets while on the cross.",
+  "people": [
+   {
+    "id": "urwa-bin-zubayr",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Khubayb bin Adi",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "steadfastness",
+   "love-for-the-prophet",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The executioners are described only as the children of the Mushrikeen killed at Badr and are not tagged."
+ },
+ {
+  "id": "n00669",
+  "summary": "Further couplets of Khubayb bin Adi, given as additions to the previous report, express his fear of the fire and his readiness to die as a Muslim for Allaah's sake.",
+  "people": [
+   {
+    "id": null,
+    "name": "Khubayb bin Adi",
+    "role": "subject",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "steadfastness",
+   "sacrifice",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "starts-mid",
+  "notes": "Additions to the couplets in n00668, given without their context; the 'another narration' is not named."
+ },
+ {
+  "id": "n00670",
+  "summary": "Mughiera bin Abdur Rahmaan and others narrate that Abu Baraa asked the Prophet to send teachers to Najd, that Mundhir bin Amr led about seventy Sahabah there, and that Aamir bin Tufayl's men killed them at Bir Ma'oona, with only Ka'b bin Zaid surviving and Amr bin Umayyah Dhamri spared.",
+  "people": [
+   {
+    "id": null,
+    "name": "Mughiera bin Abdur Rahmaan",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-abi-bakr-bin-muhammad-bin-amr-bin-hazm",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Abu Baraa Aamir bin Maalik bin Ja'far",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Mundhir bin Amr",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Haarith bin Simma",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Haraam bin Milhaan",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Urwa bin Asmaa bin Silt",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Naafi bin Budayl bin Warqaa",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Aamir bin Fuhayra",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Aamir bin Tufayl",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Ka'b bin Zaid",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "amr-bin-umayyah-dhamri",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "dawah",
+   "sacrifice",
+   "opposition"
+  ],
+  "new_themes": [
+   "betrayal of envoys sent to teach"
+  ],
+  "boundary": "ok",
+  "notes": "Mundhir bin Amr is not the approved 'mundhir-bin-jahm' or 'mundhir-bin-saawa'. Usayya, Ri'al, Dhakwaan and the Banu clans are tribes and are not tagged; the Ansaari with Amr is unnamed. The OCR debris 'stitrtftere' is ignored. Abu Baraa neither accepted nor rejected Islaam in the text, so sahabi is 'no'."
+ },
+ {
+  "id": "n00671",
+  "summary": "Anas bin Maalik narrates that Haraam bin Milhaan, sent with the Prophet's letter to Aamir bin Tufayl, was stabbed from behind as he spoke to the enemy under a promise of safety, and cried out that he was successful; the Prophet then cursed the tribes responsible for thirty mornings.",
+  "people": [
+   {
+    "id": "anas-bin-maalik",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Haraam bin Milhaan",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "ummu-sulaym",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Aamir bin Tufayl",
+    "role": "subject",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Hammaam",
+    "role": "narrator",
+    "sahabi": "unsure"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "sacrifice",
+   "aakhirah",
+   "opposition"
+  ],
+  "new_themes": [
+   "betrayal of envoys sent to teach"
+  ],
+  "boundary": "ok",
+  "notes": "Hammaam is named in the text as a narrator. The crippled Sahabi and the man who stabbed Haraam are unnamed here (named in n00672). The Qur'aanic verse quoted is said in the text to have been abrogated later. Tribes are not tagged."
+ },
+ {
+  "id": "n00672",
+  "summary": "Another report names the man who killed Haraam bin Milhaan as Jabbaar bin Salma Kilaabi, who accepted Islaam when told that Haraam's cry meant his entry into Jannah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Haraam bin Milhaan",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "anas-bin-maalik",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Jabbaar bin Salma Kilaabi",
+    "role": "subject",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "accepting-islaam",
+   "aakhirah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Bukhari and Waaqidi are cited as sources and are not tagged as people. Haraam is the uncle of Anas here, the same person as in n00671, so the same entry is used."
+ },
+ {
+  "id": "n00673",
+  "summary": "Urwa bin Zubayr reports that the Prophet appointed Zaid bin Haaritha, then Ja'far and then Abdullaah bin Rawaaha as commanders for Mu'ta, and that Abdullaah wept at the departure and recited couplets, fearing the crossing over Jahannam.",
+  "people": [
+   {
+    "id": "urwa-bin-zubayr",
+    "role": "narrator"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Haaritha",
+    "role": "mentioned",
+    "sahabi": "yes"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "mentioned"
+   },
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "jihaad",
+   "aakhirah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text calls the commander 'Haaritha' and then 'Zaid' in the same report; tagged as Zaid bin Haaritha. OCR debris ('sent an to Mu'ta') ignored."
+ },
+ {
+  "id": "n00674",
+  "summary": "Abdullaah bin Rawaaha recites couplets of farewell to the Prophet as the Prophet turns back after seeing off the army.",
+  "people": [
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "subject",
+  "themes": [
+   "love-for-the-prophet",
+   "jihaad"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Neither the speaker nor the Prophet is named in the couplet; both are identified from the heading."
+ },
+ {
+  "id": "n00675",
+  "summary": "At Ma'aan the Muslims learn of Heraclius's army and resolve to press on, Abdullaah bin Rawaaha urges them to fight for victory or martyrdom, and at Mu'ta Zaid bin Haaritha and then Ja'far are martyred.",
+  "people": [
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   },
+   {
+    "id": "caesar",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Maalik bin Zaafila",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Qutba bin Qataadah",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Abaaya bin Maalik",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Haaritha",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "subject"
+   }
+  ],
+  "prophet": "mentioned",
+  "themes": [
+   "jihaad",
+   "sacrifice"
+  ],
+  "new_themes": [
+   "reliance on Allaah rather than numbers"
+  ],
+  "boundary": "starts-mid",
+  "notes": "Continues the Mu'ta account from n00674. Heraclius is tagged as the approved 'caesar' entry. Ma'aan, Balqaa, Mashaarif and Mu'ta are places; tribes are not tagged."
+ },
+ {
+  "id": "n00676",
+  "summary": "Urwa narrates that after Zaid's martyrdom Ja'far took up the flag, hamstrung his red horse, fought until he was martyred, and became the first Muslim to disable his mount.",
+  "people": [
+   {
+    "id": "urwa",
+    "role": "narrator"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "subject"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Haaritha",
+    "role": "mentioned",
+    "sahabi": "yes"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "A second version of the account in n00675. 'Hadhrat Urwa' is not further qualified, so it is matched to the approved 'urwa' (unsure); probably Urwa bin Zubayr as in n00673. Please confirm."
+ },
+ {
+  "id": "n00677",
+  "summary": "Zaid bin Arqam recounts that, as an orphan in Abdullaah bin Rawaaha's care on the Mu'ta journey, he wept at the couplets about dying in Shaam and was struck with a whip for it.",
+  "people": [
+   {
+    "id": null,
+    "name": "Zaid bin Arqam",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "aakhirah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Zaid bin Arqam is not the approved 'Arqam bin Abil Arqam'. He is both narrator and participant."
+ },
+ {
+  "id": "n00678",
+  "summary": "Abbaad bin Abdullaah bin Zubayr reports, through his foster father of Banu Murrah, that Abdullaah bin Rawaaha took up the flag after Ja'far was martyred, dismounted, recited couplets, and fought on until he was martyred after throwing down the meat he was eating.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abbaad bin Abdullaah bin Zubayr",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "abdullaah-bin-rawaaha",
+    "role": "subject"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "mentioned"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "aakhirah",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The foster father and the cousin are unnamed and not tagged. The text gives a full name for Abbaad, so it is not matched to the approved 'abbaad' (no); please check."
+ },
+ {
+  "id": "n00679",
+  "summary": "Abbaad bin Abdullaah bin Zubayr reports his foster father's account of Ja'far hamstringing his red horse and fighting on while reciting couplets about Jannah.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abbaad bin Abdullaah bin Zubayr",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": "jafar-bin-abi-taalib",
+    "role": "subject"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "aakhirah"
+  ],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The foster father, an eyewitness of Mu'ta, is unnamed in the text and not tagged. See n00678 on Abbaad."
+ },
+ {
+  "id": "n00680",
+  "summary": "Abdur Rahmaan bin Zaid bin Khattaab narrates that his father Zaid bin Khattaab carried the flag at Yamaamah, rebuked the fleeing Muslims and fought on until he was martyred, after which Saalim, freed slave of Abu Hudhayfa, took up the flag.",
+  "people": [
+   {
+    "id": null,
+    "name": "Abdur Rahmaan bin Zaid bin Khattaab",
+    "role": "narrator",
+    "sahabi": "unsure"
+   },
+   {
+    "id": null,
+    "name": "Zaid bin Khattaab",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": null,
+    "name": "Saalim",
+    "role": "subject",
+    "sahabi": "yes"
+   },
+   {
+    "id": "abu-hudhayfa-bin-utba",
+    "role": "mentioned"
+   },
+   {
+    "id": null,
+    "name": "Musaylama",
+    "role": "mentioned",
+    "sahabi": "no"
+   },
+   {
+    "id": null,
+    "name": "Muhakkam bin Tufayl",
+    "role": "mentioned",
+    "sahabi": "no"
+   }
+  ],
+  "prophet": "absent",
+  "themes": [
+   "jihaad",
+   "apostasy",
+   "sacrifice"
+  ],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "Cut off mid-sentence ('was martyred in'). Abdur Rahmaan is identified only as Zaid's son, so the approved 'abdur-rahmaan' (unsure) is not used. Musaylama is the false claimant to prophethood. The Muslims and the Haneefa tribe are not tagged."
+ }
+]

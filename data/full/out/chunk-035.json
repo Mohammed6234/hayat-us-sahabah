@@ -1,0 +1,546 @@
+[
+ {
+  "id": "n01361",
+  "summary": "Ali (RA) narrates the janaazah salaah for the Prophet, which the people performed in groups without an imaam, and Ali's farewell supplication.",
+  "people": [
+   { "id": "ali", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "salaah", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01362",
+  "summary": "Anas (RA) reports that Abu Bakr, on hearing of the Prophet's death, hurried in grief towards the Masjid.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The word 'steve' in the text is OCR for 'slave', who is unnamed and left out."
+ },
+ {
+  "id": "n01363",
+  "summary": "Ibn Abbaas reports Abu Bakr's address on the Prophet's death, his recitation of Aal Imraan 144, and Umar's collapse on hearing it; Uthmaan's own account of his grief follows in the same text.",
+  "people": [
+   { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "uthmaan", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "quraan", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two or more reports: Ibn Abbaas's account (Abu Bakr's address, Umar), then Uthmaan's own narration under 'The Grief of Hadhrat Uthmaan (RA)', which includes an editorial reference to Kanzul Ummaal and a note that the rest is quoted elsewhere."
+ },
+ {
+  "id": "n01364",
+  "summary": "Abdur Rahmaan bin Sa'eed bin Yarboo reports that Ali was deeply grieved at the Prophet's death, and Abu Bakr replied that no one grieved more than he did.",
+  "people": [
+   { "id": null, "name": "Abdur Rahmaan bin Sa'eed bin Yarboo", "role": "narrator", "sahabi": "unsure" },
+   { "id": "ali", "role": "subject" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01365",
+  "summary": "Ummu Salamah describes the wives' grief at the Prophet's death, the sound of grave-digging before dawn, and Bilaal's weeping when he called the Fajr adhaan.",
+  "people": [
+   { "id": "umm-salama", "role": "subject" },
+   { "id": "bilaal", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The OCR has 'Rasulullaah Si' for 'Rasulullaah ﷺ'."
+ },
+ {
+  "id": "n01366",
+  "summary": "Abu Dhu'ayb Hudhali describes the wailing in Madinah when he arrived and learned that the Prophet had passed away.",
+  "people": [
+   { "id": null, "name": "Abu Dhu'ayb Hudhali", "role": "subject", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01367",
+  "summary": "A narrator whose name is lost in the OCR reports that the governor of Makkah, Attaab bin Usayd, could not speak after the Prophet's death, so Suhayl bin Amr addressed the people in Makkah in his place.",
+  "people": [
+   { "id": null, "name": "Attaab bin Usayd", "role": "subject", "sahabi": "yes" },
+   { "id": "suhayl-bin-amr", "role": "subject" },
+   { "id": "umar", "role": "mentioned" },
+   { "id": "abu-bakr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "khilaafah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator's name is missing from the OCR ('Hadhrat (RA) reports'), so no narrator is recorded. The Badr passage has the Prophet speaking to Umar about Suhayl. OCR debris: 'tl'e', 'replied Hadhrat Attaab' (missing quote)."
+ },
+ {
+  "id": "n01368",
+  "summary": "Abu Ja'far reports that Faatima never laughed after the Prophet's death and only smiled slightly.",
+  "people": [
+   { "id": "abu-jafar", "role": "narrator" },
+   { "id": "faatima", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01369",
+  "summary": "Is'haaq reports Abu Bakr's words on the Prophet's death that revelation and speech from Allaah had now been lost.",
+  "people": [
+   { "id": null, "name": "Is'haaq", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-bakr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "prophethood"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text is cut off after Abu Bakr's words, at '(3!', and no reference follows. The narrator is named only as Is'haaq, so he is not matched to any approved entry."
+ },
+ {
+  "id": "n01370",
+  "summary": "Anas reports that Ummu Ayman wept because revelation had ended; Abu Bakr and Umar visited her to console her, and their own tears followed hers.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "ummu-ayman", "role": "subject" },
+   { "id": "abu-bakr", "role": "subject" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "prophethood"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports: Anas on Ummu Ayman's weeping, Anas on the visit by Abu Bakr and Umar, and a further narration introduced by 'Another narration states'. The OCR has a stray 'W' before the last one."
+ },
+ {
+  "id": "n01371",
+  "summary": "Moosa bin Uqba quotes Ummu Ayman saying she wept because the news from the heavens, which had come to them daily, had ended.",
+  "people": [
+   { "id": "moosa-bin-aqba", "role": "narrator" },
+   { "id": "ummu-ayman", "role": "subject" }
+  ],
+  "prophet": "absent",
+  "themes": ["prophethood", "prophets-final-illness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Prophet is not named in the text itself; the link to his death comes from the section heading."
+ },
+ {
+  "id": "n01372",
+  "summary": "Abdullaah bin Umar reports that the people wept at the Prophet's death, and Ma'n bin Adi replied that he wished to believe in him after his death as he had in his life.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "narrator" },
+   { "id": "man-bin-adi", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["love-for-the-prophet", "prophets-final-illness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01373",
+  "summary": "Anas reports Faatima's grief when the Prophet was ill, her words after his death about his acceptance by his Rabb and his place in Jannah, and her reproach to Anas after the burial.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" },
+   { "id": "faatima", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The closing quote is missing. The next text is a separate narration of Faatima's words to Anas."
+ },
+ {
+  "id": "n01374",
+  "summary": "Another narration gives Faatima's words to Anas after the Prophet was buried, and Hammaad reports that Thaabit wept as he related it.",
+  "people": [
+   { "id": null, "name": "Hammaad", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Thaabit", "role": "narrator", "sahabi": "unsure" },
+   { "id": "faatima", "role": "subject" },
+   { "id": "anas-bin-maalik", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Thaabit' is not identified further in the text, so he is not matched to any approved entry (it could be a named Thaabit, but that is not stated). The first narrator of this report is not named."
+ },
+ {
+  "id": "n01375",
+  "summary": "Urwa reports Safiyya's couplets in grief for the Prophet; a second set of her verses and a third narration from Muhammad bin Mi bin Husayn follow.",
+  "people": [
+   { "id": null, "name": "Urwa", "role": "narrator", "sahabi": "unsure" },
+   { "id": "safiyya-bint-abdul-muttalib", "role": "subject" },
+   { "id": "faatima", "role": "mentioned" },
+   { "id": "hasan-bin-ali", "role": "mentioned" },
+   { "id": null, "name": "Muhammad bin Mi bin Husayn", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Three reports joined: Urwa's account of Safiyya's couplets, Safiyya's second set, and a narration from 'Muhammad bin Mi bin Husayn'. 'Mi' is probably OCR for 'Ali', giving Muhammad bin Ali bin Husayn, but that is not certain, so he is not matched. Reference lines (Bukhaari, Kanzul Ummaal, Ibn Sa'd) sit inside the text."
+ },
+ {
+  "id": "n01376",
+  "summary": "Ghunaym bin Qais reports the couplets his father recited after the Prophet's departure.",
+  "people": [
+   { "id": null, "name": "Ghunaym bin Qais", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["prophets-final-illness", "love-for-the-prophet"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The father who recited the couplets is not named in the text, so he is left out."
+ },
+ {
+  "id": "n01377",
+  "summary": "Zaid bin Aslam reports that Umar, on his night patrol, found an old woman grieving for the Prophet in her couplets, wept with her, and asked her to pray for him.",
+  "people": [
+   { "id": "zaid-bin-aslam", "role": "narrator" },
+   { "id": "umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "aakhirah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The old woman is unnamed and left out. The text has OCR breaks inside the couplets."
+ },
+ {
+  "id": "n01378",
+  "summary": "Aasim bin Muhammad reports that his father said Abdullaah bin Umar's eyes always filled with tears whenever he mentioned the Prophet.",
+  "people": [
+   { "id": null, "name": "Aasim bin Muhammad", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-umar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The heading also names Anas, but this text covers only Ibn Umar. The narrator's father is not named and is left out. A stray heading fragment, 'Rasulullaah ﷺ', opens the text (OCR)."
+ },
+ {
+  "id": "n01379",
+  "summary": "Muthanna bin Sa'eed Daari reports that Anas said he saw the Prophet in a dream every night, and wept as he said it.",
+  "people": [
+   { "id": null, "name": "Muthanna bin Sa'eed Daari", "role": "narrator", "sahabi": "unsure" },
+   { "id": "anas-bin-maalik", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Muthanna bin Sa'eed Daari' is not in the approved list and is not the approved 'muthanna-bin-haaritha'. A stray '®' from the OCR ends the text."
+ },
+ {
+  "id": "n01380",
+  "summary": "Ka'b bin Alqama reports that Gharfa bin Haarith Kindi struck a Christian who reviled the Prophet, and that Amr bin Al Aas replied that a treaty applied, which Gharfa rejected.",
+  "people": [
+   { "id": null, "name": "Ka'b bin Alqama", "role": "narrator", "sahabi": "unsure" },
+   { "id": null, "name": "Gharfa bin Haarith Kindi", "role": "subject", "sahabi": "yes" },
+   { "id": "amr-bin-al-aas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "delegations"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The Christian who reviled the Prophet is unnamed here (named Mundaqoon in the next narration). The narrator's name is run together in the OCR as 'Ka'bbinAlqama'. The text ends with a complete exchange."
+ },
+ {
+  "id": "n01381",
+  "summary": "Gharfa bin Haarith reports his own case: he struck a Christian called Mundaqoon in Egypt for reviling the Prophet, and Amr bin Al Aas said that a treaty protected him.",
+  "people": [
+   { "id": null, "name": "Gharfa bin Haarith", "role": "subject", "sahabi": "yes" },
+   { "id": "ikrama-bin-abi-jahal", "role": "mentioned" },
+   { "id": "amr-bin-al-aas", "role": "subject" },
+   { "id": null, "name": "Mundaqoon", "role": "subject", "sahabi": "no" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "delegations"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "OCR debris: 'Gharfa Sftjag hit the Christian'. The closing 'rest of the narration is the same' is an editorial summary."
+ },
+ {
+  "id": "n01382",
+  "summary": "Another narration tells of Gharfa killing a man under a peace treaty after he reviled the Prophet, and Amr bin Al Aas objecting that the treaty protected him.",
+  "people": [
+   { "id": null, "name": "Gharfa bin Haarith Kindi", "role": "subject", "sahabi": "yes" },
+   { "id": "amr-bin-al-aas", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["love-for-the-prophet", "delegations"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The man Gharfa killed is unnamed and left out. The narrator of this variant is not named. The closing 'rest of the narration is similar' is an editorial summary."
+ },
+ {
+  "id": "n01383",
+  "summary": "Urwa bin Zubayr reports the expedition to Nakhla under Abdullaah bin Jahash, who followed the sealed instructions, the killing of Ibn Hadhrami in a sacred month and the verses revealed after it; Jundub bin Abdullaah gives a second report of Ubaydah bin Haarith's expedition, which Abdullaah bin Jahash took over.",
+  "people": [
+   { "id": "urwa-bin-zubayr", "role": "narrator" },
+   { "id": "abdullaah-bin-jahash", "role": "subject" },
+   { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+   { "id": null, "name": "Utba bin Ghazwaan", "role": "mentioned", "sahabi": "yes" },
+   { "id": null, "name": "Amr bin Hadhrami", "role": "mentioned", "sahabi": "no" },
+   { "id": "hakam-bin-kaysaan", "role": "mentioned" },
+   { "id": null, "name": "Uthmaan bin Abdullaah", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Mughiera bin Abdullaah", "role": "mentioned", "sahabi": "no" },
+   { "id": null, "name": "Waaqid bin Abdullaah Tameemi", "role": "subject", "sahabi": "yes" },
+   { "id": null, "name": "Jundub bin Abdullaah", "role": "narrator", "sahabi": "yes" },
+   { "id": "ubaydah-bin-haarith", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "jihaad", "halaal-and-haraam"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Urwa's account of Nakhla, and Jundub bin Abdullaah's separate account (from 'Hadhrat Jundub bin Abdullaah') of the Ubaydah expedition. Reference lines (Bayhaqi, Abu Nu'aym, Tabari) sit inside the text. The OCR has 'Rasulullaah iffif' for the Prophet's name. The other eight Sahabah are unnamed and left out."
+ },
+ {
+  "id": "n01384",
+  "summary": "Abdullaah bin Umar reports the Prophet's order after the Battle of Ahzaab not to pray Asr until reaching Banu Qurayzah, and that he did not rebuke either group who differed on it.",
+  "people": [
+   { "id": "abdullaah-bin-umar", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "salaah", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01385",
+  "summary": "Ka'b bin Maalik reports the Prophet's order after the Battle of Ahzaab to march on Banu Qurayzah at once, and the two groups' different decisions on Asr; Duhaym adds a separate account of the same event.",
+  "people": [
+   { "id": "kab-bin-maalik", "role": "narrator" },
+   { "id": null, "name": "Duhaym", "role": "narrator", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "jihaad", "salaah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Ka'b bin Maalik's report is joined with a separate narration from Duhaym ('A narration of Hadhrat Duhaym adds'). Jibra'eel is an angel and is left out."
+ },
+ {
+  "id": "n01386",
+  "summary": "Jaabir reports that at Hunayn the Prophet had Abbaas call the Ansaar and the Bay'ah companions, and that Abu Sufyaan's requests to Abu Bakr, Umar and Faatima were refused.",
+  "people": [
+   { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+   { "id": "abbaas-bin-abdil-muttalib", "role": "mentioned" },
+   { "id": "abu-sufyaan", "role": "subject" },
+   { "id": "umar", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" },
+   { "id": "faatima", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["jihaad", "delegations", "conquest-of-makkah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text says 'Hadhrat (RA)' where Abu Sufyaan approached a person whose name is missing from the OCR; that person is left out. The Ansaar and the people of Makkah are unnamed."
+ },
+ {
+  "id": "n01387",
+  "summary": "Abu Azeez bin Umayr, a prisoner taken at Badr, recounts that the Ansaar gave him wheat bread and ate dates themselves, as the Prophet had commanded them to treat prisoners well.",
+  "people": [
+   { "id": null, "name": "Abu Azeez bin Umayr", "role": "subject", "sahabi": "yes" },
+   { "id": "musab-bin-umayr", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["kindness", "jihaad"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The text has a stray '®' at the end (OCR debris)."
+ },
+ {
+  "id": "n01388",
+  "summary": "Abdur Rahmaan bin Abi Layla reports that Abdullaah bin Rawaaha sat down at once when the Prophet told him to during a sermon, and Aa'isha gives a second report of the same incident.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-abi-layla", "role": "narrator" },
+   { "id": "abdullaah-bin-rawaaha", "role": "subject" },
+   { "id": "aaisha", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "merged",
+  "notes": "Two reports: Abdur Rahmaan bin Abi Layla's account, then Aa'isha's account of the Friday sermon. The Ibn Abi Shaybah reference line sits inside the text, and the OCR has a broken 'Rasulullaah . ibn Abi Shaybah' line."
+ },
+ {
+  "id": "n01389",
+  "summary": "Ataa reports that Abdullaah bin Mas'ood sat down at the door at once when the Prophet told the people to be seated during a sermon.",
+  "people": [
+   { "id": null, "name": "Ataa", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Ataa (RA)' has no further name in the text, so he is not matched to any approved entry."
+ },
+ {
+  "id": "n01390",
+  "summary": "Jaabir reports the same incident: Abdullaah bin Mas'ood sat at the Masjid door until the Prophet called him inside.",
+  "people": [
+   { "id": "jaabir-bin-abdillaah", "role": "narrator" },
+   { "id": "abdullaah-bin-masood", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01391",
+  "summary": "Anas reports that the Prophet disliked an Ansaari's dome and turned away from its owner until he demolished it, and that the Prophet said every building is a curse on its owner except what is necessary.",
+  "people": [
+   { "id": "anas-bin-maalik", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": ["avoiding worldly excess"],
+  "boundary": "merged",
+  "notes": "Anas's account is joined with a second day's events and a brief variant from Ibn Maajah (reference inside the text). The dome's owner and the other Sahabah are unnamed and left out."
+ },
+ {
+  "id": "n01392",
+  "summary": "Abdullaah bin Amr bin Al Aas reports that when the Prophet disliked his red shawl, he threw it into the oven, and the Prophet told him he could have given it to the women of his household.",
+  "people": [
+   { "id": "abdullaah-bin-amr", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01393",
+  "summary": "Sahl bin Handhaliyya reports that the Prophet praised Khuraym Asadi except for his long hair and low garment, and Khuraym immediately cut his hair and raised his garment.",
+  "people": [
+   { "id": "sahl-bin-handhaliyya", "role": "narrator" },
+   { "id": null, "name": "Khuraym Asadi", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["following-the-sunnah", "virtues-of-the-sahabah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is written 'Sahl bin Hadhaliyyah Abshami' in the text and is matched to the approved 'sahl-bin-handhaliyya' on the basis of that spelling and nisba; check this match."
+ },
+ {
+  "id": "n01394",
+  "summary": "Juthaama bin Musaahiq reports that as Umar's envoy to Heraclius he got off a gold throne he had been given, because he had heard the Prophet forbid such things.",
+  "people": [
+   { "id": null, "name": "Juthaama bin Musaahiq bin Rabee bin Qais Kanani", "role": "subject", "sahabi": "unsure" },
+   { "id": "umar", "role": "mentioned" },
+   { "id": "caesar", "role": "subject" }
+  ],
+  "prophet": "mentioned",
+  "themes": ["halaal-and-haraam", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "Juthaama is called 'Hadhrat' in the text but without (RA), so the Sahabi status is marked unsure. Caesar is the approved entry for Heraclius."
+ },
+ {
+  "id": "n01395",
+  "summary": "Raafi bin Khadeej relays his uncle's words that the Prophet had forbidden them something that had been beneficial, and that obedience to Allaah and His Rasool is even better.",
+  "people": [
+   { "id": "raafi-bin-khadeej", "role": "narrator" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ends-mid",
+  "notes": "The text ends with 'The rest of the narration concerns hiring out property', which is a summary, not the rest of the report. The uncle is unnamed and left out."
+ },
+ {
+  "id": "n01396",
+  "summary": "Muhammad bin Aslam bin Bujra reports that, in his old age, he would go back to Madinah to pray two rakahs in the Prophet's Masjid, having forgotten to do so on each visit, as the Prophet had instructed.",
+  "people": [
+   { "id": null, "name": "Muhammad bin Aslam bin Bujra", "role": "subject", "sahabi": "yes" }
+  ],
+  "prophet": "subject",
+  "themes": ["salaah", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": ""
+ },
+ {
+  "id": "n01397",
+  "summary": "Mughiera bin Shu'ba reports that, on the Prophet's advice, he looked at a woman from the Ansaar before marrying her; she allowed it only because the Prophet had told him to.",
+  "people": [
+   { "id": "mughiera-bin-shuba", "role": "subject" }
+  ],
+  "prophet": "subject",
+  "themes": ["marriage", "following-the-sunnah"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The woman and her parents are unnamed; the heading's 'Fataa' is a title, not a name, and is left out."
+ },
+ {
+  "id": "n01398",
+  "summary": "Ma'roor bin Suwayd reports that Abu Dharr, who had insulted Bilaal over his mother, was rebuked by the Prophet, who told him that slaves are his brothers to be fed and clothed as he is.",
+  "people": [
+   { "id": null, "name": "Ma'roor bin Suwayd", "role": "narrator", "sahabi": "unsure" },
+   { "id": "abu-dharr-ghifaari", "role": "subject" },
+   { "id": "bilaal", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "kindness", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "'Hadhrat Ma'roor' has no (RA) in the text, so the Sahabi status is unsure. Abu Dharr's slave is unnamed. Ma'roor bin Suwayd is not matched to 'baraa-bin-maroor'."
+ },
+ {
+  "id": "n01399",
+  "summary": "Another narration gives the Prophet's words to Abu Dharr that his slaves are his brothers, whom Allaah has put in his care, and should be fed and clothed as he is.",
+  "people": [
+   { "id": "abu-dharr-ghifaari", "role": "mentioned" }
+  ],
+  "prophet": "subject",
+  "themes": ["brotherhood", "kindness"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator of this variant is not named. The Prophet is recorded in the prophet field and is not a people entry."
+ },
+ {
+  "id": "n01400",
+  "summary": "Abu Salamah bin Abdur Rahmaan reports that Umar tore the silk garment worn by Abdur Rahmaan bin Auf's son Abu Salmah, saying the Prophet had allowed silk to Abdur Rahmaan only because of lice and not to others.",
+  "people": [
+   { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+   { "id": "abu-salma-bin-abdir-rahmaan", "role": "narrator" },
+   { "id": "umar", "role": "subject" },
+   { "id": "abu-bakr", "role": "mentioned" },
+   { "id": null, "name": "Abu Salmah (son of Abdur Rahmaan bin Auf)", "role": "mentioned", "sahabi": "unsure" }
+  ],
+  "prophet": "subject",
+  "themes": ["halaal-and-haraam", "khilaafah", "justice"],
+  "new_themes": [],
+  "boundary": "ok",
+  "notes": "The narrator is matched to 'abu-salma-bin-abdir-rahmaan' (the approved spelling 'Abdir' differs from the text's 'Abdur'); check this match. The son Abu Salmah may or may not be the same person as the narrator, which the text does not say."
+ }
+]

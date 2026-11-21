@@ -1,0 +1,16 @@
+{
+  "name": "hayat-us-sahabah",
+  "private": true,
+  "type": "module",
+  "description": "Reader for The Lives of the Sahabah: read in the author's order, or filter narrations by Companion and theme.",
+  "scripts": {
+    "fetch": "node pipeline/fetch.mjs",
+    "segment": "node pipeline/segment.mjs",
+    "pilot:input": "node pipeline/pilot-input.mjs 50",
+    "tags": "node pipeline/apply-vocab.mjs",
+    "data": "node pipeline/build-site-data.mjs",
+    "build": "node pipeline/build-site-data.mjs && node pipeline/build-site.mjs",
+    "serve": "npm run build && cd dist && python3 -m http.server 8080"
+  },
+  "engines": { "node": ">=20" }
+}

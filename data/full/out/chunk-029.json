@@ -1,0 +1,555 @@
+[
+  {
+    "id": "n01121",
+    "summary": "Zubayr asked his son Abdullaah to sell his property to clear his debts, and Abdullaah repaid them by selling land at Ghaabah before distributing the inheritance after four Hajj seasons of announcements.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "hakeem-bin-hizaam", "role": "subject" },
+      { "id": "abdullaah-bin-jafar", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "subject" },
+      { "id": "amr-bin-uthmaan", "role": "subject" },
+      { "id": null, "name": "Mundhir bin Zubayr", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Ibn Zam'ah", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "family", "virtues-of-the-sahabah"],
+    "new_themes": ["debts"],
+    "boundary": "ok",
+    "notes": "Mu'aawiya is read as Mu'aawiya bin Abi Sufyaan from the context. The closing figures are the book's own note quoting Ibn Katheer."
+  },
+  {
+    "id": "n01122",
+    "summary": "Abdur Rahmaan bin Auf sold a property for forty thousand Dinaars and gave the money away, and when Aa'isha heard of it she recalled the Prophet's words about his wives.",
+    "people": [
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": null, "name": "Ummu Bakr bint Miswar", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "subject",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01123",
+    "summary": "A second report repeats the Prophet's words about his wives, and Ja'far bin Burqaan reports that Abdur Rahmaan bin Auf set free thirty families before the text breaks off.",
+    "people": [
+      { "id": null, "name": "Ja'far bin Burqaan", "role": "narrator", "sahabi": "no" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Opens with 'Another states', a second report continuing the Prophet's words from the previous item. Cut off mid-sentence at 'thirty families of'."
+  },
+  {
+    "id": "n01124",
+    "summary": "Umar sent four hundred Dinaars first to Abu Ubaydah and then to Mu'aadh bin Jabal to see what they would do with it, and both gave the whole sum to the needy.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": null, "name": "Maalik Daar", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01125",
+    "summary": "Umar wished for men like Abu Ubaydah, Mu'aadh and Hudhayfah to employ in Allaah's service, and when he tested them with money, each gave all of it away.",
+    "people": [
+      { "id": "aslam", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "hudhayfa", "role": "subject" },
+      { "id": "muaadh-bin-jabal", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text names Hudhayfah bin Yamaan; he is tagged with the vocab entry 'hudhayfa', which should be checked against him."
+  },
+  {
+    "id": "n01126",
+    "summary": "Abdullaah bin Umar gave away twenty thousand Dinaars during one gathering, and also spent a hundred thousand sent to him by Mu'aawiya within a single year.",
+    "people": [
+      { "id": null, "name": "Maymoon bin Mahraan", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ends-mid",
+    "notes": "Cut off after 'W' at the end of Naafi's report. Mu'aawiya is read as Mu'aawiya bin Abi Sufyaan from the context."
+  },
+  {
+    "id": "n01127",
+    "summary": "After receiving large sums, Abdullaah bin Umar had given it all away, and a visitor saw him buying fodder on credit for one Dirham, which his slave confirmed.",
+    "people": [
+      { "id": null, "name": "Ayyoob bin Waa'il Raasibi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ok",
+    "notes": "OCR garbles the sums and the closing announcement, so the figures are tagged as printed. Mu'aawiya is read as Mu'aawiya bin Abi Sufyaan from the context."
+  },
+  {
+    "id": "n01128",
+    "summary": "Abdullaah bin Umar gave away about twenty thousand the moment he received it, borrowed to pay a latecomer, and was defended against the charge that he was a miser.",
+    "people": [
+      { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" },
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": null, "name": "Maymoon bin Mahraan", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01129",
+    "summary": "After returning from Makkah, Ash'ath bin Qais gave every person at his mosque clothing, shoes and five hundred Dirhams, and a man from outside the locality also received a gift.",
+    "people": [
+      { "id": null, "name": "Abu Is'haaq", "role": "narrator", "sahabi": "no" },
+      { "id": "ashath-bin-qais", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01130",
+    "summary": "Aa'isha gave away a hundred thousand that was brought to her while she was fasting, and when reminded she could have bought meat to break her fast, she said she would have if she had been told.",
+    "people": [
+      { "id": "aaisha", "role": "subject" },
+      { "id": null, "name": "Ummu Durra", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "fasting"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01131",
+    "summary": "Umar sent a bag of Dirhams to Sauda, who asked what they were and then gave the whole amount to the poor.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" },
+      { "id": "sauda-bint-zamah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01132",
+    "summary": "Umar sent Zaynab her share of surplus wealth, and after she objected that he gave allowances only to weaned children, he fixed an allowance for every Muslim child at birth.",
+    "people": [
+      { "id": null, "name": "Barra bint Raafi", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "zaynab", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["khilaafah", "virtues-of-the-sahabah", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text names her Zaynab bint Jahash; she is tagged with the vocab entry 'zaynab', which should be checked against her."
+  },
+  {
+    "id": "n01133",
+    "summary": "Umar said he treated public funds as the wealth of orphans, taking from it only when he had to and only as much as he spent from his own earnings.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": "urwa", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Urwa' is not qualified in the text and is tagged with the generic vocab entry 'urwa'."
+  },
+  {
+    "id": "n01134",
+    "summary": "Umar borrowed from the public treasurer when short of money and repaid it from his share of the surplus, even when the treasurer had to press him for payment.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Imraan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Imraan' is unqualified in the text and is not matched to Imraan bin Husayn."
+  },
+  {
+    "id": "n01135",
+    "summary": "Umar, while trading as Khalifah, refused Abdur Rahmaan bin Auf's suggestion that he borrow from the public treasury and preferred a private loan, so that it could be repaid from his estate if he died.",
+    "people": [
+      { "id": "ibraheem", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The leading fragment 'Abdur Rahmaan bin Auf . .' is OCR debris from the chain line and is ignored."
+  },
+  {
+    "id": "n01136",
+    "summary": "When Umar was ill and prescribed honey kept in the public treasury, he asked the people's permission to use it, saying it would otherwise be forbidden to him, and they gave it.",
+    "people": [
+      { "id": "baraa-bin-maroor", "role": "mentioned" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is an unnamed son of Baraa bin Ma'roor, so only Baraa is tagged, as mentioned."
+  },
+  {
+    "id": "n01137",
+    "summary": "Umar refused his daughter Hafsah's request that relatives receive a share of public money, saying his relatives had a right only in his own wealth.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "hafsa", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "honest-dealings", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator 'Hasan' is unqualified in the text and is not matched to a vocab entry."
+  },
+  {
+    "id": "n01138",
+    "summary": "Abdullaah bin Arqam asked Umar to review jewels and silver from Jaloola, and Umar prayed against the pull of worldly wealth before refusing his young son Abdur Rahmaan's request for a ring.",
+    "people": [
+      { "id": "aslam", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Abdullaah bin Arqam", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abdur Rahmaan bin Bahiyya", "role": "subject", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ok",
+    "notes": "Abdullaah bin Arqam is a different person from Arqam bin Abil Arqam in the vocab. The narrator's closing remark is not attributed to anyone named."
+  },
+  {
+    "id": "n01139",
+    "summary": "When musk and ambergris arrived from Bahrain, Umar declined his wife Aatika's offer to weigh it for distribution, fearing she might take a share for herself.",
+    "people": [
+      { "id": null, "name": "Ismaa'eel bin Muhammad bin Sa'd bin Abi Waqqaas", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Aatika bint Zaid bin Amr bin Nufayl", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01140",
+    "summary": "Umar saw a weak little girl and, on learning she was Abdullaah's daughter, told him he must earn to provide for his children, since he did not spend on her.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator 'Hasan' is unqualified in the text and is not matched to a vocab entry."
+  },
+  {
+    "id": "n01141",
+    "summary": "After Umar had supported his newly married son Aasim from the public treasury for a month, he stopped and told him to sell produce from his orchard and go into partnership with a trader instead.",
+    "people": [
+      { "id": null, "name": "Aasim bin Umar", "role": "subject", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Yarfa", "role": "mentioned", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["family", "honest-dealings", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Trailing OCR debris after the closing sentence is ignored. Yarfa is named as the slave sent to call Aasim."
+  },
+  {
+    "id": "n01142",
+    "summary": "A Roman empress sent Umar's wife a bottle filled with gems in return for perfume, and Umar sold the gems, gave his wife one Dinaar and deposited the rest in the public treasury.",
+    "people": [
+      { "id": "maalik-bin-aws-bin-hadathaan", "role": "narrator" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Cut off at 'deposited the rest in to the Baytul'."
+  },
+  {
+    "id": "n01143",
+    "summary": "Abdullaah bin Umar bought a camel and pastured it with public funds, and when Umar saw it fattened for sale he told him to return the profit to the Baytul Maal and keep only his capital.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "An OCR gap after 'the grazing fields of the Baytul' is ignored."
+  },
+  {
+    "id": "n01144",
+    "summary": "When an in-law of Umar asked for money from the public treasury, Umar rebuked him, and later gave him ten thousand Dirhams from his own money.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "family"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The in-law is unnamed and is not tagged."
+  },
+  {
+    "id": "n01145",
+    "summary": "Ali, shivering in a shawl at Khowrnaq, refused to take anything from the state's wealth and said he had brought the shawl from his house in Madinah.",
+    "people": [
+      { "id": null, "name": "Antarah", "role": "narrator", "sahabi": "unsure" },
+      { "id": "ali", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "'Hadhrat Mi (RA)' is OCR for Ali and is tagged as Ali."
+  },
+  {
+    "id": "n01146",
+    "summary": "Allaah offered the Prophet the choice of being a prophet-king or a prophet-servant, and after Jibra'eel signalled humility he chose to be a servant and never ate reclining again until his death.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "hunger-and-hardship"],
+    "new_themes": ["humility"],
+    "boundary": "ok",
+    "notes": "The angels, including Jibra'eel, are not tagged as people."
+  },
+  {
+    "id": "n01147",
+    "summary": "On Mount Safa the Prophet said his family had had no food that evening, and when offered treasures and mountains of gold he again chose to be a servant-prophet out of humility.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "hunger-and-hardship"],
+    "new_themes": ["humility"],
+    "boundary": "ends-mid",
+    "notes": "Cut off at 'I would rather be a Nabi who is a'. The angels Jibra'eel and Israafeel are not tagged as people."
+  },
+  {
+    "id": "n01148",
+    "summary": "The Prophet declined his Lord's offer to turn the rocky plains of Makkah into gold, preferring to eat one day and be hungry the next so that he could be humble, thankful and remember Allaah.",
+    "people": [
+      { "id": "abu-umaama", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "hunger-and-hardship"],
+    "new_themes": ["humility"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01149",
+    "summary": "Ali reports that the Prophet declined an offer from his Lord to turn the plains of Makkah into gold, preferring to eat one day and be hungry the next so that he could thank and beg from Allaah.",
+    "people": [
+      { "id": "ali", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["prophethood", "hunger-and-hardship"],
+    "new_themes": ["humility"],
+    "boundary": "ok",
+    "notes": "'Hadhrat All (RA)' is OCR for Ali and is tagged as Ali. The angel is not tagged as a person."
+  },
+  {
+    "id": "n01150",
+    "summary": "After a Mushrik was killed at the Battle of Ahzaab, the Mushrikeen offered payment for his body, and the Prophet refused the money, saying both the body and the money were worthless.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": "abu-sufyaan", "role": "subject" },
+      { "id": null, "name": "Naufal", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "opposition"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Combines the main report with an Ahmad narration and a second version naming Naufal (or Ibn Naufal) who fell from his horse. The Mushrikeen who offered payment are not named."
+  },
+  {
+    "id": "n01151",
+    "summary": "Hakeem bin Hizaam bought a suit of Dhu Yazan's clothing in Yemen and presented it to the Prophet, who refused it because he does not accept gifts from Mushrikeen.",
+    "people": [
+      { "id": "urwa", "role": "narrator", "sahabi": "unsure" },
+      { "id": "hakeem-bin-hizaam", "role": "subject" },
+      { "id": null, "name": "Dhu Yazan", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["dawah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles the sentence about Hakeem's Islaam. It is read as the Prophet inviting him to Islaam, which he refused. 'Urwa' is unqualified and tagged with the generic vocab entry 'urwa'."
+  },
+  {
+    "id": "n01152",
+    "summary": "Ayaadh bin Himaar presented a camel to the Prophet as a gift, and when the Prophet found he was not a Muslim he refused it, saying he had been forbidden to accept gifts from Mushrikeen.",
+    "people": [
+      { "id": null, "name": "Ayaadh bin Himaar Mujaashi'ee", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["halaal-and-haraam", "dawah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01153",
+    "summary": "Abu Bakr, who feared his Khilaafah allowance might not be permissible, accepted one fixed by consultation, and on his deathbed had the eight thousand Dirhams he used returned to the Baytul Maal.",
+    "people": [
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["honest-dealings", "khilaafah", "halaal-and-haraam"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator 'Hasan' is unqualified in the text and is not matched to a vocab entry."
+  },
+  {
+    "id": "n01154",
+    "summary": "On his deathbed Abu Bakr asked Aa'isha to return an orchard he had given her to his estate and to send his few belongings to Umar, and Umar refused to return them even when Abdur Rahmaan bin Auf advised it.",
+    "people": [
+      { "id": null, "name": "Abu Bakr bin Hafs bin Umar", "role": "narrator", "sahabi": "no" },
+      { "id": "aaisha", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["aakhirah", "khilaafah", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n01155",
+    "summary": "Ataa bin Yasaar reports that Umar returned a gift the Prophet had sent him, and the report breaks off as the Prophet asks why.",
+    "people": [
+      { "id": null, "name": "Ataa bin Yasaar", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "honest-dealings"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ends-mid",
+    "notes": "Cut off at the Prophet's question 'Why have you returned it?', before any reply."
+  },
+  {
+    "id": "n01156",
+    "summary": "In the Year of Ashes Umar sent Abu Ubaydah a thousand Dinaars for his work, and when Abu Ubaydah refused, Umar cited the Prophet's instruction not to refuse such payment, and he accepted.",
+    "people": [
+      { "id": "aslam", "role": "narrator" },
+      { "id": "amr-bin-al-aas", "role": "mentioned" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-ubaydah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The letter Umar wrote to Amr bin Al Aas is not quoted in the text."
+  },
+  {
+    "id": "n01157",
+    "summary": "Umar offered Sa'eed bin Aamir a thousand Dinaars, which he refused, and Umar explained the Prophet's teaching to accept wealth that comes without asking or craving, so Sa'eed accepted it.",
+    "people": [
+      { "id": null, "name": "Abdullaah bin Ziyaad", "role": "narrator", "sahabi": "unsure" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Sa'eed bin Aamir", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "khilaafah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "ok",
+    "notes": "Narrator 'Abdullaah bin Ziyaad' is not matched to a vocab entry. Sa'eed bin Aamir is not in the vocab; he is probably the Sa'eed bin Aamir bin Hudhaym of the next item, which the text does not say."
+  },
+  {
+    "id": "n01158",
+    "summary": "Umar offered Sa'eed bin Aamir bin Hudhaym, a governor in Shaam, ten thousand Dirhams, which he refused because he had enough wealth and wanted to serve the Muslims freely.",
+    "people": [
+      { "id": null, "name": "Zaid bin Aslam", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Sa'eed bin Aamir bin Hudhaym", "role": "subject", "sahabi": "yes" },
+      { "id": "aslam", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "jihaad"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "merged",
+    "notes": "Two reports: Zaid bin Aslam's, and a second from Aslam about another man in Shaam whose name is not given."
+  },
+  {
+    "id": "n01159",
+    "summary": "Abdullaah bin Sa'di refused pay for his public services, and Umar explained that the Prophet had taught him to keep or give away what came without asking, so he urged Abdullaah to take payment.",
+    "people": [
+      { "id": "abdullaah-bin-sadi", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["sadaqah", "virtues-of-the-sahabah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "merged",
+    "notes": "Two narrations: the first, and an 'Un another narration' report about Umar employing him."
+  },
+  {
+    "id": "n01160",
+    "summary": "After the Battle of Hunayn the Prophet told Hakeem bin Hizaam that wealth taken with a generous heart is blessed, and Hakeem then refused all payment from anyone, including Abu Bakr and Umar, until his death.",
+    "people": [
+      { "id": "saeed-bin-musayyab", "role": "narrator" },
+      { "id": "hakeem-bin-hizaam", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["virtues-of-the-sahabah", "sadaqah"],
+    "new_themes": ["detachment from wealth"],
+    "boundary": "merged",
+    "notes": "Two reports: Sa'eed bin Musayyib's account, then a second narration from Hakeem bin Hizaam about the same refusal."
+  }
+]

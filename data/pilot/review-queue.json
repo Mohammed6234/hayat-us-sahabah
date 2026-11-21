@@ -1,0 +1,56 @@
+{
+ "people": {},
+ "themes": {},
+ "boundaries": [
+  {
+   "id": "n00015",
+   "boundary": "merged",
+   "notes": "The text runs straight on, after the Surah Zumar verse, into a separate report: 'Hadhrat Faatima (RA) Weeps at the Pale Appearance of Rasulullaah', narrated by Hadhrat Abu Tha'laba Khushani (RA). That second report should be split out; its people are not tagged here. The Tabraani/Haythami grading note is editorial."
+  },
+  {
+   "id": "n00017",
+   "boundary": "merged",
+   "notes": "Three separate reports run together (Anas; Abdur Rahmaan Al Qaari; Amr bin Al Aas) and should be split. A closing grading note ('states that the narrators in the report of Ahmad are narrators of authentic Ahaadeeth') and a reference to a similar report by Miqdaad (RA) are editorial and not tagged. Abdur Rahmaan Al Qaari's Companion status is not stated in the text."
+  },
+  {
+   "id": "n00024",
+   "boundary": "merged",
+   "notes": "Two reports are joined: Ibn Is'haaq's account of Ali's conversion, and a separate Habba Urani report of Ali chuckling on the mimbar and recalling Abu Taalib (the second begins 'Habba Urani narrates')."
+  },
+  {
+   "id": "n00025",
+   "boundary": "ends-mid",
+   "notes": "The text ends by saying a considerable portion of this Hadith is still to be mentioned; the next item (n00026) begins a different Hadith."
+  },
+  {
+   "id": "n00026",
+   "boundary": "merged",
+   "notes": "Three reports are joined: Amr bin Abasa's account of the Prophet's message (its opening sentence is garbled OCR), Khaalid bin Sa'eed's break with his father, and a separate 'another report' of his father's illness and death. The Abyssinia clause is partly cut off in the OCR."
+  },
+  {
+   "id": "n00027",
+   "boundary": "merged",
+   "notes": "Dimaad's conversion, the gathering of Abu Jahal and his companions, and the separate report of Ali returning camels are joined; several sentences are garbled OCR and are read as far as they are clear."
+  },
+  {
+   "id": "n00035",
+   "boundary": "merged",
+   "notes": "Contains two separate reports that should be split: (1) the Baladawiyyah man's account, narrated from his grandfather (unnamed); (2) Anas bin Maalik's report about the Prophet visiting his maternal uncle of Banu Najjaar (uncle unnamed)."
+  },
+  {
+   "id": "n00048",
+   "boundary": "ends-mid",
+   "notes": "Ends mid-citation after '(Surah', verse reference cut off. The opening line is the author's section summary merged into the text. Clan names Fahr, Ghaalib, Luway, Ka'b, Murrah, Kilaab, Qusay and Abd Manaaf are tribal ancestors called out as groups and are not listed as people."
+  },
+  {
+   "id": "n00049",
+   "boundary": "ends-mid",
+   "notes": "Ends mid-citation after '(Surah', verse reference cut off. Opens with the Yaa Sabaahaa call."
+  },
+  {
+   "id": "n00050",
+   "boundary": "ends-mid",
+   "notes": "Text ends after 'with Hadhrat Abu Bakr'. There is also a garbled gap ('so that he However, my people are opposing me') where the rest of the request for asylum is missing from the OCR."
+  }
+ ]
+}

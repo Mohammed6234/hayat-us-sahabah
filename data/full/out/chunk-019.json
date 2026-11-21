@@ -1,0 +1,572 @@
+[
+  {
+    "id": "n00721",
+    "summary": "Abu Dujaana takes the Prophet's sword at Uhud on condition of fulfilling its rights and fights bravely with it, as reported by Anas and then Zubayr.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Abu Dujaana Simaak bin Harasha", "role": "subject", "sahabi": "yes" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": "hind-bint-utba", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Anas (RA) first, then Zubayr (RA) after the garbled symbol. The symbol is OCR debris and is ignored."
+  },
+  {
+    "id": "n00722",
+    "summary": "Zubayr describes Abu Dujaana receiving the sword with its rights at Uhud, and how he wore a red bandanna and destroyed the enemy with the sword.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Abu Dujaana Simaak bin Harasha", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends 'The rest of the Hadith is similar to the one quoted above', so the author cuts the account short."
+  },
+  {
+    "id": "n00723",
+    "summary": "Zubayr, disappointed at not getting the sword, follows Abu Dujaana, watches him kill many enemies, and sees him turn the sword away from Hind.",
+    "people": [
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Abu Dujaana Simaak bin Harasha", "role": "subject", "sahabi": "yes" },
+      { "id": "hind-bint-utba", "role": "mentioned" },
+      { "id": "safiyya-bint-abdul-muttalib", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00724",
+    "summary": "Umar and Zubayr ask for the sword and are refused, Abu Dujaana receives it and fulfils its rights, and Ka'b bin Maalik describes him killing a Mushrik in one blow.",
+    "people": [
+      { "id": "moosa-bin-aqba", "role": "narrator" },
+      { "id": "umar", "role": "subject" },
+      { "id": "zubayr", "role": "subject" },
+      { "id": null, "name": "Abu Dujaana Simaak bin Harasha", "role": "subject", "sahabi": "yes" },
+      { "id": "kab-bin-maalik", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Ends with the heading of the next section, 'The Bravery of Hadhrat Qataadah bin Nu'maan', which is ignored."
+  },
+  {
+    "id": "n00725",
+    "summary": "Qataadah bin Nu'maan loses an eye shielding the Prophet's face with his own at Uhud, and the Prophet prays that the injured eye see better than the other.",
+    "people": [
+      { "id": null, "name": "Qataadah bin Nu'maan", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "love-for-the-prophet", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "OCR garbles the Prophet's title as 'Rasulullaah Wife'; read as the usual honorific."
+  },
+  {
+    "id": "n00726",
+    "summary": "Qataadah bin Nu'maan reports standing in front of the Prophet at Uhud to shield his face, while Abu Dujaana shielded his back with arrows in his body.",
+    "people": [
+      { "id": null, "name": "Qataadah bin Nu'maan", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Abu Dujaana Simaak bin Harasha", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "love-for-the-prophet"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is Qataadah bin Nu'maan (RA). The approved id 'qataada' (no) is a different person and was not used."
+  },
+  {
+    "id": "n00727",
+    "summary": "Salama bin Akwa pursues a raiding party that had taken the Prophet's camels, kills and wounds several of them, recovers the camels, and then races an Ansaari to Madinah.",
+    "people": [
+      { "id": "salama-bin-akwa", "role": "subject" },
+      { "id": "talha", "role": "mentioned" },
+      { "id": "bilaal", "role": "mentioned" },
+      { "id": "uyayna-fazaari", "role": "subject" },
+      { "id": "miqdaad-bin-amr", "role": "mentioned" },
+      { "id": null, "name": "Abdur Rahmaan bin Uyayna", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Rabaah", "role": "mentioned", "sahabi": "unsure" },
+      { "id": null, "name": "Akhram Asadi", "role": "subject", "sahabi": "unsure" },
+      { "id": null, "name": "Abu Qataada", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Check identities: 'uyayna-fazaari' (yes) is used for Uyayna bin Badr Fazaari, who here leads the enemy and is a different figure from the Uyayna the vocab entry may mean; please confirm. 'miqdaad-bin-amr' is used for Miqdaad bin Aswad Kindi, who is the same person in the book's naming. Sahabi status of Rabaah and Akhram Asadi is not stated. OCR garbles one passage, which is ignored."
+  },
+  {
+    "id": "n00728",
+    "summary": "Abu Hadrad asks the Prophet for help with his dowry, is sent with two others to spy on the Jusham leader, kills him, and brings back the booty and the head, which pay his dowry.",
+    "people": [
+      { "id": null, "name": "Abu Hadrad Aslami", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Rifaa'ah bin Qais", "role": "subject", "sahabi": "no" }
+    ],
+    "prophet": "subject",
+    "themes": ["marriage", "jihaad", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The text says the Jusham leader was Rifaa'ah bin Qais or Qais bin Rifaa'ah; the first form is used. The two companions are unnamed."
+  },
+  {
+    "id": "n00729",
+    "summary": "Khaalid bin Waleed reports that nine swords broke in his hand during the Battle of Mu'ta until only a Yemeni sword remained.",
+    "people": [
+      { "id": "khaalid-bin-waleed", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00730",
+    "summary": "Khaalid kills Hurmuz in a duel at Kaadhima, and Abu Bakr gives Khaalid Hurmuz's belongings, including a crown valued at a hundred thousand Dirhams.",
+    "people": [
+      { "id": null, "name": "Aws bin Haaritha bin Laam", "role": "narrator", "sahabi": "yes" },
+      { "id": "hurmuz", "role": "subject" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": null, "name": "Musaylama", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00731",
+    "summary": "Abu Zinaad reports Khaalid weeping on his deathbed over his wounds, and Anas reports Baraa bin Maalik at the Battle of Yamaamah defeating Muhakkam and taking his sword.",
+    "people": [
+      { "id": null, "name": "Abu Zinaad", "role": "narrator", "sahabi": "no" },
+      { "id": "khaalid-bin-waleed", "role": "subject" },
+      { "id": null, "name": "Baraa bin Maalik", "role": "subject", "sahabi": "yes" },
+      { "id": "anas-bin-maalik", "role": "narrator" },
+      { "id": null, "name": "Muhakkam Yamaamah", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": ["death and dying"],
+    "boundary": "merged",
+    "notes": "Two reports: Abu Zinaad on Khaalid's death, then Anas on Baraa at Yamaamah. Heading text in the middle is garbled OCR. 'Mukakkam' is read as Muhakkam. 'baraa-bin-aazib' in the vocab is a different person, so Baraa bin Maalik is not tagged to it."
+  },
+  {
+    "id": "n00732",
+    "summary": "Baraa bin Maalik describes fighting Musaylama's army at Yamaamah, cutting down a large warrior and breaking his sword.",
+    "people": [
+      { "id": null, "name": "Baraa bin Maalik", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Musaylama", "role": "mentioned", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00733",
+    "summary": "Baraa bin Maalik climbs an orchard wall at Yamaamah to open the gate for the Muslims, and Muhammad bin Seereen reports a second account of the same feat.",
+    "people": [
+      { "id": "ibn-ishaaq", "role": "narrator" },
+      { "id": null, "name": "Baraa bin Maalik", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Musaylama", "role": "mentioned", "sahabi": "no" },
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Is'haaq, then Muhammad bin Seereen. The opening citation of a source is OCR debris and is ignored."
+  },
+  {
+    "id": "n00734",
+    "summary": "Muhammad bin Seereen reports that Umar decreed Baraa bin Maalik should never be made commander of an expedition, because his fearlessness would lead others into needless danger.",
+    "people": [
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Baraa bin Maalik", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00735",
+    "summary": "Abu Mihjin Thaqafi, repeatedly punished for drinking wine, is shackled, but at Qaadisiyyah is freed by Sa'd's household to fight, returns to his shackles, and after Sa'd frees him he never drinks again.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Seereen", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Abu Mihjin Thaqafi", "role": "subject", "sahabi": "yes" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["halaal-and-haraam", "jihaad", "mercy-and-forgiveness"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The narrator is named 'Ibn Seereen' in the text and is tagged here as Muhammad bin Seereen. The slave girl or wife of Sa'd is unnamed and left out."
+  },
+  {
+    "id": "n00736",
+    "summary": "Abu Mihjin Thaqafi fights fiercely at Qaadisiyyah and is set free by Sa'd. In a second report from Sayf, Ammaar and Haashim are martyred fighting for Ali's army against the people of Shaam.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Sa'd", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Abu Mihjin Thaqafi", "role": "subject", "sahabi": "yes" },
+      { "id": "sad-bin-abi-waqqaas", "role": "subject" },
+      { "id": "ammaar-bin-yaasir", "role": "subject" },
+      { "id": null, "name": "Haashim", "role": "subject", "sahabi": "yes" },
+      { "id": "ali", "role": "subject" },
+      { "id": null, "name": "Sayf", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "aakhirah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Muhammad bin Sa'd on Abu Mihjin, and Sayf on the banner of Ali's army. The speaker who says 'O Haashim! Advance!' is not named in the surviving text; Ammaar is the likely flag-bearer. The daughter of Hasfah is unnamed. Ends with OCR debris."
+  },
+  {
+    "id": "n00737",
+    "summary": "Maalik bin Abdullaah reports that at Yarmook Amr bin Ma'dikarib killed challenger after challenger, then chased the fleeing enemy and fed the people gathered in his tent.",
+    "people": [
+      { "id": null, "name": "Maalik bin Abdullaah Khath'ami", "role": "narrator", "sahabi": "yes" },
+      { "id": "amr-bin-madikarib", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00738",
+    "summary": "Several reports on Amr bin Ma'dikarib at Qaadisiyyah, Umar's reinforcements, and Nahaawand, where he turned defeat into victory until an injury took him at Rowdha.",
+    "people": [
+      { "id": null, "name": "Qais bin Abi Haazim", "role": "narrator", "sahabi": "unsure" },
+      { "id": "sad-bin-abi-waqqaas", "role": "mentioned" },
+      { "id": "amr-bin-madikarib", "role": "subject" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Waaqidi", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Isa bin Khayyaat", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Ibn Asaakir", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Tabraani", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Muhammad bin Sallaam Jumhi", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Tulayha bin Khuwaylid", "role": "mentioned", "sahabi": "yes" },
+      { "id": null, "name": "Abu Saalih bin Wajeeh", "role": "narrator", "sahabi": "unsure" },
+      { "id": "numaan-bin-muqarrin", "role": "mentioned" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Several separate narrations in a chain. Qais bin Abi Haazim is marked RA in the text but is generally held to be a Tabi'i, so sahabi is 'unsure'. Abu Saalih's RA is also unconfirmed. Interpolated scholarly sources are tagged as narrators; the Ibn Asaakir reference is in the body, not a bare citation."
+  },
+  {
+    "id": "n00739",
+    "summary": "Abdullaah bin Zubayr refuses to submit to Yazeed, is attacked in Makkah by Hajjaaj's forces, and is martyred after refusing his mother Asmaa's advice to compromise on his Deen.",
+    "people": [
+      { "id": "urwa-bin-zubayr", "role": "narrator" },
+      { "id": "abdullaah-bin-zubayr", "role": "subject" },
+      { "id": "muaawiya-bin-abi-sufyaan", "role": "mentioned" },
+      { "id": null, "name": "Yazeed bin Mu'aawiya", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Muslim bin Uqba Murri", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Husayn bin Numayr Kindi", "role": "subject", "sahabi": "no" },
+      { "id": "marwaan", "role": "subject" },
+      { "id": null, "name": "Abdul Malik", "role": "subject", "sahabi": "no" },
+      { "id": null, "name": "Hajjaaj", "role": "subject", "sahabi": "no" },
+      { "id": "asmaa-bint-abi-bakr", "role": "subject" },
+      { "id": "abu-bakr", "role": "mentioned" },
+      { "id": "zubayr", "role": "mentioned" },
+      { "id": null, "name": "Is'haaq bin Abi Is'haaq", "role": "narrator", "sahabi": "no" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "steadfastness", "khilaafah", "virtues-of-the-sahabah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Merged: Urwa bin Zubayr's account, plus Is'haaq bin Abi Is'haaq's eyewitness report of the martyrdom. Yazeed bin Mu'aawiya is not the approved 'yazeed-bin-abi-sufyaan', so he is untagged. Hajjaaj is not the approved 'hajaaj-bin-ilaat'. Marwaan is marked 'unsure' in the vocab, and his id is used as the text names him as an actor."
+  },
+  {
+    "id": "n00740",
+    "summary": "Umm Salama asks why Salama bin Hishaam no longer attends the prayer with the Prophet, and learns he is shamed at home for having fled at Mu'ta.",
+    "people": [
+      { "id": "umm-salama", "role": "subject" },
+      { "id": null, "name": "Salama bin Hishaam bin Mughiera", "role": "subject", "sahabi": "unsure" },
+      { "id": "khaalid-bin-waleed", "role": "mentioned" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": "The vocab lists both 'umm-salama' and 'umm-salma' for Umm Salama; 'umm-salama' is used, and the duplicate should be merged. Salama's RA is not stated in the text. His wife is unnamed."
+  },
+  {
+    "id": "n00741",
+    "summary": "Abu Hurayrah is taunted by his cousin for having fled at Mu'ta and has no answer to give.",
+    "people": [
+      { "id": "abu-hurayrah", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": "The cousin is unnamed and left out."
+  },
+  {
+    "id": "n00742",
+    "summary": "Abdullaah bin Umar and his companions who fled at Mu'ta return to Madinah and approach the Prophet, who tells them they are those who return to fight again and that he is their base.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "mercy-and-forgiveness"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00743",
+    "summary": "A second report of Abdullaah bin Umar and the fleeing men, in which the Prophet reassures them that he is their base, with an added line from the narration of Aswad.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" },
+      { "id": "aswad", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "mercy-and-forgiveness"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": "The approved 'aswad' is marked unsure; the identity of this narrator is not confirmed."
+  },
+  {
+    "id": "n00744",
+    "summary": "A third version of the same encounter, in which the men admit they had planned to sail to a foreign land, and the Prophet tells them not to do so.",
+    "people": [
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "mercy-and-forgiveness"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00745",
+    "summary": "Umar, hearing from Abdullaah bin Zaid of the defeat at the Bridge, reassures the fleeing Muhaajireen and Ansaar that he is their base to return to.",
+    "people": [
+      { "id": "aaisha", "role": "narrator" },
+      { "id": "abdullaah-bin-zaid", "role": "subject" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "khilaafah"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00746",
+    "summary": "Mu'aadh Qaari weeps over a verse on fleeing the battlefield, and Umar tells him he is the base to which he can retreat and regroup.",
+    "people": [
+      { "id": null, "name": "Muhammad bin Abdur Rahmaan bin Husayn", "role": "narrator", "sahabi": "no" },
+      { "id": null, "name": "Mu'aadh Qaari", "role": "subject", "sahabi": "yes" },
+      { "id": null, "name": "Abu Ubayd", "role": "mentioned", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "quraan"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": "'Abu Ubayd' is Abu Ubayd Thaqafi, not the approved 'abu-ubaydah' (Abu Ubaydah bin Jarraah). The verse quoted is Surah Anfaal 8:16."
+  },
+  {
+    "id": "n00747",
+    "summary": "Umar offers Sa'd bin Ubayd Qaari the chance to redeem his flight by going to Shaam, but Sa'd returns to the battlefield he fled from at Qaadisiyyah, where he is martyred.",
+    "people": [
+      { "id": null, "name": "Abdur Rahmaan bin Abi Layla", "role": "narrator", "sahabi": "unsure" },
+      { "id": null, "name": "Sa'd bin Ubayd Qaari", "role": "subject", "sahabi": "yes" },
+      { "id": "umar", "role": "subject" },
+      { "id": null, "name": "Abu Ubayd", "role": "mentioned", "sahabi": "yes" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "steadfastness"],
+    "new_themes": ["fleeing from battle"],
+    "boundary": "ok",
+    "notes": "The text gives Abdur Rahmaan bin Abi Layla as RA, but he is generally held to be a Tabi'i, so sahabi is 'unsure'. 'Abu Ubayd' is not the approved 'abu-ubaydah'."
+  },
+  {
+    "id": "n00748",
+    "summary": "When the Prophet is not himself fighting, he hands his weapons to Usaama or to Ali to take into battle.",
+    "people": [
+      { "id": null, "name": "Jabala bin Haaritha", "role": "narrator", "sahabi": "yes" },
+      { "id": null, "name": "Usaama", "role": "mentioned", "sahabi": "yes" },
+      { "id": "ali", "role": "mentioned" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00749",
+    "summary": "A youth from Banu Aslam asks the Prophet for means to join Jihaad, and the Prophet sends him to an Ansaari who had prepared but fallen ill, and who gives him all he had prepared.",
+    "people": [
+      { "id": "anas-bin-maalik", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The youth and the Ansaari are unnamed and left out."
+  },
+  {
+    "id": "n00750",
+    "summary": "A man whose animal died asks the Prophet for transport; the Prophet has none, and a Sahabi refers the man to someone who can help, and the Prophet says the one who points to good has the same reward.",
+    "people": [
+      { "id": null, "name": "Abu Mas'ood Ansaari", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The man and the referring Sahabi are unnamed and left out."
+  },
+  {
+    "id": "n00751",
+    "summary": "The Prophet asks the Muhaajireen and Ansaar to take on two or three poor brothers each for an expedition, and Jaabir describes sharing his mount with the men he took on.",
+    "people": [
+      { "id": "jaabir-bin-abdillaah", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "sacrifice", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00752",
+    "summary": "Waathila bin Asqa hires an old Ansaari's help to reach the Tabook march in exchange for his share of booty, and the Ansaari returns the camels, wanting only the reward.",
+    "people": [
+      { "id": null, "name": "Waathila bin Asqa", "role": "subject", "sahabi": "yes" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "sacrifice", "brotherhood"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The old Ansaari is unnamed and left out. The closing explanation by Imaam Bayhaqi is commentary, not narration, so Bayhaqi is not tagged as a person."
+  },
+  {
+    "id": "n00753",
+    "summary": "Abdullaah bin Mas'ood says that providing a rope for someone going out in Allaah's path is more beloved to him than Hajj after Hajj.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "sacrifice"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  },
+  {
+    "id": "n00754",
+    "summary": "Awf bin Maalik hires a volunteer for an expedition for a fixed payment of three Dinaars on condition of a share of booty, and the account breaks off as he asks the Prophet about the booty.",
+    "people": [
+      { "id": "awf-bin-maalik-ashjaee", "role": "subject" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ends-mid",
+    "notes": "Ends mid-sentence ('When I asked Rasulullaah about the situation,'). The continuation is not in this chunk. The volunteer is unnamed."
+  },
+  {
+    "id": "n00755",
+    "summary": "Umar hires out a youth who begged for money to go on Jihaad to an Ansaari for work, and later gives him his savings and leaves the choice of going or staying to him.",
+    "people": [
+      { "id": null, "name": "Naafi", "role": "narrator", "sahabi": "no" },
+      { "id": "umar", "role": "subject" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "self-reliance"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The youth and the Ansaari are unnamed and left out."
+  },
+  {
+    "id": "n00756",
+    "summary": "Abdullaah bin Mas'ood relays the Prophet's saying that horses carry good until the Day of Qiyaamah, and that one may buy and borrow for Jihaad with trust in Allaah, paying from the booty.",
+    "people": [
+      { "id": "abdullaah-bin-masood", "role": "narrator" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "honest-dealings"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "The person who asked the question is unnamed and left out."
+  },
+  {
+    "id": "n00757",
+    "summary": "The Prophet walks with an expedition to Baqee Gharqad and prays for them, and Abdullaah bin Yazeed reports the words of the Prophet's farewell prayer.",
+    "people": [
+      { "id": "abdullaah-bin-abbaas", "role": "narrator" },
+      { "id": null, "name": "Abdullaah bin Yazeed", "role": "narrator", "sahabi": "yes" }
+    ],
+    "prophet": "subject",
+    "themes": ["jihaad", "duaa"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Ibn Abbaas on the Prophet walking with the army, then Abdullaah bin Yazeed on the farewell prayer."
+  },
+  {
+    "id": "n00758",
+    "summary": "Hasan reports that Abu Bakr walks beside Usaama's army as it departs, refusing to let Usaama dismount, and asks that Umar be left behind with him in Madinah.",
+    "people": [
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": null, "name": "Usaama", "role": "subject", "sahabi": "yes" },
+      { "id": "abdur-rahmaan-bin-awf", "role": "subject" },
+      { "id": "umar", "role": "mentioned" },
+      { "id": null, "name": "Hasan", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "khilaafah"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": "Hasan (RA) is not tagged to the approved 'hasan' or 'hasan-bin-ali', because the text gives no patronymic and the two ids conflict. Please check identity."
+  },
+  {
+    "id": "n00759",
+    "summary": "Abu Bakr walks with Yazeed bin Abi Sufyaan as he sees off an army for Shaam, saying that walking in the path counts for them, and Jaabir Ru'ayni reports the same custom.",
+    "people": [
+      { "id": null, "name": "Yahya bin Sa'eed", "role": "narrator", "sahabi": "no" },
+      { "id": "abu-bakr", "role": "subject" },
+      { "id": "yazeed-bin-abi-sufyaan", "role": "subject" },
+      { "id": null, "name": "Jaabir Ru'ayni", "role": "narrator", "sahabi": "unsure" }
+    ],
+    "prophet": "absent",
+    "themes": ["jihaad", "khilaafah"],
+    "new_themes": [],
+    "boundary": "merged",
+    "notes": "Two reports: Yahya bin Sa'eed, then Jaabir Ru'ayni. Jaabir's RA is not confirmed."
+  },
+  {
+    "id": "n00760",
+    "summary": "Mujaahid recalls that Abdullaah bin Umar came to see off men going out in Jihaad and entrusted them to Allaah, quoting the Prophet's saying that what is entrusted to Allaah is protected.",
+    "people": [
+      { "id": null, "name": "Mujaahid", "role": "subject", "sahabi": "no" },
+      { "id": "abdullaah-bin-umar", "role": "subject" }
+    ],
+    "prophet": "mentioned",
+    "themes": ["jihaad", "duaa"],
+    "new_themes": [],
+    "boundary": "ok",
+    "notes": ""
+  }
+]
